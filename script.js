@@ -1,0 +1,1 @@
+const root=document.documentElement;const key="cv-theme";const saved=localStorage.getItem(key);if(saved==="dark")root.classList.add("dark");document.getElementById("theme").addEventListener("click",()=>{root.classList.toggle("dark");localStorage.setItem(key,root.classList.contains("dark")?"dark":"light")});
