@@ -19,54 +19,58 @@ window.SITE_DATA={
   profile:{
     email:"chris.velja@studenti.unipd.it"
   },
+  spotify:{
+    clientId:"",
+    redirectUri:"https://chrisvelja.github.io/About-me/music.html"
+  },
   music:[
     {
-      id:"music-01", date:"TODAY", title:"Album title", artist:"Artist name",
+      id:"music-01", date:"TODAY", title:"Album One", artist:"Artist One",
       number:"01", coverClass:"cover-a",
-      spotify:"https://open.spotify.com/search/Album%20title%20Artist%20name",
-      apple:"https://music.apple.com/us/search?term=Album%20title%20Artist%20name"
+      spotify:"https://open.spotify.com/search/Album%20One%20Artist%20One",
+      apple:"https://music.apple.com/us/search?term=Album%20One%20Artist%20One"
     },
     {
-      id:"music-02", date:"TODAY", title:"Second album", artist:"Artist name",
+      id:"music-02", date:"TODAY", title:"Album Two", artist:"Artist Two",
       number:"02", coverClass:"cover-b",
-      spotify:"https://open.spotify.com/search/Second%20album%20Artist%20name",
-      apple:"https://music.apple.com/us/search?term=Second%20album%20Artist%20name"
+      spotify:"https://open.spotify.com/search/Album%20Two%20Artist%20Two",
+      apple:"https://music.apple.com/us/search?term=Album%20Two%20Artist%20Two"
     },
     {
-      id:"music-03", date:"TODAY", title:"Another record", artist:"Artist name",
+      id:"music-03", date:"TODAY", title:"Album Three", artist:"Artist Three",
       number:"03", coverClass:"cover-c",
-      spotify:"https://open.spotify.com/search/Another%20record%20Artist%20name",
-      apple:"https://music.apple.com/us/search?term=Another%20record%20Artist%20name"
+      spotify:"https://open.spotify.com/search/Album%20Three%20Artist%20Three",
+      apple:"https://music.apple.com/us/search?term=Album%20Three%20Artist%20Three"
     },
     {
-      id:"music-04", date:"YESTERDAY", title:"Fourth record", artist:"Artist name",
+      id:"music-04", date:"TODAY", title:"Album Four", artist:"Artist Four",
       number:"04", coverClass:"cover-d",
-      spotify:"https://open.spotify.com/search/Fourth%20record%20Artist%20name",
-      apple:"https://music.apple.com/us/search?term=Fourth%20record%20Artist%20name"
+      spotify:"https://open.spotify.com/search/Album%20Four%20Artist%20Four",
+      apple:"https://music.apple.com/us/search?term=Album%20Four%20Artist%20Four"
     },
     {
-      id:"music-05", date:"YESTERDAY", title:"Fifth record", artist:"Artist name",
+      id:"music-05", date:"YESTERDAY", title:"Album Five", artist:"Artist Five",
       number:"05", coverClass:"cover-e",
-      spotify:"https://open.spotify.com/search/Fifth%20record%20Artist%20name",
-      apple:"https://music.apple.com/us/search?term=Fifth%20record%20Artist%20name"
+      spotify:"https://open.spotify.com/search/Album%20Five%20Artist%20Five",
+      apple:"https://music.apple.com/us/search?term=Album%20Five%20Artist%20Five"
     },
     {
-      id:"music-06", date:"YESTERDAY", title:"Sixth record", artist:"Artist name",
+      id:"music-06", date:"YESTERDAY", title:"Album Six", artist:"Artist Six",
       number:"06", coverClass:"cover-f",
-      spotify:"https://open.spotify.com/search/Sixth%20record%20Artist%20name",
-      apple:"https://music.apple.com/us/search?term=Sixth%20record%20Artist%20name"
+      spotify:"https://open.spotify.com/search/Album%20Six%20Artist%20Six",
+      apple:"https://music.apple.com/us/search?term=Album%20Six%20Artist%20Six"
     },
     {
-      id:"music-07", date:"18 SEP", title:"Seventh record", artist:"Artist name",
+      id:"music-07", date:"18 SEP", title:"Album Seven", artist:"Artist Seven",
       number:"07", coverClass:"cover-a",
-      spotify:"https://open.spotify.com/search/Seventh%20record%20Artist%20name",
-      apple:"https://music.apple.com/us/search?term=Seventh%20record%20Artist%20name"
+      spotify:"https://open.spotify.com/search/Album%20Seven%20Artist%20Seven",
+      apple:"https://music.apple.com/us/search?term=Album%20Seven%20Artist%20Seven"
     },
     {
-      id:"music-08", date:"18 SEP", title:"Eighth record", artist:"Artist name",
+      id:"music-08", date:"18 SEP", title:"Album Eight", artist:"Artist Eight",
       number:"08", coverClass:"cover-b",
-      spotify:"https://open.spotify.com/search/Eighth%20record%20Artist%20name",
-      apple:"https://music.apple.com/us/search?term=Eighth%20record%20Artist%20name"
+      spotify:"https://open.spotify.com/search/Album%20Eight%20Artist%20Eight",
+      apple:"https://music.apple.com/us/search?term=Album%20Eight%20Artist%20Eight"
     }
   ],
   books:[
