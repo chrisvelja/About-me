@@ -9,12 +9,19 @@
 </head>
 <body data-page="music" class="music-page">
 <header class="topbar music-topbar">
-  <a class="wordmark" href="index.html">CV</a>
-  <div class="music-top-actions">
-    <div class="music-service-switch" role="group" aria-label="Music service">
+  <a class="wordmark music-back" href="index.html">CV</a>
+
+  <div class="music-header-right">
+    <div class="music-service-switch" role="group" aria-label="Choose music service">
       <button type="button" class="music-service-option active" data-service-select="spotify">Spotify</button>
       <button type="button" class="music-service-option" data-service-select="apple">Apple Music</button>
     </div>
+
+    <button type="button" class="spotify-connect" data-spotify-connect>
+      <span class="spotify-status-dot" data-spotify-status-dot></span>
+      <span data-spotify-connect-label>Connect Spotify</span>
+    </button>
+
     <button class="theme-toggle" data-theme-toggle aria-label="Toggle dark/light mode">
       <span data-theme-icon>☼</span>
     </button>
@@ -23,39 +30,65 @@
 
 <main class="music-main">
   <section class="music-heading">
-    <div>
-      <h1>Music</h1>
-      <div class="music-heading-rule"></div>
-      <p>Today</p>
+    <h1>Music</h1>
+    <div class="music-heading-rule"></div>
+    <p>Today</p>
+  </section>
+
+  <section class="music-vinyl-area">
+    <div class="vinyl-stage" data-music-carousel aria-label="Four vinyl records">
+      <!-- Four records are rendered here by JavaScript. -->
+    </div>
+    <div class="vinyl-set-indicator" aria-live="polite">
+      <span data-vinyl-set-current>01</span>
+      <span>/</span>
+      <span data-vinyl-set-total>01</span>
     </div>
   </section>
 
-  <section class="music-pile-section">
-    <div class="music-pile" aria-label="Recent albums">
-      <button class="carousel-control carousel-control-left" data-music-prev aria-label="Previous album">←</button>
-      <div class="vinyl-track" data-music-carousel></div>
-      <button class="carousel-control carousel-control-right" data-music-next aria-label="Next album">→</button>
+  <section class="music-phone" data-music-phone aria-label="Selected music">
+    <div class="phone-header">
+      <span class="mini">MUSIC · TODAY</span>
+      <button type="button" class="phone-close" data-music-phone-close aria-label="Close selected music">×</button>
     </div>
-  </section>
 
-  <section class="music-selected">
-    <div>
-      <span class="mini">SELECTED</span>
-      <h2 data-current-title>Album title</h2>
-      <p data-current-artist>Artist name</p>
-    </div>
-    <button class="music-open-selected" data-listen-open>open ↗</button>
-  </section>
-
-  <section class="music-archive">
-    <div class="section-heading">
-      <div>
-        <p class="mini">LISTENING ARCHIVE</p>
-        <h2>Other records</h2>
+    <div class="phone-screen">
+      <div class="phone-album-art album-art cover-a" data-current-art>
+        <span>01</span>
       </div>
-      <span class="archive-count" data-music-count></span>
+
+      <div class="phone-details">
+        <h2 data-current-title>Album title</h2>
+        <p data-current-artist>Artist name</p>
+      </div>
+
+      <div class="phone-actions">
+        <button type="button" class="phone-play" data-listen-open aria-label="Open selected music">▶</button>
+        <div class="phone-waveform" aria-hidden="true">
+          <i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i>
+          <i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i>
+          <i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i>
+        </div>
+      </div>
+
+      <p class="phone-help">Click play to open the selected track or album in Spotify or Apple Music.</p>
     </div>
-    <div class="archive-grid" data-music-archive></div>
+  </section>
+
+  <section class="spotify-history">
+    <div class="spotify-history-heading">
+      <div>
+        <span class="mini">SPOTIFY</span>
+        <h2 data-history-title>Connect your account</h2>
+      </div>
+      <button type="button" data-spotify-history-refresh class="history-refresh">refresh ↻</button>
+    </div>
+
+    <div class="spotify-message" data-spotify-message>
+      Connect your Spotify account to replace the placeholders with your recently played music.
+    </div>
+
+    <div class="history-list" data-spotify-history-list></div>
   </section>
 </main>
 
