@@ -8,10 +8,13 @@
 <link rel="stylesheet" href="styles.css">
 </head>
 <body data-page="music" class="music-page">
-<header class="topbar">
+<header class="topbar music-topbar">
   <a class="wordmark" href="index.html">CV</a>
-  <div class="top-actions">
-    <span class="page-index">04 / MUSIC</span>
+  <div class="music-top-actions">
+    <div class="music-service-switch" role="group" aria-label="Music service">
+      <button type="button" class="music-service-option active" data-service-select="spotify">Spotify</button>
+      <button type="button" class="music-service-option" data-service-select="apple">Apple Music</button>
+    </div>
     <button class="theme-toggle" data-theme-toggle aria-label="Toggle dark/light mode">
       <span data-theme-icon>☼</span>
     </button>
@@ -19,65 +22,35 @@
 </header>
 
 <main class="music-main">
-  <section class="music-intro">
+  <section class="music-heading">
     <div>
-      <p class="mini">MUSIC</p>
       <h1>Music</h1>
-    </div>
-    <div class="music-period">
-      <span class="mini">LISTENING ARCHIVE</span>
-      <strong id="music-period-label">Today</strong>
+      <div class="music-heading-rule"></div>
+      <p>Today</p>
     </div>
   </section>
 
-  <section class="jukebox-section" aria-label="Recent listening">
-    <div class="section-kicker">
-      <span class="mini">TODAY</span>
-      <span class="scroll-hint">drag / swipe to browse</span>
-    </div>
-
-    <div class="jukebox">
-      <button class="carousel-control carousel-control-left" data-music-prev aria-label="Previous albums">←</button>
+  <section class="music-pile-section">
+    <div class="music-pile" aria-label="Recent albums">
+      <button class="carousel-control carousel-control-left" data-music-prev aria-label="Previous album">←</button>
       <div class="vinyl-track" data-music-carousel></div>
-      <button class="carousel-control carousel-control-right" data-music-next aria-label="Next albums">→</button>
+      <button class="carousel-control carousel-control-right" data-music-next aria-label="Next album">→</button>
     </div>
-
-    <p class="jukebox-note">The records move like a small jukebox: slide through them, then click one to bring it into the player.</p>
   </section>
 
-  <section class="now-playing-section">
-    <div class="phone-player" data-current-listen>
-      <div class="phone-top">
-        <span class="mini">MUSIC</span>
-        <button class="phone-close" data-clear-listen aria-label="Clear current album">×</button>
-      </div>
-      <div class="phone-date" id="current-listen-date">TODAY</div>
-
-      <div class="phone-content">
-        <div class="album-art album-art-large" data-current-art aria-hidden="true">
-          <span>01</span>
-        </div>
-        <div class="phone-meta">
-          <span class="mini">NOW PLAYING</span>
-          <h2 data-current-title>Album title</h2>
-          <p data-current-artist>Artist name</p>
-        </div>
-      </div>
-
-      <div class="player-controls">
-        <button class="play-button" data-listen-open aria-label="Choose a music service">▶</button>
-        <div class="waveform" aria-hidden="true">
-          <i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i>
-        </div>
-      </div>
-      <p class="phone-action-note">Tap play to open the track in Spotify or Apple Music.</p>
+  <section class="music-selected">
+    <div>
+      <span class="mini">SELECTED</span>
+      <h2 data-current-title>Album title</h2>
+      <p data-current-artist>Artist name</p>
     </div>
+    <button class="music-open-selected" data-listen-open>open ↗</button>
   </section>
 
   <section class="music-archive">
     <div class="section-heading">
       <div>
-        <p class="mini">ARCHIVE</p>
+        <p class="mini">LISTENING ARCHIVE</p>
         <h2>Other records</h2>
       </div>
       <span class="archive-count" data-music-count></span>
@@ -90,7 +63,7 @@
   <div class="service-backdrop" data-service-close></div>
   <section class="service-card" role="dialog" aria-modal="true" aria-labelledby="service-title">
     <button class="service-close" data-service-close aria-label="Close">×</button>
-    <p class="mini">OPEN THIS RECORD</p>
+    <p class="mini">OPEN IN</p>
     <h2 id="service-title">Album title</h2>
     <p id="service-artist">Artist name</p>
     <div class="service-actions">
