@@ -1,20 +1,107 @@
 <!DOCTYPE html>
-<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0"><title>Chris Velja — Music</title><link rel="stylesheet" href="styles.css"></head>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Chris Velja — Music.">
+<title>Chris Velja — Music</title>
+<link rel="stylesheet" href="styles.css">
+</head>
 <body data-page="music" class="music-page">
-<header class="topbar"><a class="wordmark" href="index.html">CV</a><a class="top-link" href="#" target="_blank">Spotify ↗</a><button class="theme-toggle" data-theme-toggle aria-label="Toggle dark/light mode"><span data-theme-icon>○</span></button></header>
-<main>
-<section class="records-poster">
-  <div class="poster-grid">
-    <div class="poster-side warm">PLAY<br><small>recent</small></div><div class="poster-center">RECORDS</div><div class="poster-side violet">LISTEN<br><small>archive</small></div>
+<header class="topbar">
+  <a class="wordmark" href="index.html">CV</a>
+  <div class="top-actions">
+    <span class="page-index">04 / MUSIC</span>
+    <button class="theme-toggle" data-theme-toggle aria-label="Toggle dark/light mode">
+      <span data-theme-icon>☼</span>
+    </button>
   </div>
-  <div class="hero-record" data-record>
-    <div class="record-disc"></div><div class="record-label">NOW<br>PLAYING</div>
-  </div>
-  <div class="poster-copy"><p class="mini">TODAY'S LISTENING</p><h1>Records</h1><p>My listening archive, one day at a time.</p></div>
-</section>
-<section class="music-card">
-  <div class="music-record-small"><div class="record-disc"></div></div>
-  <div class="music-info"><p class="mini">TODAY · TRACK 01</p><h2>Album title</h2><p class="artist">Artist name</p><p>Replace this data with the albums you listened to. Previous days can remain available underneath the same interface.</p><div class="playline"><button class="play">▶</button><span>PLAY NOW</span><div class="wave"><i style="--h:20%"></i><i style="--h:37%"></i><i style="--h:54%"></i><i style="--h:71%"></i><i style="--h:88%"></i><i style="--h:33%"></i><i style="--h:50%"></i><i style="--h:67%"></i><i style="--h:84%"></i><i style="--h:29%"></i><i style="--h:46%"></i><i style="--h:63%"></i><i style="--h:80%"></i><i style="--h:25%"></i><i style="--h:42%"></i><i style="--h:59%"></i><i style="--h:76%"></i><i style="--h:21%"></i><i style="--h:38%"></i><i style="--h:55%"></i><i style="--h:72%"></i><i style="--h:89%"></i><i style="--h:34%"></i><i style="--h:51%"></i><i style="--h:68%"></i><i style="--h:85%"></i><i style="--h:30%"></i><i style="--h:47%"></i><i style="--h:64%"></i><i style="--h:81%"></i><i style="--h:26%"></i><i style="--h:43%"></i></div></div></div>
-  <button class="music-arrow left" aria-label="Previous album">←</button><button class="music-arrow right" aria-label="Next album">→</button>
-</section>
-</main><div data-nav-placeholder></div><script src="data/content.js"></script><script src="js/site.js"></script></body></html>
+</header>
+
+<main class="music-main">
+  <section class="music-intro">
+    <div>
+      <p class="mini">MUSIC</p>
+      <h1>Music</h1>
+    </div>
+    <div class="music-period">
+      <span class="mini">LISTENING ARCHIVE</span>
+      <strong id="music-period-label">Today</strong>
+    </div>
+  </section>
+
+  <section class="jukebox-section" aria-label="Recent listening">
+    <div class="section-kicker">
+      <span class="mini">TODAY</span>
+      <span class="scroll-hint">drag / swipe to browse</span>
+    </div>
+
+    <div class="jukebox">
+      <button class="carousel-control carousel-control-left" data-music-prev aria-label="Previous albums">←</button>
+      <div class="vinyl-track" data-music-carousel></div>
+      <button class="carousel-control carousel-control-right" data-music-next aria-label="Next albums">→</button>
+    </div>
+
+    <p class="jukebox-note">The records move like a small jukebox: slide through them, then click one to bring it into the player.</p>
+  </section>
+
+  <section class="now-playing-section">
+    <div class="phone-player" data-current-listen>
+      <div class="phone-top">
+        <span class="mini">MUSIC</span>
+        <button class="phone-close" data-clear-listen aria-label="Clear current album">×</button>
+      </div>
+      <div class="phone-date" id="current-listen-date">TODAY</div>
+
+      <div class="phone-content">
+        <div class="album-art album-art-large" data-current-art aria-hidden="true">
+          <span>01</span>
+        </div>
+        <div class="phone-meta">
+          <span class="mini">NOW PLAYING</span>
+          <h2 data-current-title>Album title</h2>
+          <p data-current-artist>Artist name</p>
+        </div>
+      </div>
+
+      <div class="player-controls">
+        <button class="play-button" data-listen-open aria-label="Choose a music service">▶</button>
+        <div class="waveform" aria-hidden="true">
+          <i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i>
+        </div>
+      </div>
+      <p class="phone-action-note">Tap play to open the track in Spotify or Apple Music.</p>
+    </div>
+  </section>
+
+  <section class="music-archive">
+    <div class="section-heading">
+      <div>
+        <p class="mini">ARCHIVE</p>
+        <h2>Other records</h2>
+      </div>
+      <span class="archive-count" data-music-count></span>
+    </div>
+    <div class="archive-grid" data-music-archive></div>
+  </section>
+</main>
+
+<div class="service-modal" data-service-modal aria-hidden="true">
+  <div class="service-backdrop" data-service-close></div>
+  <section class="service-card" role="dialog" aria-modal="true" aria-labelledby="service-title">
+    <button class="service-close" data-service-close aria-label="Close">×</button>
+    <p class="mini">OPEN THIS RECORD</p>
+    <h2 id="service-title">Album title</h2>
+    <p id="service-artist">Artist name</p>
+    <div class="service-actions">
+      <a href="#" target="_blank" rel="noreferrer" data-spotify-link>Spotify ↗</a>
+      <a href="#" target="_blank" rel="noreferrer" data-apple-link>Apple Music ↗</a>
+    </div>
+  </section>
+</div>
+
+<div data-nav-placeholder></div>
+<script src="data/content.js"></script>
+<script src="js/site.js"></script>
+</body>
+</html>
