@@ -1,45 +1,96 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Chris Velja — Electronic Engineering.">
 <title>Chris Velja — Me</title>
 <link rel="stylesheet" href="styles.css">
 </head>
-<body data-page="me">
-<header class="topbar">
+<body data-page="me" class="me-page">
+<header class="topbar me-topbar">
   <a class="wordmark" href="index.html">CV</a>
-  <button class="theme-toggle" data-theme-toggle aria-label="Toggle dark/light mode"><span data-theme-icon>○</span></button>
+  <button class="theme-toggle" data-theme-toggle aria-label="Toggle dark/light mode">
+    <span data-theme-icon>☼</span>
+  </button>
 </header>
-<main class="home">
-  <section class="home-card">
-    <div class="home-hero">
-      <div class="photo-frame"><div class="photo-placeholder">PHOTO<br><small>replace with profile image</small></div></div>
-      <div class="home-identity">
-        <p class="mini">CHRIS VELJA</p>
-        <h1>Chris<br><span>Velja</span></h1>
-        <p class="degree">MSc in Electronic Engineering</p>
-        <p class="pursuit">Currently pursuing digital electronics, semiconductor design and hardware architecture, with a focus on RTL, FPGA, SoC and ASIC design.</p>
-      </div>
+
+<main class="me-main">
+  <section class="me-hero">
+    <div class="me-photo" aria-label="Chris Velja photo placeholder">
+      <span>CV</span>
     </div>
 
-    <section class="home-block">
-      <div class="block-title"><h2>Projects</h2><a href="projects.html">view all ↗</a></div>
-      <div class="home-projects">
-        <a class="home-project" href="projects.html#project-1"><span class="project-no">01</span><span><b>Academic project</b><strong>Fully-Differential OTA</strong></span><span class="arrow">↗</span></a>
-        <a class="home-project" href="projects.html#project-2"><span class="project-no">02</span><span><b>Academic project</b><strong>Two-Stage OTA</strong></span><span class="arrow">↗</span></a>
-      </div>
-    </section>
+    <div class="me-identity">
+      <h1>Chris Velja</h1>
+      <div class="me-rule"></div>
+      <p class="me-degree">MSc in Electronic Engineering, University of Padua</p>
+      <p class="me-pursuit">Pursuing an IC design specialization, spanning analog and digital circuits.</p>
 
-    <section class="home-block">
-      <div class="block-title"><h2>What I found interesting</h2><a href="news.html">view all ↗</a></div>
-      <div class="interest-preview">
-        <a href="news.html"><span class="dot">01</span><span><b>Technical rabbit holes</b><strong>Papers, talks, articles and ideas worth keeping.</strong></span><span class="arrow">↗</span></a>
-        <a href="news.html"><span class="dot">02</span><span><b>AI hardware</b><strong>Chips, architecture, memory and the hardware behind modern AI.</strong></span><span class="arrow">↗</span></a>
+      <div class="currently-card">
+        <span>Currently studying</span>
+        <p>Add what you're working on right now.</p>
       </div>
-    </section>
+    </div>
+  </section>
+
+  <section class="me-section">
+    <div class="me-section-heading">
+      <h2>Projects</h2>
+      <a href="projects.html">view all →</a>
+    </div>
+
+    <div class="me-project-list">
+      <a href="projects.html#project-1" class="me-project-row">
+        <span class="me-project-marker">01</span>
+        <div>
+          <h3>Fully-Differential Current-Mirror OTA</h3>
+          <p>A Cadence Virtuoso analogue IC design project focused on gain, bandwidth, offset and transistor sizing.</p>
+        </div>
+        <span class="me-row-arrow">→</span>
+      </a>
+
+      <a href="projects.html#project-2" class="me-project-row">
+        <span class="me-project-marker">02</span>
+        <div>
+          <h3>Two-Stage OTA with Miller Compensation</h3>
+          <p>A two-stage OTA design covering compensation, biasing, sizing and verification against target specifications.</p>
+        </div>
+        <span class="me-row-arrow">→</span>
+      </a>
+    </div>
+  </section>
+
+  <section class="me-section">
+    <div class="me-section-heading">
+      <h2>What I found interesting</h2>
+      <a href="news.html">view all →</a>
+    </div>
+
+    <div class="me-project-list">
+      <a href="news.html" class="me-project-row">
+        <span class="me-project-marker">01</span>
+        <div>
+          <h3>AI hardware</h3>
+          <p>Chips, memory, architecture and the hardware behind modern AI systems.</p>
+        </div>
+        <span class="me-row-arrow">→</span>
+      </a>
+
+      <a href="news.html" class="me-project-row">
+        <span class="me-project-marker">02</span>
+        <div>
+          <h3>Technical talks &amp; papers</h3>
+          <p>Videos, papers and ideas I have recently found worth keeping.</p>
+        </div>
+        <span class="me-row-arrow">→</span>
+      </a>
+    </div>
   </section>
 </main>
+
 <div data-nav-placeholder></div>
-<script src="data/content.js"></script><script src="js/site.js"></script>
-</body></html>
+<script src="data/content.js"></script>
+<script src="js/site.js"></script>
+</body>
+</html>
