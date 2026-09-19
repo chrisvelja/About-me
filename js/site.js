@@ -189,7 +189,7 @@
     if(bookYear) bookYear.textContent=item.year;
     if(bookCover){
       bookCover.className="book-cover "+item.coverClass;
-      bookCover.innerHTML='<span class="cover-number">'+item.number+'</span><span class="cover-title">'+item.cover.replace(/\\n/g,"<br>")+"</span>";
+      bookCover.innerHTML='<span class="cover-number">'+item.number+'</span><span class="cover-title">'+item.cover.replace(/\n/g,"<br>")+"</span>";
     }
     if(bookOpen) bookOpen.dataset.bookIndex=String(bookIndex);
   }
