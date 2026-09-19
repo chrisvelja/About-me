@@ -20,7 +20,7 @@ window.SITE_DATA={
     email:"chris.velja@studenti.unipd.it"
   },
   spotify:{
-    clientId:"",
+    clientId:"ca46c981f9f54996b08404871f793f51",
     redirectUri:"https://chrisvelja.github.io/About-me/music.html"
   },
   music:[
