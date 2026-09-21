@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Connecting Spotify…</title>
+</head>
+<body>
+<p style="font-family:system-ui,sans-serif;padding:2rem">Connecting to Spotify…</p>
+<script>
+(async()=>{
+  const CLIENT='ca46c981f9f54996b08404871f793f51';
+  const REDIRECT=window.location.origin+window.location.pathname;
+  const verifier=localStorage.getItem('spv');
+  const params=new URLSearchParams(window.location.search);
+  const code=params.get('code');
+  const error=params.get('error');
+  if(error){document.querySelector('p').textContent='Spotify authorization was cancelled or denied. You can close this page.';return;}
+  if(!code||!verifier){document.querySelector('p').textContent='Spotify callback data is missing. You can close this page.';return;}
+  try{
+    const r=await fetch('https://accounts.spotify.com/api/token',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:new URLSearchParams({grant_type:'authorization_code',code,redirect_uri:REDIRECT,client_id:CLIENT,code_verifier:verifier})});
+    const d=await r.json();
+    if(!r.ok)throw new Error(d.error_description||d.error||'Token exchange failed');
+    localStorage.setItem('spt',d.access_token);
+    localStorage.setItem('spe',String(Date.now()+d.expires_in*1000));
+    if(d.refresh_token)localStorage.setItem('spr',d.refresh_token);
+    localStorage.removeItem('spv');
+    window.location.replace(window.location.origin+window.location.pathname.replace('spotify-callback.html','')+'#music');
+  }catch(err){
+    console.error(err);
+    document.querySelector('p').textContent='Spotify connection failed: '+err.message;
+  }
+})();
+</script>
+</body>
+</html>
