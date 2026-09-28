@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Spotify setup — one-time use</title>
+<style>
+body{font-family:system-ui,sans-serif;max-width:560px;margin:60px auto;padding:0 20px;line-height:1.6;color:#16191C;}
+button{background:#B8783C;color:#fff;border:none;border-radius:20px;padding:10px 22px;font-size:14px;cursor:pointer;}
+textarea{width:100%;height:90px;margin-top:14px;font-family:monospace;font-size:12px;padding:10px;box-sizing:border-box;}
+.hidden{display:none;}
+code{background:#F1F0EC;padding:1px 5px;border-radius:4px;}
+</style>
+</head>
+<body>
+<h1>Spotify one-time setup</h1>
+<p>This page is only for you — it isn't linked anywhere on the site. Use it
+once to get a refresh token for the GitHub Action that keeps the Music page
+up to date. You can ignore or delete this file afterward.</p>
+<button id="connect">Connect Spotify</button>
+<div id="result" class="hidden">
+  <p>Copy this value into your repo's <strong>Settings → Secrets and
+  variables → Actions → New repository secret</strong>, named
+  <code>SPOTIFY_REFRESH_TOKEN</code>:</p>
+  <textarea id="token" readonly onclick="this.select()"></textarea>
+</div>
+<script>
+var CLIENT_ID = 'ca46c981f9f54996b08404871f793f51';
+var REDIRECT_URI = 'https://chrisvelja.github.io/About-me/spotify-setup.html';
+var SCOPES = 'user-read-recently-played';
+
+function randomString(len){
+  var possible = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+  var out = '', arr = new Uint8Array(len);
+  crypto.getRandomValues(arr);
+  arr.forEach(function(v){ out += possible[v % possible.length]; });
+  return out;
+}
+function sha256(plain){ return crypto.subtle.digest('SHA-256', new TextEncoder().encode(plain)); }
+function b64url(buf){
+  var bytes = new Uint8Array(buf), str = '';
+  bytes.forEach(function(b){ str += String.fromCharCode(b); });
+  return btoa(str).replace(/\+/g,'-').replace(/\//g,'_').replace(/=+$/,'');
+}
+document.getElementById('connect').addEventListener('click', async function(){
+  var verifier = randomString(64);
+  var challenge = b64url(await sha256(verifier));
+  try { localStorage.setItem('setup_verifier', verifier); } catch(e){}
+  window.location.href = 'https://accounts.spotify.com/authorize?' + new URLSearchParams({
+    client_id: CLIENT_ID, response_type: 'code', redirect_uri: REDIRECT_URI,
+    scope: SCOPES, code_challenge_method: 'S256', code_challenge: challenge
+  });
+});
+(async function(){
+  var params = new URLSearchParams(window.location.search);
+  var code = params.get('code');
+  if(!code) return;
+  var verifier = null;
+  try { verifier = localStorage.getItem('setup_verifier'); } catch(e){}
+  if(!verifier) return;
+  var res = await fetch('https://accounts.spotify.com/api/token', {
+    method: 'POST',
+    headers: {'Content-Type':'application/x-www-form-urlencoded'},
+    body: new URLSearchParams({grant_type:'authorization_code', code:code, redirect_uri:REDIRECT_URI, client_id:CLIENT_ID, code_verifier:verifier})
+  });
+  var data = await res.json();
+  if(data.refresh_token){
+    document.getElementById('result').classList.remove('hidden');
+    document.getElementById('token').value = data.refresh_token;
+    history.replaceState(null, '', window.location.pathname);
+  } else {
+    document.body.insertAdjacentHTML('beforeend', '<p style="color:#a33">Something went wrong: ' + (data.error_description || data.error || 'unknown error') + '</p>');
+  }
+})();
+</script>
+</body>
+</html>
