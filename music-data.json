@@ -1,5 +1,53 @@
 [
   {
+    "albumId": "65ekRZTdz7ufM6yULqgjo8",
+    "title": "You Gotta Go There To Come Back",
+    "artist": "Stereophonics",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27362e5f8cd227dd6bef37d84d6",
+    "spotifyUrl": "https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8",
+    "playedAt": "2026-09-29T11:03:41.188Z"
+  },
+  {
+    "albumId": "7wOOA7l306K8HfBKfPoafr",
+    "title": "In Utero",
+    "artist": "Nirvana",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
+    "spotifyUrl": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr",
+    "playedAt": "2026-09-29T10:57:45.346Z"
+  },
+  {
+    "albumId": "5Pbt4begYOl36xLmujt35j",
+    "title": "Niente di speciale",
+    "artist": "Elephant Brain",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273867dd1ee05e9701e3cbaa168",
+    "spotifyUrl": "https://open.spotify.com/album/5Pbt4begYOl36xLmujt35j",
+    "playedAt": "2026-09-29T10:54:07.623Z"
+  },
+  {
+    "albumId": "4c5y2Ovnl6hfsr7bXihehb",
+    "title": "VICINA",
+    "artist": "Katemika",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c725b54244f1aa4681313695",
+    "spotifyUrl": "https://open.spotify.com/album/4c5y2Ovnl6hfsr7bXihehb",
+    "playedAt": "2026-09-29T10:52:24.426Z"
+  },
+  {
+    "albumId": "4piJq7R3gjUOxnYs6lDCTg",
+    "title": "Hot Fuss",
+    "artist": "The Killers",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d",
+    "spotifyUrl": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg",
+    "playedAt": "2026-09-29T10:48:19.778Z"
+  },
+  {
+    "albumId": "2yNaksHgeMQM9Quse463b5",
+    "title": "Is This It",
+    "artist": "The Strokes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
+    "spotifyUrl": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5",
+    "playedAt": "2026-09-29T10:44:36.273Z"
+  },
+  {
     "albumId": "5QhIKoyRYabBtE2Jqdp080",
     "title": "Illuminate (10th Anniversary Edition) Deluxe",
     "artist": "Shawn Mendes",
@@ -216,6 +264,14 @@
     "playedAt": "2026-09-28T19:33:06.374Z"
   },
   {
+    "albumId": "4I7uuSfSkHKJjrr1vpu4mi",
+    "title": "Portamento",
+    "artist": "The Drums",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734c27d14a19e67dac23661031",
+    "spotifyUrl": "https://open.spotify.com/album/4I7uuSfSkHKJjrr1vpu4mi",
+    "playedAt": "2026-09-28T19:29:41.978Z"
+  },
+  {
     "albumId": "3OqRGywivnQ0IeClUeUa4n",
     "title": "Submarine - Original Songs From The Film By Alex Turner",
     "artist": "Alex Turner",
@@ -294,14 +350,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273b1f8da74f225fa1225cdface",
     "spotifyUrl": "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm",
     "playedAt": "2026-09-28T18:52:19.943Z"
-  },
-  {
-    "albumId": "4I7uuSfSkHKJjrr1vpu4mi",
-    "title": "Portamento",
-    "artist": "The Drums",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734c27d14a19e67dac23661031",
-    "spotifyUrl": "https://open.spotify.com/album/4I7uuSfSkHKJjrr1vpu4mi",
-    "playedAt": "2026-09-28T18:49:14.667Z"
   },
   {
     "albumId": "4xlbif5abpjdwbF1QRCIHR",
