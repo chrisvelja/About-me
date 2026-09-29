@@ -1,1 +1,314 @@
-[]
+[
+  {
+    "albumId": "5QhIKoyRYabBtE2Jqdp080",
+    "title": "Illuminate (10th Anniversary Edition) Deluxe",
+    "artist": "Shawn Mendes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273dd0d95a73f3b48cb2e28b4ca",
+    "spotifyUrl": "https://open.spotify.com/album/5QhIKoyRYabBtE2Jqdp080",
+    "playedAt": "2026-09-29T09:40:55.544Z"
+  },
+  {
+    "albumId": "2eA4hR2JvFIH64t62rmB1J",
+    "title": "NOTTI BRAVE AMARCORD",
+    "artist": "Carl Brave",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b737a80880fc4738747d9da8",
+    "spotifyUrl": "https://open.spotify.com/album/2eA4hR2JvFIH64t62rmB1J",
+    "playedAt": "2026-09-29T09:37:12.183Z"
+  },
+  {
+    "albumId": "2hHDTcf1MzvkDdFm0CEujn",
+    "title": "Gemelli",
+    "artist": "Ernia, Pinguini Tattici Nucleari",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738167798048de8230c7079545",
+    "spotifyUrl": "https://open.spotify.com/album/2hHDTcf1MzvkDdFm0CEujn",
+    "playedAt": "2026-09-29T09:34:07.927Z"
+  },
+  {
+    "albumId": "7ujoimoSquqdm5EKAhtnf6",
+    "title": "VITA VERA PARADISO",
+    "artist": "Leo Gassmann, Clemente Guidi",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ade6a7a5e842add2275c6e7a",
+    "spotifyUrl": "https://open.spotify.com/album/7ujoimoSquqdm5EKAhtnf6",
+    "playedAt": "2026-09-29T09:30:33.885Z"
+  },
+  {
+    "albumId": "2VHpXm9h05eiyteYReWkK8",
+    "title": "ALTROVE",
+    "artist": "Ultimo",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27395c1fc384c2bf4e7f9292017",
+    "spotifyUrl": "https://open.spotify.com/album/2VHpXm9h05eiyteYReWkK8",
+    "playedAt": "2026-09-29T09:27:02.248Z"
+  },
+  {
+    "albumId": "5Z4qQSYHPbYjlXS6wnEhXD",
+    "title": "Futuri Possibili",
+    "artist": "Franco126",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731ca662be5e898820c3baed34",
+    "spotifyUrl": "https://open.spotify.com/album/5Z4qQSYHPbYjlXS6wnEhXD",
+    "playedAt": "2026-09-29T09:23:36.382Z"
+  },
+  {
+    "albumId": "08SB1CgIS0yVIH7ZV99I6f",
+    "title": "TUTTA VITA (SEMPRE)",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736752cb3279906514dd04c8aa",
+    "spotifyUrl": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f",
+    "playedAt": "2026-09-29T07:28:52.147Z"
+  },
+  {
+    "albumId": "2vdMQdtjraDA0paMwtEbVd",
+    "title": "Regardez moi",
+    "artist": "Frah Quintale",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e7546ed84b9c6941fe0a1879",
+    "spotifyUrl": "https://open.spotify.com/album/2vdMQdtjraDA0paMwtEbVd",
+    "playedAt": "2026-09-29T07:06:53.402Z"
+  },
+  {
+    "albumId": "5PdqPLG4hUzuLAWUDFaZap",
+    "title": "Gira, il mondo gira",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734743343cec324c534a99ca39",
+    "spotifyUrl": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap",
+    "playedAt": "2026-09-29T06:59:57.694Z"
+  },
+  {
+    "albumId": "0zMH1I8EZPPGYAzxZ9H0gU",
+    "title": "1969 - Achille Idol Rebirth",
+    "artist": "Achille Lauro, Gow Tribe",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738291bb04660859d8d0eca427",
+    "spotifyUrl": "https://open.spotify.com/album/0zMH1I8EZPPGYAzxZ9H0gU",
+    "playedAt": "2026-09-29T06:56:49.431Z"
+  },
+  {
+    "albumId": "3gbJSNFlAe2CjqIjMOeMw1",
+    "title": "Affection",
+    "artist": "Cigarettes After Sex",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735fb77915b586180b3b41ccbb",
+    "spotifyUrl": "https://open.spotify.com/album/3gbJSNFlAe2CjqIjMOeMw1",
+    "playedAt": "2026-09-28T20:38:41.011Z"
+  },
+  {
+    "albumId": "2CNuOGKjlE5KqjcfxMMJPK",
+    "title": "Io Sono",
+    "artist": "Olly, Yanomi, Joe Viegas",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27342c2d4a0c564da278376914d",
+    "spotifyUrl": "https://open.spotify.com/album/2CNuOGKjlE5KqjcfxMMJPK",
+    "playedAt": "2026-09-28T20:37:29.345Z"
+  },
+  {
+    "albumId": "54HzLTohLottYBCmkjD41S",
+    "title": "INDI",
+    "artist": "Gazzelle",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737a79cc9950e69ca73c044f61",
+    "spotifyUrl": "https://open.spotify.com/album/54HzLTohLottYBCmkjD41S",
+    "playedAt": "2026-09-28T20:34:05.612Z"
+  },
+  {
+    "albumId": "3s3ThjVMEWRqXV8b4H6sy4",
+    "title": "Faccio un casino",
+    "artist": "Coez",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273061bf53ff7abeb2e89429bdf",
+    "spotifyUrl": "https://open.spotify.com/album/3s3ThjVMEWRqXV8b4H6sy4",
+    "playedAt": "2026-09-28T20:30:48.278Z"
+  },
+  {
+    "albumId": "5WS3iOeSRG9RmjkPP37Uz6",
+    "title": "E POI SEI ARRIVATA TU",
+    "artist": "Leo Gassmann",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273aa076e579aae88745e0fee9a",
+    "spotifyUrl": "https://open.spotify.com/album/5WS3iOeSRG9RmjkPP37Uz6",
+    "playedAt": "2026-09-28T20:27:25.876Z"
+  },
+  {
+    "albumId": "1LnhPKXTdrQDYLr42NP8uo",
+    "title": "Tutto Naturale",
+    "artist": "Itto",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ff52d675ac3ac4eb6710c816",
+    "spotifyUrl": "https://open.spotify.com/album/1LnhPKXTdrQDYLr42NP8uo",
+    "playedAt": "2026-09-28T20:21:17.726Z"
+  },
+  {
+    "albumId": "3OpmNTT7hIZMoO9NNcKnmz",
+    "title": "La Teoria Dei Colori",
+    "artist": "Cesare Cremonini",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27322ae5b5ba67f6f218b5f3e34",
+    "spotifyUrl": "https://open.spotify.com/album/3OpmNTT7hIZMoO9NNcKnmz",
+    "playedAt": "2026-09-28T20:18:36.606Z"
+  },
+  {
+    "albumId": "4QpLnSupGsuYYJYYoj29Q7",
+    "title": "TUTTA VITA",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739a9754efa9799615cf6045e9",
+    "spotifyUrl": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7",
+    "playedAt": "2026-09-28T20:14:08.325Z"
+  },
+  {
+    "albumId": "6RrLNb1yCXrTQ5d7oGNqIo",
+    "title": "Il primo amore",
+    "artist": "Olly, Yanomi",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273428140667cc3dac4d56f4d2e",
+    "spotifyUrl": "https://open.spotify.com/album/6RrLNb1yCXrTQ5d7oGNqIo",
+    "playedAt": "2026-09-28T20:08:48.228Z"
+  },
+  {
+    "albumId": "5PdqPLG4hUzuLAWUDFaZap",
+    "title": "Gira, il mondo gira",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734743343cec324c534a99ca39",
+    "spotifyUrl": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap",
+    "playedAt": "2026-09-28T20:05:25.732Z"
+  },
+  {
+    "albumId": "5MHRLIJK2DVAtBxHKju3BJ",
+    "title": "ULTIMO LIVE STADI 2024",
+    "artist": "Ultimo",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b5a47f56d926fd03cf099c71",
+    "spotifyUrl": "https://open.spotify.com/album/5MHRLIJK2DVAtBxHKju3BJ",
+    "playedAt": "2026-09-28T20:02:25.389Z"
+  },
+  {
+    "albumId": "4xIcI1EC3MoCNZWkhMjShN",
+    "title": "Everybody Else Is Doing It, So Why Can't We? (Remastered 2026)",
+    "artist": "The Cranberries",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273753dbf92830094154a21b193",
+    "spotifyUrl": "https://open.spotify.com/album/4xIcI1EC3MoCNZWkhMjShN",
+    "playedAt": "2026-09-28T19:53:25.268Z"
+  },
+  {
+    "albumId": "7HvIrSkKGJCzd8AKyjTJ6Q",
+    "title": "Blur (Special Edition)",
+    "artist": "Blur",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273de114203356c1f7b136960b6",
+    "spotifyUrl": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q",
+    "playedAt": "2026-09-28T19:49:53.981Z"
+  },
+  {
+    "albumId": "0nW0w37lrQ87k7PLZvC4qJ",
+    "title": "Tell Me I'm Pretty",
+    "artist": "Cage The Elephant",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273cbc75fbb1252959c9765ff4f",
+    "spotifyUrl": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ",
+    "playedAt": "2026-09-28T19:44:48.263Z"
+  },
+  {
+    "albumId": "2eQ0M17EsxSwdotuKIR2uu",
+    "title": "Summer is Dying",
+    "artist": "Orange Dog Club",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27364b130534c8a41e34acc6b8c",
+    "spotifyUrl": "https://open.spotify.com/album/2eQ0M17EsxSwdotuKIR2uu",
+    "playedAt": "2026-09-28T19:41:01.769Z"
+  },
+  {
+    "albumId": "3HFbH1loOUbqCyPsLuHLLh",
+    "title": "Room On Fire",
+    "artist": "The Strokes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f",
+    "spotifyUrl": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh",
+    "playedAt": "2026-09-28T19:36:02.969Z"
+  },
+  {
+    "albumId": "2ym2jcqckXqWeTDoxz3Kst",
+    "title": "Suck It and See",
+    "artist": "Arctic Monkeys",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273cb44038b22f3d8a5e4e62d5a",
+    "spotifyUrl": "https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst",
+    "playedAt": "2026-09-28T19:33:06.374Z"
+  },
+  {
+    "albumId": "3OqRGywivnQ0IeClUeUa4n",
+    "title": "Submarine - Original Songs From The Film By Alex Turner",
+    "artist": "Alex Turner",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273672951d44a35cb08092f2c1f",
+    "spotifyUrl": "https://open.spotify.com/album/3OqRGywivnQ0IeClUeUa4n",
+    "playedAt": "2026-09-28T19:26:19.479Z"
+  },
+  {
+    "albumId": "6rgmcaFB2gEbC7xR6AdWd1",
+    "title": "Live From Electric Lady Studios/WRXP New York",
+    "artist": "Julian Casablancas",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273dff3c7e29f65bcb29f159386",
+    "spotifyUrl": "https://open.spotify.com/album/6rgmcaFB2gEbC7xR6AdWd1",
+    "playedAt": "2026-09-28T19:22:47.852Z"
+  },
+  {
+    "albumId": "5chTLnnxlxQVAgEv6YbEBe",
+    "title": "Cigarettes After Sex",
+    "artist": "Cigarettes After Sex",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+    "spotifyUrl": "https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe",
+    "playedAt": "2026-09-28T19:19:23.662Z"
+  },
+  {
+    "albumId": "2dMmcXlG8xtRJNlsjIrPWe",
+    "title": "Virtue",
+    "artist": "The Voidz",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d00e504004a48159ac896b64",
+    "spotifyUrl": "https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe",
+    "playedAt": "2026-09-28T19:14:33.071Z"
+  },
+  {
+    "albumId": "6Jx4cGhWHewTcfKDJKguBQ",
+    "title": "Angles",
+    "artist": "The Strokes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273397d02cfe1aab2923f9d1697",
+    "spotifyUrl": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ",
+    "playedAt": "2026-09-28T19:10:33.065Z"
+  },
+  {
+    "albumId": "0eeXb23yMW6EaIgm63xxPC",
+    "title": "Getting Killed",
+    "artist": "Geese",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27345e82ae0372a50834825c018",
+    "spotifyUrl": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC",
+    "playedAt": "2026-09-28T19:06:17.376Z"
+  },
+  {
+    "albumId": "5nJ9B1KiydXoYWAcyqlG76",
+    "title": "Melophobia",
+    "artist": "Cage The Elephant",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273415b79227c6cee25f42fbf41",
+    "spotifyUrl": "https://open.spotify.com/album/5nJ9B1KiydXoYWAcyqlG76",
+    "playedAt": "2026-09-28T19:02:45.880Z"
+  },
+  {
+    "albumId": "35UJLpClj5EDrhpNIi4DFg",
+    "title": "The Bends",
+    "artist": "Radiohead",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
+    "spotifyUrl": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg",
+    "playedAt": "2026-09-28T18:58:57.083Z"
+  },
+  {
+    "albumId": "6cI1XoZsOhkyrCwtuI70CN",
+    "title": "The Smiths",
+    "artist": "The Smiths",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27346b017e0c96e4186e82df085",
+    "spotifyUrl": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN",
+    "playedAt": "2026-09-28T18:55:03.374Z"
+  },
+  {
+    "albumId": "1XkGORuUX2QGOEIL4EbJKm",
+    "title": "Favourite Worst Nightmare",
+    "artist": "Arctic Monkeys",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b1f8da74f225fa1225cdface",
+    "spotifyUrl": "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm",
+    "playedAt": "2026-09-28T18:52:19.943Z"
+  },
+  {
+    "albumId": "4I7uuSfSkHKJjrr1vpu4mi",
+    "title": "Portamento",
+    "artist": "The Drums",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734c27d14a19e67dac23661031",
+    "spotifyUrl": "https://open.spotify.com/album/4I7uuSfSkHKJjrr1vpu4mi",
+    "playedAt": "2026-09-28T18:49:14.667Z"
+  },
+  {
+    "albumId": "4xlbif5abpjdwbF1QRCIHR",
+    "title": "Heart In A Cage",
+    "artist": "The Strokes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27301a39bcbebe9e50755374e3d",
+    "spotifyUrl": "https://open.spotify.com/album/4xlbif5abpjdwbF1QRCIHR",
+    "playedAt": "2026-09-28T18:45:44.075Z"
+  }
+]
