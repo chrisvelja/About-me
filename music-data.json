@@ -1,5 +1,21 @@
 [
   {
+    "albumId": "08SB1CgIS0yVIH7ZV99I6f",
+    "title": "TUTTA VITA (SEMPRE)",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736752cb3279906514dd04c8aa",
+    "spotifyUrl": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f",
+    "playedAt": "2026-09-30T07:33:26.491Z"
+  },
+  {
+    "albumId": "0UeNZL0ZHRfMEPiyQ47udS",
+    "title": "IN MEZZO ALLE LUCI",
+    "artist": "Orfeo",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737e8f0070980f9522e5b248b2",
+    "spotifyUrl": "https://open.spotify.com/album/0UeNZL0ZHRfMEPiyQ47udS",
+    "playedAt": "2026-09-30T07:30:19.826Z"
+  },
+  {
     "albumId": "4QpLnSupGsuYYJYYoj29Q7",
     "title": "TUTTA VITA",
     "artist": "Olly, Juli",
@@ -366,13 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273b1f8da74f225fa1225cdface",
     "spotifyUrl": "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm",
     "playedAt": "2026-09-28T18:52:19.943Z"
-  },
-  {
-    "albumId": "4xlbif5abpjdwbF1QRCIHR",
-    "title": "Heart In A Cage",
-    "artist": "The Strokes",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27301a39bcbebe9e50755374e3d",
-    "spotifyUrl": "https://open.spotify.com/album/4xlbif5abpjdwbF1QRCIHR",
-    "playedAt": "2026-09-28T18:45:44.075Z"
   }
 ]
