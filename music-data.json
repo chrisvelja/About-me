@@ -1,5 +1,21 @@
 [
   {
+    "albumId": "4QpLnSupGsuYYJYYoj29Q7",
+    "title": "TUTTA VITA",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739a9754efa9799615cf6045e9",
+    "spotifyUrl": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7",
+    "playedAt": "2026-09-30T10:49:16.397Z"
+  },
+  {
+    "albumId": "20sHyIAg35uE2Ja9KmplZv",
+    "title": "TOCCA IL CIELO",
+    "artist": "bnkr44",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d1cf50e353cfd76aa5f5e089",
+    "spotifyUrl": "https://open.spotify.com/album/20sHyIAg35uE2Ja9KmplZv",
+    "playedAt": "2026-09-30T10:42:22.070Z"
+  },
+  {
     "albumId": "08SB1CgIS0yVIH7ZV99I6f",
     "title": "TUTTA VITA (SEMPRE)",
     "artist": "Olly, Juli",
@@ -366,21 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
     "spotifyUrl": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg",
     "playedAt": "2026-09-28T18:58:57.083Z"
-  },
-  {
-    "albumId": "6cI1XoZsOhkyrCwtuI70CN",
-    "title": "The Smiths",
-    "artist": "The Smiths",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27346b017e0c96e4186e82df085",
-    "spotifyUrl": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN",
-    "playedAt": "2026-09-28T18:55:03.374Z"
-  },
-  {
-    "albumId": "1XkGORuUX2QGOEIL4EbJKm",
-    "title": "Favourite Worst Nightmare",
-    "artist": "Arctic Monkeys",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b1f8da74f225fa1225cdface",
-    "spotifyUrl": "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm",
-    "playedAt": "2026-09-28T18:52:19.943Z"
   }
 ]
