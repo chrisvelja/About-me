@@ -1,5 +1,69 @@
 [
   {
+    "albumId": "4QpLnSupGsuYYJYYoj29Q7",
+    "title": "TUTTA VITA",
+    "artist": "Olly, Enrico Nigiotti, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739a9754efa9799615cf6045e9",
+    "spotifyUrl": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7",
+    "playedAt": "2026-10-01T12:06:37.360Z"
+  },
+  {
+    "albumId": "6v9auApDKLIxYeoJCZqPDO",
+    "title": "La bella confusione",
+    "artist": "Charlie Charles, Bresh",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736c8711e9758b08b65159ed2a",
+    "spotifyUrl": "https://open.spotify.com/album/6v9auApDKLIxYeoJCZqPDO",
+    "playedAt": "2026-10-01T11:09:26.115Z"
+  },
+  {
+    "albumId": "3LXvt5r3boBy4sQQpxmsi9",
+    "title": "Gemelli",
+    "artist": "Ernia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273820c0ed614ed30340ba38f28",
+    "spotifyUrl": "https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9",
+    "playedAt": "2026-10-01T11:06:01.598Z"
+  },
+  {
+    "albumId": "5xiuwFxGpemqPBxzJQ6AYd",
+    "title": "Mediterraneo",
+    "artist": "Bresh, SHUNE",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734589fd17efbf045525dccca0",
+    "spotifyUrl": "https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd",
+    "playedAt": "2026-10-01T11:03:08.886Z"
+  },
+  {
+    "albumId": "5nQff1e9q2Tcsa4bEyWXMa",
+    "title": "1998",
+    "artist": "Coez",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27353bfae2747ebc6cc8ea0b5a3",
+    "spotifyUrl": "https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa",
+    "playedAt": "2026-10-01T11:00:15.657Z"
+  },
+  {
+    "albumId": "3tiuh424B3Leg8bxHc1Jv5",
+    "title": "Comuni Mortali",
+    "artist": "Achille Lauro",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273264663d274f67b13c4ae531e",
+    "spotifyUrl": "https://open.spotify.com/album/3tiuh424B3Leg8bxHc1Jv5",
+    "playedAt": "2026-10-01T10:57:03.072Z"
+  },
+  {
+    "albumId": "7cHvY650WYCDZ6b50fVfkZ",
+    "title": "Hai fatto bene",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736eb690a8df60d1ec30ddbbed",
+    "spotifyUrl": "https://open.spotify.com/album/7cHvY650WYCDZ6b50fVfkZ",
+    "playedAt": "2026-10-01T10:54:05.166Z"
+  },
+  {
+    "albumId": "0Wt6T9OkicquHV9EauKAd7",
+    "title": "La Vita Veramente",
+    "artist": "Fulminacci",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b447bc580fd3431a2f95ad39",
+    "spotifyUrl": "https://open.spotify.com/album/0Wt6T9OkicquHV9EauKAd7",
+    "playedAt": "2026-10-01T10:32:37.122Z"
+  },
+  {
     "albumId": "7o2Ac7nDPNLO0tOsdZ73JD",
     "title": "SOLITO CINEMA",
     "artist": "Juli, Olly",
@@ -152,6 +216,14 @@
     "playedAt": "2026-09-29T20:53:07.538Z"
   },
   {
+    "albumId": "5PdqPLG4hUzuLAWUDFaZap",
+    "title": "Gira, il mondo gira",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734743343cec324c534a99ca39",
+    "spotifyUrl": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap",
+    "playedAt": "2026-09-29T20:49:46.293Z"
+  },
+  {
     "albumId": "4UMjBXcRqIgMZ1XumU2x5T",
     "title": "Dizzy up the Girl",
     "artist": "The Goo Goo Dolls",
@@ -272,14 +344,6 @@
     "playedAt": "2026-09-29T07:06:53.402Z"
   },
   {
-    "albumId": "5PdqPLG4hUzuLAWUDFaZap",
-    "title": "Gira, il mondo gira",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734743343cec324c534a99ca39",
-    "spotifyUrl": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap",
-    "playedAt": "2026-09-29T06:59:57.694Z"
-  },
-  {
     "albumId": "0zMH1I8EZPPGYAzxZ9H0gU",
     "title": "1969 - Achille Idol Rebirth",
     "artist": "Achille Lauro, Gow Tribe",
@@ -318,69 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273061bf53ff7abeb2e89429bdf",
     "spotifyUrl": "https://open.spotify.com/album/3s3ThjVMEWRqXV8b4H6sy4",
     "playedAt": "2026-09-28T20:30:48.278Z"
-  },
-  {
-    "albumId": "5WS3iOeSRG9RmjkPP37Uz6",
-    "title": "E POI SEI ARRIVATA TU",
-    "artist": "Leo Gassmann",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273aa076e579aae88745e0fee9a",
-    "spotifyUrl": "https://open.spotify.com/album/5WS3iOeSRG9RmjkPP37Uz6",
-    "playedAt": "2026-09-28T20:27:25.876Z"
-  },
-  {
-    "albumId": "5MHRLIJK2DVAtBxHKju3BJ",
-    "title": "ULTIMO LIVE STADI 2024",
-    "artist": "Ultimo",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b5a47f56d926fd03cf099c71",
-    "spotifyUrl": "https://open.spotify.com/album/5MHRLIJK2DVAtBxHKju3BJ",
-    "playedAt": "2026-09-28T20:24:17.121Z"
-  },
-  {
-    "albumId": "1LnhPKXTdrQDYLr42NP8uo",
-    "title": "Tutto Naturale",
-    "artist": "Itto",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ff52d675ac3ac4eb6710c816",
-    "spotifyUrl": "https://open.spotify.com/album/1LnhPKXTdrQDYLr42NP8uo",
-    "playedAt": "2026-09-28T20:21:17.726Z"
-  },
-  {
-    "albumId": "3OpmNTT7hIZMoO9NNcKnmz",
-    "title": "La Teoria Dei Colori",
-    "artist": "Cesare Cremonini",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27322ae5b5ba67f6f218b5f3e34",
-    "spotifyUrl": "https://open.spotify.com/album/3OpmNTT7hIZMoO9NNcKnmz",
-    "playedAt": "2026-09-28T20:18:36.606Z"
-  },
-  {
-    "albumId": "4QpLnSupGsuYYJYYoj29Q7",
-    "title": "TUTTA VITA",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739a9754efa9799615cf6045e9",
-    "spotifyUrl": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7",
-    "playedAt": "2026-09-28T20:14:08.325Z"
-  },
-  {
-    "albumId": "6RrLNb1yCXrTQ5d7oGNqIo",
-    "title": "Il primo amore",
-    "artist": "Olly, Yanomi",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273428140667cc3dac4d56f4d2e",
-    "spotifyUrl": "https://open.spotify.com/album/6RrLNb1yCXrTQ5d7oGNqIo",
-    "playedAt": "2026-09-28T20:08:48.228Z"
-  },
-  {
-    "albumId": "5PdqPLG4hUzuLAWUDFaZap",
-    "title": "Gira, il mondo gira",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734743343cec324c534a99ca39",
-    "spotifyUrl": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap",
-    "playedAt": "2026-09-28T20:05:25.732Z"
-  },
-  {
-    "albumId": "2dMmcXlG8xtRJNlsjIrPWe",
-    "title": "Virtue",
-    "artist": "The Voidz",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273d00e504004a48159ac896b64",
-    "spotifyUrl": "https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe",
-    "playedAt": "2026-09-28T19:56:56.776Z"
   }
 ]
