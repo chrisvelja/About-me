@@ -1,5 +1,29 @@
 [
   {
+    "albumId": "7o2Ac7nDPNLO0tOsdZ73JD",
+    "title": "SOLITO CINEMA",
+    "artist": "Juli, Olly",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27311db5c0adf8b90e0c5138336",
+    "spotifyUrl": "https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD",
+    "playedAt": "2026-10-01T08:51:22.303Z"
+  },
+  {
+    "albumId": "7qZ5XKi1L7ivSxcFFyEjBV",
+    "title": "Il Mondo Gira",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a9e40bd192d83079cb8c385f",
+    "spotifyUrl": "https://open.spotify.com/album/7qZ5XKi1L7ivSxcFFyEjBV",
+    "playedAt": "2026-10-01T08:47:22.449Z"
+  },
+  {
+    "albumId": "0jHdKUHCpkeGvNiHzzWiM1",
+    "title": "Nostalgia",
+    "artist": "Noemi",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27375f68c99ee8e5514d8dfb7d3",
+    "spotifyUrl": "https://open.spotify.com/album/0jHdKUHCpkeGvNiHzzWiM1",
+    "playedAt": "2026-10-01T08:44:28.714Z"
+  },
+  {
     "albumId": "2dSL2X3K3YoVwaKty2JYcE",
     "title": "Ma'",
     "artist": "BLANCO",
@@ -358,29 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273d00e504004a48159ac896b64",
     "spotifyUrl": "https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe",
     "playedAt": "2026-09-28T19:56:56.776Z"
-  },
-  {
-    "albumId": "4xIcI1EC3MoCNZWkhMjShN",
-    "title": "Everybody Else Is Doing It, So Why Can't We? (Remastered 2026)",
-    "artist": "The Cranberries",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273753dbf92830094154a21b193",
-    "spotifyUrl": "https://open.spotify.com/album/4xIcI1EC3MoCNZWkhMjShN",
-    "playedAt": "2026-09-28T19:53:25.268Z"
-  },
-  {
-    "albumId": "7HvIrSkKGJCzd8AKyjTJ6Q",
-    "title": "Blur (Special Edition)",
-    "artist": "Blur",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273de114203356c1f7b136960b6",
-    "spotifyUrl": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q",
-    "playedAt": "2026-09-28T19:49:53.981Z"
-  },
-  {
-    "albumId": "0nW0w37lrQ87k7PLZvC4qJ",
-    "title": "Tell Me I'm Pretty",
-    "artist": "Cage The Elephant",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273cbc75fbb1252959c9765ff4f",
-    "spotifyUrl": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ",
-    "playedAt": "2026-09-28T19:44:48.263Z"
   }
 ]
