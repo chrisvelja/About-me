@@ -1,5 +1,21 @@
 [
   {
+    "albumId": "2CNuOGKjlE5KqjcfxMMJPK",
+    "title": "Io Sono",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27342c2d4a0c564da278376914d",
+    "spotifyUrl": "https://open.spotify.com/album/2CNuOGKjlE5KqjcfxMMJPK",
+    "playedAt": "2026-10-01T20:31:49.197Z"
+  },
+  {
+    "albumId": "08SB1CgIS0yVIH7ZV99I6f",
+    "title": "TUTTA VITA (SEMPRE)",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736752cb3279906514dd04c8aa",
+    "spotifyUrl": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f",
+    "playedAt": "2026-10-01T20:14:59.605Z"
+  },
+  {
     "albumId": "4QpLnSupGsuYYJYYoj29Q7",
     "title": "TUTTA VITA",
     "artist": "Olly, Enrico Nigiotti, Juli",
@@ -366,21 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b27342c2d4a0c564da278376914d",
     "spotifyUrl": "https://open.spotify.com/album/2CNuOGKjlE5KqjcfxMMJPK",
     "playedAt": "2026-09-28T20:37:29.345Z"
-  },
-  {
-    "albumId": "54HzLTohLottYBCmkjD41S",
-    "title": "INDI",
-    "artist": "Gazzelle",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737a79cc9950e69ca73c044f61",
-    "spotifyUrl": "https://open.spotify.com/album/54HzLTohLottYBCmkjD41S",
-    "playedAt": "2026-09-28T20:34:05.612Z"
-  },
-  {
-    "albumId": "3s3ThjVMEWRqXV8b4H6sy4",
-    "title": "Faccio un casino",
-    "artist": "Coez",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273061bf53ff7abeb2e89429bdf",
-    "spotifyUrl": "https://open.spotify.com/album/3s3ThjVMEWRqXV8b4H6sy4",
-    "playedAt": "2026-09-28T20:30:48.278Z"
   }
 ]
