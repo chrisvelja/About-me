@@ -1,5 +1,53 @@
 [
   {
+    "albumId": "2dSL2X3K3YoVwaKty2JYcE",
+    "title": "Ma'",
+    "artist": "BLANCO",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b9c1e98291b65f17c9cf4a29",
+    "spotifyUrl": "https://open.spotify.com/album/2dSL2X3K3YoVwaKty2JYcE",
+    "playedAt": "2026-09-30T23:43:16.867Z"
+  },
+  {
+    "albumId": "4OaPU3DM8Mr7yOnVPXeCuh",
+    "title": "Mediterraneo (Dopo il Mare)",
+    "artist": "Bresh",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27313f95e59fc87aa92b6e63d70",
+    "spotifyUrl": "https://open.spotify.com/album/4OaPU3DM8Mr7yOnVPXeCuh",
+    "playedAt": "2026-09-30T23:40:33.352Z"
+  },
+  {
+    "albumId": "5nQff1e9q2Tcsa4bEyWXMa",
+    "title": "1998",
+    "artist": "Coez",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27353bfae2747ebc6cc8ea0b5a3",
+    "spotifyUrl": "https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa",
+    "playedAt": "2026-09-30T23:37:37.132Z"
+  },
+  {
+    "albumId": "7qZ5XKi1L7ivSxcFFyEjBV",
+    "title": "Il Mondo Gira",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a9e40bd192d83079cb8c385f",
+    "spotifyUrl": "https://open.spotify.com/album/7qZ5XKi1L7ivSxcFFyEjBV",
+    "playedAt": "2026-09-30T22:57:21.791Z"
+  },
+  {
+    "albumId": "5PdqPLG4hUzuLAWUDFaZap",
+    "title": "Gira, il mondo gira",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734743343cec324c534a99ca39",
+    "spotifyUrl": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap",
+    "playedAt": "2026-09-30T22:50:57.356Z"
+  },
+  {
+    "albumId": "5W30YJavMoHwG64cPD4L9C",
+    "title": "The Beginning",
+    "artist": "FIFTY FIFTY",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273eb535219dc875690e09dd8f9",
+    "spotifyUrl": "https://open.spotify.com/album/5W30YJavMoHwG64cPD4L9C",
+    "playedAt": "2026-09-30T22:47:42.935Z"
+  },
+  {
     "albumId": "1P21UjZvPPhykRVtsPyhCl",
     "title": "STAR",
     "artist": "\u5343\u8449\u96c4\u559c",
@@ -334,53 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273cbc75fbb1252959c9765ff4f",
     "spotifyUrl": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ",
     "playedAt": "2026-09-28T19:44:48.263Z"
-  },
-  {
-    "albumId": "2eQ0M17EsxSwdotuKIR2uu",
-    "title": "Summer is Dying",
-    "artist": "Orange Dog Club",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27364b130534c8a41e34acc6b8c",
-    "spotifyUrl": "https://open.spotify.com/album/2eQ0M17EsxSwdotuKIR2uu",
-    "playedAt": "2026-09-28T19:41:01.769Z"
-  },
-  {
-    "albumId": "3HFbH1loOUbqCyPsLuHLLh",
-    "title": "Room On Fire",
-    "artist": "The Strokes",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f",
-    "spotifyUrl": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh",
-    "playedAt": "2026-09-28T19:36:02.969Z"
-  },
-  {
-    "albumId": "2ym2jcqckXqWeTDoxz3Kst",
-    "title": "Suck It and See",
-    "artist": "Arctic Monkeys",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273cb44038b22f3d8a5e4e62d5a",
-    "spotifyUrl": "https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst",
-    "playedAt": "2026-09-28T19:33:06.374Z"
-  },
-  {
-    "albumId": "4I7uuSfSkHKJjrr1vpu4mi",
-    "title": "Portamento",
-    "artist": "The Drums",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734c27d14a19e67dac23661031",
-    "spotifyUrl": "https://open.spotify.com/album/4I7uuSfSkHKJjrr1vpu4mi",
-    "playedAt": "2026-09-28T19:29:41.978Z"
-  },
-  {
-    "albumId": "3OqRGywivnQ0IeClUeUa4n",
-    "title": "Submarine - Original Songs From The Film By Alex Turner",
-    "artist": "Alex Turner",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273672951d44a35cb08092f2c1f",
-    "spotifyUrl": "https://open.spotify.com/album/3OqRGywivnQ0IeClUeUa4n",
-    "playedAt": "2026-09-28T19:26:19.479Z"
-  },
-  {
-    "albumId": "6rgmcaFB2gEbC7xR6AdWd1",
-    "title": "Live From Electric Lady Studios/WRXP New York",
-    "artist": "Julian Casablancas",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273dff3c7e29f65bcb29f159386",
-    "spotifyUrl": "https://open.spotify.com/album/6rgmcaFB2gEbC7xR6AdWd1",
-    "playedAt": "2026-09-28T19:22:47.852Z"
   }
 ]
