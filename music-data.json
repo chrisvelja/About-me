@@ -1,5 +1,29 @@
 [
   {
+    "albumId": "2xkZV2Hl1Omi8rk2D7t5lN",
+    "title": "The New Abnormal",
+    "artist": "The Strokes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
+    "spotifyUrl": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN",
+    "playedAt": "2026-10-02T08:31:44.755Z"
+  },
+  {
+    "albumId": "2yNaksHgeMQM9Quse463b5",
+    "title": "Is This It",
+    "artist": "The Strokes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
+    "spotifyUrl": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5",
+    "playedAt": "2026-10-02T08:00:47.086Z"
+  },
+  {
+    "albumId": "5Z4qQSYHPbYjlXS6wnEhXD",
+    "title": "Futuri Possibili",
+    "artist": "Franco126, Coez",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731ca662be5e898820c3baed34",
+    "spotifyUrl": "https://open.spotify.com/album/5Z4qQSYHPbYjlXS6wnEhXD",
+    "playedAt": "2026-10-02T07:11:49.516Z"
+  },
+  {
     "albumId": "2CNuOGKjlE5KqjcfxMMJPK",
     "title": "Io Sono",
     "artist": "Olly, Juli",
@@ -301,7 +325,7 @@
     "artist": "Shawn Mendes",
     "cover": "https://i.scdn.co/image/ab67616d0000b273dd0d95a73f3b48cb2e28b4ca",
     "spotifyUrl": "https://open.spotify.com/album/5QhIKoyRYabBtE2Jqdp080",
-    "playedAt": "2026-09-29T09:40:55.544Z"
+    "playedAt": "2026-09-29T09:58:12.121Z"
   },
   {
     "albumId": "2eA4hR2JvFIH64t62rmB1J",
@@ -358,29 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273e7546ed84b9c6941fe0a1879",
     "spotifyUrl": "https://open.spotify.com/album/2vdMQdtjraDA0paMwtEbVd",
     "playedAt": "2026-09-29T07:06:53.402Z"
-  },
-  {
-    "albumId": "0zMH1I8EZPPGYAzxZ9H0gU",
-    "title": "1969 - Achille Idol Rebirth",
-    "artist": "Achille Lauro, Gow Tribe",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738291bb04660859d8d0eca427",
-    "spotifyUrl": "https://open.spotify.com/album/0zMH1I8EZPPGYAzxZ9H0gU",
-    "playedAt": "2026-09-29T06:56:49.431Z"
-  },
-  {
-    "albumId": "3gbJSNFlAe2CjqIjMOeMw1",
-    "title": "Affection",
-    "artist": "Cigarettes After Sex",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2735fb77915b586180b3b41ccbb",
-    "spotifyUrl": "https://open.spotify.com/album/3gbJSNFlAe2CjqIjMOeMw1",
-    "playedAt": "2026-09-28T20:38:41.011Z"
-  },
-  {
-    "albumId": "2CNuOGKjlE5KqjcfxMMJPK",
-    "title": "Io Sono",
-    "artist": "Olly, Yanomi, Joe Viegas",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27342c2d4a0c564da278376914d",
-    "spotifyUrl": "https://open.spotify.com/album/2CNuOGKjlE5KqjcfxMMJPK",
-    "playedAt": "2026-09-28T20:37:29.345Z"
   }
 ]
