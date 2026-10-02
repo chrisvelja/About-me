@@ -1,5 +1,13 @@
 [
   {
+    "albumId": "3HFbH1loOUbqCyPsLuHLLh",
+    "title": "Room On Fire",
+    "artist": "The Strokes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f",
+    "spotifyUrl": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh",
+    "playedAt": "2026-10-02T16:11:03.739Z"
+  },
+  {
     "albumId": "4I7uuSfSkHKJjrr1vpu4mi",
     "title": "Portamento",
     "artist": "The Drums",
@@ -240,20 +248,20 @@
     "playedAt": "2026-09-30T10:42:22.070Z"
   },
   {
+    "albumId": "0UeNZL0ZHRfMEPiyQ47udS",
+    "title": "IN MEZZO ALLE LUCI",
+    "artist": "Orfeo",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737e8f0070980f9522e5b248b2",
+    "spotifyUrl": "https://open.spotify.com/album/0UeNZL0ZHRfMEPiyQ47udS",
+    "playedAt": "2026-09-30T07:36:48.021Z"
+  },
+  {
     "albumId": "08SB1CgIS0yVIH7ZV99I6f",
     "title": "TUTTA VITA (SEMPRE)",
     "artist": "Olly, Juli",
     "cover": "https://i.scdn.co/image/ab67616d0000b2736752cb3279906514dd04c8aa",
     "spotifyUrl": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f",
     "playedAt": "2026-09-30T07:33:26.491Z"
-  },
-  {
-    "albumId": "0UeNZL0ZHRfMEPiyQ47udS",
-    "title": "IN MEZZO ALLE LUCI",
-    "artist": "Orfeo",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737e8f0070980f9522e5b248b2",
-    "spotifyUrl": "https://open.spotify.com/album/0UeNZL0ZHRfMEPiyQ47udS",
-    "playedAt": "2026-09-30T07:30:19.826Z"
   },
   {
     "albumId": "4QpLnSupGsuYYJYYoj29Q7",
@@ -374,13 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2731ca662be5e898820c3baed34",
     "spotifyUrl": "https://open.spotify.com/album/5Z4qQSYHPbYjlXS6wnEhXD",
     "playedAt": "2026-09-29T09:23:36.382Z"
-  },
-  {
-    "albumId": "08SB1CgIS0yVIH7ZV99I6f",
-    "title": "TUTTA VITA (SEMPRE)",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736752cb3279906514dd04c8aa",
-    "spotifyUrl": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f",
-    "playedAt": "2026-09-29T07:28:52.147Z"
   }
 ]
