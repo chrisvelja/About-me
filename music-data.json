@@ -1,5 +1,13 @@
 [
   {
+    "albumId": "4I7uuSfSkHKJjrr1vpu4mi",
+    "title": "Portamento",
+    "artist": "The Drums",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734c27d14a19e67dac23661031",
+    "spotifyUrl": "https://open.spotify.com/album/4I7uuSfSkHKJjrr1vpu4mi",
+    "playedAt": "2026-10-02T09:35:18.960Z"
+  },
+  {
     "albumId": "2xkZV2Hl1Omi8rk2D7t5lN",
     "title": "The New Abnormal",
     "artist": "The Strokes",
@@ -374,13 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2736752cb3279906514dd04c8aa",
     "spotifyUrl": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f",
     "playedAt": "2026-09-29T07:28:52.147Z"
-  },
-  {
-    "albumId": "2vdMQdtjraDA0paMwtEbVd",
-    "title": "Regardez moi",
-    "artist": "Frah Quintale",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e7546ed84b9c6941fe0a1879",
-    "spotifyUrl": "https://open.spotify.com/album/2vdMQdtjraDA0paMwtEbVd",
-    "playedAt": "2026-09-29T07:06:53.402Z"
   }
 ]
