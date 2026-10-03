@@ -1,5 +1,13 @@
 [
   {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-10-02T20:40:36.307Z"
+  },
+  {
     "albumId": "6YBqlDGZ2JHa5ThndFJcf1",
     "title": "Tropico Del Capricorno",
     "artist": "Gu\u00e8, Rose Villain",
@@ -374,13 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273d1cf50e353cfd76aa5f5e089",
     "spotifyUrl": "https://open.spotify.com/album/20sHyIAg35uE2Ja9KmplZv",
     "playedAt": "2026-09-30T10:42:22.070Z"
-  },
-  {
-    "albumId": "0UeNZL0ZHRfMEPiyQ47udS",
-    "title": "IN MEZZO ALLE LUCI",
-    "artist": "Orfeo",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737e8f0070980f9522e5b248b2",
-    "spotifyUrl": "https://open.spotify.com/album/0UeNZL0ZHRfMEPiyQ47udS",
-    "playedAt": "2026-09-30T07:36:48.021Z"
   }
 ]
