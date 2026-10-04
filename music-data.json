@@ -1,5 +1,37 @@
 [
   {
+    "albumId": "0P8drxOARh9LbMdSksQK65",
+    "title": "licia",
+    "artist": "PETRA",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ed13fc4a83aee36b2c143ad9",
+    "spotifyUrl": "https://open.spotify.com/album/0P8drxOARh9LbMdSksQK65",
+    "playedAt": "2026-10-04T21:30:17.450Z"
+  },
+  {
+    "albumId": "3jBVpCL4ePAQp4dXTGf66x",
+    "title": "Su x gi\u00f9",
+    "artist": "Giuse The Lizia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a4e38eb58b4baa824c8d8c34",
+    "spotifyUrl": "https://open.spotify.com/album/3jBVpCL4ePAQp4dXTGf66x",
+    "playedAt": "2026-10-04T21:27:25.601Z"
+  },
+  {
+    "albumId": "1LA6VsdQLEJ76u6V3egSmE",
+    "title": "Los Angeles",
+    "artist": "Giuse The Lizia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27361f48b8f644f919e229a1776",
+    "spotifyUrl": "https://open.spotify.com/album/1LA6VsdQLEJ76u6V3egSmE",
+    "playedAt": "2026-10-04T20:31:12.081Z"
+  },
+  {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-10-04T20:28:24.878Z"
+  },
+  {
     "albumId": "4WnkQO4xD9ljQooB3VIxCV",
     "title": "Comedown Machine",
     "artist": "The Strokes",
@@ -184,6 +216,14 @@
     "playedAt": "2026-10-02T18:29:42.455Z"
   },
   {
+    "albumId": "2xkZV2Hl1Omi8rk2D7t5lN",
+    "title": "The New Abnormal",
+    "artist": "The Strokes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
+    "spotifyUrl": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN",
+    "playedAt": "2026-10-02T18:25:35.615Z"
+  },
+  {
     "albumId": "3HFbH1loOUbqCyPsLuHLLh",
     "title": "Room On Fire",
     "artist": "The Strokes",
@@ -192,28 +232,20 @@
     "playedAt": "2026-10-02T16:11:03.739Z"
   },
   {
+    "albumId": "2yNaksHgeMQM9Quse463b5",
+    "title": "Is This It",
+    "artist": "The Strokes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
+    "spotifyUrl": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5",
+    "playedAt": "2026-10-02T16:04:19.475Z"
+  },
+  {
     "albumId": "4I7uuSfSkHKJjrr1vpu4mi",
     "title": "Portamento",
     "artist": "The Drums",
     "cover": "https://i.scdn.co/image/ab67616d0000b2734c27d14a19e67dac23661031",
     "spotifyUrl": "https://open.spotify.com/album/4I7uuSfSkHKJjrr1vpu4mi",
     "playedAt": "2026-10-02T09:35:18.960Z"
-  },
-  {
-    "albumId": "2xkZV2Hl1Omi8rk2D7t5lN",
-    "title": "The New Abnormal",
-    "artist": "The Strokes",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
-    "spotifyUrl": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN",
-    "playedAt": "2026-10-02T08:31:44.755Z"
-  },
-  {
-    "albumId": "2yNaksHgeMQM9Quse463b5",
-    "title": "Is This It",
-    "artist": "The Strokes",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
-    "spotifyUrl": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5",
-    "playedAt": "2026-10-02T08:00:47.086Z"
   },
   {
     "albumId": "5Z4qQSYHPbYjlXS6wnEhXD",
@@ -350,37 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b27353bfae2747ebc6cc8ea0b5a3",
     "spotifyUrl": "https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa",
     "playedAt": "2026-09-30T23:37:37.132Z"
-  },
-  {
-    "albumId": "7qZ5XKi1L7ivSxcFFyEjBV",
-    "title": "Il Mondo Gira",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a9e40bd192d83079cb8c385f",
-    "spotifyUrl": "https://open.spotify.com/album/7qZ5XKi1L7ivSxcFFyEjBV",
-    "playedAt": "2026-09-30T22:57:21.791Z"
-  },
-  {
-    "albumId": "5PdqPLG4hUzuLAWUDFaZap",
-    "title": "Gira, il mondo gira",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734743343cec324c534a99ca39",
-    "spotifyUrl": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap",
-    "playedAt": "2026-09-30T22:50:57.356Z"
-  },
-  {
-    "albumId": "5W30YJavMoHwG64cPD4L9C",
-    "title": "The Beginning",
-    "artist": "FIFTY FIFTY",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273eb535219dc875690e09dd8f9",
-    "spotifyUrl": "https://open.spotify.com/album/5W30YJavMoHwG64cPD4L9C",
-    "playedAt": "2026-09-30T22:47:42.935Z"
-  },
-  {
-    "albumId": "1P21UjZvPPhykRVtsPyhCl",
-    "title": "STAR",
-    "artist": "\u5343\u8449\u96c4\u559c",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a71faa5704399942d9953ebe",
-    "spotifyUrl": "https://open.spotify.com/album/1P21UjZvPPhykRVtsPyhCl",
-    "playedAt": "2026-09-30T14:41:14.569Z"
   }
 ]
