@@ -200,12 +200,13 @@
   loadMusicData();
 
   var books = [
-    {title:'Book One', author:'Author Name', about:'A summary of what the book is about and why it stuck with you.', link:'#'},
-    {title:'Book Two', author:'Author Name', about:'A summary of what the book is about and why it stuck with you.', link:'#'},
-    {title:'Book Three', author:'Author Name', about:'A summary of what the book is about and why it stuck with you.', link:'#'},
-    {title:'Book Four', author:'Author Name', about:'A summary of what the book is about and why it stuck with you.', link:'#'}
+    {title:'White Nights', author:'Fyodor Dostoevsky', about:"A lonely dreamer falls for a young woman over four nights in St. Petersburg, in one of Dostoevsky's shortest and most tender stories.", link:'#', cover:'covers/white-nights.jpg'},
+    {title:'Norwegian Wood', author:'Haruki Murakami', about:'A nostalgic, melancholic coming-of-age story of love and loss in 1960s Tokyo.', link:'#', cover:'covers/norwegian-wood.jpg'},
+    {title:'Novecento', author:'Alessandro Baricco', about:'A pianist born and raised entirely aboard an ocean liner, who never once sets foot on land, told as a single theatrical monologue.', link:'#', cover:'covers/novecento.jpg'},
+    {title:'The Moon and the Bonfire', author:'Cesare Pavese', about:'A man returns to his Piedmont village after years in America, piecing together what the war left behind.', link:'#', cover:'covers/moon-and-bonfire.jpg'},
+    {title:'Portrait in Jazz', author:'Haruki Murakami & Wada Makoto', about:"Short essays pairing Murakami's favorite jazz records with Wada's illustrations \u2014 never officially published in English.", link:'#', cover:'covers/portrait-in-jazz.jpg'}
   ];
-  var bookCovers = ['#B8783C','#4C6FA5','#A55C7A','#5C8F6B'];
+  var bookCovers = ['#B8783C','#4C6FA5','#A55C7A','#5C8F6B','#B8963C'];
   var bookIndex = 0;
   function renderBook(){
     var b = books[bookIndex];
@@ -213,7 +214,8 @@
     document.getElementById('book-author').textContent = 'by ' + b.author;
     document.getElementById('book-about').textContent = b.about;
     document.getElementById('book-link').href = b.link;
-    document.getElementById('book-cover').style.background = 'linear-gradient(135deg,' + bookCovers[bookIndex % bookCovers.length] + ',#2A2E32)';
+    var cover = document.getElementById('book-cover');
+    cover.style.backgroundImage = "url('" + b.cover + "'), linear-gradient(135deg," + bookCovers[bookIndex % bookCovers.length] + ",#2A2E32)";
   }
   document.getElementById('book-prev').addEventListener('click', function(){ if(bookIndex > 0){ bookIndex--; renderBook(); } });
   document.getElementById('book-next').addEventListener('click', function(){ if(bookIndex < books.length - 1){ bookIndex++; renderBook(); } });
