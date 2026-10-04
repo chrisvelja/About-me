@@ -1,5 +1,53 @@
 [
   {
+    "albumId": "4WnkQO4xD9ljQooB3VIxCV",
+    "title": "Comedown Machine",
+    "artist": "The Strokes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f07ef193e0bb6a238ea37f0a",
+    "spotifyUrl": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV",
+    "playedAt": "2026-10-04T14:43:46.575Z"
+  },
+  {
+    "albumId": "1HQ61my1h3VWp2EBWKlp0n",
+    "title": "First Impressions Of Earth",
+    "artist": "The Strokes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736898a982ff3c6049ba52586c",
+    "spotifyUrl": "https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n",
+    "playedAt": "2026-10-04T14:40:21.310Z"
+  },
+  {
+    "albumId": "3HFbH1loOUbqCyPsLuHLLh",
+    "title": "Room On Fire",
+    "artist": "The Strokes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f",
+    "spotifyUrl": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh",
+    "playedAt": "2026-10-04T14:31:19.271Z"
+  },
+  {
+    "albumId": "2yNaksHgeMQM9Quse463b5",
+    "title": "Is This It",
+    "artist": "The Strokes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
+    "spotifyUrl": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5",
+    "playedAt": "2026-10-04T14:24:34.871Z"
+  },
+  {
+    "albumId": "2xkZV2Hl1Omi8rk2D7t5lN",
+    "title": "The New Abnormal",
+    "artist": "The Strokes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
+    "spotifyUrl": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN",
+    "playedAt": "2026-10-04T14:17:38.788Z"
+  },
+  {
+    "albumId": "4gvyJRNQPBb1kOWqwZjUYI",
+    "title": "HABIBTI (FOMO)",
+    "artist": "Drake",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732685b70af798b4f272c00d8a",
+    "spotifyUrl": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI",
+    "playedAt": "2026-10-04T13:57:30.839Z"
+  },
+  {
     "albumId": "04v8KIBvsyz6OTvSSrBhkI",
     "title": "SINCERO!",
     "artist": "Rare\u0219",
@@ -334,53 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273a71faa5704399942d9953ebe",
     "spotifyUrl": "https://open.spotify.com/album/1P21UjZvPPhykRVtsPyhCl",
     "playedAt": "2026-09-30T14:41:14.569Z"
-  },
-  {
-    "albumId": "54Y471E7GNBSOXjZtqONId",
-    "title": "DAYS BEFORE RODEO",
-    "artist": "Travis Scott",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a2a7386de6494fc9275e1abb",
-    "spotifyUrl": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId",
-    "playedAt": "2026-09-30T14:38:09.587Z"
-  },
-  {
-    "albumId": "6J84szYCnMfzEcvIcfWMFL",
-    "title": "Doo-Wops & Hooligans",
-    "artist": "Bruno Mars",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738a9eb5a1f701d1d367a5ea10",
-    "spotifyUrl": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL",
-    "playedAt": "2026-09-30T14:34:48.583Z"
-  },
-  {
-    "albumId": "3T4tUhGYeRNVUGevb0wThu",
-    "title": "\u00f7 (Deluxe)",
-    "artist": "Ed Sheeran",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
-    "spotifyUrl": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu",
-    "playedAt": "2026-09-30T14:31:05.923Z"
-  },
-  {
-    "albumId": "7gsWAHLeT0w7es6FofOXk1",
-    "title": "The Life Of Pablo",
-    "artist": "Kanye West",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
-    "spotifyUrl": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1",
-    "playedAt": "2026-09-30T14:26:05.177Z"
-  },
-  {
-    "albumId": "4QpLnSupGsuYYJYYoj29Q7",
-    "title": "TUTTA VITA",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739a9754efa9799615cf6045e9",
-    "spotifyUrl": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7",
-    "playedAt": "2026-09-30T10:49:16.397Z"
-  },
-  {
-    "albumId": "20sHyIAg35uE2Ja9KmplZv",
-    "title": "TOCCA IL CIELO",
-    "artist": "bnkr44",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273d1cf50e353cfd76aa5f5e089",
-    "spotifyUrl": "https://open.spotify.com/album/20sHyIAg35uE2Ja9KmplZv",
-    "playedAt": "2026-09-30T10:42:22.070Z"
   }
 ]
