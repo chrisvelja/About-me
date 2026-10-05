@@ -1,5 +1,13 @@
 [
   {
+    "albumId": "2yNaksHgeMQM9Quse463b5",
+    "title": "Is This It",
+    "artist": "The Strokes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
+    "spotifyUrl": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5",
+    "playedAt": "2026-10-05T05:53:10.231Z"
+  },
+  {
     "albumId": "43bI6dV1TRBpW7wuQbjSUn",
     "title": "Ho Perso Di Vista Me",
     "artist": "43.Nove, Brus DMC",
@@ -374,13 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273b9c1e98291b65f17c9cf4a29",
     "spotifyUrl": "https://open.spotify.com/album/2dSL2X3K3YoVwaKty2JYcE",
     "playedAt": "2026-09-30T23:43:16.867Z"
-  },
-  {
-    "albumId": "4OaPU3DM8Mr7yOnVPXeCuh",
-    "title": "Mediterraneo (Dopo il Mare)",
-    "artist": "Bresh",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27313f95e59fc87aa92b6e63d70",
-    "spotifyUrl": "https://open.spotify.com/album/4OaPU3DM8Mr7yOnVPXeCuh",
-    "playedAt": "2026-09-30T23:40:33.352Z"
   }
 ]
