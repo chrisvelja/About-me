@@ -1,5 +1,13 @@
 [
   {
+    "albumId": "43bI6dV1TRBpW7wuQbjSUn",
+    "title": "Ho Perso Di Vista Me",
+    "artist": "43.Nove, Brus DMC",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f54d76ad5cfeacd9f7c7c138",
+    "spotifyUrl": "https://open.spotify.com/album/43bI6dV1TRBpW7wuQbjSUn",
+    "playedAt": "2026-10-04T21:33:34.569Z"
+  },
+  {
     "albumId": "0P8drxOARh9LbMdSksQK65",
     "title": "licia",
     "artist": "PETRA",
@@ -374,13 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b27313f95e59fc87aa92b6e63d70",
     "spotifyUrl": "https://open.spotify.com/album/4OaPU3DM8Mr7yOnVPXeCuh",
     "playedAt": "2026-09-30T23:40:33.352Z"
-  },
-  {
-    "albumId": "5nQff1e9q2Tcsa4bEyWXMa",
-    "title": "1998",
-    "artist": "Coez",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27353bfae2747ebc6cc8ea0b5a3",
-    "spotifyUrl": "https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa",
-    "playedAt": "2026-09-30T23:37:37.132Z"
   }
 ]
