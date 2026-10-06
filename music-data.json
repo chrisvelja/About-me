@@ -1,5 +1,53 @@
 [
   {
+    "albumId": "1WEuYNzAvXGLIcOBv64leK",
+    "title": "MONEY ON THE DASH",
+    "artist": "Elley Duh\u00e9, Whethan",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734d9331367e160fee20bf4e4d",
+    "spotifyUrl": "https://open.spotify.com/album/1WEuYNzAvXGLIcOBv64leK",
+    "playedAt": "2026-10-06T13:54:49.368Z"
+  },
+  {
+    "albumId": "0XZk3coJHXIQnpj1J7R3FD",
+    "title": "Parole in circolo",
+    "artist": "Marco Mengoni",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736c9f1cb08e75acaf6853b06f",
+    "spotifyUrl": "https://open.spotify.com/album/0XZk3coJHXIQnpj1J7R3FD",
+    "playedAt": "2026-10-06T13:52:44.575Z"
+  },
+  {
+    "albumId": "1Ckbuzoh1dYKFnpNYmVEof",
+    "title": "A Collection of Fleeting Moments and Daydreams",
+    "artist": "Orion Sun",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27366f9ab70ba645b24de259447",
+    "spotifyUrl": "https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof",
+    "playedAt": "2026-10-06T13:46:28.239Z"
+  },
+  {
+    "albumId": "3cQO7jp5S9qLBoIVtbkSM1",
+    "title": "Blurryface",
+    "artist": "Twenty One Pilots",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7",
+    "spotifyUrl": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1",
+    "playedAt": "2026-10-06T13:45:30.256Z"
+  },
+  {
+    "albumId": "4jI9SU1GmpIVhHMuYZuvX7",
+    "title": "The Fall-Off",
+    "artist": "J. Cole",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27380788f104c780412212e97e3",
+    "spotifyUrl": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7",
+    "playedAt": "2026-10-06T13:14:08.059Z"
+  },
+  {
+    "albumId": "5dGWwsZ9iB2Xc3UKR0gif2",
+    "title": "Justice",
+    "artist": "Justin Bieber",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431",
+    "spotifyUrl": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2",
+    "playedAt": "2026-10-06T13:10:02.673Z"
+  },
+  {
     "albumId": "3wpFDAZw49DchQMUWfi0iY",
     "title": "Acqua Salata",
     "artist": "chiello",
@@ -38,6 +86,14 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
     "spotifyUrl": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5",
     "playedAt": "2026-10-05T05:53:10.231Z"
+  },
+  {
+    "albumId": "2yNaksHgeMQM9Quse463b5",
+    "title": "Is This It",
+    "artist": "The Strokes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
+    "spotifyUrl": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5",
+    "playedAt": "2026-10-04T22:07:56.849Z"
   },
   {
     "albumId": "43bI6dV1TRBpW7wuQbjSUn",
@@ -96,28 +152,20 @@
     "playedAt": "2026-10-04T14:40:21.310Z"
   },
   {
+    "albumId": "2xkZV2Hl1Omi8rk2D7t5lN",
+    "title": "The New Abnormal",
+    "artist": "The Strokes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
+    "spotifyUrl": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN",
+    "playedAt": "2026-10-04T14:37:11.579Z"
+  },
+  {
     "albumId": "3HFbH1loOUbqCyPsLuHLLh",
     "title": "Room On Fire",
     "artist": "The Strokes",
     "cover": "https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f",
     "spotifyUrl": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh",
     "playedAt": "2026-10-04T14:31:19.271Z"
-  },
-  {
-    "albumId": "2yNaksHgeMQM9Quse463b5",
-    "title": "Is This It",
-    "artist": "The Strokes",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
-    "spotifyUrl": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5",
-    "playedAt": "2026-10-04T14:24:34.871Z"
-  },
-  {
-    "albumId": "2xkZV2Hl1Omi8rk2D7t5lN",
-    "title": "The New Abnormal",
-    "artist": "The Strokes",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
-    "spotifyUrl": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN",
-    "playedAt": "2026-10-04T14:17:38.788Z"
   },
   {
     "albumId": "4gvyJRNQPBb1kOWqwZjUYI",
@@ -334,53 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2736c8711e9758b08b65159ed2a",
     "spotifyUrl": "https://open.spotify.com/album/6v9auApDKLIxYeoJCZqPDO",
     "playedAt": "2026-10-01T11:09:26.115Z"
-  },
-  {
-    "albumId": "3LXvt5r3boBy4sQQpxmsi9",
-    "title": "Gemelli",
-    "artist": "Ernia",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273820c0ed614ed30340ba38f28",
-    "spotifyUrl": "https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9",
-    "playedAt": "2026-10-01T11:06:01.598Z"
-  },
-  {
-    "albumId": "5xiuwFxGpemqPBxzJQ6AYd",
-    "title": "Mediterraneo",
-    "artist": "Bresh, SHUNE",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734589fd17efbf045525dccca0",
-    "spotifyUrl": "https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd",
-    "playedAt": "2026-10-01T11:03:08.886Z"
-  },
-  {
-    "albumId": "5nQff1e9q2Tcsa4bEyWXMa",
-    "title": "1998",
-    "artist": "Coez",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27353bfae2747ebc6cc8ea0b5a3",
-    "spotifyUrl": "https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa",
-    "playedAt": "2026-10-01T11:00:15.657Z"
-  },
-  {
-    "albumId": "3tiuh424B3Leg8bxHc1Jv5",
-    "title": "Comuni Mortali",
-    "artist": "Achille Lauro",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273264663d274f67b13c4ae531e",
-    "spotifyUrl": "https://open.spotify.com/album/3tiuh424B3Leg8bxHc1Jv5",
-    "playedAt": "2026-10-01T10:57:03.072Z"
-  },
-  {
-    "albumId": "7cHvY650WYCDZ6b50fVfkZ",
-    "title": "Hai fatto bene",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736eb690a8df60d1ec30ddbbed",
-    "spotifyUrl": "https://open.spotify.com/album/7cHvY650WYCDZ6b50fVfkZ",
-    "playedAt": "2026-10-01T10:54:05.166Z"
-  },
-  {
-    "albumId": "0Wt6T9OkicquHV9EauKAd7",
-    "title": "La Vita Veramente",
-    "artist": "Fulminacci",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b447bc580fd3431a2f95ad39",
-    "spotifyUrl": "https://open.spotify.com/album/0Wt6T9OkicquHV9EauKAd7",
-    "playedAt": "2026-10-01T10:32:37.122Z"
   }
 ]
