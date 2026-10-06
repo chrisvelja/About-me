@@ -1,5 +1,13 @@
 [
   {
+    "albumId": "5K79FLRUCSysQnVESLcTdb",
+    "title": "DeB\u00cd TiRAR M\u00e1S FOToS",
+    "artist": "Bad Bunny, RaiNao",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "spotifyUrl": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb",
+    "playedAt": "2026-10-05T22:27:33.199Z"
+  },
+  {
     "albumId": "2yNaksHgeMQM9Quse463b5",
     "title": "Is This It",
     "artist": "The Strokes",
@@ -374,13 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b27375f68c99ee8e5514d8dfb7d3",
     "spotifyUrl": "https://open.spotify.com/album/0jHdKUHCpkeGvNiHzzWiM1",
     "playedAt": "2026-10-01T08:44:28.714Z"
-  },
-  {
-    "albumId": "2dSL2X3K3YoVwaKty2JYcE",
-    "title": "Ma'",
-    "artist": "BLANCO",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b9c1e98291b65f17c9cf4a29",
-    "spotifyUrl": "https://open.spotify.com/album/2dSL2X3K3YoVwaKty2JYcE",
-    "playedAt": "2026-09-30T23:43:16.867Z"
   }
 ]
