@@ -1,5 +1,21 @@
 [
   {
+    "albumId": "0qnrE0wjP5harsRFXgoBo3",
+    "title": "Mi Chico (Official - Jason Derulo x Melody)",
+    "artist": "DJ Goja, Jason Derulo, Melody",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a1eddd41334d7100b94e602a",
+    "spotifyUrl": "https://open.spotify.com/album/0qnrE0wjP5harsRFXgoBo3",
+    "playedAt": "2026-10-06T06:08:10.561Z"
+  },
+  {
+    "albumId": "3T4tUhGYeRNVUGevb0wThu",
+    "title": "\u00f7 (Deluxe)",
+    "artist": "Ed Sheeran",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
+    "spotifyUrl": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu",
+    "playedAt": "2026-10-06T06:05:46.334Z"
+  },
+  {
     "albumId": "5K79FLRUCSysQnVESLcTdb",
     "title": "DeB\u00cd TiRAR M\u00e1S FOToS",
     "artist": "Bad Bunny, RaiNao",
@@ -366,21 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b27311db5c0adf8b90e0c5138336",
     "spotifyUrl": "https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD",
     "playedAt": "2026-10-01T08:51:22.303Z"
-  },
-  {
-    "albumId": "7qZ5XKi1L7ivSxcFFyEjBV",
-    "title": "Il Mondo Gira",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a9e40bd192d83079cb8c385f",
-    "spotifyUrl": "https://open.spotify.com/album/7qZ5XKi1L7ivSxcFFyEjBV",
-    "playedAt": "2026-10-01T08:47:22.449Z"
-  },
-  {
-    "albumId": "0jHdKUHCpkeGvNiHzzWiM1",
-    "title": "Nostalgia",
-    "artist": "Noemi",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27375f68c99ee8e5514d8dfb7d3",
-    "spotifyUrl": "https://open.spotify.com/album/0jHdKUHCpkeGvNiHzzWiM1",
-    "playedAt": "2026-10-01T08:44:28.714Z"
   }
 ]
