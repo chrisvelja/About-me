@@ -1,5 +1,13 @@
 [
   {
+    "albumId": "3wpFDAZw49DchQMUWfi0iY",
+    "title": "Acqua Salata",
+    "artist": "chiello",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b16de3b61a11237710302d33",
+    "spotifyUrl": "https://open.spotify.com/album/3wpFDAZw49DchQMUWfi0iY",
+    "playedAt": "2026-10-06T10:37:16.908Z"
+  },
+  {
     "albumId": "0qnrE0wjP5harsRFXgoBo3",
     "title": "Mi Chico (Official - Jason Derulo x Melody)",
     "artist": "DJ Goja, Jason Derulo, Melody",
@@ -117,7 +125,7 @@
     "artist": "Drake",
     "cover": "https://i.scdn.co/image/ab67616d0000b2732685b70af798b4f272c00d8a",
     "spotifyUrl": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI",
-    "playedAt": "2026-10-04T13:57:30.839Z"
+    "playedAt": "2026-10-04T14:00:28.883Z"
   },
   {
     "albumId": "04v8KIBvsyz6OTvSSrBhkI",
@@ -374,13 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273b447bc580fd3431a2f95ad39",
     "spotifyUrl": "https://open.spotify.com/album/0Wt6T9OkicquHV9EauKAd7",
     "playedAt": "2026-10-01T10:32:37.122Z"
-  },
-  {
-    "albumId": "7o2Ac7nDPNLO0tOsdZ73JD",
-    "title": "SOLITO CINEMA",
-    "artist": "Juli, Olly",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27311db5c0adf8b90e0c5138336",
-    "spotifyUrl": "https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD",
-    "playedAt": "2026-10-01T08:51:22.303Z"
   }
 ]
