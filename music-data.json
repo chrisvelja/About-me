@@ -1,5 +1,165 @@
 [
   {
+    "albumId": "0EguP4tsJurU5I8ocCxdyb",
+    "title": "Beats, Rhymes & Life",
+    "artist": "A Tribe Called Quest",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e3b93c08d98f92dc3ab0146a",
+    "spotifyUrl": "https://open.spotify.com/album/0EguP4tsJurU5I8ocCxdyb",
+    "playedAt": "2026-10-06T18:06:07.288Z"
+  },
+  {
+    "albumId": "32JCQPzflPiUX9weKyUrFZ",
+    "title": "2000",
+    "artist": "Grand Puba",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27362db6e59b2f600ce2edf1a23",
+    "spotifyUrl": "https://open.spotify.com/album/32JCQPzflPiUX9weKyUrFZ",
+    "playedAt": "2026-10-06T18:02:39.289Z"
+  },
+  {
+    "albumId": "3A2IoZLoYD8EebaHnwWTmB",
+    "title": "Spontaneity",
+    "artist": "K-Otix",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731861345d0ea838103bd3e40c",
+    "spotifyUrl": "https://open.spotify.com/album/3A2IoZLoYD8EebaHnwWTmB",
+    "playedAt": "2026-10-06T17:58:36.731Z"
+  },
+  {
+    "albumId": "1mrhahrlJu5JfzgeV6Cy8t",
+    "title": "Take Me To Your Leader",
+    "artist": "King Geedorah, John Robinson, Stahhr, Stacy Epps, Invizible Handz",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c54028b0ef2f2f569fb3df42",
+    "spotifyUrl": "https://open.spotify.com/album/1mrhahrlJu5JfzgeV6Cy8t",
+    "playedAt": "2026-10-06T17:55:51.716Z"
+  },
+  {
+    "albumId": "19bQiwEKhXUBJWY6oV3KZk",
+    "title": "Madvillainy",
+    "artist": "Madvillain, Madlib, MF DOOM",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733e3bb917af94bd82074c5d47",
+    "spotifyUrl": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk",
+    "playedAt": "2026-10-06T17:50:53.323Z"
+  },
+  {
+    "albumId": "2ClZ9xWAYg1BH8zkR96dJo",
+    "title": "USB",
+    "artist": "Fred again.., BIA",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734018b70099d433d9c8aabb12",
+    "spotifyUrl": "https://open.spotify.com/album/2ClZ9xWAYg1BH8zkR96dJo",
+    "playedAt": "2026-10-06T17:49:17.304Z"
+  },
+  {
+    "albumId": "3uFgYgCEvCSACjB8XHl3hb",
+    "title": "CASIOPEA",
+    "artist": "CASIOPEA",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273648478cb25e3e302454e40e1",
+    "spotifyUrl": "https://open.spotify.com/album/3uFgYgCEvCSACjB8XHl3hb",
+    "playedAt": "2026-10-06T17:45:24.056Z"
+  },
+  {
+    "albumId": "4mwO9qIVmngSe7yR5Ios0I",
+    "title": "ONEPOINTFIVE",
+    "artist": "Amin\u00e9",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a52fb68f00620e45ed7467c5",
+    "spotifyUrl": "https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I",
+    "playedAt": "2026-10-06T17:38:02.696Z"
+  },
+  {
+    "albumId": "0jYmAPQezr1aG75KerJCdG",
+    "title": "Three Imaginary Boys",
+    "artist": "The Cure",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273145f62824c79efecf474081f",
+    "spotifyUrl": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG",
+    "playedAt": "2026-10-06T17:34:05.787Z"
+  },
+  {
+    "albumId": "4I7uuSfSkHKJjrr1vpu4mi",
+    "title": "Portamento",
+    "artist": "The Drums",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734c27d14a19e67dac23661031",
+    "spotifyUrl": "https://open.spotify.com/album/4I7uuSfSkHKJjrr1vpu4mi",
+    "playedAt": "2026-10-06T17:31:29.366Z"
+  },
+  {
+    "albumId": "5apkkoLPJJYZcghFfuNTF3",
+    "title": "BEFORE I FORGET",
+    "artist": "The Kid LAROI",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734ee3d2ae694b3b78125a5443",
+    "spotifyUrl": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3",
+    "playedAt": "2026-10-06T17:26:52.492Z"
+  },
+  {
+    "albumId": "0UeNZL0ZHRfMEPiyQ47udS",
+    "title": "IN MEZZO ALLE LUCI",
+    "artist": "Orfeo",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737e8f0070980f9522e5b248b2",
+    "spotifyUrl": "https://open.spotify.com/album/0UeNZL0ZHRfMEPiyQ47udS",
+    "playedAt": "2026-10-06T17:23:13.895Z"
+  },
+  {
+    "albumId": "0IJcpy0eM4o63J43qij68g",
+    "title": "Ladies & Gentlemen",
+    "artist": "George Michael",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273813629baee66b2ec5f90ebee",
+    "spotifyUrl": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g",
+    "playedAt": "2026-10-06T17:15:36.281Z"
+  },
+  {
+    "albumId": "4qZBW3f2Q8y0k1A84d4iAO",
+    "title": "My Dear Melancholy,",
+    "artist": "The Weeknd",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731f6a2a40bb692936879db730",
+    "spotifyUrl": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO",
+    "playedAt": "2026-10-06T17:12:23.397Z"
+  },
+  {
+    "albumId": "1XqWXTFczDFTgnCWZSV242",
+    "title": "Arc de Triomphe",
+    "artist": "Amin\u00e9",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27354a09c282dd69f5e092f268a",
+    "spotifyUrl": "https://open.spotify.com/album/1XqWXTFczDFTgnCWZSV242",
+    "playedAt": "2026-10-06T17:08:34.508Z"
+  },
+  {
+    "albumId": "5DvJgsMLbaR1HmAI6VhfcQ",
+    "title": "Endless Summer Vacation",
+    "artist": "Miley Cyrus",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27366fd0917f38d472c8576754e",
+    "spotifyUrl": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ",
+    "playedAt": "2026-10-06T17:06:46.430Z"
+  },
+  {
+    "albumId": "54dZypaXHAIDzBe9ujAZ63",
+    "title": "Paint The Town Red",
+    "artist": "Doja Cat",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e69a141e4ffe839c38c4c228",
+    "spotifyUrl": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63",
+    "playedAt": "2026-10-06T17:02:56.558Z"
+  },
+  {
+    "albumId": "5SQrlPanuIhyEZXxsPRa35",
+    "title": "Salmo Unplugged",
+    "artist": "Salmo",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730e07fa493f3c31635704e719",
+    "spotifyUrl": "https://open.spotify.com/album/5SQrlPanuIhyEZXxsPRa35",
+    "playedAt": "2026-10-06T16:59:04.300Z"
+  },
+  {
+    "albumId": "6gJ8VKn5PAFcCIVaf3B2uE",
+    "title": "Nectar",
+    "artist": "Joji, BENEE",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f733e50079838090eebc3fe4",
+    "spotifyUrl": "https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE",
+    "playedAt": "2026-10-06T16:52:44.968Z"
+  },
+  {
+    "albumId": "08SB1CgIS0yVIH7ZV99I6f",
+    "title": "TUTTA VITA (SEMPRE)",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736752cb3279906514dd04c8aa",
+    "spotifyUrl": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f",
+    "playedAt": "2026-10-06T16:45:22.847Z"
+  },
+  {
     "albumId": "1WEuYNzAvXGLIcOBv64leK",
     "title": "MONEY ON THE DASH",
     "artist": "Elley Duh\u00e9, Whethan",
@@ -222,165 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2738a74ae566a53bd0be38fb749",
     "spotifyUrl": "https://open.spotify.com/album/5iGQ5E9c2gQoleZzgBBIF6",
     "playedAt": "2026-10-02T19:06:55.756Z"
-  },
-  {
-    "albumId": "0PHtGRre3r6eHO3kHKvgGL",
-    "title": "OCEANICA",
-    "artist": "Merk & Kremont, Jovanotti",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b8f35e9c4be873bea7ed5480",
-    "spotifyUrl": "https://open.spotify.com/album/0PHtGRre3r6eHO3kHKvgGL",
-    "playedAt": "2026-10-02T19:04:14.201Z"
-  },
-  {
-    "albumId": "3ixf929ty0cKT46gJ0sJ9Y",
-    "title": "PER SOLDI E PER AMORE",
-    "artist": "Ernia, Kid Yugi",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c1fc667f2f142100a44348e8",
-    "spotifyUrl": "https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y",
-    "playedAt": "2026-10-02T19:00:03.473Z"
-  },
-  {
-    "albumId": "3EREGNLTHWi1SZCoDKT4Pd",
-    "title": "This Is Elodie",
-    "artist": "Elodie, Marracash",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273bad09f776b795f1adeac2744",
-    "spotifyUrl": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd",
-    "playedAt": "2026-10-02T18:57:17.446Z"
-  },
-  {
-    "albumId": "6P6XpRDVYpqGJ64pgcWRzT",
-    "title": "Maledetta Primavera (A-Clark & VINNY Remix)",
-    "artist": "Loretta Goggi, A-Clark, VINNY",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737f347366047b5dbe52bb31db",
-    "spotifyUrl": "https://open.spotify.com/album/6P6XpRDVYpqGJ64pgcWRzT",
-    "playedAt": "2026-10-02T18:54:19.749Z"
-  },
-  {
-    "albumId": "64mzxfRIXYCm6NVj0NTefe",
-    "title": "Kriminal (Prod. by Roberto Ferrante)",
-    "artist": "Baby Gang, El Alfa, Omega, Roberto Ferrante",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b5664fc4700d1a24595116d0",
-    "spotifyUrl": "https://open.spotify.com/album/64mzxfRIXYCm6NVj0NTefe",
-    "playedAt": "2026-10-02T18:51:58.167Z"
-  },
-  {
-    "albumId": "5PdqPLG4hUzuLAWUDFaZap",
-    "title": "Gira, il mondo gira",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734743343cec324c534a99ca39",
-    "spotifyUrl": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap",
-    "playedAt": "2026-10-02T18:48:48.393Z"
-  },
-  {
-    "albumId": "3k0gbDJ1p2nbqFNHeKVwi4",
-    "title": "The Greatest Hits",
-    "artist": "Ricky Martin",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a215d0780485abb2d384bab9",
-    "spotifyUrl": "https://open.spotify.com/album/3k0gbDJ1p2nbqFNHeKVwi4",
-    "playedAt": "2026-10-02T18:40:47.783Z"
-  },
-  {
-    "albumId": "5xiuwFxGpemqPBxzJQ6AYd",
-    "title": "Mediterraneo",
-    "artist": "Bresh",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734589fd17efbf045525dccca0",
-    "spotifyUrl": "https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd",
-    "playedAt": "2026-10-02T18:37:36.380Z"
-  },
-  {
-    "albumId": "5e9rosdcFjzhJsiJi9iME0",
-    "title": "Narcos: Season 2 (A Netflix Original Series Soundtrack)",
-    "artist": "Rodrigo Amarante",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736ac9fbfa13ea58e432eb25ae",
-    "spotifyUrl": "https://open.spotify.com/album/5e9rosdcFjzhJsiJi9iME0",
-    "playedAt": "2026-10-02T18:34:14.671Z"
-  },
-  {
-    "albumId": "7GQvp2mrr9bRxhPV18oBok",
-    "title": "LA TESTA GIRA",
-    "artist": "Fred De Palma, Anitta, Emis Killa",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27303fcfef7dec7395e7f34a83b",
-    "spotifyUrl": "https://open.spotify.com/album/7GQvp2mrr9bRxhPV18oBok",
-    "playedAt": "2026-10-02T18:32:42.197Z"
-  },
-  {
-    "albumId": "0Rqdxqcqq0wKQISWQwGLT1",
-    "title": "SEXY RAVE (feat. Baby Gang)",
-    "artist": "Fred De Palma, Baby Gang",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273d690b3baacf4199f53fb4f95",
-    "spotifyUrl": "https://open.spotify.com/album/0Rqdxqcqq0wKQISWQwGLT1",
-    "playedAt": "2026-10-02T18:29:42.455Z"
-  },
-  {
-    "albumId": "2xkZV2Hl1Omi8rk2D7t5lN",
-    "title": "The New Abnormal",
-    "artist": "The Strokes",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
-    "spotifyUrl": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN",
-    "playedAt": "2026-10-02T18:25:35.615Z"
-  },
-  {
-    "albumId": "3HFbH1loOUbqCyPsLuHLLh",
-    "title": "Room On Fire",
-    "artist": "The Strokes",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f",
-    "spotifyUrl": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh",
-    "playedAt": "2026-10-02T16:11:03.739Z"
-  },
-  {
-    "albumId": "2yNaksHgeMQM9Quse463b5",
-    "title": "Is This It",
-    "artist": "The Strokes",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
-    "spotifyUrl": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5",
-    "playedAt": "2026-10-02T16:04:19.475Z"
-  },
-  {
-    "albumId": "4I7uuSfSkHKJjrr1vpu4mi",
-    "title": "Portamento",
-    "artist": "The Drums",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734c27d14a19e67dac23661031",
-    "spotifyUrl": "https://open.spotify.com/album/4I7uuSfSkHKJjrr1vpu4mi",
-    "playedAt": "2026-10-02T09:35:18.960Z"
-  },
-  {
-    "albumId": "5Z4qQSYHPbYjlXS6wnEhXD",
-    "title": "Futuri Possibili",
-    "artist": "Franco126, Coez",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731ca662be5e898820c3baed34",
-    "spotifyUrl": "https://open.spotify.com/album/5Z4qQSYHPbYjlXS6wnEhXD",
-    "playedAt": "2026-10-02T07:11:49.516Z"
-  },
-  {
-    "albumId": "2CNuOGKjlE5KqjcfxMMJPK",
-    "title": "Io Sono",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27342c2d4a0c564da278376914d",
-    "spotifyUrl": "https://open.spotify.com/album/2CNuOGKjlE5KqjcfxMMJPK",
-    "playedAt": "2026-10-01T20:31:49.197Z"
-  },
-  {
-    "albumId": "08SB1CgIS0yVIH7ZV99I6f",
-    "title": "TUTTA VITA (SEMPRE)",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736752cb3279906514dd04c8aa",
-    "spotifyUrl": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f",
-    "playedAt": "2026-10-01T20:14:59.605Z"
-  },
-  {
-    "albumId": "4QpLnSupGsuYYJYYoj29Q7",
-    "title": "TUTTA VITA",
-    "artist": "Olly, Enrico Nigiotti, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739a9754efa9799615cf6045e9",
-    "spotifyUrl": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7",
-    "playedAt": "2026-10-01T12:06:37.360Z"
-  },
-  {
-    "albumId": "6v9auApDKLIxYeoJCZqPDO",
-    "title": "La bella confusione",
-    "artist": "Charlie Charles, Bresh",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736c8711e9758b08b65159ed2a",
-    "spotifyUrl": "https://open.spotify.com/album/6v9auApDKLIxYeoJCZqPDO",
-    "playedAt": "2026-10-01T11:09:26.115Z"
   }
 ]
