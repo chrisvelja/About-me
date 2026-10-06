@@ -1,5 +1,125 @@
 [
   {
+    "albumId": "6lxRA8Rl9a9XoZDCVWBzBY",
+    "title": "The Blues And The Abstract Truth",
+    "artist": "Oliver Nelson",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739ab9b4e0d804541ca54c3f6c",
+    "spotifyUrl": "https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY",
+    "playedAt": "2026-10-06T21:06:56.217Z"
+  },
+  {
+    "albumId": "6hDZjN3iWJ95RIXnxbiG1P",
+    "title": "Julie Is Her Name",
+    "artist": "Julie London",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273320b023f0b74149959eb8069",
+    "spotifyUrl": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P",
+    "playedAt": "2026-10-06T20:58:10.107Z"
+  },
+  {
+    "albumId": "5myvnvNMM6RaI2as8s0KpW",
+    "title": "Nice 'n' Easy (2020 Mix / Expanded Edition)",
+    "artist": "Frank Sinatra",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736b08fca07668230f4b583300",
+    "spotifyUrl": "https://open.spotify.com/album/5myvnvNMM6RaI2as8s0KpW",
+    "playedAt": "2026-10-06T20:55:42.215Z"
+  },
+  {
+    "albumId": "4bonZNozN5B3PO7nXJ317E",
+    "title": "Everything I Play Is Funky",
+    "artist": "Lou Donaldson",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27337bccb0bec20ff14c2853bc3",
+    "spotifyUrl": "https://open.spotify.com/album/4bonZNozN5B3PO7nXJ317E",
+    "playedAt": "2026-10-06T20:51:14.899Z"
+  },
+  {
+    "albumId": "5DeuKgqbg1Bw3AqqrwyqF7",
+    "title": "The Swingin's Mutual! (Expanded Edition)",
+    "artist": "George Shearing Quintet, Nancy Wilson",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273adca1e8b469695f0d49ccd1b",
+    "spotifyUrl": "https://open.spotify.com/album/5DeuKgqbg1Bw3AqqrwyqF7",
+    "playedAt": "2026-10-06T20:44:03.108Z"
+  },
+  {
+    "albumId": "7EgjzSVwj5Y8L897m3UiUK",
+    "title": "Just Coolin'",
+    "artist": "Art Blakey & The Jazz Messengers",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735b4a753b89f5b492a88c7584",
+    "spotifyUrl": "https://open.spotify.com/album/7EgjzSVwj5Y8L897m3UiUK",
+    "playedAt": "2026-10-06T20:41:02.386Z"
+  },
+  {
+    "albumId": "2gxZYG5TEl9kZyyxIQqIAd",
+    "title": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
+    "artist": "Johnny Griffin",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a5c73efc003562346fdf5f22",
+    "spotifyUrl": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd",
+    "playedAt": "2026-10-06T20:36:18.142Z"
+  },
+  {
+    "albumId": "5nEJj9bjoarnzlS88NiWet",
+    "title": "Go! (The Rudy Van Gelder Edition)",
+    "artist": "Dexter Gordon",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bb3ca42fa0a3f2f39143c9ab",
+    "spotifyUrl": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet",
+    "playedAt": "2026-10-06T20:28:24.271Z"
+  },
+  {
+    "albumId": "21YbbJrVCRQIxB5W2EKIbr",
+    "title": "Look Out! (Remastered)",
+    "artist": "Stanley Turrentine",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273df53647daace215fdb9059f2",
+    "spotifyUrl": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr",
+    "playedAt": "2026-10-06T20:23:01.768Z"
+  },
+  {
+    "albumId": "0oWFL44UweyyQSawMSHA4L",
+    "title": "The Best Of Clifford Brown",
+    "artist": "Clifford Brown",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734eba314d60a5101c4bff58a1",
+    "spotifyUrl": "https://open.spotify.com/album/0oWFL44UweyyQSawMSHA4L",
+    "playedAt": "2026-10-06T20:18:06.088Z"
+  },
+  {
+    "albumId": "2zdmAZybFyUmIMPDok4y6A",
+    "title": "Intercontinental",
+    "artist": "Joe Pass",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27321549fb226e05c13ff17e70b",
+    "spotifyUrl": "https://open.spotify.com/album/2zdmAZybFyUmIMPDok4y6A",
+    "playedAt": "2026-10-06T20:14:01.191Z"
+  },
+  {
+    "albumId": "5e3mq4TT4RLn4VXfgKV6MU",
+    "title": "John Coltrane And Johnny Hartman",
+    "artist": "John Coltrane, Johnny Hartman",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b933190768f4cdfa4f487aaa",
+    "spotifyUrl": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU",
+    "playedAt": "2026-10-06T20:08:38.727Z"
+  },
+  {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219, iako",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-10-06T19:46:58.268Z"
+  },
+  {
+    "albumId": "7tLgzDLxJZeZSyNcBS5s7f",
+    "title": "Remixes: Made for the Underground (Deluxe Edition)",
+    "artist": "Jazz Spastiks, PENPALS, Pete Flux",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27324416379ff7e368824fc0965",
+    "spotifyUrl": "https://open.spotify.com/album/7tLgzDLxJZeZSyNcBS5s7f",
+    "playedAt": "2026-10-06T19:23:01.932Z"
+  },
+  {
+    "albumId": "3LGqUhFfPQ26PLU4Ok6ZpU",
+    "title": "Clin D'oeil",
+    "artist": "Jazz Liberatorz",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731daec30c58d42acbcc24a1c5",
+    "spotifyUrl": "https://open.spotify.com/album/3LGqUhFfPQ26PLU4Ok6ZpU",
+    "playedAt": "2026-10-06T18:11:36.361Z"
+  },
+  {
     "albumId": "0EguP4tsJurU5I8ocCxdyb",
     "title": "Beats, Rhymes & Life",
     "artist": "A Tribe Called Quest",
@@ -262,125 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273f54d76ad5cfeacd9f7c7c138",
     "spotifyUrl": "https://open.spotify.com/album/43bI6dV1TRBpW7wuQbjSUn",
     "playedAt": "2026-10-04T21:33:34.569Z"
-  },
-  {
-    "albumId": "0P8drxOARh9LbMdSksQK65",
-    "title": "licia",
-    "artist": "PETRA",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ed13fc4a83aee36b2c143ad9",
-    "spotifyUrl": "https://open.spotify.com/album/0P8drxOARh9LbMdSksQK65",
-    "playedAt": "2026-10-04T21:30:17.450Z"
-  },
-  {
-    "albumId": "3jBVpCL4ePAQp4dXTGf66x",
-    "title": "Su x gi\u00f9",
-    "artist": "Giuse The Lizia",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a4e38eb58b4baa824c8d8c34",
-    "spotifyUrl": "https://open.spotify.com/album/3jBVpCL4ePAQp4dXTGf66x",
-    "playedAt": "2026-10-04T21:27:25.601Z"
-  },
-  {
-    "albumId": "1LA6VsdQLEJ76u6V3egSmE",
-    "title": "Los Angeles",
-    "artist": "Giuse The Lizia",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27361f48b8f644f919e229a1776",
-    "spotifyUrl": "https://open.spotify.com/album/1LA6VsdQLEJ76u6V3egSmE",
-    "playedAt": "2026-10-04T20:31:12.081Z"
-  },
-  {
-    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
-    "title": "SINCERO!",
-    "artist": "Rare\u0219",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
-    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
-    "playedAt": "2026-10-04T20:28:24.878Z"
-  },
-  {
-    "albumId": "4WnkQO4xD9ljQooB3VIxCV",
-    "title": "Comedown Machine",
-    "artist": "The Strokes",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f07ef193e0bb6a238ea37f0a",
-    "spotifyUrl": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV",
-    "playedAt": "2026-10-04T14:43:46.575Z"
-  },
-  {
-    "albumId": "1HQ61my1h3VWp2EBWKlp0n",
-    "title": "First Impressions Of Earth",
-    "artist": "The Strokes",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736898a982ff3c6049ba52586c",
-    "spotifyUrl": "https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n",
-    "playedAt": "2026-10-04T14:40:21.310Z"
-  },
-  {
-    "albumId": "2xkZV2Hl1Omi8rk2D7t5lN",
-    "title": "The New Abnormal",
-    "artist": "The Strokes",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
-    "spotifyUrl": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN",
-    "playedAt": "2026-10-04T14:37:11.579Z"
-  },
-  {
-    "albumId": "3HFbH1loOUbqCyPsLuHLLh",
-    "title": "Room On Fire",
-    "artist": "The Strokes",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f",
-    "spotifyUrl": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh",
-    "playedAt": "2026-10-04T14:31:19.271Z"
-  },
-  {
-    "albumId": "4gvyJRNQPBb1kOWqwZjUYI",
-    "title": "HABIBTI (FOMO)",
-    "artist": "Drake",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732685b70af798b4f272c00d8a",
-    "spotifyUrl": "https://open.spotify.com/album/4gvyJRNQPBb1kOWqwZjUYI",
-    "playedAt": "2026-10-04T14:00:28.883Z"
-  },
-  {
-    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
-    "title": "SINCERO!",
-    "artist": "Rare\u0219",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
-    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
-    "playedAt": "2026-10-02T20:40:36.307Z"
-  },
-  {
-    "albumId": "6YBqlDGZ2JHa5ThndFJcf1",
-    "title": "Tropico Del Capricorno",
-    "artist": "Gu\u00e8, Rose Villain",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273542c034964ebe1acfeecf90e",
-    "spotifyUrl": "https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1",
-    "playedAt": "2026-10-02T19:17:53.773Z"
-  },
-  {
-    "albumId": "08SB1CgIS0yVIH7ZV99I6f",
-    "title": "TUTTA VITA (SEMPRE)",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736752cb3279906514dd04c8aa",
-    "spotifyUrl": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f",
-    "playedAt": "2026-10-02T19:15:05.036Z"
-  },
-  {
-    "albumId": "4rCMQjEm7zRJDbS5NbtCLY",
-    "title": "ICON",
-    "artist": "Tony Effe",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736fa5dff2130a632bdf7076a7",
-    "spotifyUrl": "https://open.spotify.com/album/4rCMQjEm7zRJDbS5NbtCLY",
-    "playedAt": "2026-10-02T19:11:46.831Z"
-  },
-  {
-    "albumId": "4KakTQXezMez5owYFuGAF2",
-    "title": "VERA BADDIE",
-    "artist": "ANNA",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273fb7329a6fb6154b1fa3704c7",
-    "spotifyUrl": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2",
-    "playedAt": "2026-10-02T19:09:18.848Z"
-  },
-  {
-    "albumId": "5iGQ5E9c2gQoleZzgBBIF6",
-    "title": "BARRIO LAMBADA",
-    "artist": "Fred De Palma",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738a74ae566a53bd0be38fb749",
-    "spotifyUrl": "https://open.spotify.com/album/5iGQ5E9c2gQoleZzgBBIF6",
-    "playedAt": "2026-10-02T19:06:55.756Z"
   }
 ]
