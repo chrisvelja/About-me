@@ -1,5 +1,13 @@
 [
   {
+    "albumId": "6ohX7moZZnF1FwYrli1OJ6",
+    "title": "In Utero (Deluxe Edition)",
+    "artist": "Nirvana",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c",
+    "spotifyUrl": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6",
+    "playedAt": "2026-10-07T05:54:12.504Z"
+  },
+  {
     "albumId": "6ICrBzsbHVluGHP8wGK4Y3",
     "title": "Incesticide",
     "artist": "Nirvana",
@@ -374,13 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b27380788f104c780412212e97e3",
     "spotifyUrl": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7",
     "playedAt": "2026-10-06T13:14:08.059Z"
-  },
-  {
-    "albumId": "5dGWwsZ9iB2Xc3UKR0gif2",
-    "title": "Justice",
-    "artist": "Justin Bieber",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431",
-    "spotifyUrl": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2",
-    "playedAt": "2026-10-06T13:10:02.673Z"
   }
 ]
