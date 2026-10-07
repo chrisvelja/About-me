@@ -1,5 +1,37 @@
 [
   {
+    "albumId": "3s3ThjVMEWRqXV8b4H6sy4",
+    "title": "Faccio un casino",
+    "artist": "Coez",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273061bf53ff7abeb2e89429bdf",
+    "spotifyUrl": "https://open.spotify.com/album/3s3ThjVMEWRqXV8b4H6sy4",
+    "playedAt": "2026-10-07T19:50:53.571Z"
+  },
+  {
+    "albumId": "4OaPU3DM8Mr7yOnVPXeCuh",
+    "title": "Mediterraneo (Dopo il Mare)",
+    "artist": "Bresh",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27313f95e59fc87aa92b6e63d70",
+    "spotifyUrl": "https://open.spotify.com/album/4OaPU3DM8Mr7yOnVPXeCuh",
+    "playedAt": "2026-10-07T19:47:36.158Z"
+  },
+  {
+    "albumId": "3T4tUhGYeRNVUGevb0wThu",
+    "title": "\u00f7 (Deluxe)",
+    "artist": "Ed Sheeran",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
+    "spotifyUrl": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu",
+    "playedAt": "2026-10-07T18:20:11.409Z"
+  },
+  {
+    "albumId": "5PdqPLG4hUzuLAWUDFaZap",
+    "title": "Gira, il mondo gira",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734743343cec324c534a99ca39",
+    "spotifyUrl": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap",
+    "playedAt": "2026-10-07T18:16:17.365Z"
+  },
+  {
     "albumId": "4yFOskDlre6FZgvNYMYXyb",
     "title": "Nu Wave",
     "artist": "Yaahn Hunter Jr., The Pocket Queen, J Moss",
@@ -64,12 +96,36 @@
     "playedAt": "2026-10-06T22:08:29.966Z"
   },
   {
+    "albumId": "1KVGLuPtrMrLlyy4Je6df7",
+    "title": "Bleach",
+    "artist": "Nirvana",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27397507fd22fb690cb9085a864",
+    "spotifyUrl": "https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7",
+    "playedAt": "2026-10-06T22:03:53.671Z"
+  },
+  {
+    "albumId": "1To7kv722A8SpZF789MZy7",
+    "title": "MTV Unplugged In New York",
+    "artist": "Nirvana",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+    "spotifyUrl": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7",
+    "playedAt": "2026-10-06T22:00:17.943Z"
+  },
+  {
     "albumId": "5zBPRXCAc801vyHWoRurNZ",
     "title": "Nirvana",
     "artist": "Nirvana",
     "cover": "https://i.scdn.co/image/ab67616d0000b27356072fea6785a3ad2d24237c",
     "spotifyUrl": "https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ",
     "playedAt": "2026-10-06T21:54:48.959Z"
+  },
+  {
+    "albumId": "6ohX7moZZnF1FwYrli1OJ6",
+    "title": "In Utero (Deluxe Edition)",
+    "artist": "Nirvana",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c",
+    "spotifyUrl": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6",
+    "playedAt": "2026-10-06T21:51:11.420Z"
   },
   {
     "albumId": "7wOOA7l306K8HfBKfPoafr",
@@ -80,36 +136,12 @@
     "playedAt": "2026-10-06T21:44:36.458Z"
   },
   {
-    "albumId": "1KVGLuPtrMrLlyy4Je6df7",
-    "title": "Bleach",
-    "artist": "Nirvana",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27397507fd22fb690cb9085a864",
-    "spotifyUrl": "https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7",
-    "playedAt": "2026-10-06T21:32:34.379Z"
-  },
-  {
-    "albumId": "1To7kv722A8SpZF789MZy7",
-    "title": "MTV Unplugged In New York",
-    "artist": "Nirvana",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
-    "spotifyUrl": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7",
-    "playedAt": "2026-10-06T21:29:45.395Z"
-  },
-  {
-    "albumId": "6ohX7moZZnF1FwYrli1OJ6",
-    "title": "In Utero (Deluxe Edition)",
-    "artist": "Nirvana",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c",
-    "spotifyUrl": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6",
-    "playedAt": "2026-10-06T21:21:06.271Z"
-  },
-  {
     "albumId": "2UJcKiJxNryhL050F5Z1Fk",
     "title": "Nevermind (Remastered)",
     "artist": "Nirvana",
     "cover": "https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6",
     "spotifyUrl": "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk",
-    "playedAt": "2026-10-06T21:12:45.173Z"
+    "playedAt": "2026-10-06T21:36:50.012Z"
   },
   {
     "albumId": "6lxRA8Rl9a9XoZDCVWBzBY",
@@ -350,37 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b27354a09c282dd69f5e092f268a",
     "spotifyUrl": "https://open.spotify.com/album/1XqWXTFczDFTgnCWZSV242",
     "playedAt": "2026-10-06T17:08:34.508Z"
-  },
-  {
-    "albumId": "5DvJgsMLbaR1HmAI6VhfcQ",
-    "title": "Endless Summer Vacation",
-    "artist": "Miley Cyrus",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27366fd0917f38d472c8576754e",
-    "spotifyUrl": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ",
-    "playedAt": "2026-10-06T17:06:46.430Z"
-  },
-  {
-    "albumId": "54dZypaXHAIDzBe9ujAZ63",
-    "title": "Paint The Town Red",
-    "artist": "Doja Cat",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e69a141e4ffe839c38c4c228",
-    "spotifyUrl": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63",
-    "playedAt": "2026-10-06T17:02:56.558Z"
-  },
-  {
-    "albumId": "5SQrlPanuIhyEZXxsPRa35",
-    "title": "Salmo Unplugged",
-    "artist": "Salmo",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2730e07fa493f3c31635704e719",
-    "spotifyUrl": "https://open.spotify.com/album/5SQrlPanuIhyEZXxsPRa35",
-    "playedAt": "2026-10-06T16:59:04.300Z"
-  },
-  {
-    "albumId": "6gJ8VKn5PAFcCIVaf3B2uE",
-    "title": "Nectar",
-    "artist": "Joji, BENEE",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f733e50079838090eebc3fe4",
-    "spotifyUrl": "https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE",
-    "playedAt": "2026-10-06T16:52:44.968Z"
   }
 ]
