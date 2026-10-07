@@ -1,5 +1,29 @@
 [
   {
+    "albumId": "5IenxFp0vpnXBUxPcwJtbE",
+    "title": "MKTO",
+    "artist": "MKTO",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739474419f15773875a495eed3",
+    "spotifyUrl": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE",
+    "playedAt": "2026-10-07T14:31:51.354Z"
+  },
+  {
+    "albumId": "5K79FLRUCSysQnVESLcTdb",
+    "title": "DeB\u00cd TiRAR M\u00e1S FOToS",
+    "artist": "Bad Bunny, Los Pleneros de la Cresta",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "spotifyUrl": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb",
+    "playedAt": "2026-10-07T14:23:29.323Z"
+  },
+  {
+    "albumId": "7qZ5XKi1L7ivSxcFFyEjBV",
+    "title": "Il Mondo Gira",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a9e40bd192d83079cb8c385f",
+    "spotifyUrl": "https://open.spotify.com/album/7qZ5XKi1L7ivSxcFFyEjBV",
+    "playedAt": "2026-10-07T14:19:36.536Z"
+  },
+  {
     "albumId": "2yNaksHgeMQM9Quse463b5",
     "title": "Is This It",
     "artist": "The Strokes",
@@ -358,29 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2736752cb3279906514dd04c8aa",
     "spotifyUrl": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f",
     "playedAt": "2026-10-06T16:45:22.847Z"
-  },
-  {
-    "albumId": "1WEuYNzAvXGLIcOBv64leK",
-    "title": "MONEY ON THE DASH",
-    "artist": "Elley Duh\u00e9, Whethan",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734d9331367e160fee20bf4e4d",
-    "spotifyUrl": "https://open.spotify.com/album/1WEuYNzAvXGLIcOBv64leK",
-    "playedAt": "2026-10-06T13:54:49.368Z"
-  },
-  {
-    "albumId": "0XZk3coJHXIQnpj1J7R3FD",
-    "title": "Parole in circolo",
-    "artist": "Marco Mengoni",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736c9f1cb08e75acaf6853b06f",
-    "spotifyUrl": "https://open.spotify.com/album/0XZk3coJHXIQnpj1J7R3FD",
-    "playedAt": "2026-10-06T13:52:44.575Z"
-  },
-  {
-    "albumId": "1Ckbuzoh1dYKFnpNYmVEof",
-    "title": "A Collection of Fleeting Moments and Daydreams",
-    "artist": "Orion Sun",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27366f9ab70ba645b24de259447",
-    "spotifyUrl": "https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof",
-    "playedAt": "2026-10-06T13:46:28.239Z"
   }
 ]
