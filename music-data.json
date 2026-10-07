@@ -1,5 +1,13 @@
 [
   {
+    "albumId": "2yNaksHgeMQM9Quse463b5",
+    "title": "Is This It",
+    "artist": "The Strokes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
+    "spotifyUrl": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5",
+    "playedAt": "2026-10-07T11:23:51.831Z"
+  },
+  {
     "albumId": "04v8KIBvsyz6OTvSSrBhkI",
     "title": "SINCERO!",
     "artist": "Rare\u0219, iako",
@@ -374,13 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b27366f9ab70ba645b24de259447",
     "spotifyUrl": "https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof",
     "playedAt": "2026-10-06T13:46:28.239Z"
-  },
-  {
-    "albumId": "3cQO7jp5S9qLBoIVtbkSM1",
-    "title": "Blurryface",
-    "artist": "Twenty One Pilots",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7",
-    "spotifyUrl": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1",
-    "playedAt": "2026-10-06T13:45:30.256Z"
   }
 ]
