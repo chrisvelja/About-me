@@ -1,5 +1,13 @@
 [
   {
+    "albumId": "4yFOskDlre6FZgvNYMYXyb",
+    "title": "Nu Wave",
+    "artist": "Yaahn Hunter Jr., The Pocket Queen, J Moss",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27323e6240866274a03f6337518",
+    "spotifyUrl": "https://open.spotify.com/album/4yFOskDlre6FZgvNYMYXyb",
+    "playedAt": "2026-10-07T17:52:22.352Z"
+  },
+  {
     "albumId": "5IenxFp0vpnXBUxPcwJtbE",
     "title": "MKTO",
     "artist": "MKTO",
@@ -374,13 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273f733e50079838090eebc3fe4",
     "spotifyUrl": "https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE",
     "playedAt": "2026-10-06T16:52:44.968Z"
-  },
-  {
-    "albumId": "08SB1CgIS0yVIH7ZV99I6f",
-    "title": "TUTTA VITA (SEMPRE)",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736752cb3279906514dd04c8aa",
-    "spotifyUrl": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f",
-    "playedAt": "2026-10-06T16:45:22.847Z"
   }
 ]
