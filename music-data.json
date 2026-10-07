@@ -1,5 +1,13 @@
 [
   {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219, iako",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-10-07T08:13:29.409Z"
+  },
+  {
     "albumId": "6ohX7moZZnF1FwYrli1OJ6",
     "title": "In Utero (Deluxe Edition)",
     "artist": "Nirvana",
@@ -374,13 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7",
     "spotifyUrl": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1",
     "playedAt": "2026-10-06T13:45:30.256Z"
-  },
-  {
-    "albumId": "4jI9SU1GmpIVhHMuYZuvX7",
-    "title": "The Fall-Off",
-    "artist": "J. Cole",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27380788f104c780412212e97e3",
-    "spotifyUrl": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7",
-    "playedAt": "2026-10-06T13:14:08.059Z"
   }
 ]
