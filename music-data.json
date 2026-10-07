@@ -1,5 +1,61 @@
 [
   {
+    "albumId": "6ICrBzsbHVluGHP8wGK4Y3",
+    "title": "Incesticide",
+    "artist": "Nirvana",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e1f5fcef5fb5f70aa0a717fc",
+    "spotifyUrl": "https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3",
+    "playedAt": "2026-10-06T22:08:29.966Z"
+  },
+  {
+    "albumId": "5zBPRXCAc801vyHWoRurNZ",
+    "title": "Nirvana",
+    "artist": "Nirvana",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27356072fea6785a3ad2d24237c",
+    "spotifyUrl": "https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ",
+    "playedAt": "2026-10-06T21:54:48.959Z"
+  },
+  {
+    "albumId": "7wOOA7l306K8HfBKfPoafr",
+    "title": "In Utero",
+    "artist": "Nirvana",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
+    "spotifyUrl": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr",
+    "playedAt": "2026-10-06T21:44:36.458Z"
+  },
+  {
+    "albumId": "1KVGLuPtrMrLlyy4Je6df7",
+    "title": "Bleach",
+    "artist": "Nirvana",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27397507fd22fb690cb9085a864",
+    "spotifyUrl": "https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7",
+    "playedAt": "2026-10-06T21:32:34.379Z"
+  },
+  {
+    "albumId": "1To7kv722A8SpZF789MZy7",
+    "title": "MTV Unplugged In New York",
+    "artist": "Nirvana",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+    "spotifyUrl": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7",
+    "playedAt": "2026-10-06T21:29:45.395Z"
+  },
+  {
+    "albumId": "6ohX7moZZnF1FwYrli1OJ6",
+    "title": "In Utero (Deluxe Edition)",
+    "artist": "Nirvana",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c",
+    "spotifyUrl": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6",
+    "playedAt": "2026-10-06T21:21:06.271Z"
+  },
+  {
+    "albumId": "2UJcKiJxNryhL050F5Z1Fk",
+    "title": "Nevermind (Remastered)",
+    "artist": "Nirvana",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6",
+    "spotifyUrl": "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk",
+    "playedAt": "2026-10-06T21:12:45.173Z"
+  },
+  {
     "albumId": "6lxRA8Rl9a9XoZDCVWBzBY",
     "title": "The Blues And The Abstract Truth",
     "artist": "Oliver Nelson",
@@ -326,61 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431",
     "spotifyUrl": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2",
     "playedAt": "2026-10-06T13:10:02.673Z"
-  },
-  {
-    "albumId": "3wpFDAZw49DchQMUWfi0iY",
-    "title": "Acqua Salata",
-    "artist": "chiello",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b16de3b61a11237710302d33",
-    "spotifyUrl": "https://open.spotify.com/album/3wpFDAZw49DchQMUWfi0iY",
-    "playedAt": "2026-10-06T10:37:16.908Z"
-  },
-  {
-    "albumId": "0qnrE0wjP5harsRFXgoBo3",
-    "title": "Mi Chico (Official - Jason Derulo x Melody)",
-    "artist": "DJ Goja, Jason Derulo, Melody",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a1eddd41334d7100b94e602a",
-    "spotifyUrl": "https://open.spotify.com/album/0qnrE0wjP5harsRFXgoBo3",
-    "playedAt": "2026-10-06T06:08:10.561Z"
-  },
-  {
-    "albumId": "3T4tUhGYeRNVUGevb0wThu",
-    "title": "\u00f7 (Deluxe)",
-    "artist": "Ed Sheeran",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
-    "spotifyUrl": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu",
-    "playedAt": "2026-10-06T06:05:46.334Z"
-  },
-  {
-    "albumId": "5K79FLRUCSysQnVESLcTdb",
-    "title": "DeB\u00cd TiRAR M\u00e1S FOToS",
-    "artist": "Bad Bunny, RaiNao",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-    "spotifyUrl": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb",
-    "playedAt": "2026-10-05T22:27:33.199Z"
-  },
-  {
-    "albumId": "2yNaksHgeMQM9Quse463b5",
-    "title": "Is This It",
-    "artist": "The Strokes",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
-    "spotifyUrl": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5",
-    "playedAt": "2026-10-05T05:53:10.231Z"
-  },
-  {
-    "albumId": "2yNaksHgeMQM9Quse463b5",
-    "title": "Is This It",
-    "artist": "The Strokes",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
-    "spotifyUrl": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5",
-    "playedAt": "2026-10-04T22:07:56.849Z"
-  },
-  {
-    "albumId": "43bI6dV1TRBpW7wuQbjSUn",
-    "title": "Ho Perso Di Vista Me",
-    "artist": "43.Nove, Brus DMC",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f54d76ad5cfeacd9f7c7c138",
-    "spotifyUrl": "https://open.spotify.com/album/43bI6dV1TRBpW7wuQbjSUn",
-    "playedAt": "2026-10-04T21:33:34.569Z"
   }
 ]
