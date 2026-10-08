@@ -1,5 +1,21 @@
 [
   {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-10-08T09:10:31.799Z"
+  },
+  {
+    "albumId": "2YZZIDM1eRHHza7wde8KYg",
+    "title": "Peter Pan",
+    "artist": "Ultimo",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738cbd315566d3ea3bdddb8952",
+    "spotifyUrl": "https://open.spotify.com/album/2YZZIDM1eRHHza7wde8KYg",
+    "playedAt": "2026-10-07T20:38:17.100Z"
+  },
+  {
     "albumId": "3s3ThjVMEWRqXV8b4H6sy4",
     "title": "Faccio un casino",
     "artist": "Coez",
@@ -128,20 +144,20 @@
     "playedAt": "2026-10-06T21:51:11.420Z"
   },
   {
+    "albumId": "2UJcKiJxNryhL050F5Z1Fk",
+    "title": "Nevermind (Remastered)",
+    "artist": "Nirvana",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6",
+    "spotifyUrl": "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk",
+    "playedAt": "2026-10-06T21:48:20.878Z"
+  },
+  {
     "albumId": "7wOOA7l306K8HfBKfPoafr",
     "title": "In Utero",
     "artist": "Nirvana",
     "cover": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
     "spotifyUrl": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr",
     "playedAt": "2026-10-06T21:44:36.458Z"
-  },
-  {
-    "albumId": "2UJcKiJxNryhL050F5Z1Fk",
-    "title": "Nevermind (Remastered)",
-    "artist": "Nirvana",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6",
-    "spotifyUrl": "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk",
-    "playedAt": "2026-10-06T21:36:50.012Z"
   },
   {
     "albumId": "6lxRA8Rl9a9XoZDCVWBzBY",
@@ -366,21 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273813629baee66b2ec5f90ebee",
     "spotifyUrl": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g",
     "playedAt": "2026-10-06T17:15:36.281Z"
-  },
-  {
-    "albumId": "4qZBW3f2Q8y0k1A84d4iAO",
-    "title": "My Dear Melancholy,",
-    "artist": "The Weeknd",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731f6a2a40bb692936879db730",
-    "spotifyUrl": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO",
-    "playedAt": "2026-10-06T17:12:23.397Z"
-  },
-  {
-    "albumId": "1XqWXTFczDFTgnCWZSV242",
-    "title": "Arc de Triomphe",
-    "artist": "Amin\u00e9",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27354a09c282dd69f5e092f268a",
-    "spotifyUrl": "https://open.spotify.com/album/1XqWXTFczDFTgnCWZSV242",
-    "playedAt": "2026-10-06T17:08:34.508Z"
   }
 ]
