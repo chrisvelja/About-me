@@ -200,11 +200,11 @@
   loadMusicData();
 
   var books = [
-    {title:'White Nights', author:'Fyodor Dostoevsky', about:"A lonely dreamer falls for a young woman over four nights in St. Petersburg, in one of Dostoevsky's shortest and most tender stories.", link:'#', cover:'covers/white-nights.jpg'},
-    {title:'Norwegian Wood', author:'Haruki Murakami', about:'A nostalgic, melancholic coming-of-age story of love and loss in 1960s Tokyo.', link:'#', cover:'covers/norwegian-wood.jpg'},
-    {title:'Novecento', author:'Alessandro Baricco', about:'A pianist born and raised entirely aboard an ocean liner, who never once sets foot on land, told as a single theatrical monologue.', link:'#', cover:'covers/novecento.jpg'},
-    {title:'The Moon and the Bonfire', author:'Cesare Pavese', about:'A man returns to his Piedmont village after years in America, piecing together what the war left behind.', link:'#', cover:'covers/moon-and-bonfire.jpg'},
-    {title:'Portrait in Jazz', author:'Haruki Murakami & Wada Makoto', about:"Short essays pairing Murakami's favorite jazz records with Wada's illustrations \u2014 never officially published in English.", link:'#', cover:'covers/portrait-in-jazz.jpg'}
+    {title:'White Nights', author:'Fyodor Dostoevsky', about:"A lonely dreamer falls for a young woman over four nights in St. Petersburg, in one of Dostoevsky's shortest and most tender stories.", link:'https://www.amazon.it/dp/0241252083', cover:'covers/white-nights.jpg'},
+    {title:'Norwegian Wood', author:'Haruki Murakami', about:'A nostalgic, melancholic coming-of-age story of love and loss in 1960s Tokyo.', link:'https://www.amazon.it/dp/8806216465', cover:'covers/norwegian-wood.jpg'},
+    {title:'Novecento', author:'Alessandro Baricco', about:'A pianist born and raised entirely aboard an ocean liner, who never once sets foot on land, told as a single theatrical monologue.', link:'https://www.amazon.it/dp/8807897326', cover:'covers/novecento.jpg'},
+    {title:'The Moon and the Bonfire', author:'Cesare Pavese', about:'A man returns to his Piedmont village after years in America, piecing together what the war left behind.', link:'https://www.amazon.it/dp/024137054X', cover:'covers/moon-and-bonfire.jpg'},
+    {title:'Portrait in Jazz', author:'Haruki Murakami & Wada Makoto', about:"Short essays pairing Murakami's favorite jazz records with Wada's illustrations \u2014 never officially published in English.", link:'https://www.amazon.it/dp/8806225294', cover:'covers/portrait-in-jazz.jpg'}
   ];
   var bookCovers = ['#B8783C','#4C6FA5','#A55C7A','#5C8F6B','#B8963C'];
   var bookIndex = 0;
