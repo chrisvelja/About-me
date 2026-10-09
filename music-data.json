@@ -104,12 +104,20 @@
     "playedAt": "2026-10-07T05:54:12.504Z"
   },
   {
+    "albumId": "7wOOA7l306K8HfBKfPoafr",
+    "title": "In Utero",
+    "artist": "Nirvana",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
+    "spotifyUrl": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr",
+    "playedAt": "2026-10-06T22:25:52.830Z"
+  },
+  {
     "albumId": "6ICrBzsbHVluGHP8wGK4Y3",
     "title": "Incesticide",
     "artist": "Nirvana",
     "cover": "https://i.scdn.co/image/ab67616d0000b273e1f5fcef5fb5f70aa0a717fc",
     "spotifyUrl": "https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3",
-    "playedAt": "2026-10-06T22:08:29.966Z"
+    "playedAt": "2026-10-06T22:18:48.349Z"
   },
   {
     "albumId": "1KVGLuPtrMrLlyy4Je6df7",
@@ -117,7 +125,7 @@
     "artist": "Nirvana",
     "cover": "https://i.scdn.co/image/ab67616d0000b27397507fd22fb690cb9085a864",
     "spotifyUrl": "https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7",
-    "playedAt": "2026-10-06T22:03:53.671Z"
+    "playedAt": "2026-10-06T22:16:31.276Z"
   },
   {
     "albumId": "1To7kv722A8SpZF789MZy7",
@@ -125,15 +133,7 @@
     "artist": "Nirvana",
     "cover": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
     "spotifyUrl": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7",
-    "playedAt": "2026-10-06T22:00:17.943Z"
-  },
-  {
-    "albumId": "7wOOA7l306K8HfBKfPoafr",
-    "title": "In Utero",
-    "artist": "Nirvana",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
-    "spotifyUrl": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr",
-    "playedAt": "2026-10-06T21:57:21.397Z"
+    "playedAt": "2026-10-06T22:13:36.603Z"
   },
   {
     "albumId": "5zBPRXCAc801vyHWoRurNZ",
