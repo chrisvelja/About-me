@@ -5,6 +5,22 @@
     "artist": "Rare\u0219",
     "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
     "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-10-10T08:22:21.039Z"
+  },
+  {
+    "albumId": "5KsrpADyPgZQA4f67KmuGz",
+    "title": "INTERNET",
+    "artist": "Giuse The Lizia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737e774a46632edec684142565",
+    "spotifyUrl": "https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz",
+    "playedAt": "2026-10-10T08:17:52.882Z"
+  },
+  {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
     "playedAt": "2026-10-09T12:30:48.296Z"
   },
   {
@@ -130,10 +146,10 @@
   {
     "albumId": "04v8KIBvsyz6OTvSSrBhkI",
     "title": "SINCERO!",
-    "artist": "Rare\u0219, faccianuvola",
+    "artist": "Rare\u0219",
     "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
     "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
-    "playedAt": "2026-10-07T08:22:11.459Z"
+    "playedAt": "2026-10-07T08:46:14.872Z"
   },
   {
     "albumId": "6ohX7moZZnF1FwYrli1OJ6",
@@ -366,21 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2734018b70099d433d9c8aabb12",
     "spotifyUrl": "https://open.spotify.com/album/2ClZ9xWAYg1BH8zkR96dJo",
     "playedAt": "2026-10-06T17:49:17.304Z"
-  },
-  {
-    "albumId": "3uFgYgCEvCSACjB8XHl3hb",
-    "title": "CASIOPEA",
-    "artist": "CASIOPEA",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273648478cb25e3e302454e40e1",
-    "spotifyUrl": "https://open.spotify.com/album/3uFgYgCEvCSACjB8XHl3hb",
-    "playedAt": "2026-10-06T17:45:24.056Z"
-  },
-  {
-    "albumId": "4mwO9qIVmngSe7yR5Ios0I",
-    "title": "ONEPOINTFIVE",
-    "artist": "Amin\u00e9",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a52fb68f00620e45ed7467c5",
-    "spotifyUrl": "https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I",
-    "playedAt": "2026-10-06T17:38:02.696Z"
   }
 ]
