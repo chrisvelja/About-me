@@ -1,5 +1,125 @@
 [
   {
+    "albumId": "3T4tUhGYeRNVUGevb0wThu",
+    "title": "\u00f7 (Deluxe)",
+    "artist": "Ed Sheeran",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
+    "spotifyUrl": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu",
+    "playedAt": "2026-10-10T20:39:27.962Z"
+  },
+  {
+    "albumId": "5vU1aPRtYOS3wUkitPGbWV",
+    "title": "Avete ragione tutti",
+    "artist": "Canova",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734faf0f1c533513c1989413d6",
+    "spotifyUrl": "https://open.spotify.com/album/5vU1aPRtYOS3wUkitPGbWV",
+    "playedAt": "2026-10-10T20:32:07.140Z"
+  },
+  {
+    "albumId": "5jYoJOTfWYtRP0R7YcUJiC",
+    "title": "Ce lo chiede l'Europa",
+    "artist": "Dutch Nazari",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b9d15ef46d50144291690cc4",
+    "spotifyUrl": "https://open.spotify.com/album/5jYoJOTfWYtRP0R7YcUJiC",
+    "playedAt": "2026-10-10T20:22:24.447Z"
+  },
+  {
+    "albumId": "3fLZttN2wu3O5td1arWns6",
+    "title": "Femmina",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273df83eb6fb4c066fe0366aa73",
+    "spotifyUrl": "https://open.spotify.com/album/3fLZttN2wu3O5td1arWns6",
+    "playedAt": "2026-10-10T20:19:50.308Z"
+  },
+  {
+    "albumId": "7GrBztiTYeurqweiz70SfY",
+    "title": "Fantastico (con Giorgio Poi)",
+    "artist": "Golden Years, Drast, Giorgio Poi",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273dd68e031f5c25d6f1fae95d1",
+    "spotifyUrl": "https://open.spotify.com/album/7GrBztiTYeurqweiz70SfY",
+    "playedAt": "2026-10-10T20:11:43.884Z"
+  },
+  {
+    "albumId": "0idasMxjLcTfRitXmkvJ93",
+    "title": "CALCINACCI",
+    "artist": "Fulminacci",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ff26d9e6888e0a1ab315aa6a",
+    "spotifyUrl": "https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93",
+    "playedAt": "2026-10-10T20:09:29.598Z"
+  },
+  {
+    "albumId": "6kq0w1HINm0xj5bOeAxAWp",
+    "title": "INTERNET EXPLORER",
+    "artist": "Giuse The Lizia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e11716ab077ff2879bc48cc1",
+    "spotifyUrl": "https://open.spotify.com/album/6kq0w1HINm0xj5bOeAxAWp",
+    "playedAt": "2026-10-10T20:06:23.549Z"
+  },
+  {
+    "albumId": "5Yvb0TuL8ElqlIKLuS0tsz",
+    "title": "Threesome",
+    "artist": "Canova",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27367a518f2479953643e333b82",
+    "spotifyUrl": "https://open.spotify.com/album/5Yvb0TuL8ElqlIKLuS0tsz",
+    "playedAt": "2026-10-10T20:03:04.739Z"
+  },
+  {
+    "albumId": "29nOS5yANYfHlGSBGkkfuW",
+    "title": "Agonia",
+    "artist": "chiello",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ec38726df2c0bb6015412929",
+    "spotifyUrl": "https://open.spotify.com/album/29nOS5yANYfHlGSBGkkfuW",
+    "playedAt": "2026-10-10T19:59:32.741Z"
+  },
+  {
+    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
+    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
+    "artist": "faccianuvola",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
+    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
+    "playedAt": "2026-10-10T19:56:07.233Z"
+  },
+  {
+    "albumId": "7sKxNMJzj03OUjShXAFs7P",
+    "title": "Mille Macchine",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b4caacf45db917dd32232797",
+    "spotifyUrl": "https://open.spotify.com/album/7sKxNMJzj03OUjShXAFs7P",
+    "playedAt": "2026-10-10T19:52:16.716Z"
+  },
+  {
+    "albumId": "65oa7Z2Ooy7F77H3VK34VS",
+    "title": "CALMA 22",
+    "artist": "43.Nove",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273aa9da00d4263de6354970297",
+    "spotifyUrl": "https://open.spotify.com/album/65oa7Z2Ooy7F77H3VK34VS",
+    "playedAt": "2026-10-10T19:48:32.844Z"
+  },
+  {
+    "albumId": "1LA6VsdQLEJ76u6V3egSmE",
+    "title": "Los Angeles",
+    "artist": "Giuse The Lizia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27361f48b8f644f919e229a1776",
+    "spotifyUrl": "https://open.spotify.com/album/1LA6VsdQLEJ76u6V3egSmE",
+    "playedAt": "2026-10-10T19:46:08.664Z"
+  },
+  {
+    "albumId": "5wByaEbAmxIlQCDdicFJry",
+    "title": "M\u0100Y\u0100",
+    "artist": "MACE, Marco Mengoni, Frah Quintale, Gemitaiz",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ed46b10906511b1329ee66ab",
+    "spotifyUrl": "https://open.spotify.com/album/5wByaEbAmxIlQCDdicFJry",
+    "playedAt": "2026-10-10T18:47:42.381Z"
+  },
+  {
+    "albumId": "3IwLrqrvy5IB8wDMmcJAqH",
+    "title": "Giornate perse",
+    "artist": "Marco Mengoni",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27390001ad08211fed667d1fa5c",
+    "spotifyUrl": "https://open.spotify.com/album/3IwLrqrvy5IB8wDMmcJAqH",
+    "playedAt": "2026-10-10T18:44:17.708Z"
+  },
+  {
     "albumId": "5S2RzVtE5dwhqZHK9UH767",
     "title": "HABITAT",
     "artist": "nayt, 3D",
@@ -262,125 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b27337bccb0bec20ff14c2853bc3",
     "spotifyUrl": "https://open.spotify.com/album/4bonZNozN5B3PO7nXJ317E",
     "playedAt": "2026-10-06T20:51:14.899Z"
-  },
-  {
-    "albumId": "5DeuKgqbg1Bw3AqqrwyqF7",
-    "title": "The Swingin's Mutual! (Expanded Edition)",
-    "artist": "George Shearing Quintet, Nancy Wilson",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273adca1e8b469695f0d49ccd1b",
-    "spotifyUrl": "https://open.spotify.com/album/5DeuKgqbg1Bw3AqqrwyqF7",
-    "playedAt": "2026-10-06T20:44:03.108Z"
-  },
-  {
-    "albumId": "7EgjzSVwj5Y8L897m3UiUK",
-    "title": "Just Coolin'",
-    "artist": "Art Blakey & The Jazz Messengers",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2735b4a753b89f5b492a88c7584",
-    "spotifyUrl": "https://open.spotify.com/album/7EgjzSVwj5Y8L897m3UiUK",
-    "playedAt": "2026-10-06T20:41:02.386Z"
-  },
-  {
-    "albumId": "2gxZYG5TEl9kZyyxIQqIAd",
-    "title": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
-    "artist": "Johnny Griffin",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a5c73efc003562346fdf5f22",
-    "spotifyUrl": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd",
-    "playedAt": "2026-10-06T20:36:18.142Z"
-  },
-  {
-    "albumId": "5nEJj9bjoarnzlS88NiWet",
-    "title": "Go! (The Rudy Van Gelder Edition)",
-    "artist": "Dexter Gordon",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273bb3ca42fa0a3f2f39143c9ab",
-    "spotifyUrl": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet",
-    "playedAt": "2026-10-06T20:28:24.271Z"
-  },
-  {
-    "albumId": "21YbbJrVCRQIxB5W2EKIbr",
-    "title": "Look Out! (Remastered)",
-    "artist": "Stanley Turrentine",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273df53647daace215fdb9059f2",
-    "spotifyUrl": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr",
-    "playedAt": "2026-10-06T20:23:01.768Z"
-  },
-  {
-    "albumId": "0oWFL44UweyyQSawMSHA4L",
-    "title": "The Best Of Clifford Brown",
-    "artist": "Clifford Brown",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734eba314d60a5101c4bff58a1",
-    "spotifyUrl": "https://open.spotify.com/album/0oWFL44UweyyQSawMSHA4L",
-    "playedAt": "2026-10-06T20:18:06.088Z"
-  },
-  {
-    "albumId": "2zdmAZybFyUmIMPDok4y6A",
-    "title": "Intercontinental",
-    "artist": "Joe Pass",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27321549fb226e05c13ff17e70b",
-    "spotifyUrl": "https://open.spotify.com/album/2zdmAZybFyUmIMPDok4y6A",
-    "playedAt": "2026-10-06T20:14:01.191Z"
-  },
-  {
-    "albumId": "5e3mq4TT4RLn4VXfgKV6MU",
-    "title": "John Coltrane And Johnny Hartman",
-    "artist": "John Coltrane, Johnny Hartman",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b933190768f4cdfa4f487aaa",
-    "spotifyUrl": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU",
-    "playedAt": "2026-10-06T20:08:38.727Z"
-  },
-  {
-    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
-    "title": "SINCERO!",
-    "artist": "Rare\u0219, iako",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
-    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
-    "playedAt": "2026-10-06T19:46:58.268Z"
-  },
-  {
-    "albumId": "7tLgzDLxJZeZSyNcBS5s7f",
-    "title": "Remixes: Made for the Underground (Deluxe Edition)",
-    "artist": "Jazz Spastiks, PENPALS, Pete Flux",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27324416379ff7e368824fc0965",
-    "spotifyUrl": "https://open.spotify.com/album/7tLgzDLxJZeZSyNcBS5s7f",
-    "playedAt": "2026-10-06T19:23:01.932Z"
-  },
-  {
-    "albumId": "3LGqUhFfPQ26PLU4Ok6ZpU",
-    "title": "Clin D'oeil",
-    "artist": "Jazz Liberatorz",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731daec30c58d42acbcc24a1c5",
-    "spotifyUrl": "https://open.spotify.com/album/3LGqUhFfPQ26PLU4Ok6ZpU",
-    "playedAt": "2026-10-06T18:11:36.361Z"
-  },
-  {
-    "albumId": "0EguP4tsJurU5I8ocCxdyb",
-    "title": "Beats, Rhymes & Life",
-    "artist": "A Tribe Called Quest",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e3b93c08d98f92dc3ab0146a",
-    "spotifyUrl": "https://open.spotify.com/album/0EguP4tsJurU5I8ocCxdyb",
-    "playedAt": "2026-10-06T18:06:07.288Z"
-  },
-  {
-    "albumId": "32JCQPzflPiUX9weKyUrFZ",
-    "title": "2000",
-    "artist": "Grand Puba",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27362db6e59b2f600ce2edf1a23",
-    "spotifyUrl": "https://open.spotify.com/album/32JCQPzflPiUX9weKyUrFZ",
-    "playedAt": "2026-10-06T18:02:39.289Z"
-  },
-  {
-    "albumId": "3A2IoZLoYD8EebaHnwWTmB",
-    "title": "Spontaneity",
-    "artist": "K-Otix",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731861345d0ea838103bd3e40c",
-    "spotifyUrl": "https://open.spotify.com/album/3A2IoZLoYD8EebaHnwWTmB",
-    "playedAt": "2026-10-06T17:58:36.731Z"
-  },
-  {
-    "albumId": "1mrhahrlJu5JfzgeV6Cy8t",
-    "title": "Take Me To Your Leader",
-    "artist": "King Geedorah, John Robinson, Stahhr, Stacy Epps, Invizible Handz",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c54028b0ef2f2f569fb3df42",
-    "spotifyUrl": "https://open.spotify.com/album/1mrhahrlJu5JfzgeV6Cy8t",
-    "playedAt": "2026-10-06T17:55:51.716Z"
   }
 ]
