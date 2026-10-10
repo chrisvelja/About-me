@@ -1,5 +1,21 @@
 [
   {
+    "albumId": "5S2RzVtE5dwhqZHK9UH767",
+    "title": "HABITAT",
+    "artist": "nayt, 3D",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739b37c1d6e9a9fa593545e7fa",
+    "spotifyUrl": "https://open.spotify.com/album/5S2RzVtE5dwhqZHK9UH767",
+    "playedAt": "2026-10-10T17:20:18.112Z"
+  },
+  {
+    "albumId": "7mzC45R2k8PRHzE7lbrRBE",
+    "title": "Lettera Q",
+    "artist": "nayt",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a0c7ce4c5dff167542456733",
+    "spotifyUrl": "https://open.spotify.com/album/7mzC45R2k8PRHzE7lbrRBE",
+    "playedAt": "2026-10-10T17:17:28.680Z"
+  },
+  {
     "albumId": "04v8KIBvsyz6OTvSSrBhkI",
     "title": "SINCERO!",
     "artist": "Rare\u0219",
@@ -141,7 +157,7 @@
     "artist": "The Strokes",
     "cover": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
     "spotifyUrl": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5",
-    "playedAt": "2026-10-07T11:27:20.111Z"
+    "playedAt": "2026-10-07T11:40:01.229Z"
   },
   {
     "albumId": "04v8KIBvsyz6OTvSSrBhkI",
@@ -366,21 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273c54028b0ef2f2f569fb3df42",
     "spotifyUrl": "https://open.spotify.com/album/1mrhahrlJu5JfzgeV6Cy8t",
     "playedAt": "2026-10-06T17:55:51.716Z"
-  },
-  {
-    "albumId": "19bQiwEKhXUBJWY6oV3KZk",
-    "title": "Madvillainy",
-    "artist": "Madvillain, Madlib, MF DOOM",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2733e3bb917af94bd82074c5d47",
-    "spotifyUrl": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk",
-    "playedAt": "2026-10-06T17:50:53.323Z"
-  },
-  {
-    "albumId": "2ClZ9xWAYg1BH8zkR96dJo",
-    "title": "USB",
-    "artist": "Fred again.., BIA",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734018b70099d433d9c8aabb12",
-    "spotifyUrl": "https://open.spotify.com/album/2ClZ9xWAYg1BH8zkR96dJo",
-    "playedAt": "2026-10-06T17:49:17.304Z"
   }
 ]
