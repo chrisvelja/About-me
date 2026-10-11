@@ -1,5 +1,29 @@
 [
   {
+    "albumId": "65oa7Z2Ooy7F77H3VK34VS",
+    "title": "CALMA 22",
+    "artist": "43.Nove",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273aa9da00d4263de6354970297",
+    "spotifyUrl": "https://open.spotify.com/album/65oa7Z2Ooy7F77H3VK34VS",
+    "playedAt": "2026-10-11T20:26:36.922Z"
+  },
+  {
+    "albumId": "3jBVpCL4ePAQp4dXTGf66x",
+    "title": "Su x gi\u00f9",
+    "artist": "Giuse The Lizia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a4e38eb58b4baa824c8d8c34",
+    "spotifyUrl": "https://open.spotify.com/album/3jBVpCL4ePAQp4dXTGf66x",
+    "playedAt": "2026-10-11T20:24:12.699Z"
+  },
+  {
+    "albumId": "49SrZVIZz5qjM7XeZp9lkp",
+    "title": "Incendio (Casa Mia)",
+    "artist": "Limonka",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c11358c05dd2e505aa41e0be",
+    "spotifyUrl": "https://open.spotify.com/album/49SrZVIZz5qjM7XeZp9lkp",
+    "playedAt": "2026-10-11T19:48:57.612Z"
+  },
+  {
     "albumId": "4piJq7R3gjUOxnYs6lDCTg",
     "title": "Hot Fuss",
     "artist": "The Killers",
@@ -358,29 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
     "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
     "playedAt": "2026-10-07T08:46:14.872Z"
-  },
-  {
-    "albumId": "6ohX7moZZnF1FwYrli1OJ6",
-    "title": "In Utero (Deluxe Edition)",
-    "artist": "Nirvana",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c",
-    "spotifyUrl": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6",
-    "playedAt": "2026-10-07T05:54:12.504Z"
-  },
-  {
-    "albumId": "7wOOA7l306K8HfBKfPoafr",
-    "title": "In Utero",
-    "artist": "Nirvana",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
-    "spotifyUrl": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr",
-    "playedAt": "2026-10-06T22:25:52.830Z"
-  },
-  {
-    "albumId": "6ICrBzsbHVluGHP8wGK4Y3",
-    "title": "Incesticide",
-    "artist": "Nirvana",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e1f5fcef5fb5f70aa0a717fc",
-    "spotifyUrl": "https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3",
-    "playedAt": "2026-10-06T22:18:48.349Z"
   }
 ]
