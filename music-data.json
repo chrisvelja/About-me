@@ -1,5 +1,61 @@
 [
   {
+    "albumId": "4piJq7R3gjUOxnYs6lDCTg",
+    "title": "Hot Fuss",
+    "artist": "The Killers",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d",
+    "spotifyUrl": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg",
+    "playedAt": "2026-10-11T17:15:12.562Z"
+  },
+  {
+    "albumId": "6dVIqQ8qmQ5GBnJ9shOYGE",
+    "title": "OK Computer",
+    "artist": "Radiohead",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+    "spotifyUrl": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE",
+    "playedAt": "2026-10-11T17:11:28.925Z"
+  },
+  {
+    "albumId": "0lw68yx3MhKflWFqCsGkIs",
+    "title": "Black Holes and Revelations",
+    "artist": "Muse",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400",
+    "spotifyUrl": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs",
+    "playedAt": "2026-10-11T17:07:04.343Z"
+  },
+  {
+    "albumId": "7wvFp9rKvXD6e3JA5OJSZN",
+    "title": "\u00c8 gi\u00e0 domani",
+    "artist": "Fast Animals and Slow Kids",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f29aa54c8ae52770aaf3b5b3",
+    "spotifyUrl": "https://open.spotify.com/album/7wvFp9rKvXD6e3JA5OJSZN",
+    "playedAt": "2026-10-11T17:03:03.611Z"
+  },
+  {
+    "albumId": "7xl50xr9NDkd3i2kBbzsNZ",
+    "title": "Stadium Arcadium",
+    "artist": "Red Hot Chili Peppers",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517",
+    "spotifyUrl": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ",
+    "playedAt": "2026-10-11T16:59:38.470Z"
+  },
+  {
+    "albumId": "55RhFRyQFihIyGf61MgcfV",
+    "title": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+    "artist": "The Smashing Pumpkins",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6",
+    "spotifyUrl": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV",
+    "playedAt": "2026-10-11T16:50:26.385Z"
+  },
+  {
+    "albumId": "2xkZV2Hl1Omi8rk2D7t5lN",
+    "title": "The New Abnormal",
+    "artist": "The Strokes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
+    "spotifyUrl": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN",
+    "playedAt": "2026-10-11T16:45:59.686Z"
+  },
+  {
     "albumId": "04v8KIBvsyz6OTvSSrBhkI",
     "title": "SINCERO!",
     "artist": "Rare\u0219",
@@ -128,6 +184,14 @@
     "playedAt": "2026-10-10T19:46:08.664Z"
   },
   {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219, iako",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-10-10T18:53:19.062Z"
+  },
+  {
     "albumId": "5wByaEbAmxIlQCDdicFJry",
     "title": "M\u0100Y\u0100",
     "artist": "MACE, Marco Mengoni, Frah Quintale, Gemitaiz",
@@ -158,14 +222,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273a0c7ce4c5dff167542456733",
     "spotifyUrl": "https://open.spotify.com/album/7mzC45R2k8PRHzE7lbrRBE",
     "playedAt": "2026-10-10T17:17:28.680Z"
-  },
-  {
-    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
-    "title": "SINCERO!",
-    "artist": "Rare\u0219, Giovanni Truppi",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
-    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
-    "playedAt": "2026-10-10T08:29:28.727Z"
   },
   {
     "albumId": "04v8KIBvsyz6OTvSSrBhkI",
@@ -326,61 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273e1f5fcef5fb5f70aa0a717fc",
     "spotifyUrl": "https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3",
     "playedAt": "2026-10-06T22:18:48.349Z"
-  },
-  {
-    "albumId": "1KVGLuPtrMrLlyy4Je6df7",
-    "title": "Bleach",
-    "artist": "Nirvana",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27397507fd22fb690cb9085a864",
-    "spotifyUrl": "https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7",
-    "playedAt": "2026-10-06T22:16:31.276Z"
-  },
-  {
-    "albumId": "1To7kv722A8SpZF789MZy7",
-    "title": "MTV Unplugged In New York",
-    "artist": "Nirvana",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
-    "spotifyUrl": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7",
-    "playedAt": "2026-10-06T22:13:36.603Z"
-  },
-  {
-    "albumId": "5zBPRXCAc801vyHWoRurNZ",
-    "title": "Nirvana",
-    "artist": "Nirvana",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27356072fea6785a3ad2d24237c",
-    "spotifyUrl": "https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ",
-    "playedAt": "2026-10-06T21:54:48.959Z"
-  },
-  {
-    "albumId": "6ohX7moZZnF1FwYrli1OJ6",
-    "title": "In Utero (Deluxe Edition)",
-    "artist": "Nirvana",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c",
-    "spotifyUrl": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6",
-    "playedAt": "2026-10-06T21:51:11.420Z"
-  },
-  {
-    "albumId": "2UJcKiJxNryhL050F5Z1Fk",
-    "title": "Nevermind (Remastered)",
-    "artist": "Nirvana",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6",
-    "spotifyUrl": "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk",
-    "playedAt": "2026-10-06T21:48:20.878Z"
-  },
-  {
-    "albumId": "6lxRA8Rl9a9XoZDCVWBzBY",
-    "title": "The Blues And The Abstract Truth",
-    "artist": "Oliver Nelson",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739ab9b4e0d804541ca54c3f6c",
-    "spotifyUrl": "https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY",
-    "playedAt": "2026-10-06T21:06:56.217Z"
-  },
-  {
-    "albumId": "6hDZjN3iWJ95RIXnxbiG1P",
-    "title": "Julie Is Her Name",
-    "artist": "Julie London",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273320b023f0b74149959eb8069",
-    "spotifyUrl": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P",
-    "playedAt": "2026-10-06T20:58:10.107Z"
   }
 ]
