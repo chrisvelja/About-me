@@ -1,5 +1,13 @@
 [
   {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-10-12T06:04:49.502Z"
+  },
+  {
     "albumId": "5HQ3q1jMLZVMJfFujK0zY9",
     "title": "Vivi Per Sempre",
     "artist": "Canova",
@@ -112,6 +120,14 @@
     "playedAt": "2026-10-10T20:39:27.962Z"
   },
   {
+    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
+    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
+    "artist": "faccianuvola",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
+    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
+    "playedAt": "2026-10-10T20:35:28.594Z"
+  },
+  {
     "albumId": "5vU1aPRtYOS3wUkitPGbWV",
     "title": "Avete ragione tutti",
     "artist": "Canova",
@@ -150,14 +166,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273df83eb6fb4c066fe0366aa73",
     "spotifyUrl": "https://open.spotify.com/album/3fLZttN2wu3O5td1arWns6",
     "playedAt": "2026-10-10T20:19:50.308Z"
-  },
-  {
-    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
-    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
-    "artist": "faccianuvola, Rare\u0219",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
-    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
-    "playedAt": "2026-10-10T20:14:54.922Z"
   },
   {
     "albumId": "7GrBztiTYeurqweiz70SfY",
@@ -374,13 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273a9e40bd192d83079cb8c385f",
     "spotifyUrl": "https://open.spotify.com/album/7qZ5XKi1L7ivSxcFFyEjBV",
     "playedAt": "2026-10-07T14:19:36.536Z"
-  },
-  {
-    "albumId": "2yNaksHgeMQM9Quse463b5",
-    "title": "Is This It",
-    "artist": "The Strokes",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
-    "spotifyUrl": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5",
-    "playedAt": "2026-10-07T11:40:01.229Z"
   }
 ]
