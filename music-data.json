@@ -1,5 +1,13 @@
 [
   {
+    "albumId": "5HQ3q1jMLZVMJfFujK0zY9",
+    "title": "Vivi Per Sempre",
+    "artist": "Canova",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b89546012b5693a44807445c",
+    "spotifyUrl": "https://open.spotify.com/album/5HQ3q1jMLZVMJfFujK0zY9",
+    "playedAt": "2026-10-11T21:38:57.408Z"
+  },
+  {
     "albumId": "65oa7Z2Ooy7F77H3VK34VS",
     "title": "CALMA 22",
     "artist": "43.Nove",
@@ -112,6 +120,14 @@
     "playedAt": "2026-10-10T20:32:07.140Z"
   },
   {
+    "albumId": "0idasMxjLcTfRitXmkvJ93",
+    "title": "CALCINACCI",
+    "artist": "Fulminacci, Franco126",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ff26d9e6888e0a1ab315aa6a",
+    "spotifyUrl": "https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93",
+    "playedAt": "2026-10-10T20:28:44.535Z"
+  },
+  {
     "albumId": "5KsrpADyPgZQA4f67KmuGz",
     "title": "INTERNET",
     "artist": "Giuse The Lizia",
@@ -136,20 +152,20 @@
     "playedAt": "2026-10-10T20:19:50.308Z"
   },
   {
+    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
+    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
+    "artist": "faccianuvola, Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
+    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
+    "playedAt": "2026-10-10T20:14:54.922Z"
+  },
+  {
     "albumId": "7GrBztiTYeurqweiz70SfY",
     "title": "Fantastico (con Giorgio Poi)",
     "artist": "Golden Years, Drast, Giorgio Poi",
     "cover": "https://i.scdn.co/image/ab67616d0000b273dd68e031f5c25d6f1fae95d1",
     "spotifyUrl": "https://open.spotify.com/album/7GrBztiTYeurqweiz70SfY",
     "playedAt": "2026-10-10T20:11:43.884Z"
-  },
-  {
-    "albumId": "0idasMxjLcTfRitXmkvJ93",
-    "title": "CALCINACCI",
-    "artist": "Fulminacci",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ff26d9e6888e0a1ab315aa6a",
-    "spotifyUrl": "https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93",
-    "playedAt": "2026-10-10T20:09:29.598Z"
   },
   {
     "albumId": "6kq0w1HINm0xj5bOeAxAWp",
@@ -174,14 +190,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273ec38726df2c0bb6015412929",
     "spotifyUrl": "https://open.spotify.com/album/29nOS5yANYfHlGSBGkkfuW",
     "playedAt": "2026-10-10T19:59:32.741Z"
-  },
-  {
-    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
-    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
-    "artist": "faccianuvola",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
-    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
-    "playedAt": "2026-10-10T19:56:07.233Z"
   },
   {
     "albumId": "7sKxNMJzj03OUjShXAFs7P",
@@ -374,13 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
     "spotifyUrl": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5",
     "playedAt": "2026-10-07T11:40:01.229Z"
-  },
-  {
-    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
-    "title": "SINCERO!",
-    "artist": "Rare\u0219",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
-    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
-    "playedAt": "2026-10-07T08:46:14.872Z"
   }
 ]
