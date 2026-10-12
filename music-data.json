@@ -1,5 +1,13 @@
 [
   {
+    "albumId": "5KsrpADyPgZQA4f67KmuGz",
+    "title": "INTERNET",
+    "artist": "Giuse The Lizia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737e774a46632edec684142565",
+    "spotifyUrl": "https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz",
+    "playedAt": "2026-10-12T15:51:06.493Z"
+  },
+  {
     "albumId": "3Q2DpYvYcJluGlRQfeiSQE",
     "title": "Guarda le luci amore mio",
     "artist": "Dutch Nazari",
@@ -80,6 +88,14 @@
     "playedAt": "2026-10-11T20:24:12.699Z"
   },
   {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-10-11T19:52:05.899Z"
+  },
+  {
     "albumId": "49SrZVIZz5qjM7XeZp9lkp",
     "title": "Incendio (Casa Mia)",
     "artist": "Limonka",
@@ -142,14 +158,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
     "spotifyUrl": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN",
     "playedAt": "2026-10-11T16:45:59.686Z"
-  },
-  {
-    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
-    "title": "SINCERO!",
-    "artist": "Rare\u0219",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
-    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
-    "playedAt": "2026-10-11T16:29:59.831Z"
   },
   {
     "albumId": "3T4tUhGYeRNVUGevb0wThu",
@@ -374,13 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273061bf53ff7abeb2e89429bdf",
     "spotifyUrl": "https://open.spotify.com/album/3s3ThjVMEWRqXV8b4H6sy4",
     "playedAt": "2026-10-07T19:50:53.571Z"
-  },
-  {
-    "albumId": "4OaPU3DM8Mr7yOnVPXeCuh",
-    "title": "Mediterraneo (Dopo il Mare)",
-    "artist": "Bresh",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27313f95e59fc87aa92b6e63d70",
-    "spotifyUrl": "https://open.spotify.com/album/4OaPU3DM8Mr7yOnVPXeCuh",
-    "playedAt": "2026-10-07T19:47:36.158Z"
   }
 ]
