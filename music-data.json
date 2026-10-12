@@ -1,5 +1,53 @@
 [
   {
+    "albumId": "3Q2DpYvYcJluGlRQfeiSQE",
+    "title": "Guarda le luci amore mio",
+    "artist": "Dutch Nazari",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273431e6e68dd8a53a6251a8fdd",
+    "spotifyUrl": "https://open.spotify.com/album/3Q2DpYvYcJluGlRQfeiSQE",
+    "playedAt": "2026-10-12T10:53:46.960Z"
+  },
+  {
+    "albumId": "7GrBztiTYeurqweiz70SfY",
+    "title": "Fantastico (con Giorgio Poi)",
+    "artist": "Golden Years, Drast, Giorgio Poi",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273dd68e031f5c25d6f1fae95d1",
+    "spotifyUrl": "https://open.spotify.com/album/7GrBztiTYeurqweiz70SfY",
+    "playedAt": "2026-10-12T10:11:11.267Z"
+  },
+  {
+    "albumId": "65oa7Z2Ooy7F77H3VK34VS",
+    "title": "CALMA 22",
+    "artist": "43.Nove",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273aa9da00d4263de6354970297",
+    "spotifyUrl": "https://open.spotify.com/album/65oa7Z2Ooy7F77H3VK34VS",
+    "playedAt": "2026-10-12T10:08:57.047Z"
+  },
+  {
+    "albumId": "7usLGG1jyoUrRKMcyQKoaJ",
+    "title": "Lento Violento",
+    "artist": "Canova",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737652cba8465f7a3485979545",
+    "spotifyUrl": "https://open.spotify.com/album/7usLGG1jyoUrRKMcyQKoaJ",
+    "playedAt": "2026-10-12T10:02:31.884Z"
+  },
+  {
+    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
+    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
+    "artist": "faccianuvola",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
+    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
+    "playedAt": "2026-10-12T09:59:06.324Z"
+  },
+  {
+    "albumId": "6kq0w1HINm0xj5bOeAxAWp",
+    "title": "INTERNET EXPLORER",
+    "artist": "Giuse The Lizia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e11716ab077ff2879bc48cc1",
+    "spotifyUrl": "https://open.spotify.com/album/6kq0w1HINm0xj5bOeAxAWp",
+    "playedAt": "2026-10-12T09:54:37.645Z"
+  },
+  {
     "albumId": "04v8KIBvsyz6OTvSSrBhkI",
     "title": "SINCERO!",
     "artist": "Rare\u0219",
@@ -101,7 +149,7 @@
     "artist": "Rare\u0219",
     "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
     "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
-    "playedAt": "2026-10-11T10:09:38.370Z"
+    "playedAt": "2026-10-11T10:38:43.610Z"
   },
   {
     "albumId": "3T4tUhGYeRNVUGevb0wThu",
@@ -334,53 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b27313f95e59fc87aa92b6e63d70",
     "spotifyUrl": "https://open.spotify.com/album/4OaPU3DM8Mr7yOnVPXeCuh",
     "playedAt": "2026-10-07T19:47:36.158Z"
-  },
-  {
-    "albumId": "3T4tUhGYeRNVUGevb0wThu",
-    "title": "\u00f7 (Deluxe)",
-    "artist": "Ed Sheeran",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
-    "spotifyUrl": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu",
-    "playedAt": "2026-10-07T18:20:11.409Z"
-  },
-  {
-    "albumId": "5PdqPLG4hUzuLAWUDFaZap",
-    "title": "Gira, il mondo gira",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734743343cec324c534a99ca39",
-    "spotifyUrl": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap",
-    "playedAt": "2026-10-07T18:16:17.365Z"
-  },
-  {
-    "albumId": "4yFOskDlre6FZgvNYMYXyb",
-    "title": "Nu Wave",
-    "artist": "Yaahn Hunter Jr., The Pocket Queen, J Moss",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27323e6240866274a03f6337518",
-    "spotifyUrl": "https://open.spotify.com/album/4yFOskDlre6FZgvNYMYXyb",
-    "playedAt": "2026-10-07T17:52:22.352Z"
-  },
-  {
-    "albumId": "5IenxFp0vpnXBUxPcwJtbE",
-    "title": "MKTO",
-    "artist": "MKTO",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739474419f15773875a495eed3",
-    "spotifyUrl": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE",
-    "playedAt": "2026-10-07T14:31:51.354Z"
-  },
-  {
-    "albumId": "5K79FLRUCSysQnVESLcTdb",
-    "title": "DeB\u00cd TiRAR M\u00e1S FOToS",
-    "artist": "Bad Bunny, Los Pleneros de la Cresta",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-    "spotifyUrl": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb",
-    "playedAt": "2026-10-07T14:23:29.323Z"
-  },
-  {
-    "albumId": "7qZ5XKi1L7ivSxcFFyEjBV",
-    "title": "Il Mondo Gira",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a9e40bd192d83079cb8c385f",
-    "spotifyUrl": "https://open.spotify.com/album/7qZ5XKi1L7ivSxcFFyEjBV",
-    "playedAt": "2026-10-07T14:19:36.536Z"
   }
 ]
