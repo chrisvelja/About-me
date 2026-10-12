@@ -1,5 +1,13 @@
 [
   {
+    "albumId": "5xrOcCoO3jkXRjHQjfESM6",
+    "title": "Mad Love The Prequel",
+    "artist": "Sean Paul, Dua Lipa",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732d564195ed3dd7b70d64862c",
+    "spotifyUrl": "https://open.spotify.com/album/5xrOcCoO3jkXRjHQjfESM6",
+    "playedAt": "2026-10-12T21:02:09.525Z"
+  },
+  {
     "albumId": "5KsrpADyPgZQA4f67KmuGz",
     "title": "INTERNET",
     "artist": "Giuse The Lizia",
@@ -374,13 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2738cbd315566d3ea3bdddb8952",
     "spotifyUrl": "https://open.spotify.com/album/2YZZIDM1eRHHza7wde8KYg",
     "playedAt": "2026-10-07T20:38:17.100Z"
-  },
-  {
-    "albumId": "3s3ThjVMEWRqXV8b4H6sy4",
-    "title": "Faccio un casino",
-    "artist": "Coez",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273061bf53ff7abeb2e89429bdf",
-    "spotifyUrl": "https://open.spotify.com/album/3s3ThjVMEWRqXV8b4H6sy4",
-    "playedAt": "2026-10-07T19:50:53.571Z"
   }
 ]
