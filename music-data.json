@@ -1,5 +1,13 @@
 [
   {
+    "albumId": "6prdGyJZaUBHgCvVJ4mJH5",
+    "title": "CRUSH",
+    "artist": "Giuse The Lizia, Fulminacci",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27303e4c77a755caa4d59dca4e4",
+    "spotifyUrl": "https://open.spotify.com/album/6prdGyJZaUBHgCvVJ4mJH5",
+    "playedAt": "2026-10-12T22:16:48.406Z"
+  },
+  {
     "albumId": "5xrOcCoO3jkXRjHQjfESM6",
     "title": "Mad Love The Prequel",
     "artist": "Sean Paul, Dua Lipa",
@@ -374,13 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
     "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
     "playedAt": "2026-10-08T09:10:31.799Z"
-  },
-  {
-    "albumId": "2YZZIDM1eRHHza7wde8KYg",
-    "title": "Peter Pan",
-    "artist": "Ultimo",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738cbd315566d3ea3bdddb8952",
-    "spotifyUrl": "https://open.spotify.com/album/2YZZIDM1eRHHza7wde8KYg",
-    "playedAt": "2026-10-07T20:38:17.100Z"
   }
 ]
