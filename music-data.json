@@ -1,5 +1,21 @@
 [
   {
+    "albumId": "2yNaksHgeMQM9Quse463b5",
+    "title": "Is This It",
+    "artist": "The Strokes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
+    "spotifyUrl": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5",
+    "playedAt": "2026-10-13T14:28:23.722Z"
+  },
+  {
+    "albumId": "2xkZV2Hl1Omi8rk2D7t5lN",
+    "title": "The New Abnormal",
+    "artist": "The Strokes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
+    "spotifyUrl": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN",
+    "playedAt": "2026-10-13T13:47:20.705Z"
+  },
+  {
     "albumId": "5vU1aPRtYOS3wUkitPGbWV",
     "title": "Avete ragione tutti",
     "artist": "Canova",
@@ -136,20 +152,20 @@
     "playedAt": "2026-10-12T22:16:48.406Z"
   },
   {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-10-12T21:46:54.268Z"
+  },
+  {
     "albumId": "5xrOcCoO3jkXRjHQjfESM6",
     "title": "Mad Love The Prequel",
     "artist": "Sean Paul, Dua Lipa",
     "cover": "https://i.scdn.co/image/ab67616d0000b2732d564195ed3dd7b70d64862c",
     "spotifyUrl": "https://open.spotify.com/album/5xrOcCoO3jkXRjHQjfESM6",
     "playedAt": "2026-10-12T21:02:09.525Z"
-  },
-  {
-    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
-    "title": "SINCERO!",
-    "artist": "Rare\u0219",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
-    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
-    "playedAt": "2026-10-12T20:58:27.821Z"
   },
   {
     "albumId": "5KsrpADyPgZQA4f67KmuGz",
@@ -366,21 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273df83eb6fb4c066fe0366aa73",
     "spotifyUrl": "https://open.spotify.com/album/3fLZttN2wu3O5td1arWns6",
     "playedAt": "2026-10-10T20:19:50.308Z"
-  },
-  {
-    "albumId": "7GrBztiTYeurqweiz70SfY",
-    "title": "Fantastico (con Giorgio Poi)",
-    "artist": "Golden Years, Drast, Giorgio Poi",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273dd68e031f5c25d6f1fae95d1",
-    "spotifyUrl": "https://open.spotify.com/album/7GrBztiTYeurqweiz70SfY",
-    "playedAt": "2026-10-10T20:11:43.884Z"
-  },
-  {
-    "albumId": "6kq0w1HINm0xj5bOeAxAWp",
-    "title": "INTERNET EXPLORER",
-    "artist": "Giuse The Lizia",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e11716ab077ff2879bc48cc1",
-    "spotifyUrl": "https://open.spotify.com/album/6kq0w1HINm0xj5bOeAxAWp",
-    "playedAt": "2026-10-10T20:06:23.549Z"
   }
 ]
