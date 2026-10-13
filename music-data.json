@@ -1,5 +1,29 @@
 [
   {
+    "albumId": "5vU1aPRtYOS3wUkitPGbWV",
+    "title": "Avete ragione tutti",
+    "artist": "Canova",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734faf0f1c533513c1989413d6",
+    "spotifyUrl": "https://open.spotify.com/album/5vU1aPRtYOS3wUkitPGbWV",
+    "playedAt": "2026-10-13T09:33:41.813Z"
+  },
+  {
+    "albumId": "65oa7Z2Ooy7F77H3VK34VS",
+    "title": "CALMA 22",
+    "artist": "43.Nove",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273aa9da00d4263de6354970297",
+    "spotifyUrl": "https://open.spotify.com/album/65oa7Z2Ooy7F77H3VK34VS",
+    "playedAt": "2026-10-13T09:29:44.771Z"
+  },
+  {
+    "albumId": "3jBVpCL4ePAQp4dXTGf66x",
+    "title": "Su x gi\u00f9",
+    "artist": "Giuse The Lizia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a4e38eb58b4baa824c8d8c34",
+    "spotifyUrl": "https://open.spotify.com/album/3jBVpCL4ePAQp4dXTGf66x",
+    "playedAt": "2026-10-13T09:27:07.489Z"
+  },
+  {
     "albumId": "3cfaUxWe1QL8h1GFG3wAGh",
     "title": "Curriculum Vitae",
     "artist": "Rare\u0219",
@@ -120,20 +144,20 @@
     "playedAt": "2026-10-12T21:02:09.525Z"
   },
   {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-10-12T20:58:27.821Z"
+  },
+  {
     "albumId": "5KsrpADyPgZQA4f67KmuGz",
     "title": "INTERNET",
     "artist": "Giuse The Lizia",
     "cover": "https://i.scdn.co/image/ab67616d0000b2737e774a46632edec684142565",
     "spotifyUrl": "https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz",
     "playedAt": "2026-10-12T15:51:06.493Z"
-  },
-  {
-    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
-    "title": "SINCERO!",
-    "artist": "Rare\u0219, Giovanni Truppi",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
-    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
-    "playedAt": "2026-10-12T15:39:32.916Z"
   },
   {
     "albumId": "3Q2DpYvYcJluGlRQfeiSQE",
@@ -358,29 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273e11716ab077ff2879bc48cc1",
     "spotifyUrl": "https://open.spotify.com/album/6kq0w1HINm0xj5bOeAxAWp",
     "playedAt": "2026-10-10T20:06:23.549Z"
-  },
-  {
-    "albumId": "5Yvb0TuL8ElqlIKLuS0tsz",
-    "title": "Threesome",
-    "artist": "Canova",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27367a518f2479953643e333b82",
-    "spotifyUrl": "https://open.spotify.com/album/5Yvb0TuL8ElqlIKLuS0tsz",
-    "playedAt": "2026-10-10T20:03:04.739Z"
-  },
-  {
-    "albumId": "29nOS5yANYfHlGSBGkkfuW",
-    "title": "Agonia",
-    "artist": "chiello",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ec38726df2c0bb6015412929",
-    "spotifyUrl": "https://open.spotify.com/album/29nOS5yANYfHlGSBGkkfuW",
-    "playedAt": "2026-10-10T19:59:32.741Z"
-  },
-  {
-    "albumId": "7sKxNMJzj03OUjShXAFs7P",
-    "title": "Mille Macchine",
-    "artist": "Rare\u0219",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b4caacf45db917dd32232797",
-    "spotifyUrl": "https://open.spotify.com/album/7sKxNMJzj03OUjShXAFs7P",
-    "playedAt": "2026-10-10T19:52:16.716Z"
   }
 ]
