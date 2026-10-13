@@ -1,5 +1,77 @@
 [
   {
+    "albumId": "1y5YAxUuYPmMAtUetuBhiH",
+    "title": "Tornami addosso (Eccoti)",
+    "artist": "Albe",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273641778249b5c4d02de3e45fd",
+    "spotifyUrl": "https://open.spotify.com/album/1y5YAxUuYPmMAtUetuBhiH",
+    "playedAt": "2026-10-13T15:57:53.199Z"
+  },
+  {
+    "albumId": "5g63IHLDxeCZHZCI0gSq2K",
+    "title": "PASSIONE",
+    "artist": "Fred De Palma",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734d33f764036950f71fbf528c",
+    "spotifyUrl": "https://open.spotify.com/album/5g63IHLDxeCZHZCI0gSq2K",
+    "playedAt": "2026-10-13T15:54:46.044Z"
+  },
+  {
+    "albumId": "7qZ5XKi1L7ivSxcFFyEjBV",
+    "title": "Il Mondo Gira",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a9e40bd192d83079cb8c385f",
+    "spotifyUrl": "https://open.spotify.com/album/7qZ5XKi1L7ivSxcFFyEjBV",
+    "playedAt": "2026-10-13T15:52:02.210Z"
+  },
+  {
+    "albumId": "6qUKja9MS5oO5T25kwkgSt",
+    "title": "La Notte (RMX)",
+    "artist": "Olly, Arisa",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27375a2681236cb3417dda2f0d9",
+    "spotifyUrl": "https://open.spotify.com/album/6qUKja9MS5oO5T25kwkgSt",
+    "playedAt": "2026-10-13T15:49:31.494Z"
+  },
+  {
+    "albumId": "3s3ThjVMEWRqXV8b4H6sy4",
+    "title": "Faccio un casino",
+    "artist": "Coez",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273061bf53ff7abeb2e89429bdf",
+    "spotifyUrl": "https://open.spotify.com/album/3s3ThjVMEWRqXV8b4H6sy4",
+    "playedAt": "2026-10-13T15:44:19.591Z"
+  },
+  {
+    "albumId": "6pW2frIdrq4du0eoDOUybR",
+    "title": "INVISIBILI",
+    "artist": "Il Tre",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f1f9bac7f2e15e4d72e9f799",
+    "spotifyUrl": "https://open.spotify.com/album/6pW2frIdrq4du0eoDOUybR",
+    "playedAt": "2026-10-13T15:41:02.143Z"
+  },
+  {
+    "albumId": "7cHvY650WYCDZ6b50fVfkZ",
+    "title": "Hai fatto bene",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736eb690a8df60d1ec30ddbbed",
+    "spotifyUrl": "https://open.spotify.com/album/7cHvY650WYCDZ6b50fVfkZ",
+    "playedAt": "2026-10-13T15:37:49.723Z"
+  },
+  {
+    "albumId": "6zBVlFWATphRVpz1rxyWvF",
+    "title": "abbatteremo i motel e torneremo a far l\u2019amore in mezzo ai campi",
+    "artist": "Albe",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b0a4539126755b4796ba1f45",
+    "spotifyUrl": "https://open.spotify.com/album/6zBVlFWATphRVpz1rxyWvF",
+    "playedAt": "2026-10-13T15:35:04.377Z"
+  },
+  {
+    "albumId": "4OaPU3DM8Mr7yOnVPXeCuh",
+    "title": "Mediterraneo (Dopo il Mare)",
+    "artist": "Bresh",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27313f95e59fc87aa92b6e63d70",
+    "spotifyUrl": "https://open.spotify.com/album/4OaPU3DM8Mr7yOnVPXeCuh",
+    "playedAt": "2026-10-13T15:28:30.639Z"
+  },
+  {
     "albumId": "2yNaksHgeMQM9Quse463b5",
     "title": "Is This It",
     "artist": "The Strokes",
@@ -64,6 +136,14 @@
     "playedAt": "2026-10-13T08:52:00.895Z"
   },
   {
+    "albumId": "5PdqPLG4hUzuLAWUDFaZap",
+    "title": "Gira, il mondo gira",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734743343cec324c534a99ca39",
+    "spotifyUrl": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap",
+    "playedAt": "2026-10-13T08:29:00.080Z"
+  },
+  {
     "albumId": "04v8KIBvsyz6OTvSSrBhkI",
     "title": "SINCERO!",
     "artist": "Rare\u0219",
@@ -120,28 +200,12 @@
     "playedAt": "2026-10-13T05:53:41.091Z"
   },
   {
-    "albumId": "4OaPU3DM8Mr7yOnVPXeCuh",
-    "title": "Mediterraneo (Dopo il Mare)",
-    "artist": "Bresh",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27313f95e59fc87aa92b6e63d70",
-    "spotifyUrl": "https://open.spotify.com/album/4OaPU3DM8Mr7yOnVPXeCuh",
-    "playedAt": "2026-10-13T05:50:44.747Z"
-  },
-  {
     "albumId": "4QpLnSupGsuYYJYYoj29Q7",
     "title": "TUTTA VITA",
     "artist": "Olly, Juli",
     "cover": "https://i.scdn.co/image/ab67616d0000b2739a9754efa9799615cf6045e9",
     "spotifyUrl": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7",
     "playedAt": "2026-10-13T05:47:48.494Z"
-  },
-  {
-    "albumId": "5PdqPLG4hUzuLAWUDFaZap",
-    "title": "Gira, il mondo gira",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734743343cec324c534a99ca39",
-    "spotifyUrl": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap",
-    "playedAt": "2026-10-13T05:44:47.848Z"
   },
   {
     "albumId": "6prdGyJZaUBHgCvVJ4mJH5",
@@ -318,69 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
     "spotifyUrl": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN",
     "playedAt": "2026-10-11T16:45:59.686Z"
-  },
-  {
-    "albumId": "3T4tUhGYeRNVUGevb0wThu",
-    "title": "\u00f7 (Deluxe)",
-    "artist": "Ed Sheeran",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
-    "spotifyUrl": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu",
-    "playedAt": "2026-10-11T10:06:31.334Z"
-  },
-  {
-    "albumId": "3T4tUhGYeRNVUGevb0wThu",
-    "title": "\u00f7 (Deluxe)",
-    "artist": "Ed Sheeran",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
-    "spotifyUrl": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu",
-    "playedAt": "2026-10-10T20:39:27.962Z"
-  },
-  {
-    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
-    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
-    "artist": "faccianuvola",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
-    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
-    "playedAt": "2026-10-10T20:35:28.594Z"
-  },
-  {
-    "albumId": "5vU1aPRtYOS3wUkitPGbWV",
-    "title": "Avete ragione tutti",
-    "artist": "Canova",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734faf0f1c533513c1989413d6",
-    "spotifyUrl": "https://open.spotify.com/album/5vU1aPRtYOS3wUkitPGbWV",
-    "playedAt": "2026-10-10T20:32:07.140Z"
-  },
-  {
-    "albumId": "0idasMxjLcTfRitXmkvJ93",
-    "title": "CALCINACCI",
-    "artist": "Fulminacci, Franco126",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ff26d9e6888e0a1ab315aa6a",
-    "spotifyUrl": "https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93",
-    "playedAt": "2026-10-10T20:28:44.535Z"
-  },
-  {
-    "albumId": "5KsrpADyPgZQA4f67KmuGz",
-    "title": "INTERNET",
-    "artist": "Giuse The Lizia",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737e774a46632edec684142565",
-    "spotifyUrl": "https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz",
-    "playedAt": "2026-10-10T20:25:32.810Z"
-  },
-  {
-    "albumId": "5jYoJOTfWYtRP0R7YcUJiC",
-    "title": "Ce lo chiede l'Europa",
-    "artist": "Dutch Nazari",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b9d15ef46d50144291690cc4",
-    "spotifyUrl": "https://open.spotify.com/album/5jYoJOTfWYtRP0R7YcUJiC",
-    "playedAt": "2026-10-10T20:22:24.447Z"
-  },
-  {
-    "albumId": "3fLZttN2wu3O5td1arWns6",
-    "title": "Femmina",
-    "artist": "Rare\u0219",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273df83eb6fb4c066fe0366aa73",
-    "spotifyUrl": "https://open.spotify.com/album/3fLZttN2wu3O5td1arWns6",
-    "playedAt": "2026-10-10T20:19:50.308Z"
   }
 ]
