@@ -1,5 +1,37 @@
 [
   {
+    "albumId": "3cfaUxWe1QL8h1GFG3wAGh",
+    "title": "Curriculum Vitae",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f52e495c2b48c8bff8145987",
+    "spotifyUrl": "https://open.spotify.com/album/3cfaUxWe1QL8h1GFG3wAGh",
+    "playedAt": "2026-10-13T08:59:35.936Z"
+  },
+  {
+    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
+    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
+    "artist": "faccianuvola",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
+    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
+    "playedAt": "2026-10-13T08:55:58.071Z"
+  },
+  {
+    "albumId": "5lzeimyJ2yLa7B6lz77VE0",
+    "title": "Istruzioni",
+    "artist": "Giuse The Lizia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f864faa85c50ba5a2add80c7",
+    "spotifyUrl": "https://open.spotify.com/album/5lzeimyJ2yLa7B6lz77VE0",
+    "playedAt": "2026-10-13T08:52:00.895Z"
+  },
+  {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-10-13T08:25:47.593Z"
+  },
+  {
     "albumId": "1lqbweQ3w6orHhehLOlZim",
     "title": "ORO BLU",
     "artist": "Bresh, SHUNE",
@@ -96,6 +128,14 @@
     "playedAt": "2026-10-12T15:51:06.493Z"
   },
   {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219, Giovanni Truppi",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-10-12T15:39:32.916Z"
+  },
+  {
     "albumId": "3Q2DpYvYcJluGlRQfeiSQE",
     "title": "Guarda le luci amore mio",
     "artist": "Dutch Nazari",
@@ -142,14 +182,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273e11716ab077ff2879bc48cc1",
     "spotifyUrl": "https://open.spotify.com/album/6kq0w1HINm0xj5bOeAxAWp",
     "playedAt": "2026-10-12T09:54:37.645Z"
-  },
-  {
-    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
-    "title": "SINCERO!",
-    "artist": "Rare\u0219",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
-    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
-    "playedAt": "2026-10-12T09:49:37.817Z"
   },
   {
     "albumId": "5HQ3q1jMLZVMJfFujK0zY9",
@@ -350,37 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273b4caacf45db917dd32232797",
     "spotifyUrl": "https://open.spotify.com/album/7sKxNMJzj03OUjShXAFs7P",
     "playedAt": "2026-10-10T19:52:16.716Z"
-  },
-  {
-    "albumId": "65oa7Z2Ooy7F77H3VK34VS",
-    "title": "CALMA 22",
-    "artist": "43.Nove",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273aa9da00d4263de6354970297",
-    "spotifyUrl": "https://open.spotify.com/album/65oa7Z2Ooy7F77H3VK34VS",
-    "playedAt": "2026-10-10T19:48:32.844Z"
-  },
-  {
-    "albumId": "1LA6VsdQLEJ76u6V3egSmE",
-    "title": "Los Angeles",
-    "artist": "Giuse The Lizia",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27361f48b8f644f919e229a1776",
-    "spotifyUrl": "https://open.spotify.com/album/1LA6VsdQLEJ76u6V3egSmE",
-    "playedAt": "2026-10-10T19:46:08.664Z"
-  },
-  {
-    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
-    "title": "SINCERO!",
-    "artist": "Rare\u0219, iako",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
-    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
-    "playedAt": "2026-10-10T18:53:19.062Z"
-  },
-  {
-    "albumId": "5wByaEbAmxIlQCDdicFJry",
-    "title": "M\u0100Y\u0100",
-    "artist": "MACE, Marco Mengoni, Frah Quintale, Gemitaiz",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ed46b10906511b1329ee66ab",
-    "spotifyUrl": "https://open.spotify.com/album/5wByaEbAmxIlQCDdicFJry",
-    "playedAt": "2026-10-10T18:47:42.381Z"
   }
 ]
