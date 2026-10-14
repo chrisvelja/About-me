@@ -1,5 +1,13 @@
 [
   {
+    "albumId": "1vVFEREIhh7HGXcGrx5hXR",
+    "title": "Esordienti 1994",
+    "artist": "SCAR",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27313ff5bb2d2203e9193a6f13e",
+    "spotifyUrl": "https://open.spotify.com/album/1vVFEREIhh7HGXcGrx5hXR",
+    "playedAt": "2026-10-14T14:32:27.928Z"
+  },
+  {
     "albumId": "3AztwxyKcHjKxWFLMzuP8D",
     "title": "ERA SPAZIALE",
     "artist": "Golden Years, Angelica",
@@ -62,6 +70,14 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
     "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
     "playedAt": "2026-10-14T11:37:15.547Z"
+  },
+  {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-10-14T11:15:37.238Z"
   },
   {
     "albumId": "4HB8xHqtwBHZCDPAMlOmje",
@@ -296,14 +312,6 @@
     "playedAt": "2026-10-14T06:50:34.420Z"
   },
   {
-    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
-    "title": "SINCERO!",
-    "artist": "Rare\u0219",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
-    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
-    "playedAt": "2026-10-14T06:34:06.558Z"
-  },
-  {
     "albumId": "58vZavXqh1P5uoTXteudWl",
     "title": "At The Beach, In Every Life",
     "artist": "Gigi Perez",
@@ -374,13 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273061bf53ff7abeb2e89429bdf",
     "spotifyUrl": "https://open.spotify.com/album/3s3ThjVMEWRqXV8b4H6sy4",
     "playedAt": "2026-10-13T15:44:19.591Z"
-  },
-  {
-    "albumId": "6pW2frIdrq4du0eoDOUybR",
-    "title": "INVISIBILI",
-    "artist": "Il Tre",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f1f9bac7f2e15e4d72e9f799",
-    "spotifyUrl": "https://open.spotify.com/album/6pW2frIdrq4du0eoDOUybR",
-    "playedAt": "2026-10-13T15:41:02.143Z"
   }
 ]
