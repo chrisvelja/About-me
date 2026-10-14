@@ -1,5 +1,37 @@
 [
   {
+    "albumId": "6zBVlFWATphRVpz1rxyWvF",
+    "title": "abbatteremo i motel e torneremo a far l\u2019amore in mezzo ai campi",
+    "artist": "Albe",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b0a4539126755b4796ba1f45",
+    "spotifyUrl": "https://open.spotify.com/album/6zBVlFWATphRVpz1rxyWvF",
+    "playedAt": "2026-10-14T19:40:14.099Z"
+  },
+  {
+    "albumId": "6RrLNb1yCXrTQ5d7oGNqIo",
+    "title": "Il primo amore",
+    "artist": "Olly, Yanomi",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273428140667cc3dac4d56f4d2e",
+    "spotifyUrl": "https://open.spotify.com/album/6RrLNb1yCXrTQ5d7oGNqIo",
+    "playedAt": "2026-10-14T19:28:50.929Z"
+  },
+  {
+    "albumId": "5PdqPLG4hUzuLAWUDFaZap",
+    "title": "Gira, il mondo gira",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734743343cec324c534a99ca39",
+    "spotifyUrl": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap",
+    "playedAt": "2026-10-14T19:25:28.467Z"
+  },
+  {
+    "albumId": "4gcFGGL9fEyC6lNrKB3sMS",
+    "title": "From The Rooftop 3",
+    "artist": "Coez",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736807e3c40bfc28244a72db21",
+    "spotifyUrl": "https://open.spotify.com/album/4gcFGGL9fEyC6lNrKB3sMS",
+    "playedAt": "2026-10-14T19:22:27.354Z"
+  },
+  {
     "albumId": "5HQ3q1jMLZVMJfFujK0zY9",
     "title": "Vivi Per Sempre",
     "artist": "Canova",
@@ -128,6 +160,22 @@
     "playedAt": "2026-10-14T15:42:02.712Z"
   },
   {
+    "albumId": "5KsrpADyPgZQA4f67KmuGz",
+    "title": "INTERNET",
+    "artist": "Giuse The Lizia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737e774a46632edec684142565",
+    "spotifyUrl": "https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz",
+    "playedAt": "2026-10-14T15:32:57.236Z"
+  },
+  {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-10-14T14:35:49.446Z"
+  },
+  {
     "albumId": "1vVFEREIhh7HGXcGrx5hXR",
     "title": "Esordienti 1994",
     "artist": "SCAR",
@@ -176,6 +224,14 @@
     "playedAt": "2026-10-14T11:54:26.095Z"
   },
   {
+    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
+    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
+    "artist": "faccianuvola",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
+    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
+    "playedAt": "2026-10-14T11:50:08.460Z"
+  },
+  {
     "albumId": "6kq0w1HINm0xj5bOeAxAWp",
     "title": "INTERNET EXPLORER",
     "artist": "Giuse The Lizia",
@@ -198,30 +254,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273aa9da00d4263de6354970297",
     "spotifyUrl": "https://open.spotify.com/album/65oa7Z2Ooy7F77H3VK34VS",
     "playedAt": "2026-10-14T11:40:08.291Z"
-  },
-  {
-    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
-    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
-    "artist": "faccianuvola",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
-    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
-    "playedAt": "2026-10-14T11:37:15.547Z"
-  },
-  {
-    "albumId": "5KsrpADyPgZQA4f67KmuGz",
-    "title": "INTERNET",
-    "artist": "Giuse The Lizia",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737e774a46632edec684142565",
-    "spotifyUrl": "https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz",
-    "playedAt": "2026-10-14T11:32:46.882Z"
-  },
-  {
-    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
-    "title": "SINCERO!",
-    "artist": "Rare\u0219",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
-    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
-    "playedAt": "2026-10-14T11:18:34.236Z"
   },
   {
     "albumId": "4HB8xHqtwBHZCDPAMlOmje",
@@ -350,37 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273da620cd3b2d0b3af268d7971",
     "spotifyUrl": "https://open.spotify.com/album/1oO2S8sc0hsaRHrZSdY0lq",
     "playedAt": "2026-10-14T08:11:40.323Z"
-  },
-  {
-    "albumId": "6iT3GIpurtTE3MiMB0VxQL",
-    "title": "INVISIBILI",
-    "artist": "Il Tre",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27355165e4032acd8c2a370afbf",
-    "spotifyUrl": "https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL",
-    "playedAt": "2026-10-14T08:08:34.704Z"
-  },
-  {
-    "albumId": "66nX0SGMQ7DrGiMrZlMkqS",
-    "title": "Logico",
-    "artist": "Cesare Cremonini",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27320f8129d955b34bd12e2b654",
-    "spotifyUrl": "https://open.spotify.com/album/66nX0SGMQ7DrGiMrZlMkqS",
-    "playedAt": "2026-10-14T08:05:51.429Z"
-  },
-  {
-    "albumId": "7u8FjnmiBIPNlU1RPVIKvi",
-    "title": "Cantieri",
-    "artist": "dile",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ae72af208a57630436245fd2",
-    "spotifyUrl": "https://open.spotify.com/album/7u8FjnmiBIPNlU1RPVIKvi",
-    "playedAt": "2026-10-14T08:00:53.316Z"
-  },
-  {
-    "albumId": "1yWqNJHJj9uuoNQKx27bma",
-    "title": "Adesso \u00e8 tardi (feat. Greta)",
-    "artist": "Cartapesta, Greta",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736c6a9ab60eb6918ce5bfcdcb",
-    "spotifyUrl": "https://open.spotify.com/album/1yWqNJHJj9uuoNQKx27bma",
-    "playedAt": "2026-10-14T07:58:10.279Z"
   }
 ]
