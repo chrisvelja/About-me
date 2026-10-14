@@ -1,5 +1,77 @@
 [
   {
+    "albumId": "3AztwxyKcHjKxWFLMzuP8D",
+    "title": "ERA SPAZIALE",
+    "artist": "Golden Years, Angelica",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c319cb8bb638003eed54738b",
+    "spotifyUrl": "https://open.spotify.com/album/3AztwxyKcHjKxWFLMzuP8D",
+    "playedAt": "2026-10-14T12:10:59.462Z"
+  },
+  {
+    "albumId": "6prdGyJZaUBHgCvVJ4mJH5",
+    "title": "CRUSH",
+    "artist": "Giuse The Lizia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27303e4c77a755caa4d59dca4e4",
+    "spotifyUrl": "https://open.spotify.com/album/6prdGyJZaUBHgCvVJ4mJH5",
+    "playedAt": "2026-10-14T12:05:30.131Z"
+  },
+  {
+    "albumId": "26gipg6XsqSu6y4m1cZNji",
+    "title": "Folk_2021",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27397a5d9c94b41a30887732b11",
+    "spotifyUrl": "https://open.spotify.com/album/26gipg6XsqSu6y4m1cZNji",
+    "playedAt": "2026-10-14T12:02:32.600Z"
+  },
+  {
+    "albumId": "5vU1aPRtYOS3wUkitPGbWV",
+    "title": "Avete ragione tutti",
+    "artist": "Canova",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734faf0f1c533513c1989413d6",
+    "spotifyUrl": "https://open.spotify.com/album/5vU1aPRtYOS3wUkitPGbWV",
+    "playedAt": "2026-10-14T11:59:58.004Z"
+  },
+  {
+    "albumId": "5wByaEbAmxIlQCDdicFJry",
+    "title": "M\u0100Y\u0100",
+    "artist": "MACE, Marco Castello, Ele A",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ed46b10906511b1329ee66ab",
+    "spotifyUrl": "https://open.spotify.com/album/5wByaEbAmxIlQCDdicFJry",
+    "playedAt": "2026-10-14T11:54:26.095Z"
+  },
+  {
+    "albumId": "6kq0w1HINm0xj5bOeAxAWp",
+    "title": "INTERNET EXPLORER",
+    "artist": "Giuse The Lizia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e11716ab077ff2879bc48cc1",
+    "spotifyUrl": "https://open.spotify.com/album/6kq0w1HINm0xj5bOeAxAWp",
+    "playedAt": "2026-10-14T11:46:43.404Z"
+  },
+  {
+    "albumId": "65oa7Z2Ooy7F77H3VK34VS",
+    "title": "CALMA 22",
+    "artist": "43.Nove",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273aa9da00d4263de6354970297",
+    "spotifyUrl": "https://open.spotify.com/album/65oa7Z2Ooy7F77H3VK34VS",
+    "playedAt": "2026-10-14T11:40:08.291Z"
+  },
+  {
+    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
+    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
+    "artist": "faccianuvola",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
+    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
+    "playedAt": "2026-10-14T11:37:15.547Z"
+  },
+  {
+    "albumId": "4HB8xHqtwBHZCDPAMlOmje",
+    "title": "CRY4U",
+    "artist": "Olly, Yanomi",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273da95b768ffb874fa18b1400b",
+    "spotifyUrl": "https://open.spotify.com/album/4HB8xHqtwBHZCDPAMlOmje",
+    "playedAt": "2026-10-14T09:32:32.197Z"
+  },
+  {
     "albumId": "0Qp4pPAZ6EP9aMyFenfXpu",
     "title": "The Complete Capitol Recordings Of Art Tatum",
     "artist": "Art Tatum",
@@ -229,7 +301,7 @@
     "artist": "Rare\u0219",
     "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
     "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
-    "playedAt": "2026-10-14T06:29:39.570Z"
+    "playedAt": "2026-10-14T06:34:06.558Z"
   },
   {
     "albumId": "58vZavXqh1P5uoTXteudWl",
@@ -310,77 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273f1f9bac7f2e15e4d72e9f799",
     "spotifyUrl": "https://open.spotify.com/album/6pW2frIdrq4du0eoDOUybR",
     "playedAt": "2026-10-13T15:41:02.143Z"
-  },
-  {
-    "albumId": "7cHvY650WYCDZ6b50fVfkZ",
-    "title": "Hai fatto bene",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736eb690a8df60d1ec30ddbbed",
-    "spotifyUrl": "https://open.spotify.com/album/7cHvY650WYCDZ6b50fVfkZ",
-    "playedAt": "2026-10-13T15:37:49.723Z"
-  },
-  {
-    "albumId": "6zBVlFWATphRVpz1rxyWvF",
-    "title": "abbatteremo i motel e torneremo a far l\u2019amore in mezzo ai campi",
-    "artist": "Albe",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b0a4539126755b4796ba1f45",
-    "spotifyUrl": "https://open.spotify.com/album/6zBVlFWATphRVpz1rxyWvF",
-    "playedAt": "2026-10-13T15:35:04.377Z"
-  },
-  {
-    "albumId": "2dSL2X3K3YoVwaKty2JYcE",
-    "title": "Ma'",
-    "artist": "BLANCO",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b9c1e98291b65f17c9cf4a29",
-    "spotifyUrl": "https://open.spotify.com/album/2dSL2X3K3YoVwaKty2JYcE",
-    "playedAt": "2026-10-13T15:32:11.963Z"
-  },
-  {
-    "albumId": "4OaPU3DM8Mr7yOnVPXeCuh",
-    "title": "Mediterraneo (Dopo il Mare)",
-    "artist": "Bresh",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27313f95e59fc87aa92b6e63d70",
-    "spotifyUrl": "https://open.spotify.com/album/4OaPU3DM8Mr7yOnVPXeCuh",
-    "playedAt": "2026-10-13T15:28:30.639Z"
-  },
-  {
-    "albumId": "5nQff1e9q2Tcsa4bEyWXMa",
-    "title": "1998",
-    "artist": "Coez",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27353bfae2747ebc6cc8ea0b5a3",
-    "spotifyUrl": "https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa",
-    "playedAt": "2026-10-13T15:22:24.553Z"
-  },
-  {
-    "albumId": "2yNaksHgeMQM9Quse463b5",
-    "title": "Is This It",
-    "artist": "The Strokes",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
-    "spotifyUrl": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5",
-    "playedAt": "2026-10-13T14:28:23.722Z"
-  },
-  {
-    "albumId": "2xkZV2Hl1Omi8rk2D7t5lN",
-    "title": "The New Abnormal",
-    "artist": "The Strokes",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
-    "spotifyUrl": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN",
-    "playedAt": "2026-10-13T13:47:20.705Z"
-  },
-  {
-    "albumId": "5vU1aPRtYOS3wUkitPGbWV",
-    "title": "Avete ragione tutti",
-    "artist": "Canova",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734faf0f1c533513c1989413d6",
-    "spotifyUrl": "https://open.spotify.com/album/5vU1aPRtYOS3wUkitPGbWV",
-    "playedAt": "2026-10-13T09:33:41.813Z"
-  },
-  {
-    "albumId": "65oa7Z2Ooy7F77H3VK34VS",
-    "title": "CALMA 22",
-    "artist": "43.Nove",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273aa9da00d4263de6354970297",
-    "spotifyUrl": "https://open.spotify.com/album/65oa7Z2Ooy7F77H3VK34VS",
-    "playedAt": "2026-10-13T09:29:44.771Z"
   }
 ]
