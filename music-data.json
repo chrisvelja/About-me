@@ -1,5 +1,29 @@
 [
   {
+    "albumId": "6s84u2TUpR3wdUv4NgKA2j",
+    "title": "SOUR",
+    "artist": "Olivia Rodrigo",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+    "spotifyUrl": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j",
+    "playedAt": "2026-10-13T22:17:30.303Z"
+  },
+  {
+    "albumId": "5VdyJkLe3yvOs0l4xXbWp0",
+    "title": "17",
+    "artist": "XXXTENTACION",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273203c89bd4391468eea4cc3f5",
+    "spotifyUrl": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0",
+    "playedAt": "2026-10-13T22:08:18.436Z"
+  },
+  {
+    "albumId": "6jubY57fdOjhtSO0a3bSiK",
+    "title": "INDI",
+    "artist": "Gazzelle",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27388e4c388c20129fd8d1dc4b1",
+    "spotifyUrl": "https://open.spotify.com/album/6jubY57fdOjhtSO0a3bSiK",
+    "playedAt": "2026-10-13T22:05:51.188Z"
+  },
+  {
     "albumId": "1y5YAxUuYPmMAtUetuBhiH",
     "title": "Tornami addosso (Eccoti)",
     "artist": "Albe",
@@ -64,12 +88,28 @@
     "playedAt": "2026-10-13T15:35:04.377Z"
   },
   {
+    "albumId": "2dSL2X3K3YoVwaKty2JYcE",
+    "title": "Ma'",
+    "artist": "BLANCO",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b9c1e98291b65f17c9cf4a29",
+    "spotifyUrl": "https://open.spotify.com/album/2dSL2X3K3YoVwaKty2JYcE",
+    "playedAt": "2026-10-13T15:32:11.963Z"
+  },
+  {
     "albumId": "4OaPU3DM8Mr7yOnVPXeCuh",
     "title": "Mediterraneo (Dopo il Mare)",
     "artist": "Bresh",
     "cover": "https://i.scdn.co/image/ab67616d0000b27313f95e59fc87aa92b6e63d70",
     "spotifyUrl": "https://open.spotify.com/album/4OaPU3DM8Mr7yOnVPXeCuh",
     "playedAt": "2026-10-13T15:28:30.639Z"
+  },
+  {
+    "albumId": "5nQff1e9q2Tcsa4bEyWXMa",
+    "title": "1998",
+    "artist": "Coez",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27353bfae2747ebc6cc8ea0b5a3",
+    "spotifyUrl": "https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa",
+    "playedAt": "2026-10-13T15:22:24.553Z"
   },
   {
     "albumId": "2yNaksHgeMQM9Quse463b5",
@@ -160,28 +200,12 @@
     "playedAt": "2026-10-13T06:10:29.022Z"
   },
   {
-    "albumId": "2dSL2X3K3YoVwaKty2JYcE",
-    "title": "Ma'",
-    "artist": "BLANCO",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b9c1e98291b65f17c9cf4a29",
-    "spotifyUrl": "https://open.spotify.com/album/2dSL2X3K3YoVwaKty2JYcE",
-    "playedAt": "2026-10-13T06:06:36.857Z"
-  },
-  {
     "albumId": "08SB1CgIS0yVIH7ZV99I6f",
     "title": "TUTTA VITA (SEMPRE)",
     "artist": "Olly, Juli",
     "cover": "https://i.scdn.co/image/ab67616d0000b2736752cb3279906514dd04c8aa",
     "spotifyUrl": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f",
     "playedAt": "2026-10-13T06:04:00.685Z"
-  },
-  {
-    "albumId": "5nQff1e9q2Tcsa4bEyWXMa",
-    "title": "1998",
-    "artist": "Coez",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27353bfae2747ebc6cc8ea0b5a3",
-    "spotifyUrl": "https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa",
-    "playedAt": "2026-10-13T06:00:40.823Z"
   },
   {
     "albumId": "7o2Ac7nDPNLO0tOsdZ73JD",
@@ -358,29 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273f29aa54c8ae52770aaf3b5b3",
     "spotifyUrl": "https://open.spotify.com/album/7wvFp9rKvXD6e3JA5OJSZN",
     "playedAt": "2026-10-11T17:03:03.611Z"
-  },
-  {
-    "albumId": "7xl50xr9NDkd3i2kBbzsNZ",
-    "title": "Stadium Arcadium",
-    "artist": "Red Hot Chili Peppers",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517",
-    "spotifyUrl": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ",
-    "playedAt": "2026-10-11T16:59:38.470Z"
-  },
-  {
-    "albumId": "55RhFRyQFihIyGf61MgcfV",
-    "title": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-    "artist": "The Smashing Pumpkins",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6",
-    "spotifyUrl": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV",
-    "playedAt": "2026-10-11T16:50:26.385Z"
-  },
-  {
-    "albumId": "2xkZV2Hl1Omi8rk2D7t5lN",
-    "title": "The New Abnormal",
-    "artist": "The Strokes",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
-    "spotifyUrl": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN",
-    "playedAt": "2026-10-11T16:45:59.686Z"
   }
 ]
