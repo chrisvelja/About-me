@@ -1,5 +1,221 @@
 [
   {
+    "albumId": "6WbUYB2fDctcuzTsQXWcF6",
+    "title": "Bagus",
+    "artist": "Cesare Cremonini",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e49f7d35b8f21b21defa0435",
+    "spotifyUrl": "https://open.spotify.com/album/6WbUYB2fDctcuzTsQXWcF6",
+    "playedAt": "2026-10-15T15:23:25.799Z"
+  },
+  {
+    "albumId": "1CKeSCEj384RQmAUhcDUlw",
+    "title": "Solo",
+    "artist": "Ultimo",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e1bed516757471f1266dee07",
+    "spotifyUrl": "https://open.spotify.com/album/1CKeSCEj384RQmAUhcDUlw",
+    "playedAt": "2026-10-15T15:16:07.543Z"
+  },
+  {
+    "albumId": "5xiuwFxGpemqPBxzJQ6AYd",
+    "title": "Mediterraneo",
+    "artist": "Bresh, SHUNE",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734589fd17efbf045525dccca0",
+    "spotifyUrl": "https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd",
+    "playedAt": "2026-10-15T15:11:52.376Z"
+  },
+  {
+    "albumId": "7cHvY650WYCDZ6b50fVfkZ",
+    "title": "Hai fatto bene",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736eb690a8df60d1ec30ddbbed",
+    "spotifyUrl": "https://open.spotify.com/album/7cHvY650WYCDZ6b50fVfkZ",
+    "playedAt": "2026-10-15T15:08:59.109Z"
+  },
+  {
+    "albumId": "7o2Ac7nDPNLO0tOsdZ73JD",
+    "title": "SOLITO CINEMA",
+    "artist": "Juli, Olly",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27311db5c0adf8b90e0c5138336",
+    "spotifyUrl": "https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD",
+    "playedAt": "2026-10-15T15:06:13.712Z"
+  },
+  {
+    "albumId": "2M3o8iR1OVUWa50OmAOkK3",
+    "title": "Maggese",
+    "artist": "Cesare Cremonini",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737839771341a65f97aa2c7f47",
+    "spotifyUrl": "https://open.spotify.com/album/2M3o8iR1OVUWa50OmAOkK3",
+    "playedAt": "2026-10-15T15:01:23.795Z"
+  },
+  {
+    "albumId": "37uJcI0dW70M5Hbg1WearN",
+    "title": "Lovebars",
+    "artist": "Coez, Frah Quintale",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f892559e9dd9df1a7e27fb2f",
+    "spotifyUrl": "https://open.spotify.com/album/37uJcI0dW70M5Hbg1WearN",
+    "playedAt": "2026-10-15T14:56:40.625Z"
+  },
+  {
+    "albumId": "4QpLnSupGsuYYJYYoj29Q7",
+    "title": "TUTTA VITA",
+    "artist": "Olly, Enrico Nigiotti, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739a9754efa9799615cf6045e9",
+    "spotifyUrl": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7",
+    "playedAt": "2026-10-15T14:50:25.994Z"
+  },
+  {
+    "albumId": "38KfDURRSexb9tA6Ll5ZT1",
+    "title": "L'amore \u00e8",
+    "artist": "Enrico Nigiotti",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bca55d7b84498f0d11f61549",
+    "spotifyUrl": "https://open.spotify.com/album/38KfDURRSexb9tA6Ll5ZT1",
+    "playedAt": "2026-10-15T14:43:59.364Z"
+  },
+  {
+    "albumId": "5nQff1e9q2Tcsa4bEyWXMa",
+    "title": "1998",
+    "artist": "Coez",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27353bfae2747ebc6cc8ea0b5a3",
+    "spotifyUrl": "https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa",
+    "playedAt": "2026-10-15T14:40:13.997Z"
+  },
+  {
+    "albumId": "5PdqPLG4hUzuLAWUDFaZap",
+    "title": "Gira, il mondo gira",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734743343cec324c534a99ca39",
+    "spotifyUrl": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap",
+    "playedAt": "2026-10-15T14:36:42.550Z"
+  },
+  {
+    "albumId": "5WS3iOeSRG9RmjkPP37Uz6",
+    "title": "E POI SEI ARRIVATA TU",
+    "artist": "Leo Gassmann",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273aa076e579aae88745e0fee9a",
+    "spotifyUrl": "https://open.spotify.com/album/5WS3iOeSRG9RmjkPP37Uz6",
+    "playedAt": "2026-10-15T14:32:25.605Z"
+  },
+  {
+    "albumId": "50LwyAhGEJXyf8EZW3dIAa",
+    "title": "IL SOLE DENTRO",
+    "artist": "Mida",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27367d24894d838c39e21297e3b",
+    "spotifyUrl": "https://open.spotify.com/album/50LwyAhGEJXyf8EZW3dIAa",
+    "playedAt": "2026-10-15T14:29:16.885Z"
+  },
+  {
+    "albumId": "0sDY6snlRO2OPmbslUIIrq",
+    "title": "imitati benissimo",
+    "artist": "Cartapesta",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27305dbec533e17465c079596e1",
+    "spotifyUrl": "https://open.spotify.com/album/0sDY6snlRO2OPmbslUIIrq",
+    "playedAt": "2026-10-15T14:26:33.670Z"
+  },
+  {
+    "albumId": "1y5YAxUuYPmMAtUetuBhiH",
+    "title": "Tornami addosso (Eccoti)",
+    "artist": "Albe",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273641778249b5c4d02de3e45fd",
+    "spotifyUrl": "https://open.spotify.com/album/1y5YAxUuYPmMAtUetuBhiH",
+    "playedAt": "2026-10-15T14:23:44.381Z"
+  },
+  {
+    "albumId": "0UeNZL0ZHRfMEPiyQ47udS",
+    "title": "IN MEZZO ALLE LUCI",
+    "artist": "Orfeo",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737e8f0070980f9522e5b248b2",
+    "spotifyUrl": "https://open.spotify.com/album/0UeNZL0ZHRfMEPiyQ47udS",
+    "playedAt": "2026-10-15T14:18:23.521Z"
+  },
+  {
+    "albumId": "2xlTIUyWTbi7LYa1PHqrit",
+    "title": "Carnevale",
+    "artist": "dile",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27342a809b54fa9a55fc3abda0e",
+    "spotifyUrl": "https://open.spotify.com/album/2xlTIUyWTbi7LYa1PHqrit",
+    "playedAt": "2026-10-15T14:14:16.120Z"
+  },
+  {
+    "albumId": "6pW2frIdrq4du0eoDOUybR",
+    "title": "INVISIBILI",
+    "artist": "Il Tre",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f1f9bac7f2e15e4d72e9f799",
+    "spotifyUrl": "https://open.spotify.com/album/6pW2frIdrq4du0eoDOUybR",
+    "playedAt": "2026-10-15T14:11:38.955Z"
+  },
+  {
+    "albumId": "3vS2t6ZFrKwjO3pp1xFfyB",
+    "title": "Brividi",
+    "artist": "Albe",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27367a872fd664d036652162ace",
+    "spotifyUrl": "https://open.spotify.com/album/3vS2t6ZFrKwjO3pp1xFfyB",
+    "playedAt": "2026-10-15T14:08:26.493Z"
+  },
+  {
+    "albumId": "11N2afr57Zc4Zz9ntU3w7Q",
+    "title": "La mia stanza (Deluxe)",
+    "artist": "NASKA",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735ca708eff0fca350fcac96d4",
+    "spotifyUrl": "https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q",
+    "playedAt": "2026-10-15T13:51:28.373Z"
+  },
+  {
+    "albumId": "5h3WJG0aZjNOrayFu3MhCS",
+    "title": "Big Fish Theory",
+    "artist": "Vince Staples",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737ba7b4d23c717f3211717946",
+    "spotifyUrl": "https://open.spotify.com/album/5h3WJG0aZjNOrayFu3MhCS",
+    "playedAt": "2026-10-15T13:48:20.851Z"
+  },
+  {
+    "albumId": "18Fki3SqVPkAlPosQoQe5L",
+    "title": "LA CIUDAD",
+    "artist": "Alleh, Yorghaki",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27353596a050e8369c51da11029",
+    "spotifyUrl": "https://open.spotify.com/album/18Fki3SqVPkAlPosQoQe5L",
+    "playedAt": "2026-10-15T13:45:27.273Z"
+  },
+  {
+    "albumId": "7aJuG4TFXa2hmE4z1yxc3n",
+    "title": "HIT ME HARD AND SOFT",
+    "artist": "Billie Eilish",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+    "spotifyUrl": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n",
+    "playedAt": "2026-10-15T13:42:32.858Z"
+  },
+  {
+    "albumId": "004ywPlW72Hgn1Bo9PlNOr",
+    "title": "C,XOXO",
+    "artist": "Camila Cabello, Playboi Carti",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738ef2562a1156ea6766e00ecb",
+    "spotifyUrl": "https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr",
+    "playedAt": "2026-10-15T13:38:10.900Z"
+  },
+  {
+    "albumId": "6zZBJgwt3ZY16gKyD0ee3Y",
+    "title": "Initial Delta Eurobeat Soundtrack Vol. 1",
+    "artist": "Max Coveri",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fc6789beaf73900aeee1bdbd",
+    "spotifyUrl": "https://open.spotify.com/album/6zZBJgwt3ZY16gKyD0ee3Y",
+    "playedAt": "2026-10-15T13:35:15.493Z"
+  },
+  {
+    "albumId": "6zBVlFWATphRVpz1rxyWvF",
+    "title": "abbatteremo i motel e torneremo a far l\u2019amore in mezzo ai campi",
+    "artist": "Albe",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b0a4539126755b4796ba1f45",
+    "spotifyUrl": "https://open.spotify.com/album/6zBVlFWATphRVpz1rxyWvF",
+    "playedAt": "2026-10-15T13:28:54.616Z"
+  },
+  {
+    "albumId": "6prdGyJZaUBHgCvVJ4mJH5",
+    "title": "CRUSH",
+    "artist": "Giuse The Lizia, Fulminacci",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27303e4c77a755caa4d59dca4e4",
+    "spotifyUrl": "https://open.spotify.com/album/6prdGyJZaUBHgCvVJ4mJH5",
+    "playedAt": "2026-10-15T13:25:53.236Z"
+  },
+  {
     "albumId": "25vPu3n3hPmCtjFvEMUr6f",
     "title": "Schegge (reworks)",
     "artist": "Giorgio Poi, faccianuvola",
@@ -24,6 +240,14 @@
     "playedAt": "2026-10-15T09:36:03.156Z"
   },
   {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-10-15T09:19:52.099Z"
+  },
+  {
     "albumId": "2yNaksHgeMQM9Quse463b5",
     "title": "Is This It",
     "artist": "The Strokes",
@@ -46,30 +270,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273a9e40bd192d83079cb8c385f",
     "spotifyUrl": "https://open.spotify.com/album/7qZ5XKi1L7ivSxcFFyEjBV",
     "playedAt": "2026-10-15T01:12:23.332Z"
-  },
-  {
-    "albumId": "5PdqPLG4hUzuLAWUDFaZap",
-    "title": "Gira, il mondo gira",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734743343cec324c534a99ca39",
-    "spotifyUrl": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap",
-    "playedAt": "2026-10-15T01:10:14.101Z"
-  },
-  {
-    "albumId": "6zBVlFWATphRVpz1rxyWvF",
-    "title": "abbatteremo i motel e torneremo a far l\u2019amore in mezzo ai campi",
-    "artist": "Albe",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b0a4539126755b4796ba1f45",
-    "spotifyUrl": "https://open.spotify.com/album/6zBVlFWATphRVpz1rxyWvF",
-    "playedAt": "2026-10-15T00:14:55.584Z"
-  },
-  {
-    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
-    "title": "SINCERO!",
-    "artist": "Rare\u0219",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
-    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
-    "playedAt": "2026-10-15T00:11:45.793Z"
   },
   {
     "albumId": "6zBVlFWATphRVpz1rxyWvF",
@@ -182,205 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273ed13fc4a83aee36b2c143ad9",
     "spotifyUrl": "https://open.spotify.com/album/0P8drxOARh9LbMdSksQK65",
     "playedAt": "2026-10-14T16:20:23.847Z"
-  },
-  {
-    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
-    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
-    "artist": "faccianuvola",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
-    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
-    "playedAt": "2026-10-14T16:14:38.796Z"
-  },
-  {
-    "albumId": "2vO6Yg8mZYK02QbLjM4hhi",
-    "title": "Magari Poi Ti Passa",
-    "artist": "Giuse The Lizia",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27375a3e82f448459ee2acc315a",
-    "spotifyUrl": "https://open.spotify.com/album/2vO6Yg8mZYK02QbLjM4hhi",
-    "playedAt": "2026-10-14T16:10:48.280Z"
-  },
-  {
-    "albumId": "5vU1aPRtYOS3wUkitPGbWV",
-    "title": "Avete ragione tutti",
-    "artist": "Canova",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734faf0f1c533513c1989413d6",
-    "spotifyUrl": "https://open.spotify.com/album/5vU1aPRtYOS3wUkitPGbWV",
-    "playedAt": "2026-10-14T16:08:16.676Z"
-  },
-  {
-    "albumId": "0VbkrxC3uAlZuTOtfx6Qbh",
-    "title": "Quaglia Sovversiva",
-    "artist": "Marco Castello",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27395cdb3dd85823e914cf8aec9",
-    "spotifyUrl": "https://open.spotify.com/album/0VbkrxC3uAlZuTOtfx6Qbh",
-    "playedAt": "2026-10-14T16:05:14.914Z"
-  },
-  {
-    "albumId": "7fxnFavObQdO5b4kEtNaMp",
-    "title": "vita adrenalina",
-    "artist": "traparentesi",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273efdc440b00e962b9385ff7bd",
-    "spotifyUrl": "https://open.spotify.com/album/7fxnFavObQdO5b4kEtNaMp",
-    "playedAt": "2026-10-14T15:57:56.350Z"
-  },
-  {
-    "albumId": "1AZSZ1CM8Xen3FmviWh1y7",
-    "title": "le stelle* il sole; l'arcobaleno))",
-    "artist": "faccianuvola",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273d79ddc472c2f25eb5abc4538",
-    "spotifyUrl": "https://open.spotify.com/album/1AZSZ1CM8Xen3FmviWh1y7",
-    "playedAt": "2026-10-14T15:55:16.424Z"
-  },
-  {
-    "albumId": "1LA6VsdQLEJ76u6V3egSmE",
-    "title": "Los Angeles",
-    "artist": "Giuse The Lizia",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27361f48b8f644f919e229a1776",
-    "spotifyUrl": "https://open.spotify.com/album/1LA6VsdQLEJ76u6V3egSmE",
-    "playedAt": "2026-10-14T15:51:46.817Z"
-  },
-  {
-    "albumId": "0idasMxjLcTfRitXmkvJ93",
-    "title": "CALCINACCI",
-    "artist": "Fulminacci",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ff26d9e6888e0a1ab315aa6a",
-    "spotifyUrl": "https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93",
-    "playedAt": "2026-10-14T15:45:23.887Z"
-  },
-  {
-    "albumId": "0x7zh2qOKeuXUBdfWT44tL",
-    "title": "ANCHE LE SCIMMIE CADONO DAGLI ALBERI",
-    "artist": "MOBRICI",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273449c7755204112883cd49434",
-    "spotifyUrl": "https://open.spotify.com/album/0x7zh2qOKeuXUBdfWT44tL",
-    "playedAt": "2026-10-14T15:42:02.712Z"
-  },
-  {
-    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
-    "title": "SINCERO!",
-    "artist": "Rare\u0219",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
-    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
-    "playedAt": "2026-10-14T14:35:49.446Z"
-  },
-  {
-    "albumId": "1vVFEREIhh7HGXcGrx5hXR",
-    "title": "Esordienti 1994",
-    "artist": "SCAR",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27313ff5bb2d2203e9193a6f13e",
-    "spotifyUrl": "https://open.spotify.com/album/1vVFEREIhh7HGXcGrx5hXR",
-    "playedAt": "2026-10-14T14:32:27.928Z"
-  },
-  {
-    "albumId": "3AztwxyKcHjKxWFLMzuP8D",
-    "title": "ERA SPAZIALE",
-    "artist": "Golden Years, Angelica",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c319cb8bb638003eed54738b",
-    "spotifyUrl": "https://open.spotify.com/album/3AztwxyKcHjKxWFLMzuP8D",
-    "playedAt": "2026-10-14T12:10:59.462Z"
-  },
-  {
-    "albumId": "6prdGyJZaUBHgCvVJ4mJH5",
-    "title": "CRUSH",
-    "artist": "Giuse The Lizia",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27303e4c77a755caa4d59dca4e4",
-    "spotifyUrl": "https://open.spotify.com/album/6prdGyJZaUBHgCvVJ4mJH5",
-    "playedAt": "2026-10-14T12:05:30.131Z"
-  },
-  {
-    "albumId": "26gipg6XsqSu6y4m1cZNji",
-    "title": "Folk_2021",
-    "artist": "Rare\u0219",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27397a5d9c94b41a30887732b11",
-    "spotifyUrl": "https://open.spotify.com/album/26gipg6XsqSu6y4m1cZNji",
-    "playedAt": "2026-10-14T12:02:32.600Z"
-  },
-  {
-    "albumId": "5wByaEbAmxIlQCDdicFJry",
-    "title": "M\u0100Y\u0100",
-    "artist": "MACE, Marco Castello, Ele A",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ed46b10906511b1329ee66ab",
-    "spotifyUrl": "https://open.spotify.com/album/5wByaEbAmxIlQCDdicFJry",
-    "playedAt": "2026-10-14T11:54:26.095Z"
-  },
-  {
-    "albumId": "6kq0w1HINm0xj5bOeAxAWp",
-    "title": "INTERNET EXPLORER",
-    "artist": "Giuse The Lizia",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e11716ab077ff2879bc48cc1",
-    "spotifyUrl": "https://open.spotify.com/album/6kq0w1HINm0xj5bOeAxAWp",
-    "playedAt": "2026-10-14T11:46:43.404Z"
-  },
-  {
-    "albumId": "5Z4qQSYHPbYjlXS6wnEhXD",
-    "title": "Futuri Possibili",
-    "artist": "Franco126, Fulminacci",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731ca662be5e898820c3baed34",
-    "spotifyUrl": "https://open.spotify.com/album/5Z4qQSYHPbYjlXS6wnEhXD",
-    "playedAt": "2026-10-14T11:43:44.039Z"
-  },
-  {
-    "albumId": "65oa7Z2Ooy7F77H3VK34VS",
-    "title": "CALMA 22",
-    "artist": "43.Nove",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273aa9da00d4263de6354970297",
-    "spotifyUrl": "https://open.spotify.com/album/65oa7Z2Ooy7F77H3VK34VS",
-    "playedAt": "2026-10-14T11:40:08.291Z"
-  },
-  {
-    "albumId": "4HB8xHqtwBHZCDPAMlOmje",
-    "title": "CRY4U",
-    "artist": "Olly, Yanomi",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273da95b768ffb874fa18b1400b",
-    "spotifyUrl": "https://open.spotify.com/album/4HB8xHqtwBHZCDPAMlOmje",
-    "playedAt": "2026-10-14T09:32:32.197Z"
-  },
-  {
-    "albumId": "0Qp4pPAZ6EP9aMyFenfXpu",
-    "title": "The Complete Capitol Recordings Of Art Tatum",
-    "artist": "Art Tatum",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2733a92aac57b4598359197701d",
-    "spotifyUrl": "https://open.spotify.com/album/0Qp4pPAZ6EP9aMyFenfXpu",
-    "playedAt": "2026-10-14T09:20:44.201Z"
-  },
-  {
-    "albumId": "21YbbJrVCRQIxB5W2EKIbr",
-    "title": "Look Out! (Remastered)",
-    "artist": "Stanley Turrentine",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273df53647daace215fdb9059f2",
-    "spotifyUrl": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr",
-    "playedAt": "2026-10-14T09:17:51.363Z"
-  },
-  {
-    "albumId": "49rqPDAuGKmpi9UoHQQGg8",
-    "title": "Two Of A Mind",
-    "artist": "Paul Desmond, Gerry Mulligan, Joe Benjamin, Mel Lewis",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273197e07bb2811f01a1ccf8713",
-    "spotifyUrl": "https://open.spotify.com/album/49rqPDAuGKmpi9UoHQQGg8",
-    "playedAt": "2026-10-14T09:12:55.564Z"
-  },
-  {
-    "albumId": "3Wu0chxAm4GxSeRnIIf2Om",
-    "title": "Somethin' Else (Rudy Van Gelder Edition)",
-    "artist": "Cannonball Adderley",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2730f81ed1bf84b3585a8492d3d",
-    "spotifyUrl": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om",
-    "playedAt": "2026-10-14T09:05:32.124Z"
-  },
-  {
-    "albumId": "5LiPzuR79DTTmyROUm2luC",
-    "title": "On Time",
-    "artist": "Dave Brubeck",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c0f74b53d4cf4b14f7f5d41a",
-    "spotifyUrl": "https://open.spotify.com/album/5LiPzuR79DTTmyROUm2luC",
-    "playedAt": "2026-10-14T08:57:06.124Z"
-  },
-  {
-    "albumId": "5Lyz7ZD1UaPq6WoEqTOqom",
-    "title": "Jazz Samba",
-    "artist": "Stan Getz, Charlie Byrd",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273edcbd173b4b497f405e1c49b",
-    "spotifyUrl": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom",
-    "playedAt": "2026-10-14T08:51:11.008Z"
   }
 ]
