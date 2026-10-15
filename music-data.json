@@ -1,5 +1,21 @@
 [
   {
+    "albumId": "7qZ5XKi1L7ivSxcFFyEjBV",
+    "title": "Il Mondo Gira",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a9e40bd192d83079cb8c385f",
+    "spotifyUrl": "https://open.spotify.com/album/7qZ5XKi1L7ivSxcFFyEjBV",
+    "playedAt": "2026-10-15T01:12:23.332Z"
+  },
+  {
+    "albumId": "5PdqPLG4hUzuLAWUDFaZap",
+    "title": "Gira, il mondo gira",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734743343cec324c534a99ca39",
+    "spotifyUrl": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap",
+    "playedAt": "2026-10-15T01:10:14.101Z"
+  },
+  {
     "albumId": "6zBVlFWATphRVpz1rxyWvF",
     "title": "abbatteremo i motel e torneremo a far l\u2019amore in mezzo ai campi",
     "artist": "Albe",
@@ -176,6 +192,14 @@
     "playedAt": "2026-10-14T15:42:02.712Z"
   },
   {
+    "albumId": "5vU1aPRtYOS3wUkitPGbWV",
+    "title": "Avete ragione tutti",
+    "artist": "Canova",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734faf0f1c533513c1989413d6",
+    "spotifyUrl": "https://open.spotify.com/album/5vU1aPRtYOS3wUkitPGbWV",
+    "playedAt": "2026-10-14T15:39:46.561Z"
+  },
+  {
     "albumId": "5KsrpADyPgZQA4f67KmuGz",
     "title": "INTERNET",
     "artist": "Giuse The Lizia",
@@ -208,6 +232,14 @@
     "playedAt": "2026-10-14T12:10:59.462Z"
   },
   {
+    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
+    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
+    "artist": "faccianuvola, Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
+    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
+    "playedAt": "2026-10-14T12:08:41.142Z"
+  },
+  {
     "albumId": "6prdGyJZaUBHgCvVJ4mJH5",
     "title": "CRUSH",
     "artist": "Giuse The Lizia",
@@ -224,28 +256,12 @@
     "playedAt": "2026-10-14T12:02:32.600Z"
   },
   {
-    "albumId": "5vU1aPRtYOS3wUkitPGbWV",
-    "title": "Avete ragione tutti",
-    "artist": "Canova",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734faf0f1c533513c1989413d6",
-    "spotifyUrl": "https://open.spotify.com/album/5vU1aPRtYOS3wUkitPGbWV",
-    "playedAt": "2026-10-14T11:59:58.004Z"
-  },
-  {
     "albumId": "5wByaEbAmxIlQCDdicFJry",
     "title": "M\u0100Y\u0100",
     "artist": "MACE, Marco Castello, Ele A",
     "cover": "https://i.scdn.co/image/ab67616d0000b273ed46b10906511b1329ee66ab",
     "spotifyUrl": "https://open.spotify.com/album/5wByaEbAmxIlQCDdicFJry",
     "playedAt": "2026-10-14T11:54:26.095Z"
-  },
-  {
-    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
-    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
-    "artist": "faccianuvola",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
-    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
-    "playedAt": "2026-10-14T11:50:08.460Z"
   },
   {
     "albumId": "6kq0w1HINm0xj5bOeAxAWp",
@@ -366,21 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2737a3ac958bb7d53520cd8d798",
     "spotifyUrl": "https://open.spotify.com/album/633YqTzw4kncLmIwFfsP0K",
     "playedAt": "2026-10-14T08:24:13.803Z"
-  },
-  {
-    "albumId": "1ajPW1fVFohYyGgJIBBsco",
-    "title": "scrivimi quando arrivi (punto)",
-    "artist": "eroCaddeo",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273eccc12aa8c4b87411d3561b1",
-    "spotifyUrl": "https://open.spotify.com/album/1ajPW1fVFohYyGgJIBBsco",
-    "playedAt": "2026-10-14T08:20:28.339Z"
-  },
-  {
-    "albumId": "4QpLnSupGsuYYJYYoj29Q7",
-    "title": "TUTTA VITA",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739a9754efa9799615cf6045e9",
-    "spotifyUrl": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7",
-    "playedAt": "2026-10-14T08:17:51.728Z"
   }
 ]
