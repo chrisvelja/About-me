@@ -1,5 +1,29 @@
 [
   {
+    "albumId": "25vPu3n3hPmCtjFvEMUr6f",
+    "title": "Schegge (reworks)",
+    "artist": "Giorgio Poi, faccianuvola",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731c6d19e6b6bdd50de85868de",
+    "spotifyUrl": "https://open.spotify.com/album/25vPu3n3hPmCtjFvEMUr6f",
+    "playedAt": "2026-10-15T10:42:48.937Z"
+  },
+  {
+    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
+    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
+    "artist": "faccianuvola",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
+    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
+    "playedAt": "2026-10-15T09:39:29.859Z"
+  },
+  {
+    "albumId": "6kq0w1HINm0xj5bOeAxAWp",
+    "title": "INTERNET EXPLORER",
+    "artist": "Giuse The Lizia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e11716ab077ff2879bc48cc1",
+    "spotifyUrl": "https://open.spotify.com/album/6kq0w1HINm0xj5bOeAxAWp",
+    "playedAt": "2026-10-15T09:36:03.156Z"
+  },
+  {
     "albumId": "2yNaksHgeMQM9Quse463b5",
     "title": "Is This It",
     "artist": "The Strokes",
@@ -88,6 +112,14 @@
     "playedAt": "2026-10-14T16:47:16.526Z"
   },
   {
+    "albumId": "5739sBqtIcDeikAizWv0x0",
+    "title": "Minimarket",
+    "artist": "SANTACHIARA",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739da5fc235dd9b6b2f7a0529b",
+    "spotifyUrl": "https://open.spotify.com/album/5739sBqtIcDeikAizWv0x0",
+    "playedAt": "2026-10-14T16:44:09.236Z"
+  },
+  {
     "albumId": "5HQ3q1jMLZVMJfFujK0zY9",
     "title": "Vivi Per Sempre",
     "artist": "Canova",
@@ -150,14 +182,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273ed13fc4a83aee36b2c143ad9",
     "spotifyUrl": "https://open.spotify.com/album/0P8drxOARh9LbMdSksQK65",
     "playedAt": "2026-10-14T16:20:23.847Z"
-  },
-  {
-    "albumId": "5739sBqtIcDeikAizWv0x0",
-    "title": "Minimarket",
-    "artist": "SANTACHIARA",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739da5fc235dd9b6b2f7a0529b",
-    "spotifyUrl": "https://open.spotify.com/album/5739sBqtIcDeikAizWv0x0",
-    "playedAt": "2026-10-14T16:17:32.117Z"
   },
   {
     "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
@@ -358,29 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273edcbd173b4b497f405e1c49b",
     "spotifyUrl": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom",
     "playedAt": "2026-10-14T08:51:11.008Z"
-  },
-  {
-    "albumId": "2jgWsNu1Nq8H8ZpPgHhYw8",
-    "title": "The Charlie Parker Story",
-    "artist": "Charlie Parker",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273592d72636a749db1ddeab822",
-    "spotifyUrl": "https://open.spotify.com/album/2jgWsNu1Nq8H8ZpPgHhYw8",
-    "playedAt": "2026-10-14T08:48:41.417Z"
-  },
-  {
-    "albumId": "5e3mq4TT4RLn4VXfgKV6MU",
-    "title": "John Coltrane And Johnny Hartman",
-    "artist": "John Coltrane, Johnny Hartman",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b933190768f4cdfa4f487aaa",
-    "spotifyUrl": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU",
-    "playedAt": "2026-10-14T08:45:47.103Z"
-  },
-  {
-    "albumId": "1tcX4ysSZEeMMshVVbkkDa",
-    "title": "Possibili Scenari",
-    "artist": "Cesare Cremonini",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27312d5ab24a8b636d56d3e39e9",
-    "spotifyUrl": "https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa",
-    "playedAt": "2026-10-14T08:40:39.927Z"
   }
 ]
