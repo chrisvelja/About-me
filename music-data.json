@@ -5,6 +5,22 @@
     "artist": "Albe",
     "cover": "https://i.scdn.co/image/ab67616d0000b273b0a4539126755b4796ba1f45",
     "spotifyUrl": "https://open.spotify.com/album/6zBVlFWATphRVpz1rxyWvF",
+    "playedAt": "2026-10-15T00:14:55.584Z"
+  },
+  {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-10-15T00:11:45.793Z"
+  },
+  {
+    "albumId": "6zBVlFWATphRVpz1rxyWvF",
+    "title": "abbatteremo i motel e torneremo a far l\u2019amore in mezzo ai campi",
+    "artist": "Albe",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b0a4539126755b4796ba1f45",
+    "spotifyUrl": "https://open.spotify.com/album/6zBVlFWATphRVpz1rxyWvF",
     "playedAt": "2026-10-14T19:40:14.099Z"
   },
   {
@@ -366,21 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2739a9754efa9799615cf6045e9",
     "spotifyUrl": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7",
     "playedAt": "2026-10-14T08:17:51.728Z"
-  },
-  {
-    "albumId": "3MTpb0TKibwVHunlztnLhn",
-    "title": "Maledetti innamorati",
-    "artist": "Enrico Nigiotti",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732c60483884dd2d97834c9c45",
-    "spotifyUrl": "https://open.spotify.com/album/3MTpb0TKibwVHunlztnLhn",
-    "playedAt": "2026-10-14T08:14:50.373Z"
-  },
-  {
-    "albumId": "1oO2S8sc0hsaRHrZSdY0lq",
-    "title": "Sorprendente",
-    "artist": "Albe",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273da620cd3b2d0b3af268d7971",
-    "spotifyUrl": "https://open.spotify.com/album/1oO2S8sc0hsaRHrZSdY0lq",
-    "playedAt": "2026-10-14T08:11:40.323Z"
   }
 ]
