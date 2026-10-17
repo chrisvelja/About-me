@@ -1,5 +1,21 @@
 [
   {
+    "albumId": "6zBVlFWATphRVpz1rxyWvF",
+    "title": "abbatteremo i motel e torneremo a far l\u2019amore in mezzo ai campi",
+    "artist": "Albe",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b0a4539126755b4796ba1f45",
+    "spotifyUrl": "https://open.spotify.com/album/6zBVlFWATphRVpz1rxyWvF",
+    "playedAt": "2026-10-17T07:18:55.978Z"
+  },
+  {
+    "albumId": "6AShcExJJ7o8iDz84Al84Q",
+    "title": "Che cos'\u00e8 l'amore?",
+    "artist": "Matteo Trullu",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735377e981db0b67e9773a45ff",
+    "spotifyUrl": "https://open.spotify.com/album/6AShcExJJ7o8iDz84Al84Q",
+    "playedAt": "2026-10-17T06:04:40.177Z"
+  },
+  {
     "albumId": "5yc8yPsnUud3i8v9Ran8oQ",
     "title": "two",
     "artist": "bbno$",
@@ -366,21 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b27376b18c15cb03e5113045889f",
     "spotifyUrl": "https://open.spotify.com/album/3VU1EvHePUTGYICm01IaHx",
     "playedAt": "2026-10-16T01:46:08.637Z"
-  },
-  {
-    "albumId": "06cVnY71d6YMrY6AoeBEZ8",
-    "title": "Tratti",
-    "artist": "Albe",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e83a1d39604dfba8e5eac06e",
-    "spotifyUrl": "https://open.spotify.com/album/06cVnY71d6YMrY6AoeBEZ8",
-    "playedAt": "2026-10-16T01:43:15.808Z"
-  },
-  {
-    "albumId": "1mDFONLUMqPP6pBvyXhRWj",
-    "title": "Cuori Stupidi",
-    "artist": "Michele Merlo",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273770cf51ad7be95be7166ac03",
-    "spotifyUrl": "https://open.spotify.com/album/1mDFONLUMqPP6pBvyXhRWj",
-    "playedAt": "2026-10-16T01:28:41.132Z"
   }
 ]
