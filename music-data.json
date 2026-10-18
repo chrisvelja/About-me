@@ -1,5 +1,101 @@
 [
   {
+    "albumId": "0UMMIkurRUmkruZ3KGBLtG",
+    "title": "2014 Forest Hills Drive",
+    "artist": "J. Cole",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c6e0948bbb0681ff29cdbae8",
+    "spotifyUrl": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG",
+    "playedAt": "2026-10-18T21:01:31.457Z"
+  },
+  {
+    "albumId": "7zPSn1s2DdZVLTLCRi9zFz",
+    "title": "Baby Don't Cry",
+    "artist": "NASKA",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738cb62291a62d50c71234241b",
+    "spotifyUrl": "https://open.spotify.com/album/7zPSn1s2DdZVLTLCRi9zFz",
+    "playedAt": "2026-10-18T20:56:38.061Z"
+  },
+  {
+    "albumId": "3pHFjWCK7d5YLtEuFwfR5N",
+    "title": "54+1",
+    "artist": "Danny Ocean",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d8243a13e6f41310a5fa7b96",
+    "spotifyUrl": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N",
+    "playedAt": "2026-10-18T20:53:32.628Z"
+  },
+  {
+    "albumId": "0M0iJGLagLtI4LlooOiiNZ",
+    "title": "places to be",
+    "artist": "Fred again.., Anderson .Paak, CHIKA",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735471ed900dd21834e5fc90c8",
+    "spotifyUrl": "https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ",
+    "playedAt": "2026-10-18T20:46:03.558Z"
+  },
+  {
+    "albumId": "7qZ5XKi1L7ivSxcFFyEjBV",
+    "title": "Il Mondo Gira",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a9e40bd192d83079cb8c385f",
+    "spotifyUrl": "https://open.spotify.com/album/7qZ5XKi1L7ivSxcFFyEjBV",
+    "playedAt": "2026-10-18T20:42:16.368Z"
+  },
+  {
+    "albumId": "5wtE5aLX5r7jOosmPhJhhk",
+    "title": "Swimming",
+    "artist": "Mac Miller",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+    "spotifyUrl": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk",
+    "playedAt": "2026-10-18T20:39:27.099Z"
+  },
+  {
+    "albumId": "2VJD6kU8nmxXVrScRyddqV",
+    "title": "Halo",
+    "artist": "Bakar, Summer Walker",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273864f946221840eced94a2243",
+    "spotifyUrl": "https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV",
+    "playedAt": "2026-10-18T20:29:26.362Z"
+  },
+  {
+    "albumId": "0fhmJYVhW0e4i33pCLPA5i",
+    "title": "Cole World: The Sideline Story",
+    "artist": "J. Cole",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27399da48a530f6ca2ef86da3cc",
+    "spotifyUrl": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i",
+    "playedAt": "2026-10-18T20:26:10.690Z"
+  },
+  {
+    "albumId": "4mSjizPx5knMDe4T3urMFE",
+    "title": "Fuori posto",
+    "artist": "Mida",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273656045c9b080f5af901556bb",
+    "spotifyUrl": "https://open.spotify.com/album/4mSjizPx5knMDe4T3urMFE",
+    "playedAt": "2026-10-18T20:22:14.862Z"
+  },
+  {
+    "albumId": "1wD2xMSjGRFSVX8zkFEuMo",
+    "title": "Victory Lap",
+    "artist": "Fred again.., Skepta, PlaqueBoyMax",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bf705b821b031cefe91d7b90",
+    "spotifyUrl": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo",
+    "playedAt": "2026-10-18T20:19:44.700Z"
+  },
+  {
+    "albumId": "11dh7pT3FRrGkI3TXl0e4k",
+    "title": "Mainstream (Deluxe Edition)",
+    "artist": "Calcutta ",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738417b499a1b885a9300a91eb",
+    "spotifyUrl": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k",
+    "playedAt": "2026-10-18T20:16:58.299Z"
+  },
+  {
+    "albumId": "5vD5M5VW62LL78Ko8x0CVZ",
+    "title": "SWAG",
+    "artist": "Justin Bieber",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d65c4773bc5061fd27facc5b",
+    "spotifyUrl": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ",
+    "playedAt": "2026-10-18T20:04:26.040Z"
+  },
+  {
     "albumId": "5MXqHsstPId7lDStI2rySw",
     "title": "neanche anch'io",
     "artist": "centomilacarie, B-CROMA",
@@ -286,101 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
     "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
     "playedAt": "2026-10-18T09:06:59.438Z"
-  },
-  {
-    "albumId": "5F2Dr58vqyMWO3Vt8F9o65",
-    "title": "Amore povero",
-    "artist": "Dutch Nazari",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731d33e8bf4bef7947b32e94af",
-    "spotifyUrl": "https://open.spotify.com/album/5F2Dr58vqyMWO3Vt8F9o65",
-    "playedAt": "2026-10-18T09:03:36.036Z"
-  },
-  {
-    "albumId": "2XV0MZMgCM4CKzhDiojZxj",
-    "title": "Funk Shui Project",
-    "artist": "Funk Shui Project, Willie Peyote, Egreen",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738d302f1bf8dfa9cf417509e9",
-    "spotifyUrl": "https://open.spotify.com/album/2XV0MZMgCM4CKzhDiojZxj",
-    "playedAt": "2026-10-18T09:01:05.175Z"
-  },
-  {
-    "albumId": "65oa7Z2Ooy7F77H3VK34VS",
-    "title": "CALMA 22",
-    "artist": "43.Nove",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273aa9da00d4263de6354970297",
-    "spotifyUrl": "https://open.spotify.com/album/65oa7Z2Ooy7F77H3VK34VS",
-    "playedAt": "2026-10-18T08:58:07.144Z"
-  },
-  {
-    "albumId": "6prdGyJZaUBHgCvVJ4mJH5",
-    "title": "CRUSH",
-    "artist": "Giuse The Lizia",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27303e4c77a755caa4d59dca4e4",
-    "spotifyUrl": "https://open.spotify.com/album/6prdGyJZaUBHgCvVJ4mJH5",
-    "playedAt": "2026-10-18T08:52:30.807Z"
-  },
-  {
-    "albumId": "2LKW0m9cC63QzEI9tJH3ql",
-    "title": "Son Of Spergy",
-    "artist": "Daniel Caesar",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732bad6e56e77d5bef0aa3f2dc",
-    "spotifyUrl": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql",
-    "playedAt": "2026-10-18T08:42:05.037Z"
-  },
-  {
-    "albumId": "6f6tko6NWoH00cyFOl4VYQ",
-    "title": "The Divine Feminine",
-    "artist": "Mac Miller, Bilal",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732e92f776279eaf45d14a33fd",
-    "spotifyUrl": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ",
-    "playedAt": "2026-10-18T08:39:10.130Z"
-  },
-  {
-    "albumId": "6ofJrAZaaX0iWTXYXObUxE",
-    "title": "Thee Sacred Souls",
-    "artist": "Thee Sacred Souls",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
-    "spotifyUrl": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE",
-    "playedAt": "2026-10-18T08:34:53.196Z"
-  },
-  {
-    "albumId": "4izD3SCRElbkO06i8yf4Zp",
-    "title": "Solitude",
-    "artist": "Billie Holiday",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1",
-    "spotifyUrl": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp",
-    "playedAt": "2026-10-18T08:31:42.143Z"
-  },
-  {
-    "albumId": "0OcMap99vLEeGkBCfCwRwS",
-    "title": "Watch The Throne",
-    "artist": "JA\u0178-Z, Kanye West, Frank Ocean, THE-DREAM",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30",
-    "spotifyUrl": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS",
-    "playedAt": "2026-10-18T08:28:14.010Z"
-  },
-  {
-    "albumId": "2ClZ9xWAYg1BH8zkR96dJo",
-    "title": "USB",
-    "artist": "Fred again.., CA7RIEL & Paco Amoroso",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734018b70099d433d9c8aabb12",
-    "spotifyUrl": "https://open.spotify.com/album/2ClZ9xWAYg1BH8zkR96dJo",
-    "playedAt": "2026-10-18T08:23:40.969Z"
-  },
-  {
-    "albumId": "2jvTYHZayLQaa6ZPz5qqJe",
-    "title": "mood swings",
-    "artist": "Henry Moodie",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273fbcb59071e40163ffc25b6f9",
-    "spotifyUrl": "https://open.spotify.com/album/2jvTYHZayLQaa6ZPz5qqJe",
-    "playedAt": "2026-10-18T08:19:54.230Z"
-  },
-  {
-    "albumId": "3Ks0eeH0GWpY4AU20D5HPD",
-    "title": "Gemini Rights",
-    "artist": "Steve Lacy",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5",
-    "spotifyUrl": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD",
-    "playedAt": "2026-10-18T08:17:43.058Z"
   }
 ]
