@@ -1,5 +1,13 @@
 [
   {
+    "albumId": "2Y9IRtehByVkegoD7TcLfi",
+    "title": "Californication (Deluxe Edition)",
+    "artist": "Red Hot Chili Peppers",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595",
+    "spotifyUrl": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi",
+    "playedAt": "2026-10-17T23:33:04.586Z"
+  },
+  {
     "albumId": "0CVCnkzMA5oMiAiwgaIY5k",
     "title": "FUORI MEN\u00d9",
     "artist": "Golden Years, Franco126, Dov'\u00e8 Liana",
@@ -128,6 +136,14 @@
     "playedAt": "2026-10-17T10:45:10.814Z"
   },
   {
+    "albumId": "2aIzHTUNnJhhdqUq2q14lo",
+    "title": "Aurora",
+    "artist": "i cani",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731fe81daa8a2db19d50245d46",
+    "spotifyUrl": "https://open.spotify.com/album/2aIzHTUNnJhhdqUq2q14lo",
+    "playedAt": "2026-10-17T10:41:46.566Z"
+  },
+  {
     "albumId": "3AztwxyKcHjKxWFLMzuP8D",
     "title": "ERA SPAZIALE",
     "artist": "Golden Years, Angelica",
@@ -142,6 +158,14 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273449c7755204112883cd49434",
     "spotifyUrl": "https://open.spotify.com/album/0x7zh2qOKeuXUBdfWT44tL",
     "playedAt": "2026-10-17T10:29:38.319Z"
+  },
+  {
+    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
+    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
+    "artist": "faccianuvola, Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
+    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
+    "playedAt": "2026-10-17T10:27:22.199Z"
   },
   {
     "albumId": "1LA6VsdQLEJ76u6V3egSmE",
@@ -190,22 +214,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273a4e38eb58b4baa824c8d8c34",
     "spotifyUrl": "https://open.spotify.com/album/3jBVpCL4ePAQp4dXTGf66x",
     "playedAt": "2026-10-17T09:18:13.290Z"
-  },
-  {
-    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
-    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
-    "artist": "faccianuvola",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
-    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
-    "playedAt": "2026-10-17T09:14:58.513Z"
-  },
-  {
-    "albumId": "2aIzHTUNnJhhdqUq2q14lo",
-    "title": "Aurora",
-    "artist": "i cani",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731fe81daa8a2db19d50245d46",
-    "spotifyUrl": "https://open.spotify.com/album/2aIzHTUNnJhhdqUq2q14lo",
-    "playedAt": "2026-10-17T09:11:31.806Z"
   },
   {
     "albumId": "3RlN7KwIsVmJmWigc8XfJs",
@@ -374,13 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273e4d260b37299107b0b94dd36",
     "spotifyUrl": "https://open.spotify.com/album/3GIj6ZdQw2XLkMspCJVsG8",
     "playedAt": "2026-10-17T07:41:32.121Z"
-  },
-  {
-    "albumId": "6AShcExJJ7o8iDz84Al84Q",
-    "title": "Che cos'\u00e8 l'amore?",
-    "artist": "Matteo Trullu",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2735377e981db0b67e9773a45ff",
-    "spotifyUrl": "https://open.spotify.com/album/6AShcExJJ7o8iDz84Al84Q",
-    "playedAt": "2026-10-17T06:04:40.177Z"
   }
 ]
