@@ -1,11 +1,355 @@
 [
   {
+    "albumId": "6TVfiWmo8KtflUAmkK9gGF",
+    "title": "25",
+    "artist": "Adele",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737b9888dc365b8f957c63df14",
+    "spotifyUrl": "https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF",
+    "playedAt": "2026-10-19T20:18:17.439Z"
+  },
+  {
+    "albumId": "4PgleR09JVnm3zY1fW3XBA",
+    "title": "24K Magic",
+    "artist": "Bruno Mars",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
+    "spotifyUrl": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA",
+    "playedAt": "2026-10-19T20:05:45.799Z"
+  },
+  {
+    "albumId": "4t1LLdXiWTfoywqricztFo",
+    "title": "Pr\u00f3xima Estaci\u00f3n: Esperanza",
+    "artist": "Manu Chao",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731dcba4a728ca0b17cbd204a5",
+    "spotifyUrl": "https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo",
+    "playedAt": "2026-10-19T20:01:24.042Z"
+  },
+  {
+    "albumId": "3hgkYhTNryeg7ZLEgPOKeh",
+    "title": "COCONUT PERFUME",
+    "artist": "Ray Laur\u00e9l",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273235e62bdb00df7a510784900",
+    "spotifyUrl": "https://open.spotify.com/album/3hgkYhTNryeg7ZLEgPOKeh",
+    "playedAt": "2026-10-19T19:57:23.535Z"
+  },
+  {
+    "albumId": "2ClZ9xWAYg1BH8zkR96dJo",
+    "title": "USB",
+    "artist": "Fred again.., BIA",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734018b70099d433d9c8aabb12",
+    "spotifyUrl": "https://open.spotify.com/album/2ClZ9xWAYg1BH8zkR96dJo",
+    "playedAt": "2026-10-19T19:54:37.761Z"
+  },
+  {
+    "albumId": "02tJPcZLiSwr7HdFDOQA6S",
+    "title": "ALOHA INOHA",
+    "artist": "INOHA",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bce3aa89843c02d06c1c9fee",
+    "spotifyUrl": "https://open.spotify.com/album/02tJPcZLiSwr7HdFDOQA6S",
+    "playedAt": "2026-10-19T19:51:45.448Z"
+  },
+  {
+    "albumId": "0UMMIkurRUmkruZ3KGBLtG",
+    "title": "2014 Forest Hills Drive",
+    "artist": "J. Cole",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c6e0948bbb0681ff29cdbae8",
+    "spotifyUrl": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG",
+    "playedAt": "2026-10-19T19:20:28.392Z"
+  },
+  {
+    "albumId": "6ylFfzx32ICw4L1A7YWNLN",
+    "title": "OASIS",
+    "artist": "J Balvin, Bad Bunny",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734891d9b25d8919448388f3bb",
+    "spotifyUrl": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN",
+    "playedAt": "2026-10-19T19:13:01.255Z"
+  },
+  {
+    "albumId": "4rJgzzfFHAVFhCSt2P4I3j",
+    "title": "Playboi Carti",
+    "artist": "Playboi Carti, A$AP Rocky",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+    "spotifyUrl": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j",
+    "playedAt": "2026-10-19T19:06:15.462Z"
+  },
+  {
+    "albumId": "6J84szYCnMfzEcvIcfWMFL",
+    "title": "Doo-Wops & Hooligans",
+    "artist": "Bruno Mars",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738a9eb5a1f701d1d367a5ea10",
+    "spotifyUrl": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL",
+    "playedAt": "2026-10-19T19:04:08.911Z"
+  },
+  {
+    "albumId": "08SB1CgIS0yVIH7ZV99I6f",
+    "title": "TUTTA VITA (SEMPRE)",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736752cb3279906514dd04c8aa",
+    "spotifyUrl": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f",
+    "playedAt": "2026-10-19T19:00:30.519Z"
+  },
+  {
+    "albumId": "4FftCsAcXXD1nFO9RFUNFO",
+    "title": "nadie sabe lo que va a pasar ma\u00f1ana",
+    "artist": "Bad Bunny, Feid",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732ea1f035463d11e1fc3b193d",
+    "spotifyUrl": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO",
+    "playedAt": "2026-10-19T18:52:53.941Z"
+  },
+  {
+    "albumId": "54Y471E7GNBSOXjZtqONId",
+    "title": "DAYS BEFORE RODEO",
+    "artist": "Travis Scott",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a2a7386de6494fc9275e1abb",
+    "spotifyUrl": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId",
+    "playedAt": "2026-10-19T18:50:10.653Z"
+  },
+  {
+    "albumId": "7o2Ac7nDPNLO0tOsdZ73JD",
+    "title": "SOLITO CINEMA",
+    "artist": "Juli, Coez",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27311db5c0adf8b90e0c5138336",
+    "spotifyUrl": "https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD",
+    "playedAt": "2026-10-19T18:46:22.061Z"
+  },
+  {
+    "albumId": "0S0KGZnfBGSIssfF54WSJh",
+    "title": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+    "artist": "Billie Eilish",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
+    "spotifyUrl": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh",
+    "playedAt": "2026-10-19T18:43:00.764Z"
+  },
+  {
+    "albumId": "1QqHc2RPq59exIRKRolI1O",
+    "title": "LOCURA",
+    "artist": "Lazza, Sfera Ebbasta",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27390d7f08f5345410e0efff330",
+    "spotifyUrl": "https://open.spotify.com/album/1QqHc2RPq59exIRKRolI1O",
+    "playedAt": "2026-10-19T18:39:44.140Z"
+  },
+  {
+    "albumId": "5dGWwsZ9iB2Xc3UKR0gif2",
+    "title": "Justice",
+    "artist": "Justin Bieber, Daniel Caesar, GIV\u0112ON",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431",
+    "spotifyUrl": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2",
+    "playedAt": "2026-10-19T18:36:35.534Z"
+  },
+  {
+    "albumId": "2QRedhP5RmKJiJ1i8VgDGR",
+    "title": "Whole Lotta Red",
+    "artist": "Playboi Carti",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb",
+    "spotifyUrl": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR",
+    "playedAt": "2026-10-19T18:33:16.919Z"
+  },
+  {
+    "albumId": "6y2wI0mDStpCnKGjdkFxQZ",
+    "title": "leavemealone (Nia Archives Remix)",
+    "artist": "Fred again.., Baby Keem, Nia Archives",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732fe2c705ba9005b5f6b48f13",
+    "spotifyUrl": "https://open.spotify.com/album/6y2wI0mDStpCnKGjdkFxQZ",
+    "playedAt": "2026-10-19T18:30:03.156Z"
+  },
+  {
+    "albumId": "4SZko61aMnmgvNhfhgTuD3",
+    "title": "Graduation",
+    "artist": "Kanye West, Chris Martin",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+    "spotifyUrl": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3",
+    "playedAt": "2026-10-19T18:27:03.184Z"
+  },
+  {
+    "albumId": "52E4RP7XDzalpIrOgSTgiQ",
+    "title": "Invincible",
+    "artist": "Michael Jackson",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75",
+    "spotifyUrl": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ",
+    "playedAt": "2026-10-19T18:20:05.627Z"
+  },
+  {
+    "albumId": "6r1lh7fHMB499vGKtIyJLy",
+    "title": "AUSTIN",
+    "artist": "Post Malone",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27371cae34ad5a39bdab78af13e",
+    "spotifyUrl": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy",
+    "playedAt": "2026-10-19T17:45:53.247Z"
+  },
+  {
+    "albumId": "4fc73QNw5EjIorFfZ6n6YG",
+    "title": "Underclass Hero",
+    "artist": "Sum 41",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731c5301bdbae7e2b35fe8024f",
+    "spotifyUrl": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG",
+    "playedAt": "2026-10-19T17:38:37.708Z"
+  },
+  {
+    "albumId": "7oxC0J3L5JiVHMZRU9qGPS",
+    "title": "her (feat. ZVC)",
+    "artist": "JVKE, ZVC",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c5e3ef0da8cf3c1eebd422a2",
+    "spotifyUrl": "https://open.spotify.com/album/7oxC0J3L5JiVHMZRU9qGPS",
+    "playedAt": "2026-10-19T17:33:45.640Z"
+  },
+  {
+    "albumId": "5SQrlPanuIhyEZXxsPRa35",
+    "title": "Salmo Unplugged",
+    "artist": "Salmo",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730e07fa493f3c31635704e719",
+    "spotifyUrl": "https://open.spotify.com/album/5SQrlPanuIhyEZXxsPRa35",
+    "playedAt": "2026-10-19T17:29:52.775Z"
+  },
+  {
+    "albumId": "5zi7WsKlIiUXv09tbGLKsE",
+    "title": "IGOR",
+    "artist": "Tyler, The Creator",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27330a635de2bb0caa4e26f6abb",
+    "spotifyUrl": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE",
+    "playedAt": "2026-10-19T17:15:36.665Z"
+  },
+  {
+    "albumId": "5FYre0OdHLE1MnJ1bHTx1f",
+    "title": "THE FIRST TIME (DELUXE VERSION)",
+    "artist": "The Kid LAROI",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739454d875c64ae0376b4b59bb",
+    "spotifyUrl": "https://open.spotify.com/album/5FYre0OdHLE1MnJ1bHTx1f",
+    "playedAt": "2026-10-19T17:12:22.610Z"
+  },
+  {
+    "albumId": "621OhgnZJ7Pz8iUazct1In",
+    "title": "Cherry Bomb",
+    "artist": "Tyler, The Creator, Wanya Morris, D\u0101M-FunK, Austin Feinstein, Syd",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e4bf0d3d9e0224a30ca5f665",
+    "spotifyUrl": "https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In",
+    "playedAt": "2026-10-19T17:09:17.396Z"
+  },
+  {
+    "albumId": "4O33rZCN4BI8kTcGeGKjWD",
+    "title": "Depresso fortunato",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734d3c83f87de30a041a17708a",
+    "spotifyUrl": "https://open.spotify.com/album/4O33rZCN4BI8kTcGeGKjWD",
+    "playedAt": "2026-10-19T15:25:09.345Z"
+  },
+  {
+    "albumId": "4vUClKTFaDWnsHE8rK52GY",
+    "title": "All That We Needed",
+    "artist": "Plain White T's",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273beae6e69d6505fd379ef3081",
+    "spotifyUrl": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY",
+    "playedAt": "2026-10-19T15:21:36.630Z"
+  },
+  {
+    "albumId": "4xkM0BwLM9H2IUcbYzpcBI",
+    "title": "I Love You.",
+    "artist": "The Neighbourhood",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921",
+    "spotifyUrl": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI",
+    "playedAt": "2026-10-19T15:17:43.567Z"
+  },
+  {
+    "albumId": "5oT7xqbRbQCevZ0XC5aBFu",
+    "title": "This Is How Tomorrow Moves",
+    "artist": "beabadoobee",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737d9a2e7835a178df7b0153aa",
+    "spotifyUrl": "https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu",
+    "playedAt": "2026-10-19T15:13:42.651Z"
+  },
+  {
+    "albumId": "20HEHCknEVHTez1OI0MFiC",
+    "title": "The Epilogue (Deluxe)",
+    "artist": "Dean Lewis",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27362cdaa2e3cd529259e7fa848",
+    "spotifyUrl": "https://open.spotify.com/album/20HEHCknEVHTez1OI0MFiC",
+    "playedAt": "2026-10-19T15:09:52.048Z"
+  },
+  {
+    "albumId": "7apLPYT8szV1IqTxyVSy5P",
+    "title": "B.o.B Presents: The Adventures of Bobby Ray",
+    "artist": "B.o.B, Bruno Mars",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273caa23612279c2d059a0d3a82",
+    "spotifyUrl": "https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P",
+    "playedAt": "2026-10-19T15:07:15.934Z"
+  },
+  {
+    "albumId": "3tyC8cXSXLDj6MtMceKh1c",
+    "title": "Superbattito",
+    "artist": "Gazzelle",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273388553ca5fa3fdaabb13d5be",
+    "spotifyUrl": "https://open.spotify.com/album/3tyC8cXSXLDj6MtMceKh1c",
+    "playedAt": "2026-10-19T14:33:03.666Z"
+  },
+  {
+    "albumId": "5K79FLRUCSysQnVESLcTdb",
+    "title": "DeB\u00cd TiRAR M\u00e1S FOToS",
+    "artist": "Bad Bunny",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "spotifyUrl": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb",
+    "playedAt": "2026-10-19T14:29:43.958Z"
+  },
+  {
+    "albumId": "7dAm8ShwJLFm9SaJ6Yc58O",
+    "title": "Die Lit",
+    "artist": "Playboi Carti, Lil Uzi Vert",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
+    "spotifyUrl": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O",
+    "playedAt": "2026-10-19T13:02:13.523Z"
+  },
+  {
+    "albumId": "1QYPAEk2Ksj3WPv3mvoDnL",
+    "title": "LET GO",
+    "artist": "Central Cee",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a34b1f605e894e688b3184f2",
+    "spotifyUrl": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL",
+    "playedAt": "2026-10-19T12:59:39.214Z"
+  },
+  {
+    "albumId": "5Nwsra93UQYJ6xxcjcE10x",
+    "title": "Nine Track Mind",
+    "artist": "Charlie Puth, Selena Gomez",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273633a2d775747bccfbcb17a45",
+    "spotifyUrl": "https://open.spotify.com/album/5Nwsra93UQYJ6xxcjcE10x",
+    "playedAt": "2026-10-19T12:56:44.427Z"
+  },
+  {
+    "albumId": "6WlJw5nden9COAJaZheEuh",
+    "title": "CHASE",
+    "artist": "Aaron May",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f0c12c7831413fddf24a1c1a",
+    "spotifyUrl": "https://open.spotify.com/album/6WlJw5nden9COAJaZheEuh",
+    "playedAt": "2026-10-19T12:53:06.212Z"
+  },
+  {
+    "albumId": "78bpIziExqiI9qztvNFlQu",
+    "title": "AM",
+    "artist": "Arctic Monkeys",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+    "spotifyUrl": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu",
+    "playedAt": "2026-10-19T12:50:51.152Z"
+  },
+  {
+    "albumId": "18oJqI5kIQ5lwDvpdlny99",
+    "title": "Re Mida (Aurum)",
+    "artist": "Lazza",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27311380898f2d6b11b88da3a7c",
+    "spotifyUrl": "https://open.spotify.com/album/18oJqI5kIQ5lwDvpdlny99",
+    "playedAt": "2026-10-19T12:47:46.687Z"
+  },
+  {
+    "albumId": "3ALicRgy6brNAYjFQPOFli",
+    "title": "Spotify Singles",
+    "artist": "Judeline",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f73f0a2842264c14d2ba4d77",
+    "spotifyUrl": "https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli",
+    "playedAt": "2026-10-19T12:21:55.097Z"
+  },
+  {
     "albumId": "3RQQmkQEvNCY4prGKE6oc5",
     "title": "Un Verano Sin Ti",
     "artist": "Bad Bunny",
     "cover": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
     "spotifyUrl": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5",
-    "playedAt": "2026-10-19T11:53:33.730Z"
+    "playedAt": "2026-10-19T11:56:32.394Z"
   },
   {
     "albumId": "2QNTqojFg0R17Jn2gj9Yqm",
@@ -38,349 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b27313189b29e3f97c1e7442508e",
     "spotifyUrl": "https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L",
     "playedAt": "2026-10-19T11:13:09.463Z"
-  },
-  {
-    "albumId": "6dVIqQ8qmQ5GBnJ9shOYGE",
-    "title": "OK Computer",
-    "artist": "Radiohead",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
-    "spotifyUrl": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE",
-    "playedAt": "2026-10-19T11:10:42.485Z"
-  },
-  {
-    "albumId": "11N2afr57Zc4Zz9ntU3w7Q",
-    "title": "La mia stanza (Deluxe)",
-    "artist": "NASKA",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2735ca708eff0fca350fcac96d4",
-    "spotifyUrl": "https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q",
-    "playedAt": "2026-10-19T11:06:17.448Z"
-  },
-  {
-    "albumId": "6trNtQUgC8cgbWcqoMYkOR",
-    "title": "beerbongs & bentleys",
-    "artist": "Post Malone",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268",
-    "spotifyUrl": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR",
-    "playedAt": "2026-10-19T11:03:34.879Z"
-  },
-  {
-    "albumId": "0d0xhfyP9VIZ8V9IsyvUdg",
-    "title": "Midnite (Deluxe Version)",
-    "artist": "Salmo",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27374cd99f1503bc1ad4a0a7e04",
-    "spotifyUrl": "https://open.spotify.com/album/0d0xhfyP9VIZ8V9IsyvUdg",
-    "playedAt": "2026-10-19T11:00:09.933Z"
-  },
-  {
-    "albumId": "6oECjagksATHu2UaclXrq1",
-    "title": "Doja",
-    "artist": "Central Cee",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27391de4cb28d9066225b55e603",
-    "spotifyUrl": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1",
-    "playedAt": "2026-10-19T10:56:13.488Z"
-  },
-  {
-    "albumId": "2sWX3HYnZjPZ9MrH6MFsBt",
-    "title": "Take Me Home (Expanded Edition)",
-    "artist": "One Direction",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734e31e0d38b89b8fb239d4fbf",
-    "spotifyUrl": "https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt",
-    "playedAt": "2026-10-19T10:54:35.574Z"
-  },
-  {
-    "albumId": "5r4bE2O6LCLBTjT42RBXwg",
-    "title": "Tailor Swif",
-    "artist": "A$AP Rocky",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b19948b2c6de145ea1c6f1b5",
-    "spotifyUrl": "https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg",
-    "playedAt": "2026-10-19T10:48:12.510Z"
-  },
-  {
-    "albumId": "5WjaIWthUR3AjA0UYG3jR5",
-    "title": "Freaks",
-    "artist": "Surf Curse",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2733975b6b899eed4af577f7ba6",
-    "spotifyUrl": "https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5",
-    "playedAt": "2026-10-19T10:42:03.906Z"
-  },
-  {
-    "albumId": "7qMFX6YMY6dhl4OWzve4ty",
-    "title": "SIRIO",
-    "artist": "Lazza",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273279a772ce72afcc068718423",
-    "spotifyUrl": "https://open.spotify.com/album/7qMFX6YMY6dhl4OWzve4ty",
-    "playedAt": "2026-10-19T10:39:36.288Z"
-  },
-  {
-    "albumId": "1w1LIhUSQLKew0dYwiVX2q",
-    "title": "Creep EP",
-    "artist": "Radiohead",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2733340ec817b195f40615cc647",
-    "spotifyUrl": "https://open.spotify.com/album/1w1LIhUSQLKew0dYwiVX2q",
-    "playedAt": "2026-10-19T10:35:39.310Z"
-  },
-  {
-    "albumId": "52E4RP7XDzalpIrOgSTgiQ",
-    "title": "Invincible",
-    "artist": "Michael Jackson",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75",
-    "spotifyUrl": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ",
-    "playedAt": "2026-10-19T10:25:21.310Z"
-  },
-  {
-    "albumId": "2iOJEUCKJaYseov1qA8ot8",
-    "title": "Does This Look Infected?",
-    "artist": "Sum 41",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273d6176a711e031d6522840c52",
-    "spotifyUrl": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8",
-    "playedAt": "2026-10-19T10:18:27.569Z"
-  },
-  {
-    "albumId": "07w0rG5TETcyihsEIZR3qG",
-    "title": "SOS",
-    "artist": "SZA",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273bc18bdade69ec5ef0bb25b17",
-    "spotifyUrl": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG",
-    "playedAt": "2026-10-19T10:15:48.326Z"
-  },
-  {
-    "albumId": "3qk1mPPXO5z9jMiVt3ppVa",
-    "title": "Punk",
-    "artist": "Gazzelle",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732a5ff7f928cee4ee1aab7649",
-    "spotifyUrl": "https://open.spotify.com/album/3qk1mPPXO5z9jMiVt3ppVa",
-    "playedAt": "2026-10-19T10:09:08.138Z"
-  },
-  {
-    "albumId": "5B6XfyHHYawyLkEvNvhSPh",
-    "title": "Walking On A Dream (10th Anniversary Edition)",
-    "artist": "Empire Of The Sun",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f3aa0e6ca22a382007f61e4d",
-    "spotifyUrl": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh",
-    "playedAt": "2026-10-19T10:00:35.954Z"
-  },
-  {
-    "albumId": "45ba6QAtNrdv6Ke4MFOKk9",
-    "title": "CALL ME IF YOU GET LOST",
-    "artist": "Tyler, The Creator, YoungBoy Never Broke Again, Ty Dolla $ign",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273940aa635eea98719f6ca4ad9",
-    "spotifyUrl": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9",
-    "playedAt": "2026-10-19T09:57:16.987Z"
-  },
-  {
-    "albumId": "3MATDdrpHmQCmuOcozZjDa",
-    "title": "TESTING",
-    "artist": "A$AP Rocky, Skepta",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273bfcb8d00cee4f8257a6b7fe1",
-    "spotifyUrl": "https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa",
-    "playedAt": "2026-10-19T09:55:14.898Z"
-  },
-  {
-    "albumId": "5q2iMctlDvEMYVIawF6Vop",
-    "title": "Actual Life 3 (January 1 - September 9 2022)",
-    "artist": "Fred again.., Clara Ward",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737f8859341a395010424f106b",
-    "spotifyUrl": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop",
-    "playedAt": "2026-10-19T09:47:56.724Z"
-  },
-  {
-    "albumId": "4otkd9As6YaxxEkIjXPiZ6",
-    "title": "Music To Be Murdered By",
-    "artist": "Eminem",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732f44aec83b20e40f3baef73c",
-    "spotifyUrl": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6",
-    "playedAt": "2026-10-19T09:43:17.795Z"
-  },
-  {
-    "albumId": "3pHFjWCK7d5YLtEuFwfR5N",
-    "title": "54+1",
-    "artist": "Danny Ocean",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273d8243a13e6f41310a5fa7b96",
-    "spotifyUrl": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N",
-    "playedAt": "2026-10-19T09:40:19.724Z"
-  },
-  {
-    "albumId": "7zFt7hLRPxemmlzVzg5uec",
-    "title": "Blu Celeste",
-    "artist": "BLANCO",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2735880f9b11a2e6289f9db78d5",
-    "spotifyUrl": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec",
-    "playedAt": "2026-10-19T09:36:44.124Z"
-  },
-  {
-    "albumId": "5GKjDCxwhXCo7sRyjg6syj",
-    "title": "OK",
-    "artist": "Gazzelle, thasup",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738e7ffe7ec58d3f439fe5a0d8",
-    "spotifyUrl": "https://open.spotify.com/album/5GKjDCxwhXCo7sRyjg6syj",
-    "playedAt": "2026-10-19T09:33:10.708Z"
-  },
-  {
-    "albumId": "6ooBxhsOVedpX4zPTCyL86",
-    "title": "Hyperdrama",
-    "artist": "Justice, Tame Impala",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273730e327760fe592ad69bf18e",
-    "spotifyUrl": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86",
-    "playedAt": "2026-10-19T09:30:24.923Z"
-  },
-  {
-    "albumId": "0U28P0QVB1QRxpqp5IHOlH",
-    "title": "CHROMAKOPIA",
-    "artist": "Tyler, The Creator, Daniel Caesar",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273084a94988541c2402615d014",
-    "spotifyUrl": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH",
-    "playedAt": "2026-10-19T09:25:57.905Z"
-  },
-  {
-    "albumId": "3arNdjotCvtiiLFfjKngMc",
-    "title": "AT.LONG.LAST.A$AP",
-    "artist": "A$AP Rocky, Rod Stewart, Miguel, Mark Ronson",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27349efdc44d0733042f8b99d57",
-    "spotifyUrl": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc",
-    "playedAt": "2026-10-19T09:22:25.518Z"
-  },
-  {
-    "albumId": "5K79FLRUCSysQnVESLcTdb",
-    "title": "DeB\u00cd TiRAR M\u00e1S FOToS",
-    "artist": "Bad Bunny",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-    "spotifyUrl": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb",
-    "playedAt": "2026-10-19T09:18:04.001Z"
-  },
-  {
-    "albumId": "5apkkoLPJJYZcghFfuNTF3",
-    "title": "BEFORE I FORGET",
-    "artist": "The Kid LAROI",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734ee3d2ae694b3b78125a5443",
-    "spotifyUrl": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3",
-    "playedAt": "2026-10-19T09:15:27.063Z"
-  },
-  {
-    "albumId": "4rJgzzfFHAVFhCSt2P4I3j",
-    "title": "Playboi Carti",
-    "artist": "Playboi Carti",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
-    "spotifyUrl": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j",
-    "playedAt": "2026-10-19T09:07:32.880Z"
-  },
-  {
-    "albumId": "0YuaTmnune0LCqLSNhHu6I",
-    "title": "Fuori dall'Hype",
-    "artist": "Pinguini Tattici Nucleari",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ab2d601177caa3074c7d4a2b",
-    "spotifyUrl": "https://open.spotify.com/album/0YuaTmnune0LCqLSNhHu6I",
-    "playedAt": "2026-10-19T09:04:30.523Z"
-  },
-  {
-    "albumId": "2tm3Ht61kqqRZtIYsBjxEj",
-    "title": "Stankonia",
-    "artist": "Outkast",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273153b3d6495031cb813a7451c",
-    "spotifyUrl": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj",
-    "playedAt": "2026-10-19T09:00:41.497Z"
-  },
-  {
-    "albumId": "08SB1CgIS0yVIH7ZV99I6f",
-    "title": "TUTTA VITA (SEMPRE)",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736752cb3279906514dd04c8aa",
-    "spotifyUrl": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f",
-    "playedAt": "2026-10-19T08:56:10.472Z"
-  },
-  {
-    "albumId": "11qEWtxwrKQUgOBPsff4op",
-    "title": "The Wonderful World Of Sam Cooke",
-    "artist": "Sam Cooke",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734fc6dd310e78dcdbf6130b2b",
-    "spotifyUrl": "https://open.spotify.com/album/11qEWtxwrKQUgOBPsff4op",
-    "playedAt": "2026-10-19T08:51:57.384Z"
-  },
-  {
-    "albumId": "7txGsnDSqVMoRl6RQ9XyZP",
-    "title": "HEROES & VILLAINS",
-    "artist": "Metro Boomin, Future, Don Toliver",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
-    "spotifyUrl": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP",
-    "playedAt": "2026-10-19T08:49:48.077Z"
-  },
-  {
-    "albumId": "2nkto6YNI4rUYTLqEwWJ3o",
-    "title": "Flower Boy",
-    "artist": "Tyler, The Creator, Kali Uchis",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3",
-    "spotifyUrl": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o",
-    "playedAt": "2026-10-19T08:46:27.630Z"
-  },
-  {
-    "albumId": "7pKecv42eDVOeFIr8E0tVi",
-    "title": "GLI ANNI DI CRISTO",
-    "artist": "MOBRICI, Fulminacci",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ddacafc70cc6f35d9cccac53",
-    "spotifyUrl": "https://open.spotify.com/album/7pKecv42eDVOeFIr8E0tVi",
-    "playedAt": "2026-10-19T06:34:25.416Z"
-  },
-  {
-    "albumId": "00ALxUXwprONphiPixCN0l",
-    "title": "Indaco",
-    "artist": "Drast",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732bd512f978b44158e9cd00b6",
-    "spotifyUrl": "https://open.spotify.com/album/00ALxUXwprONphiPixCN0l",
-    "playedAt": "2026-10-19T06:16:36.457Z"
-  },
-  {
-    "albumId": "1O8ojaXiADLSPyk8SAgczn",
-    "title": "Squashing Grapes",
-    "artist": "Brian Jaims",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2733929a417032cbe51f090252d",
-    "spotifyUrl": "https://open.spotify.com/album/1O8ojaXiADLSPyk8SAgczn",
-    "playedAt": "2026-10-19T06:13:52.912Z"
-  },
-  {
-    "albumId": "4E1XUBMTpLO7GpBzUo65Jp",
-    "title": "Freudian",
-    "artist": "Daniel Caesar",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737aa8783ad8def37cc548a9cf",
-    "spotifyUrl": "https://open.spotify.com/album/4E1XUBMTpLO7GpBzUo65Jp",
-    "playedAt": "2026-10-19T06:11:27.976Z"
-  },
-  {
-    "albumId": "0UMMIkurRUmkruZ3KGBLtG",
-    "title": "2014 Forest Hills Drive",
-    "artist": "J. Cole",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c6e0948bbb0681ff29cdbae8",
-    "spotifyUrl": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG",
-    "playedAt": "2026-10-18T21:01:31.457Z"
-  },
-  {
-    "albumId": "7zPSn1s2DdZVLTLCRi9zFz",
-    "title": "Baby Don't Cry",
-    "artist": "NASKA",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738cb62291a62d50c71234241b",
-    "spotifyUrl": "https://open.spotify.com/album/7zPSn1s2DdZVLTLCRi9zFz",
-    "playedAt": "2026-10-18T20:56:38.061Z"
-  },
-  {
-    "albumId": "3pHFjWCK7d5YLtEuFwfR5N",
-    "title": "54+1",
-    "artist": "Danny Ocean",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273d8243a13e6f41310a5fa7b96",
-    "spotifyUrl": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N",
-    "playedAt": "2026-10-18T20:53:32.628Z"
-  },
-  {
-    "albumId": "0M0iJGLagLtI4LlooOiiNZ",
-    "title": "places to be",
-    "artist": "Fred again.., Anderson .Paak, CHIKA",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2735471ed900dd21834e5fc90c8",
-    "spotifyUrl": "https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ",
-    "playedAt": "2026-10-18T20:46:03.558Z"
-  },
-  {
-    "albumId": "7qZ5XKi1L7ivSxcFFyEjBV",
-    "title": "Il Mondo Gira",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a9e40bd192d83079cb8c385f",
-    "spotifyUrl": "https://open.spotify.com/album/7qZ5XKi1L7ivSxcFFyEjBV",
-    "playedAt": "2026-10-18T20:42:16.368Z"
   }
 ]
