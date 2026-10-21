@@ -208,6 +208,14 @@
     "playedAt": "2026-10-21T12:28:37.327Z"
   },
   {
+    "albumId": "52E4RP7XDzalpIrOgSTgiQ",
+    "title": "Invincible",
+    "artist": "Michael Jackson",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75",
+    "spotifyUrl": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ",
+    "playedAt": "2026-10-21T12:17:01.595Z"
+  },
+  {
     "albumId": "0U28P0QVB1QRxpqp5IHOlH",
     "title": "CHROMAKOPIA",
     "artist": "Tyler, The Creator",
@@ -366,14 +374,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273b242b4213fb5c21d97dbbf4d",
     "spotifyUrl": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ",
     "playedAt": "2026-10-21T09:25:09.750Z"
-  },
-  {
-    "albumId": "52E4RP7XDzalpIrOgSTgiQ",
-    "title": "Invincible",
-    "artist": "Michael Jackson",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75",
-    "spotifyUrl": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ",
-    "playedAt": "2026-10-21T08:19:35.912Z"
   },
   {
     "albumId": "2ANVost0y2y52ema1E9xAZ",
