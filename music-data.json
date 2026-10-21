@@ -1,5 +1,157 @@
 [
   {
+    "albumId": "6Fr2rQkZ383FcMqFyT7yPr",
+    "title": "Purpose (Deluxe)",
+    "artist": "Justin Bieber",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de",
+    "spotifyUrl": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr",
+    "playedAt": "2026-10-21T11:03:39.308Z"
+  },
+  {
+    "albumId": "0c1yNi1MuGlcNrCzU2kDVE",
+    "title": "Cage The Elephant",
+    "artist": "Cage The Elephant",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ce6b979ca98da4c27157dc17",
+    "spotifyUrl": "https://open.spotify.com/album/0c1yNi1MuGlcNrCzU2kDVE",
+    "playedAt": "2026-10-21T11:00:08.603Z"
+  },
+  {
+    "albumId": "4mSjizPx5knMDe4T3urMFE",
+    "title": "Fuori posto",
+    "artist": "Mida",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273656045c9b080f5af901556bb",
+    "spotifyUrl": "https://open.spotify.com/album/4mSjizPx5knMDe4T3urMFE",
+    "playedAt": "2026-10-21T10:57:12.625Z"
+  },
+  {
+    "albumId": "1hnBudoNBHLZuExBjV3mM3",
+    "title": "Piangere a 90",
+    "artist": "BLANCO",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f526cde830c67ecf4580b9e2",
+    "spotifyUrl": "https://open.spotify.com/album/1hnBudoNBHLZuExBjV3mM3",
+    "playedAt": "2026-10-21T10:54:42.415Z"
+  },
+  {
+    "albumId": "6X1x82kppWZmDzlXXK3y3q",
+    "title": "Take Care (Deluxe)",
+    "artist": "Drake",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550",
+    "spotifyUrl": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q",
+    "playedAt": "2026-10-21T10:52:06.445Z"
+  },
+  {
+    "albumId": "3OxfaVgvTxUTy7276t7SPU",
+    "title": "Hurry Up Tomorrow",
+    "artist": "The Weeknd, Anitta",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273de79f330bc297af3fae736da",
+    "spotifyUrl": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU",
+    "playedAt": "2026-10-21T10:46:18.646Z"
+  },
+  {
+    "albumId": "4fPV5OWBxzBVaYRbXduGtj",
+    "title": "RELAX",
+    "artist": "Calcutta ",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c6d348e2dec6b0b302e9e101",
+    "spotifyUrl": "https://open.spotify.com/album/4fPV5OWBxzBVaYRbXduGtj",
+    "playedAt": "2026-10-21T09:56:58.417Z"
+  },
+  {
+    "albumId": "2d9BCZeAAhiZWPpbX9aPCW",
+    "title": "EL \u00daLTIMO TOUR DEL MUNDO",
+    "artist": "Bad Bunny, JHAYCO",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273005ee342f4eef2cc6e8436ab",
+    "spotifyUrl": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW",
+    "playedAt": "2026-10-21T09:53:23.578Z"
+  },
+  {
+    "albumId": "6r1lh7fHMB499vGKtIyJLy",
+    "title": "AUSTIN",
+    "artist": "Post Malone",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27371cae34ad5a39bdab78af13e",
+    "spotifyUrl": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy",
+    "playedAt": "2026-10-21T09:49:58.059Z"
+  },
+  {
+    "albumId": "4otkd9As6YaxxEkIjXPiZ6",
+    "title": "Music To Be Murdered By",
+    "artist": "Eminem",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732f44aec83b20e40f3baef73c",
+    "spotifyUrl": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6",
+    "playedAt": "2026-10-21T09:46:32.318Z"
+  },
+  {
+    "albumId": "50Zz8CkIhATKUlQMbHO3k1",
+    "title": "Whatever People Say I Am, That's What I'm Not",
+    "artist": "Arctic Monkeys",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736b3fa88bdd4af566fbbf2bbf",
+    "spotifyUrl": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1",
+    "playedAt": "2026-10-21T09:43:34.209Z"
+  },
+  {
+    "albumId": "6tgLnr7amiuRBK9LjO0pWG",
+    "title": "MATERIA (PELLE)",
+    "artist": "Marco Mengoni, Bresh",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730e61e4e997a3dc0ba273e732",
+    "spotifyUrl": "https://open.spotify.com/album/6tgLnr7amiuRBK9LjO0pWG",
+    "playedAt": "2026-10-21T09:40:40.051Z"
+  },
+  {
+    "albumId": "0ptlfJfwGTy0Yvrk14JK1I",
+    "title": "If You're Reading This It's Too Late",
+    "artist": "Drake",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732090f4f6cc406e6d3c306733",
+    "spotifyUrl": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I",
+    "playedAt": "2026-10-21T09:37:13.805Z"
+  },
+  {
+    "albumId": "2t8BJiwmId781mzO0EEc15",
+    "title": "Intergalactic Janet",
+    "artist": "Ley Soul",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f6a558d0702726663f3cbc7c",
+    "spotifyUrl": "https://open.spotify.com/album/2t8BJiwmId781mzO0EEc15",
+    "playedAt": "2026-10-21T09:32:37.452Z"
+  },
+  {
+    "albumId": "29nOS5yANYfHlGSBGkkfuW",
+    "title": "Agonia",
+    "artist": "chiello",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ec38726df2c0bb6015412929",
+    "spotifyUrl": "https://open.spotify.com/album/29nOS5yANYfHlGSBGkkfuW",
+    "playedAt": "2026-10-21T09:29:56.526Z"
+  },
+  {
+    "albumId": "2dBgWXp41imu2zBNv9oFxZ",
+    "title": "F\u00e9nix",
+    "artist": "Nicky Jam",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b242b4213fb5c21d97dbbf4d",
+    "spotifyUrl": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ",
+    "playedAt": "2026-10-21T09:25:09.750Z"
+  },
+  {
+    "albumId": "52E4RP7XDzalpIrOgSTgiQ",
+    "title": "Invincible",
+    "artist": "Michael Jackson",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75",
+    "spotifyUrl": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ",
+    "playedAt": "2026-10-21T08:19:35.912Z"
+  },
+  {
+    "albumId": "2ANVost0y2y52ema1E9xAZ",
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+    "spotifyUrl": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ",
+    "playedAt": "2026-10-21T08:13:48.496Z"
+  },
+  {
+    "albumId": "7pomP86PUhoJpY3fsC0WDQ",
+    "title": "XSCAPE",
+    "artist": "Michael Jackson, Justin Timberlake",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27335f36cb686b0d5a12ab3a9f0",
+    "spotifyUrl": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ",
+    "playedAt": "2026-10-20T21:36:00.944Z"
+  },
+  {
     "albumId": "2tukc7pH4qTuXcfaHjLIBc",
     "title": "ABC",
     "artist": "The Jackson 5",
@@ -88,6 +240,14 @@
     "playedAt": "2026-10-20T13:03:14.160Z"
   },
   {
+    "albumId": "2ZytN2cY4Zjrr9ukb2rqTP",
+    "title": "Off the Wall",
+    "artist": "Michael Jackson",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949",
+    "spotifyUrl": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP",
+    "playedAt": "2026-10-20T13:00:17.315Z"
+  },
+  {
     "albumId": "1hj1SYbJYdXloRiSjsCLXg",
     "title": "Raise!",
     "artist": "Earth, Wind & Fire",
@@ -168,6 +328,22 @@
     "playedAt": "2026-10-20T11:18:38.585Z"
   },
   {
+    "albumId": "52E4RP7XDzalpIrOgSTgiQ",
+    "title": "Invincible",
+    "artist": "Michael Jackson",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75",
+    "spotifyUrl": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ",
+    "playedAt": "2026-10-20T11:13:39.928Z"
+  },
+  {
+    "albumId": "2ANVost0y2y52ema1E9xAZ",
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+    "spotifyUrl": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ",
+    "playedAt": "2026-10-20T11:05:52.663Z"
+  },
+  {
     "albumId": "0aihmuRLi1gBkxk4mbNfcv",
     "title": "Turning Point",
     "artist": "Mario",
@@ -182,14 +358,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b",
     "spotifyUrl": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI",
     "playedAt": "2026-10-20T09:14:31.213Z"
-  },
-  {
-    "albumId": "2ANVost0y2y52ema1E9xAZ",
-    "title": "Thriller",
-    "artist": "Michael Jackson",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
-    "spotifyUrl": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ",
-    "playedAt": "2026-10-20T09:09:49.907Z"
   },
   {
     "albumId": "2CUT0104gySOIvqwtXeFsX",
@@ -214,173 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
     "spotifyUrl": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA",
     "playedAt": "2026-10-20T08:57:52.648Z"
-  },
-  {
-    "albumId": "56hpn4sLHITCwL7euX1DXn",
-    "title": "Marvin Gaye & A Distant Lover",
-    "artist": "Marvin Gaye",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736a815f278debe939f5a70e3a",
-    "spotifyUrl": "https://open.spotify.com/album/56hpn4sLHITCwL7euX1DXn",
-    "playedAt": "2026-10-20T08:54:06.152Z"
-  },
-  {
-    "albumId": "7pomP86PUhoJpY3fsC0WDQ",
-    "title": "XSCAPE",
-    "artist": "Michael Jackson",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27335f36cb686b0d5a12ab3a9f0",
-    "spotifyUrl": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ",
-    "playedAt": "2026-10-20T08:49:57.315Z"
-  },
-  {
-    "albumId": "1YgekJJTEueWDaMr7BYqPk",
-    "title": "An Evening With Silk Sonic",
-    "artist": "Bruno Mars, Anderson .Paak, Silk Sonic",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731756c2022529aacfa98d2eb8",
-    "spotifyUrl": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk",
-    "playedAt": "2026-10-20T06:20:33.656Z"
-  },
-  {
-    "albumId": "2ZytN2cY4Zjrr9ukb2rqTP",
-    "title": "Off the Wall",
-    "artist": "Michael Jackson",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949",
-    "spotifyUrl": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP",
-    "playedAt": "2026-10-20T06:16:31.039Z"
-  },
-  {
-    "albumId": "52E4RP7XDzalpIrOgSTgiQ",
-    "title": "Invincible",
-    "artist": "Michael Jackson",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75",
-    "spotifyUrl": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ",
-    "playedAt": "2026-10-20T05:58:11.843Z"
-  },
-  {
-    "albumId": "4xkM0BwLM9H2IUcbYzpcBI",
-    "title": "I Love You.",
-    "artist": "The Neighbourhood",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921",
-    "spotifyUrl": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI",
-    "playedAt": "2026-10-19T21:52:31.084Z"
-  },
-  {
-    "albumId": "2weOG4ZiOjfxiuFMsHm9JQ",
-    "title": "RMCM",
-    "artist": "Richy Mitch & The Coal Miners",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731cc17bae5ee17cce117e198a",
-    "spotifyUrl": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ",
-    "playedAt": "2026-10-19T21:49:35.298Z"
-  },
-  {
-    "albumId": "3mH6qwIy9crq0I9YQbOuDf",
-    "title": "Blonde",
-    "artist": "Frank Ocean",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526",
-    "spotifyUrl": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf",
-    "playedAt": "2026-10-19T21:48:07.718Z"
-  },
-  {
-    "albumId": "1ne2D0NxoGyZd31gAM4HNd",
-    "title": "Illuminate",
-    "artist": "Shawn Mendes",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731376b4b16f4bfcba02dc571b",
-    "spotifyUrl": "https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd",
-    "playedAt": "2026-10-19T21:43:58.024Z"
-  },
-  {
-    "albumId": "58vZavXqh1P5uoTXteudWl",
-    "title": "At The Beach, In Every Life",
-    "artist": "Gigi Perez",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27349c26270052e1671add569c1",
-    "spotifyUrl": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl",
-    "playedAt": "2026-10-19T21:39:55.611Z"
-  },
-  {
-    "albumId": "3AafSrFIbJPH6BJHiJm1Cd",
-    "title": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-    "artist": "Billie Eilish",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e",
-    "spotifyUrl": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd",
-    "playedAt": "2026-10-19T21:36:23.165Z"
-  },
-  {
-    "albumId": "1qsQOC4Jn0fnaUZLAbs4dz",
-    "title": "SKINS",
-    "artist": "XXXTENTACION",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273da9e59639a9759d8952890c6",
-    "spotifyUrl": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz",
-    "playedAt": "2026-10-19T21:32:40.280Z"
-  },
-  {
-    "albumId": "0WqDLFy6UcjR9ygT9PrT22",
-    "title": "IO NON HO PAURA",
-    "artist": "Ernia",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27359fbd220d580fbde3ff7af1c",
-    "spotifyUrl": "https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22",
-    "playedAt": "2026-10-19T21:29:52.610Z"
-  },
-  {
-    "albumId": "7mzC45R2k8PRHzE7lbrRBE",
-    "title": "Lettera Q",
-    "artist": "nayt",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a0c7ce4c5dff167542456733",
-    "spotifyUrl": "https://open.spotify.com/album/7mzC45R2k8PRHzE7lbrRBE",
-    "playedAt": "2026-10-19T21:26:11.804Z"
-  },
-  {
-    "albumId": "5hgwPA78vCrhEDaTazNMyR",
-    "title": "If You Love Her",
-    "artist": "Forest Blakk",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ac0917f0869f0de0d887a60c",
-    "spotifyUrl": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR",
-    "playedAt": "2026-10-19T21:23:51.286Z"
-  },
-  {
-    "albumId": "2HaqChIDc5go3qxVunBDK0",
-    "title": "Funk Wav Bounces Vol.1",
-    "artist": "Calvin Harris, Frank Ocean, Migos, Funk Wav",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734d3fa5ce7ba599f4fd7803ef",
-    "spotifyUrl": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0",
-    "playedAt": "2026-10-19T21:19:56.137Z"
-  },
-  {
-    "albumId": "41GuZcammIkupMPKH2OJ6I",
-    "title": "ASTROWORLD",
-    "artist": "Travis Scott",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
-    "spotifyUrl": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I",
-    "playedAt": "2026-10-19T20:41:35.155Z"
-  },
-  {
-    "albumId": "7fZKtzZAsfH0kzeTivu5TG",
-    "title": "Slime & B",
-    "artist": "Chris Brown, Young Thug",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273bff2af834c576eaab5bc4d0f",
-    "spotifyUrl": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG",
-    "playedAt": "2026-10-19T20:26:27.298Z"
-  },
-  {
-    "albumId": "2Ek1q2haOnxVqhvVKqMvJe",
-    "title": "ye",
-    "artist": "Kanye West, PARTYNEXTDOOR",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-    "spotifyUrl": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe",
-    "playedAt": "2026-10-19T20:23:29.764Z"
-  },
-  {
-    "albumId": "6TVfiWmo8KtflUAmkK9gGF",
-    "title": "25",
-    "artist": "Adele",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737b9888dc365b8f957c63df14",
-    "spotifyUrl": "https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF",
-    "playedAt": "2026-10-19T20:18:17.439Z"
-  },
-  {
-    "albumId": "4PgleR09JVnm3zY1fW3XBA",
-    "title": "24K Magic",
-    "artist": "Bruno Mars",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
-    "spotifyUrl": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA",
-    "playedAt": "2026-10-19T20:05:45.799Z"
   }
 ]
