@@ -1,5 +1,45 @@
 [
   {
+    "albumId": "7oxC0J3L5JiVHMZRU9qGPS",
+    "title": "her (feat. ZVC)",
+    "artist": "JVKE, ZVC",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c5e3ef0da8cf3c1eebd422a2",
+    "spotifyUrl": "https://open.spotify.com/album/7oxC0J3L5JiVHMZRU9qGPS",
+    "playedAt": "2026-10-22T00:13:04.995Z"
+  },
+  {
+    "albumId": "0hvT3yIEysuuvkK73vgdcW",
+    "title": "GNX",
+    "artist": "Kendrick Lamar, SZA",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e2a0a166493a2bde5480a420",
+    "spotifyUrl": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW",
+    "playedAt": "2026-10-22T00:06:51.303Z"
+  },
+  {
+    "albumId": "6zBVlFWATphRVpz1rxyWvF",
+    "title": "abbatteremo i motel e torneremo a far l\u2019amore in mezzo ai campi",
+    "artist": "Albe",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b0a4539126755b4796ba1f45",
+    "spotifyUrl": "https://open.spotify.com/album/6zBVlFWATphRVpz1rxyWvF",
+    "playedAt": "2026-10-22T00:03:48.600Z"
+  },
+  {
+    "albumId": "3RQQmkQEvNCY4prGKE6oc5",
+    "title": "Un Verano Sin Ti",
+    "artist": "Bad Bunny, Tainy",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
+    "spotifyUrl": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5",
+    "playedAt": "2026-10-21T23:59:34.057Z"
+  },
+  {
+    "albumId": "6zBVlFWATphRVpz1rxyWvF",
+    "title": "abbatteremo i motel e torneremo a far l\u2019amore in mezzo ai campi",
+    "artist": "Albe",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b0a4539126755b4796ba1f45",
+    "spotifyUrl": "https://open.spotify.com/album/6zBVlFWATphRVpz1rxyWvF",
+    "playedAt": "2026-10-21T21:14:44.612Z"
+  },
+  {
     "albumId": "5K79FLRUCSysQnVESLcTdb",
     "title": "DeB\u00cd TiRAR M\u00e1S FOToS",
     "artist": "Bad Bunny, RaiNao",
@@ -342,45 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2730e61e4e997a3dc0ba273e732",
     "spotifyUrl": "https://open.spotify.com/album/6tgLnr7amiuRBK9LjO0pWG",
     "playedAt": "2026-10-21T09:40:40.051Z"
-  },
-  {
-    "albumId": "0ptlfJfwGTy0Yvrk14JK1I",
-    "title": "If You're Reading This It's Too Late",
-    "artist": "Drake",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732090f4f6cc406e6d3c306733",
-    "spotifyUrl": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I",
-    "playedAt": "2026-10-21T09:37:13.805Z"
-  },
-  {
-    "albumId": "2t8BJiwmId781mzO0EEc15",
-    "title": "Intergalactic Janet",
-    "artist": "Ley Soul",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f6a558d0702726663f3cbc7c",
-    "spotifyUrl": "https://open.spotify.com/album/2t8BJiwmId781mzO0EEc15",
-    "playedAt": "2026-10-21T09:32:37.452Z"
-  },
-  {
-    "albumId": "29nOS5yANYfHlGSBGkkfuW",
-    "title": "Agonia",
-    "artist": "chiello",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ec38726df2c0bb6015412929",
-    "spotifyUrl": "https://open.spotify.com/album/29nOS5yANYfHlGSBGkkfuW",
-    "playedAt": "2026-10-21T09:29:56.526Z"
-  },
-  {
-    "albumId": "2dBgWXp41imu2zBNv9oFxZ",
-    "title": "F\u00e9nix",
-    "artist": "Nicky Jam",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b242b4213fb5c21d97dbbf4d",
-    "spotifyUrl": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ",
-    "playedAt": "2026-10-21T09:25:09.750Z"
-  },
-  {
-    "albumId": "2ANVost0y2y52ema1E9xAZ",
-    "title": "Thriller",
-    "artist": "Michael Jackson",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
-    "spotifyUrl": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ",
-    "playedAt": "2026-10-21T08:13:48.496Z"
   }
 ]
