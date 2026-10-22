@@ -1,11 +1,123 @@
 [
   {
+    "albumId": "3cfaUxWe1QL8h1GFG3wAGh",
+    "title": "Curriculum Vitae",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f52e495c2b48c8bff8145987",
+    "spotifyUrl": "https://open.spotify.com/album/3cfaUxWe1QL8h1GFG3wAGh",
+    "playedAt": "2026-10-22T17:21:22.890Z"
+  },
+  {
+    "albumId": "6prdGyJZaUBHgCvVJ4mJH5",
+    "title": "CRUSH",
+    "artist": "Giuse The Lizia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27303e4c77a755caa4d59dca4e4",
+    "spotifyUrl": "https://open.spotify.com/album/6prdGyJZaUBHgCvVJ4mJH5",
+    "playedAt": "2026-10-22T17:18:52.843Z"
+  },
+  {
+    "albumId": "0idasMxjLcTfRitXmkvJ93",
+    "title": "CALCINACCI",
+    "artist": "Fulminacci",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ff26d9e6888e0a1ab315aa6a",
+    "spotifyUrl": "https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93",
+    "playedAt": "2026-10-22T17:15:55.341Z"
+  },
+  {
+    "albumId": "4Uk3RkkDCBBY1jv9UAY2mk",
+    "title": "Finestra",
+    "artist": "43.Nove, Oh Baro",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734c6bf838a1e3851b79cf2909",
+    "spotifyUrl": "https://open.spotify.com/album/4Uk3RkkDCBBY1jv9UAY2mk",
+    "playedAt": "2026-10-22T17:12:49.210Z"
+  },
+  {
+    "albumId": "3Q2DpYvYcJluGlRQfeiSQE",
+    "title": "Guarda le luci amore mio",
+    "artist": "Dutch Nazari, Levante",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273431e6e68dd8a53a6251a8fdd",
+    "spotifyUrl": "https://open.spotify.com/album/3Q2DpYvYcJluGlRQfeiSQE",
+    "playedAt": "2026-10-22T17:08:58.627Z"
+  },
+  {
+    "albumId": "7GrBztiTYeurqweiz70SfY",
+    "title": "Fantastico (con Giorgio Poi)",
+    "artist": "Golden Years, Drast, Giorgio Poi",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273dd68e031f5c25d6f1fae95d1",
+    "spotifyUrl": "https://open.spotify.com/album/7GrBztiTYeurqweiz70SfY",
+    "playedAt": "2026-10-22T17:05:55.965Z"
+  },
+  {
+    "albumId": "5gzluUMgS7XUXVToWRp4UO",
+    "title": "Anatomia di uno schianto prolungato",
+    "artist": "Willie Peyote, Fudasca",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738c20399d6747d753fc7b4b96",
+    "spotifyUrl": "https://open.spotify.com/album/5gzluUMgS7XUXVToWRp4UO",
+    "playedAt": "2026-10-22T16:58:19.178Z"
+  },
+  {
+    "albumId": "53NG98fs1alF4otCTJsFh7",
+    "title": "Un altro album",
+    "artist": "Legno",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733b8c5b4fb7451b3623c11a02",
+    "spotifyUrl": "https://open.spotify.com/album/53NG98fs1alF4otCTJsFh7",
+    "playedAt": "2026-10-22T16:55:36.028Z"
+  },
+  {
+    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
+    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
+    "artist": "faccianuvola",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
+    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
+    "playedAt": "2026-10-22T16:48:36.123Z"
+  },
+  {
+    "albumId": "4GXXJYFv5OGW9hg8yQr3BC",
+    "title": "Vol. 1",
+    "artist": "Brunori Sas",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736b40a0bc52c9348484fd8044",
+    "spotifyUrl": "https://open.spotify.com/album/4GXXJYFv5OGW9hg8yQr3BC",
+    "playedAt": "2026-10-22T16:45:02.102Z"
+  },
+  {
+    "albumId": "1LA6VsdQLEJ76u6V3egSmE",
+    "title": "Los Angeles",
+    "artist": "Giuse The Lizia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27361f48b8f644f919e229a1776",
+    "spotifyUrl": "https://open.spotify.com/album/1LA6VsdQLEJ76u6V3egSmE",
+    "playedAt": "2026-10-22T16:40:32.711Z"
+  },
+  {
+    "albumId": "3Tba6GMxsEye0PGDz1u2WB",
+    "title": "Smog",
+    "artist": "Giorgio Poi",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732113f6ff5dd03d68e1bfa9b6",
+    "spotifyUrl": "https://open.spotify.com/album/3Tba6GMxsEye0PGDz1u2WB",
+    "playedAt": "2026-10-22T16:37:45.689Z"
+  },
+  {
+    "albumId": "3fLZttN2wu3O5td1arWns6",
+    "title": "Femmina",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273df83eb6fb4c066fe0366aa73",
+    "spotifyUrl": "https://open.spotify.com/album/3fLZttN2wu3O5td1arWns6",
+    "playedAt": "2026-10-22T16:34:24.670Z"
+  },
+  {
     "albumId": "4Nz2181rHvYWOz7RNyTlQk",
     "title": "Cori da sdraio",
     "artist": "Dutch Nazari, Frah Quintale",
     "cover": "https://i.scdn.co/image/ab67616d0000b27390040563b5f2a08eeeb2a77c",
     "spotifyUrl": "https://open.spotify.com/album/4Nz2181rHvYWOz7RNyTlQk",
     "playedAt": "2026-10-22T16:32:12.621Z"
+  },
+  {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-10-22T16:28:35.203Z"
   },
   {
     "albumId": "5SQrlPanuIhyEZXxsPRa35",
@@ -256,14 +368,6 @@
     "playedAt": "2026-10-22T12:07:29.053Z"
   },
   {
-    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
-    "title": "SINCERO!",
-    "artist": "Rare\u0219",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
-    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
-    "playedAt": "2026-10-22T12:03:41.557Z"
-  },
-  {
     "albumId": "3Gmq5AFwR3eXaf59Kbwgk8",
     "title": "Love & Tears",
     "artist": "GENER8ION, Yung Lean",
@@ -278,109 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2736557c596368c4579b4e35eac",
     "spotifyUrl": "https://open.spotify.com/album/1bkPNy0jxEKPG7nSTn5Saa",
     "playedAt": "2026-10-22T11:56:19.386Z"
-  },
-  {
-    "albumId": "1wD2xMSjGRFSVX8zkFEuMo",
-    "title": "Victory Lap",
-    "artist": "Fred again.., Skepta, PlaqueBoyMax",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273bf705b821b031cefe91d7b90",
-    "spotifyUrl": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo",
-    "playedAt": "2026-10-22T10:56:16.786Z"
-  },
-  {
-    "albumId": "1P3t63miBEpa4OqlIipdSB",
-    "title": "solo (KETTAMA remix)",
-    "artist": "KETTAMA, Fred again.., Blanco",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ebd4b3c3d576795cd4eda368",
-    "spotifyUrl": "https://open.spotify.com/album/1P3t63miBEpa4OqlIipdSB",
-    "playedAt": "2026-10-22T10:53:30.432Z"
-  },
-  {
-    "albumId": "2ClZ9xWAYg1BH8zkR96dJo",
-    "title": "USB",
-    "artist": "Fred again.., Swedish House Mafia, Future",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734018b70099d433d9c8aabb12",
-    "spotifyUrl": "https://open.spotify.com/album/2ClZ9xWAYg1BH8zkR96dJo",
-    "playedAt": "2026-10-22T10:49:09.437Z"
-  },
-  {
-    "albumId": "7K3BWpksmH4L7BoqUdhZrL",
-    "title": "adore u",
-    "artist": "Fred again.., Obongjayar",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734479a11bdcb4f531702459a4",
-    "spotifyUrl": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL",
-    "playedAt": "2026-10-22T09:05:53.445Z"
-  },
-  {
-    "albumId": "0SFtIrRytNI4kcf93Tbhdf",
-    "title": "Actual Life 2 (February 2 - October 15 2021)",
-    "artist": "Fred again..",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c506dbc3f05d3ce4daf355c4",
-    "spotifyUrl": "https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf",
-    "playedAt": "2026-10-22T09:02:12.266Z"
-  },
-  {
-    "albumId": "71yJ0XH2iQA1uOk5CE95fx",
-    "title": "Turn On The Lights again.. (feat. Future & Fred again..) [Remixes]",
-    "artist": "Swedish House Mafia, Anyma, Future, Fred again..",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736600c4d2d25fa39b9071ef0f",
-    "spotifyUrl": "https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx",
-    "playedAt": "2026-10-22T08:51:45.221Z"
-  },
-  {
-    "albumId": "7x9gF8DtACwxkejv2xBndT",
-    "title": "Skepta .. Fred",
-    "artist": "Skepta, Fred again..",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273096a7117356251107f00c8d8",
-    "spotifyUrl": "https://open.spotify.com/album/7x9gF8DtACwxkejv2xBndT",
-    "playedAt": "2026-10-22T08:43:20.053Z"
-  },
-  {
-    "albumId": "7tWP3OG5dWphctKg4NMACt",
-    "title": "Quest For Fire",
-    "artist": "Skrillex, Fred again.., Flowdan",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732a7e34a68952017d900c6bb8",
-    "spotifyUrl": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt",
-    "playedAt": "2026-10-22T08:40:32.655Z"
-  },
-  {
-    "albumId": "4HZ3fF1dwSZLwztlLwoDYA",
-    "title": "9 months & 50 hours",
-    "artist": "LATIN MAFIA, Fred again..",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732fe1ee03a5bed6b4a2e73296",
-    "spotifyUrl": "https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA",
-    "playedAt": "2026-10-22T08:38:05.575Z"
-  },
-  {
-    "albumId": "3DQueEd1Ft9PHWgovDzPKh",
-    "title": "ten days",
-    "artist": "Fred again.., Anderson .Paak, CHIKA",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739574df129a4a2f4fa4990286",
-    "spotifyUrl": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh",
-    "playedAt": "2026-10-22T08:31:33.891Z"
-  },
-  {
-    "albumId": "6o86bV7TAt5x4exc2qLDqC",
-    "title": "Actual Life (April 14 - December 17 2020)",
-    "artist": "Fred again..",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273723d4df900fd02eff83579d9",
-    "spotifyUrl": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC",
-    "playedAt": "2026-10-22T08:27:46.645Z"
-  },
-  {
-    "albumId": "5q2iMctlDvEMYVIawF6Vop",
-    "title": "Actual Life 3 (January 1 - September 9 2022)",
-    "artist": "Fred again.., Eyelar",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737f8859341a395010424f106b",
-    "spotifyUrl": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop",
-    "playedAt": "2026-10-22T08:24:30.206Z"
-  },
-  {
-    "albumId": "7qjrNDFT178bazNZiASRBU",
-    "title": "Talk of the Town",
-    "artist": "Fred again.., Sammy Virji, Reggie",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273230ac2e6b2aed68a8f8373fe",
-    "spotifyUrl": "https://open.spotify.com/album/7qjrNDFT178bazNZiASRBU",
-    "playedAt": "2026-10-22T08:20:59.518Z"
   }
 ]
