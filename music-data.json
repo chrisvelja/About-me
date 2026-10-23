@@ -1,5 +1,53 @@
 [
   {
+    "albumId": "4M9UUoDwpHSUsCckEVCHs9",
+    "title": "halfwaythru",
+    "artist": "Chelsea Jordan",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273dd914e7d1eb75ce829f966bc",
+    "spotifyUrl": "https://open.spotify.com/album/4M9UUoDwpHSUsCckEVCHs9",
+    "playedAt": "2026-10-22T21:44:41.557Z"
+  },
+  {
+    "albumId": "4aNjXVkVKGFfr2HRkVM302",
+    "title": "MATERIA (TERRA)",
+    "artist": "Marco Mengoni, Madame",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732c1950d7fdf0bbe6d6e4dd4f",
+    "spotifyUrl": "https://open.spotify.com/album/4aNjXVkVKGFfr2HRkVM302",
+    "playedAt": "2026-10-22T21:41:27.358Z"
+  },
+  {
+    "albumId": "5chTLnnxlxQVAgEv6YbEBe",
+    "title": "Cigarettes After Sex",
+    "artist": "Cigarettes After Sex",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+    "spotifyUrl": "https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe",
+    "playedAt": "2026-10-22T21:34:40.559Z"
+  },
+  {
+    "albumId": "3ixf929ty0cKT46gJ0sJ9Y",
+    "title": "PER SOLDI E PER AMORE",
+    "artist": "Ernia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c1fc667f2f142100a44348e8",
+    "spotifyUrl": "https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y",
+    "playedAt": "2026-10-22T21:29:20.468Z"
+  },
+  {
+    "albumId": "4QpLnSupGsuYYJYYoj29Q7",
+    "title": "TUTTA VITA",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739a9754efa9799615cf6045e9",
+    "spotifyUrl": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7",
+    "playedAt": "2026-10-22T21:25:45.059Z"
+  },
+  {
+    "albumId": "3VHFFHjes58Bu52Kyec26i",
+    "title": "Alright",
+    "artist": "Kendrick Lamar",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734e267faafd063f288b4890bc",
+    "spotifyUrl": "https://open.spotify.com/album/3VHFFHjes58Bu52Kyec26i",
+    "playedAt": "2026-10-22T21:22:14.154Z"
+  },
+  {
     "albumId": "3cfaUxWe1QL8h1GFG3wAGh",
     "title": "Curriculum Vitae",
     "artist": "Rare\u0219",
@@ -334,53 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
     "spotifyUrl": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j",
     "playedAt": "2026-10-22T13:02:49.262Z"
-  },
-  {
-    "albumId": "5WjaIWthUR3AjA0UYG3jR5",
-    "title": "Freaks",
-    "artist": "Surf Curse",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2733975b6b899eed4af577f7ba6",
-    "spotifyUrl": "https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5",
-    "playedAt": "2026-10-22T12:59:52.765Z"
-  },
-  {
-    "albumId": "7ivbFszr1TbVadj89BIy1y",
-    "title": "NEVER ENOUGH",
-    "artist": "Daniel Caesar",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737c68face1dc58127f3a7b1cc",
-    "spotifyUrl": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y",
-    "playedAt": "2026-10-22T12:57:25.275Z"
-  },
-  {
-    "albumId": "7cHvY650WYCDZ6b50fVfkZ",
-    "title": "Hai fatto bene",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736eb690a8df60d1ec30ddbbed",
-    "spotifyUrl": "https://open.spotify.com/album/7cHvY650WYCDZ6b50fVfkZ",
-    "playedAt": "2026-10-22T12:47:01.766Z"
-  },
-  {
-    "albumId": "5PdqPLG4hUzuLAWUDFaZap",
-    "title": "Gira, il mondo gira",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734743343cec324c534a99ca39",
-    "spotifyUrl": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap",
-    "playedAt": "2026-10-22T12:07:29.053Z"
-  },
-  {
-    "albumId": "3Gmq5AFwR3eXaf59Kbwgk8",
-    "title": "Love & Tears",
-    "artist": "GENER8ION, Yung Lean",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273025dc6c56e95fccbda35dd3f",
-    "spotifyUrl": "https://open.spotify.com/album/3Gmq5AFwR3eXaf59Kbwgk8",
-    "playedAt": "2026-10-22T11:59:13.287Z"
-  },
-  {
-    "albumId": "1bkPNy0jxEKPG7nSTn5Saa",
-    "title": "summer on the inside",
-    "artist": "warner case, Jean Tonique, Max Kaluza",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736557c596368c4579b4e35eac",
-    "spotifyUrl": "https://open.spotify.com/album/1bkPNy0jxEKPG7nSTn5Saa",
-    "playedAt": "2026-10-22T11:56:19.386Z"
   }
 ]
