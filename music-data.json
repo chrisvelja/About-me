@@ -1,5 +1,21 @@
 [
   {
+    "albumId": "3RlN7KwIsVmJmWigc8XfJs",
+    "title": "Surreale (con Franco126 & Nayt)",
+    "artist": "Golden Years, Franco126, nayt",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273192abd1075004794de146cc8",
+    "spotifyUrl": "https://open.spotify.com/album/3RlN7KwIsVmJmWigc8XfJs",
+    "playedAt": "2026-10-23T11:39:03.888Z"
+  },
+  {
+    "albumId": "4SZko61aMnmgvNhfhgTuD3",
+    "title": "Graduation",
+    "artist": "Kanye West",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+    "spotifyUrl": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3",
+    "playedAt": "2026-10-23T11:33:55.014Z"
+  },
+  {
     "albumId": "5KsrpADyPgZQA4f67KmuGz",
     "title": "INTERNET",
     "artist": "Giuse The Lizia",
@@ -224,6 +240,14 @@
     "playedAt": "2026-10-22T21:22:14.154Z"
   },
   {
+    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
+    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
+    "artist": "faccianuvola",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
+    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
+    "playedAt": "2026-10-22T18:40:20.307Z"
+  },
+  {
     "albumId": "3cfaUxWe1QL8h1GFG3wAGh",
     "title": "Curriculum Vitae",
     "artist": "Rare\u0219",
@@ -296,14 +320,6 @@
     "playedAt": "2026-10-22T16:55:36.028Z"
   },
   {
-    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
-    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
-    "artist": "faccianuvola",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
-    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
-    "playedAt": "2026-10-22T16:48:36.123Z"
-  },
-  {
     "albumId": "4GXXJYFv5OGW9hg8yQr3BC",
     "title": "Vol. 1",
     "artist": "Brunori Sas",
@@ -366,21 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e",
     "spotifyUrl": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd",
     "playedAt": "2026-10-22T15:45:41.225Z"
-  },
-  {
-    "albumId": "35UJLpClj5EDrhpNIi4DFg",
-    "title": "The Bends",
-    "artist": "Radiohead",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
-    "spotifyUrl": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg",
-    "playedAt": "2026-10-22T15:41:58.350Z"
-  },
-  {
-    "albumId": "3vpXJ54S3MXLyzysw8qq7c",
-    "title": "Revenge",
-    "artist": "XXXTENTACION",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2735485ea186d6971e18fabcc2f",
-    "spotifyUrl": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c",
-    "playedAt": "2026-10-22T15:38:04.623Z"
   }
 ]
