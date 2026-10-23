@@ -1,5 +1,173 @@
 [
   {
+    "albumId": "5KsrpADyPgZQA4f67KmuGz",
+    "title": "INTERNET",
+    "artist": "Giuse The Lizia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737e774a46632edec684142565",
+    "spotifyUrl": "https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz",
+    "playedAt": "2026-10-23T10:28:37.503Z"
+  },
+  {
+    "albumId": "4TWJJZmgYm6tE6PzqpluQ0",
+    "title": "Which One",
+    "artist": "Drake, Central Cee",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738028a7b8c9fce086d4a47ba7",
+    "spotifyUrl": "https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0",
+    "playedAt": "2026-10-23T10:08:59.346Z"
+  },
+  {
+    "albumId": "7qZ5XKi1L7ivSxcFFyEjBV",
+    "title": "Il Mondo Gira",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a9e40bd192d83079cb8c385f",
+    "spotifyUrl": "https://open.spotify.com/album/7qZ5XKi1L7ivSxcFFyEjBV",
+    "playedAt": "2026-10-23T10:03:30.443Z"
+  },
+  {
+    "albumId": "0hvT3yIEysuuvkK73vgdcW",
+    "title": "GNX",
+    "artist": "Kendrick Lamar",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e2a0a166493a2bde5480a420",
+    "spotifyUrl": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW",
+    "playedAt": "2026-10-23T09:03:59.958Z"
+  },
+  {
+    "albumId": "63MKT9hwmiMFFdFp5SdB1p",
+    "title": "Under The Mistletoe (Deluxe Edition)",
+    "artist": "Justin Bieber",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273af0aff7f601df9ed6d2d531d",
+    "spotifyUrl": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p",
+    "playedAt": "2026-10-23T08:52:35.857Z"
+  },
+  {
+    "albumId": "3T4tUhGYeRNVUGevb0wThu",
+    "title": "\u00f7 (Deluxe)",
+    "artist": "Ed Sheeran",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
+    "spotifyUrl": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu",
+    "playedAt": "2026-10-23T08:46:39.143Z"
+  },
+  {
+    "albumId": "4sgYpkIASM1jVlNC8Wp9oF",
+    "title": "Paramore",
+    "artist": "Paramore",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35",
+    "spotifyUrl": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF",
+    "playedAt": "2026-10-23T08:38:31.033Z"
+  },
+  {
+    "albumId": "3tyC8cXSXLDj6MtMceKh1c",
+    "title": "Superbattito",
+    "artist": "Gazzelle",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273388553ca5fa3fdaabb13d5be",
+    "spotifyUrl": "https://open.spotify.com/album/3tyC8cXSXLDj6MtMceKh1c",
+    "playedAt": "2026-10-23T08:34:54.525Z"
+  },
+  {
+    "albumId": "3k0gbDJ1p2nbqFNHeKVwi4",
+    "title": "The Greatest Hits",
+    "artist": "Ricky Martin",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a215d0780485abb2d384bab9",
+    "spotifyUrl": "https://open.spotify.com/album/3k0gbDJ1p2nbqFNHeKVwi4",
+    "playedAt": "2026-10-23T08:28:30.314Z"
+  },
+  {
+    "albumId": "2nkto6YNI4rUYTLqEwWJ3o",
+    "title": "Flower Boy",
+    "artist": "Tyler, The Creator, Kali Uchis",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3",
+    "spotifyUrl": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o",
+    "playedAt": "2026-10-23T08:15:43.511Z"
+  },
+  {
+    "albumId": "08SB1CgIS0yVIH7ZV99I6f",
+    "title": "TUTTA VITA (SEMPRE)",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736752cb3279906514dd04c8aa",
+    "spotifyUrl": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f",
+    "playedAt": "2026-10-23T08:12:42.618Z"
+  },
+  {
+    "albumId": "3RQQmkQEvNCY4prGKE6oc5",
+    "title": "Un Verano Sin Ti",
+    "artist": "Bad Bunny",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
+    "spotifyUrl": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5",
+    "playedAt": "2026-10-23T08:09:09.965Z"
+  },
+  {
+    "albumId": "5ugzj4AP2B0n1FlDAb25kZ",
+    "title": "Balorda nostalgia",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737f23d20acbff0de204e41aca",
+    "spotifyUrl": "https://open.spotify.com/album/5ugzj4AP2B0n1FlDAb25kZ",
+    "playedAt": "2026-10-23T08:03:41.685Z"
+  },
+  {
+    "albumId": "0lEwP61rmUmXbvskEQuTgM",
+    "title": "Polvere",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f7797c96ff488b17cd667122",
+    "spotifyUrl": "https://open.spotify.com/album/0lEwP61rmUmXbvskEQuTgM",
+    "playedAt": "2026-10-23T08:00:23.385Z"
+  },
+  {
+    "albumId": "4QpLnSupGsuYYJYYoj29Q7",
+    "title": "TUTTA VITA",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739a9754efa9799615cf6045e9",
+    "spotifyUrl": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7",
+    "playedAt": "2026-10-23T07:57:36.179Z"
+  },
+  {
+    "albumId": "2SUBknzxng0iqBpKT9vzns",
+    "title": "Cha Cha",
+    "artist": "Freddie Dredd",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27342ffc7773e7f4ea48e5606a8",
+    "spotifyUrl": "https://open.spotify.com/album/2SUBknzxng0iqBpKT9vzns",
+    "playedAt": "2026-10-23T07:47:14.379Z"
+  },
+  {
+    "albumId": "5Co3CGD9lBQVNnn7q0px1g",
+    "title": "The Melodic Blue (Deluxe)",
+    "artist": "Baby Keem",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a97160f8731efb13153b358e",
+    "spotifyUrl": "https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g",
+    "playedAt": "2026-10-23T07:41:56.217Z"
+  },
+  {
+    "albumId": "3VHFFHjes58Bu52Kyec26i",
+    "title": "Alright",
+    "artist": "Kendrick Lamar",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734e267faafd063f288b4890bc",
+    "spotifyUrl": "https://open.spotify.com/album/3VHFFHjes58Bu52Kyec26i",
+    "playedAt": "2026-10-23T07:40:24.022Z"
+  },
+  {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-10-23T07:37:09.031Z"
+  },
+  {
+    "albumId": "5PdqPLG4hUzuLAWUDFaZap",
+    "title": "Gira, il mondo gira",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734743343cec324c534a99ca39",
+    "spotifyUrl": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap",
+    "playedAt": "2026-10-23T07:23:06.729Z"
+  },
+  {
+    "albumId": "4aNjXVkVKGFfr2HRkVM302",
+    "title": "MATERIA (TERRA)",
+    "artist": "Marco Mengoni, Gazzelle",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732c1950d7fdf0bbe6d6e4dd4f",
+    "spotifyUrl": "https://open.spotify.com/album/4aNjXVkVKGFfr2HRkVM302",
+    "playedAt": "2026-10-23T06:39:27.324Z"
+  },
+  {
     "albumId": "4M9UUoDwpHSUsCckEVCHs9",
     "title": "halfwaythru",
     "artist": "Chelsea Jordan",
@@ -14,6 +182,14 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2732c1950d7fdf0bbe6d6e4dd4f",
     "spotifyUrl": "https://open.spotify.com/album/4aNjXVkVKGFfr2HRkVM302",
     "playedAt": "2026-10-22T21:41:27.358Z"
+  },
+  {
+    "albumId": "6gJ8VKn5PAFcCIVaf3B2uE",
+    "title": "Nectar",
+    "artist": "Joji, BENEE",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f733e50079838090eebc3fe4",
+    "spotifyUrl": "https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE",
+    "playedAt": "2026-10-22T21:37:55.935Z"
   },
   {
     "albumId": "5chTLnnxlxQVAgEv6YbEBe",
@@ -96,6 +272,14 @@
     "playedAt": "2026-10-22T17:05:55.965Z"
   },
   {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-10-22T17:01:18.342Z"
+  },
+  {
     "albumId": "5gzluUMgS7XUXVToWRp4UO",
     "title": "Anatomia di uno schianto prolungato",
     "artist": "Willie Peyote, Fudasca",
@@ -160,14 +344,6 @@
     "playedAt": "2026-10-22T16:32:12.621Z"
   },
   {
-    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
-    "title": "SINCERO!",
-    "artist": "Rare\u0219",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
-    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
-    "playedAt": "2026-10-22T16:28:35.203Z"
-  },
-  {
     "albumId": "5SQrlPanuIhyEZXxsPRa35",
     "title": "Salmo Unplugged",
     "artist": "Salmo",
@@ -206,181 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2735485ea186d6971e18fabcc2f",
     "spotifyUrl": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c",
     "playedAt": "2026-10-22T15:38:04.623Z"
-  },
-  {
-    "albumId": "7vrsFZNVhrriKh0SZKJW41",
-    "title": "Dark Red",
-    "artist": "Steve Lacy",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2733d2dfa42f771cd458b194979",
-    "spotifyUrl": "https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41",
-    "playedAt": "2026-10-22T15:36:36.580Z"
-  },
-  {
-    "albumId": "6gJ8VKn5PAFcCIVaf3B2uE",
-    "title": "Nectar",
-    "artist": "Joji",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f733e50079838090eebc3fe4",
-    "spotifyUrl": "https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE",
-    "playedAt": "2026-10-22T15:33:43.041Z"
-  },
-  {
-    "albumId": "7mzC45R2k8PRHzE7lbrRBE",
-    "title": "Lettera Q",
-    "artist": "nayt",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a0c7ce4c5dff167542456733",
-    "spotifyUrl": "https://open.spotify.com/album/7mzC45R2k8PRHzE7lbrRBE",
-    "playedAt": "2026-10-22T15:30:14.797Z"
-  },
-  {
-    "albumId": "5VdyJkLe3yvOs0l4xXbWp0",
-    "title": "17",
-    "artist": "XXXTENTACION",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273203c89bd4391468eea4cc3f5",
-    "spotifyUrl": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0",
-    "playedAt": "2026-10-22T15:23:04.338Z"
-  },
-  {
-    "albumId": "7ik4rjxOnmwnAWWzjj5ni3",
-    "title": "Everything All The Time",
-    "artist": "Band of Horses",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273024bdaecebd5e9d3b6a0949e",
-    "spotifyUrl": "https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3",
-    "playedAt": "2026-10-22T15:21:04.694Z"
-  },
-  {
-    "albumId": "1XkGORuUX2QGOEIL4EbJKm",
-    "title": "Favourite Worst Nightmare",
-    "artist": "Arctic Monkeys",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b1f8da74f225fa1225cdface",
-    "spotifyUrl": "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm",
-    "playedAt": "2026-10-22T15:15:42.025Z"
-  },
-  {
-    "albumId": "4vUClKTFaDWnsHE8rK52GY",
-    "title": "All That We Needed",
-    "artist": "Plain White T's",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273beae6e69d6505fd379ef3081",
-    "spotifyUrl": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY",
-    "playedAt": "2026-10-22T15:12:36.755Z"
-  },
-  {
-    "albumId": "5UDXzVwWnn3mDy3mTpQPYb",
-    "title": "Unapologetic (Edited Version)",
-    "artist": "Rihanna, Mikky Ekko",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ab54aadb2320f1c687735d1e",
-    "spotifyUrl": "https://open.spotify.com/album/5UDXzVwWnn3mDy3mTpQPYb",
-    "playedAt": "2026-10-22T15:00:49.130Z"
-  },
-  {
-    "albumId": "5p3gSxNiXeYlPlztVAUjB2",
-    "title": "All I Want (From \"High School Musical: The Musical: The Series\")",
-    "artist": "Olivia Rodrigo, Disney",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736d38bbfd2631c232763e3ddf",
-    "spotifyUrl": "https://open.spotify.com/album/5p3gSxNiXeYlPlztVAUjB2",
-    "playedAt": "2026-10-22T14:52:45.787Z"
-  },
-  {
-    "albumId": "6gCycQSo1Yp503MXyvzSF9",
-    "title": "CDW",
-    "artist": "Charlotte Day Wilson",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273da8b0ed446659f8905a85646",
-    "spotifyUrl": "https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9",
-    "playedAt": "2026-10-22T13:54:52.308Z"
-  },
-  {
-    "albumId": "0WqDLFy6UcjR9ygT9PrT22",
-    "title": "IO NON HO PAURA",
-    "artist": "Ernia",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27359fbd220d580fbde3ff7af1c",
-    "spotifyUrl": "https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22",
-    "playedAt": "2026-10-22T13:49:35.919Z"
-  },
-  {
-    "albumId": "56bdWeO40o3WfAD2Lja4dl",
-    "title": "The Secret of Us",
-    "artist": "Gracie Abrams",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b",
-    "spotifyUrl": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl",
-    "playedAt": "2026-10-22T13:45:55.126Z"
-  },
-  {
-    "albumId": "6TVfiWmo8KtflUAmkK9gGF",
-    "title": "25",
-    "artist": "Adele",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737b9888dc365b8f957c63df14",
-    "spotifyUrl": "https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF",
-    "playedAt": "2026-10-22T13:43:17.500Z"
-  },
-  {
-    "albumId": "7oiJYvEJHsmYtrgviAVIBD",
-    "title": "Back from the Edge",
-    "artist": "James Arthur",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738d34e1fc21441df43571faaa",
-    "spotifyUrl": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD",
-    "playedAt": "2026-10-22T13:38:31.124Z"
-  },
-  {
-    "albumId": "20HEHCknEVHTez1OI0MFiC",
-    "title": "The Epilogue (Deluxe)",
-    "artist": "Dean Lewis",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27362cdaa2e3cd529259e7fa848",
-    "spotifyUrl": "https://open.spotify.com/album/20HEHCknEVHTez1OI0MFiC",
-    "playedAt": "2026-10-22T13:34:59.116Z"
-  },
-  {
-    "albumId": "7aJuG4TFXa2hmE4z1yxc3n",
-    "title": "HIT ME HARD AND SOFT",
-    "artist": "Billie Eilish",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
-    "spotifyUrl": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n",
-    "playedAt": "2026-10-22T13:32:27.829Z"
-  },
-  {
-    "albumId": "7qMFX6YMY6dhl4OWzve4ty",
-    "title": "SIRIO",
-    "artist": "Lazza",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273279a772ce72afcc068718423",
-    "spotifyUrl": "https://open.spotify.com/album/7qMFX6YMY6dhl4OWzve4ty",
-    "playedAt": "2026-10-22T13:26:53.394Z"
-  },
-  {
-    "albumId": "1r5J0N6Ep181K0i8YuTYgO",
-    "title": "The Script",
-    "artist": "The Script",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218",
-    "spotifyUrl": "https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO",
-    "playedAt": "2026-10-22T13:22:56.497Z"
-  },
-  {
-    "albumId": "78bpIziExqiI9qztvNFlQu",
-    "title": "AM",
-    "artist": "Arctic Monkeys",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
-    "spotifyUrl": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu",
-    "playedAt": "2026-10-22T13:18:54.588Z"
-  },
-  {
-    "albumId": "5Z3pArkP5MFDBRsjUWd6zC",
-    "title": "Almost",
-    "artist": "Lewis Capaldi",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e2f35f476c6a0791fca8f1cc",
-    "spotifyUrl": "https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC",
-    "playedAt": "2026-10-22T13:13:06.634Z"
-  },
-  {
-    "albumId": "5dGWwsZ9iB2Xc3UKR0gif2",
-    "title": "Justice",
-    "artist": "Justin Bieber",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431",
-    "spotifyUrl": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2",
-    "playedAt": "2026-10-22T13:05:22.840Z"
-  },
-  {
-    "albumId": "6s84u2TUpR3wdUv4NgKA2j",
-    "title": "SOUR",
-    "artist": "Olivia Rodrigo",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
-    "spotifyUrl": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j",
-    "playedAt": "2026-10-22T13:02:49.262Z"
   }
 ]
