@@ -1,5 +1,61 @@
 [
   {
+    "albumId": "0dXN05tQ4StX1W0lwN95Q6",
+    "title": "OKRA",
+    "artist": "Tyler, The Creator",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733fc927515b0dfc30544e4129",
+    "spotifyUrl": "https://open.spotify.com/album/0dXN05tQ4StX1W0lwN95Q6",
+    "playedAt": "2026-10-23T20:17:41.024Z"
+  },
+  {
+    "albumId": "5jJXDZo4k8z4eMWB9ZxjDX",
+    "title": "Eterno Agosto",
+    "artist": "Alvaro Soler, Paty Cant\u00fa",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b64dae8a500b06da4b5216a5",
+    "spotifyUrl": "https://open.spotify.com/album/5jJXDZo4k8z4eMWB9ZxjDX",
+    "playedAt": "2026-10-23T20:12:11.442Z"
+  },
+  {
+    "albumId": "0U28P0QVB1QRxpqp5IHOlH",
+    "title": "CHROMAKOPIA",
+    "artist": "Tyler, The Creator",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273084a94988541c2402615d014",
+    "spotifyUrl": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH",
+    "playedAt": "2026-10-23T20:08:19.933Z"
+  },
+  {
+    "albumId": "7fRrTyKvE4Skh93v97gtcU",
+    "title": "dont smile at me",
+    "artist": "Billie Eilish",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795",
+    "spotifyUrl": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU",
+    "playedAt": "2026-10-23T20:05:34.051Z"
+  },
+  {
+    "albumId": "0M0iJGLagLtI4LlooOiiNZ",
+    "title": "places to be",
+    "artist": "Fred again.., Anderson .Paak, CHIKA",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735471ed900dd21834e5fc90c8",
+    "spotifyUrl": "https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ",
+    "playedAt": "2026-10-23T20:01:03.904Z"
+  },
+  {
+    "albumId": "4yP0hdKOZPNshxUOjY0cZj",
+    "title": "After Hours",
+    "artist": "The Weeknd",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+    "spotifyUrl": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj",
+    "playedAt": "2026-10-23T19:57:16.694Z"
+  },
+  {
+    "albumId": "7B1SmLizaeJgTrc5SrgNTB",
+    "title": "idontwannabeyouanymore/lovely (Live from Electric Ballroom)",
+    "artist": "Billie Eilish",
+    "cover": "https://i.scdn.co/image/ab6742d3000053b71961aa2b860588d940cb51d6",
+    "spotifyUrl": "https://open.spotify.com/album/7B1SmLizaeJgTrc5SrgNTB",
+    "playedAt": "2026-10-23T19:50:14.180Z"
+  },
+  {
     "albumId": "3RlN7KwIsVmJmWigc8XfJs",
     "title": "Surreale (con Franco126 & Nayt)",
     "artist": "Golden Years, Franco126, nayt",
@@ -326,61 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2736b40a0bc52c9348484fd8044",
     "spotifyUrl": "https://open.spotify.com/album/4GXXJYFv5OGW9hg8yQr3BC",
     "playedAt": "2026-10-22T16:45:02.102Z"
-  },
-  {
-    "albumId": "1LA6VsdQLEJ76u6V3egSmE",
-    "title": "Los Angeles",
-    "artist": "Giuse The Lizia",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27361f48b8f644f919e229a1776",
-    "spotifyUrl": "https://open.spotify.com/album/1LA6VsdQLEJ76u6V3egSmE",
-    "playedAt": "2026-10-22T16:40:32.711Z"
-  },
-  {
-    "albumId": "3Tba6GMxsEye0PGDz1u2WB",
-    "title": "Smog",
-    "artist": "Giorgio Poi",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732113f6ff5dd03d68e1bfa9b6",
-    "spotifyUrl": "https://open.spotify.com/album/3Tba6GMxsEye0PGDz1u2WB",
-    "playedAt": "2026-10-22T16:37:45.689Z"
-  },
-  {
-    "albumId": "3fLZttN2wu3O5td1arWns6",
-    "title": "Femmina",
-    "artist": "Rare\u0219",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273df83eb6fb4c066fe0366aa73",
-    "spotifyUrl": "https://open.spotify.com/album/3fLZttN2wu3O5td1arWns6",
-    "playedAt": "2026-10-22T16:34:24.670Z"
-  },
-  {
-    "albumId": "4Nz2181rHvYWOz7RNyTlQk",
-    "title": "Cori da sdraio",
-    "artist": "Dutch Nazari, Frah Quintale",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27390040563b5f2a08eeeb2a77c",
-    "spotifyUrl": "https://open.spotify.com/album/4Nz2181rHvYWOz7RNyTlQk",
-    "playedAt": "2026-10-22T16:32:12.621Z"
-  },
-  {
-    "albumId": "5SQrlPanuIhyEZXxsPRa35",
-    "title": "Salmo Unplugged",
-    "artist": "Salmo",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2730e07fa493f3c31635704e719",
-    "spotifyUrl": "https://open.spotify.com/album/5SQrlPanuIhyEZXxsPRa35",
-    "playedAt": "2026-10-22T15:52:12.995Z"
-  },
-  {
-    "albumId": "0BA7J5iUJHMnKrCga3m5pR",
-    "title": "WILD CHILD",
-    "artist": "charlieonnafriday",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273829911eff94dbb197a1c6ed3",
-    "spotifyUrl": "https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR",
-    "playedAt": "2026-10-22T15:48:47.019Z"
-  },
-  {
-    "albumId": "3AafSrFIbJPH6BJHiJm1Cd",
-    "title": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-    "artist": "Billie Eilish",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e",
-    "spotifyUrl": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd",
-    "playedAt": "2026-10-22T15:45:41.225Z"
   }
 ]
