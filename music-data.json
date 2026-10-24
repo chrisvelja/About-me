@@ -1,5 +1,29 @@
 [
   {
+    "albumId": "7qZ5XKi1L7ivSxcFFyEjBV",
+    "title": "Il Mondo Gira",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a9e40bd192d83079cb8c385f",
+    "spotifyUrl": "https://open.spotify.com/album/7qZ5XKi1L7ivSxcFFyEjBV",
+    "playedAt": "2026-10-24T00:53:01.226Z"
+  },
+  {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-10-24T00:50:14.533Z"
+  },
+  {
+    "albumId": "0hvT3yIEysuuvkK73vgdcW",
+    "title": "GNX",
+    "artist": "Kendrick Lamar",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e2a0a166493a2bde5480a420",
+    "spotifyUrl": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW",
+    "playedAt": "2026-10-24T00:46:12.655Z"
+  },
+  {
     "albumId": "0dXN05tQ4StX1W0lwN95Q6",
     "title": "OKRA",
     "artist": "Tyler, The Creator",
@@ -358,29 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
     "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
     "playedAt": "2026-10-22T17:01:18.342Z"
-  },
-  {
-    "albumId": "5gzluUMgS7XUXVToWRp4UO",
-    "title": "Anatomia di uno schianto prolungato",
-    "artist": "Willie Peyote, Fudasca",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738c20399d6747d753fc7b4b96",
-    "spotifyUrl": "https://open.spotify.com/album/5gzluUMgS7XUXVToWRp4UO",
-    "playedAt": "2026-10-22T16:58:19.178Z"
-  },
-  {
-    "albumId": "53NG98fs1alF4otCTJsFh7",
-    "title": "Un altro album",
-    "artist": "Legno",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2733b8c5b4fb7451b3623c11a02",
-    "spotifyUrl": "https://open.spotify.com/album/53NG98fs1alF4otCTJsFh7",
-    "playedAt": "2026-10-22T16:55:36.028Z"
-  },
-  {
-    "albumId": "4GXXJYFv5OGW9hg8yQr3BC",
-    "title": "Vol. 1",
-    "artist": "Brunori Sas",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736b40a0bc52c9348484fd8044",
-    "spotifyUrl": "https://open.spotify.com/album/4GXXJYFv5OGW9hg8yQr3BC",
-    "playedAt": "2026-10-22T16:45:02.102Z"
   }
 ]
