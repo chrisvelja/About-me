@@ -1,5 +1,37 @@
 [
   {
+    "albumId": "2clSnbXpdTnsv2Zj7V7tGp",
+    "title": "Erica Cuore Ad Elica",
+    "artist": "Giorgio Poi",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737dea45f8f4f08ba1572ab48c",
+    "spotifyUrl": "https://open.spotify.com/album/2clSnbXpdTnsv2Zj7V7tGp",
+    "playedAt": "2026-10-24T17:01:36.405Z"
+  },
+  {
+    "albumId": "4gcFGGL9fEyC6lNrKB3sMS",
+    "title": "From The Rooftop 3",
+    "artist": "Coez",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736807e3c40bfc28244a72db21",
+    "spotifyUrl": "https://open.spotify.com/album/4gcFGGL9fEyC6lNrKB3sMS",
+    "playedAt": "2026-10-24T16:57:30.513Z"
+  },
+  {
+    "albumId": "0x7zh2qOKeuXUBdfWT44tL",
+    "title": "ANCHE LE SCIMMIE CADONO DAGLI ALBERI",
+    "artist": "MOBRICI",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273449c7755204112883cd49434",
+    "spotifyUrl": "https://open.spotify.com/album/0x7zh2qOKeuXUBdfWT44tL",
+    "playedAt": "2026-10-24T16:54:47.516Z"
+  },
+  {
+    "albumId": "5gzluUMgS7XUXVToWRp4UO",
+    "title": "Anatomia di uno schianto prolungato",
+    "artist": "Willie Peyote, Fudasca",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738c20399d6747d753fc7b4b96",
+    "spotifyUrl": "https://open.spotify.com/album/5gzluUMgS7XUXVToWRp4UO",
+    "playedAt": "2026-10-24T16:28:16.856Z"
+  },
+  {
     "albumId": "2fEU0zMNnMwgvnayvExM5S",
     "title": "WATERPROOF",
     "artist": "ATARDE, faccianuvola",
@@ -184,6 +216,22 @@
     "playedAt": "2026-10-23T19:50:14.180Z"
   },
   {
+    "albumId": "7qZ5XKi1L7ivSxcFFyEjBV",
+    "title": "Il Mondo Gira",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a9e40bd192d83079cb8c385f",
+    "spotifyUrl": "https://open.spotify.com/album/7qZ5XKi1L7ivSxcFFyEjBV",
+    "playedAt": "2026-10-23T19:42:56.147Z"
+  },
+  {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-10-23T16:26:55.210Z"
+  },
+  {
     "albumId": "3RlN7KwIsVmJmWigc8XfJs",
     "title": "Surreale (con Franco126 & Nayt)",
     "artist": "Golden Years, Franco126, nayt",
@@ -208,28 +256,12 @@
     "playedAt": "2026-10-23T10:28:37.503Z"
   },
   {
-    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
-    "title": "SINCERO!",
-    "artist": "Rare\u0219",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
-    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
-    "playedAt": "2026-10-23T10:13:36.733Z"
-  },
-  {
     "albumId": "4TWJJZmgYm6tE6PzqpluQ0",
     "title": "Which One",
     "artist": "Drake, Central Cee",
     "cover": "https://i.scdn.co/image/ab67616d0000b2738028a7b8c9fce086d4a47ba7",
     "spotifyUrl": "https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0",
     "playedAt": "2026-10-23T10:08:59.346Z"
-  },
-  {
-    "albumId": "7qZ5XKi1L7ivSxcFFyEjBV",
-    "title": "Il Mondo Gira",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a9e40bd192d83079cb8c385f",
-    "spotifyUrl": "https://open.spotify.com/album/7qZ5XKi1L7ivSxcFFyEjBV",
-    "playedAt": "2026-10-23T10:03:30.443Z"
   },
   {
     "albumId": "0hvT3yIEysuuvkK73vgdcW",
@@ -350,37 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2734e267faafd063f288b4890bc",
     "spotifyUrl": "https://open.spotify.com/album/3VHFFHjes58Bu52Kyec26i",
     "playedAt": "2026-10-23T07:40:24.022Z"
-  },
-  {
-    "albumId": "5PdqPLG4hUzuLAWUDFaZap",
-    "title": "Gira, il mondo gira",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734743343cec324c534a99ca39",
-    "spotifyUrl": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap",
-    "playedAt": "2026-10-23T07:23:06.729Z"
-  },
-  {
-    "albumId": "4aNjXVkVKGFfr2HRkVM302",
-    "title": "MATERIA (TERRA)",
-    "artist": "Marco Mengoni, Gazzelle",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732c1950d7fdf0bbe6d6e4dd4f",
-    "spotifyUrl": "https://open.spotify.com/album/4aNjXVkVKGFfr2HRkVM302",
-    "playedAt": "2026-10-23T06:39:27.324Z"
-  },
-  {
-    "albumId": "4M9UUoDwpHSUsCckEVCHs9",
-    "title": "halfwaythru",
-    "artist": "Chelsea Jordan",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273dd914e7d1eb75ce829f966bc",
-    "spotifyUrl": "https://open.spotify.com/album/4M9UUoDwpHSUsCckEVCHs9",
-    "playedAt": "2026-10-22T21:44:41.557Z"
-  },
-  {
-    "albumId": "4aNjXVkVKGFfr2HRkVM302",
-    "title": "MATERIA (TERRA)",
-    "artist": "Marco Mengoni, Madame",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732c1950d7fdf0bbe6d6e4dd4f",
-    "spotifyUrl": "https://open.spotify.com/album/4aNjXVkVKGFfr2HRkVM302",
-    "playedAt": "2026-10-22T21:41:27.358Z"
   }
 ]
