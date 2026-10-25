@@ -1,5 +1,29 @@
 [
   {
+    "albumId": "0CVCnkzMA5oMiAiwgaIY5k",
+    "title": "FUORI MEN\u00d9",
+    "artist": "Golden Years, Frah Quintale, nayt, prima stanza a destra",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27362390f04cdba88424d30b0dd",
+    "spotifyUrl": "https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k",
+    "playedAt": "2026-10-25T00:12:49.156Z"
+  },
+  {
+    "albumId": "5gzluUMgS7XUXVToWRp4UO",
+    "title": "Anatomia di uno schianto prolungato",
+    "artist": "Willie Peyote, Fudasca",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738c20399d6747d753fc7b4b96",
+    "spotifyUrl": "https://open.spotify.com/album/5gzluUMgS7XUXVToWRp4UO",
+    "playedAt": "2026-10-25T00:10:21.030Z"
+  },
+  {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-10-25T00:03:11.169Z"
+  },
+  {
     "albumId": "2clSnbXpdTnsv2Zj7V7tGp",
     "title": "Erica Cuore Ad Elica",
     "artist": "Giorgio Poi",
@@ -168,6 +192,14 @@
     "playedAt": "2026-10-23T20:17:41.024Z"
   },
   {
+    "albumId": "7fRrTyKvE4Skh93v97gtcU",
+    "title": "dont smile at me",
+    "artist": "Billie Eilish",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795",
+    "spotifyUrl": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU",
+    "playedAt": "2026-10-23T20:15:09.439Z"
+  },
+  {
     "albumId": "5jJXDZo4k8z4eMWB9ZxjDX",
     "title": "Eterno Agosto",
     "artist": "Alvaro Soler, Paty Cant\u00fa",
@@ -182,14 +214,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273084a94988541c2402615d014",
     "spotifyUrl": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH",
     "playedAt": "2026-10-23T20:08:19.933Z"
-  },
-  {
-    "albumId": "7fRrTyKvE4Skh93v97gtcU",
-    "title": "dont smile at me",
-    "artist": "Billie Eilish",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795",
-    "spotifyUrl": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU",
-    "playedAt": "2026-10-23T20:05:34.051Z"
   },
   {
     "albumId": "0M0iJGLagLtI4LlooOiiNZ",
@@ -358,29 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2739a9754efa9799615cf6045e9",
     "spotifyUrl": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7",
     "playedAt": "2026-10-23T07:57:36.179Z"
-  },
-  {
-    "albumId": "2SUBknzxng0iqBpKT9vzns",
-    "title": "Cha Cha",
-    "artist": "Freddie Dredd",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27342ffc7773e7f4ea48e5606a8",
-    "spotifyUrl": "https://open.spotify.com/album/2SUBknzxng0iqBpKT9vzns",
-    "playedAt": "2026-10-23T07:47:14.379Z"
-  },
-  {
-    "albumId": "5Co3CGD9lBQVNnn7q0px1g",
-    "title": "The Melodic Blue (Deluxe)",
-    "artist": "Baby Keem",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a97160f8731efb13153b358e",
-    "spotifyUrl": "https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g",
-    "playedAt": "2026-10-23T07:41:56.217Z"
-  },
-  {
-    "albumId": "3VHFFHjes58Bu52Kyec26i",
-    "title": "Alright",
-    "artist": "Kendrick Lamar",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734e267faafd063f288b4890bc",
-    "spotifyUrl": "https://open.spotify.com/album/3VHFFHjes58Bu52Kyec26i",
-    "playedAt": "2026-10-23T07:40:24.022Z"
   }
 ]
