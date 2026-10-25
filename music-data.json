@@ -1,5 +1,77 @@
 [
   {
+    "albumId": "6vWS1rPwGcHIHPbDoaJXfZ",
+    "title": "Tutti Tornano A Casa",
+    "artist": "ARIETE, Fulminacci",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e16ac989852f1cabce3e05ec",
+    "spotifyUrl": "https://open.spotify.com/album/6vWS1rPwGcHIHPbDoaJXfZ",
+    "playedAt": "2026-10-25T10:12:03.155Z"
+  },
+  {
+    "albumId": "5jYoJOTfWYtRP0R7YcUJiC",
+    "title": "Ce lo chiede l'Europa",
+    "artist": "Dutch Nazari",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b9d15ef46d50144291690cc4",
+    "spotifyUrl": "https://open.spotify.com/album/5jYoJOTfWYtRP0R7YcUJiC",
+    "playedAt": "2026-10-25T10:09:07.051Z"
+  },
+  {
+    "albumId": "6kq0w1HINm0xj5bOeAxAWp",
+    "title": "INTERNET EXPLORER",
+    "artist": "Giuse The Lizia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e11716ab077ff2879bc48cc1",
+    "spotifyUrl": "https://open.spotify.com/album/6kq0w1HINm0xj5bOeAxAWp",
+    "playedAt": "2026-10-25T09:56:42Z"
+  },
+  {
+    "albumId": "4gcFGGL9fEyC6lNrKB3sMS",
+    "title": "From The Rooftop 3",
+    "artist": "Coez",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736807e3c40bfc28244a72db21",
+    "spotifyUrl": "https://open.spotify.com/album/4gcFGGL9fEyC6lNrKB3sMS",
+    "playedAt": "2026-10-25T09:53:23.294Z"
+  },
+  {
+    "albumId": "43bI6dV1TRBpW7wuQbjSUn",
+    "title": "Ho Perso Di Vista Me",
+    "artist": "43.Nove, Brus DMC",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f54d76ad5cfeacd9f7c7c138",
+    "spotifyUrl": "https://open.spotify.com/album/43bI6dV1TRBpW7wuQbjSUn",
+    "playedAt": "2026-10-25T09:50:40.282Z"
+  },
+  {
+    "albumId": "7pKecv42eDVOeFIr8E0tVi",
+    "title": "GLI ANNI DI CRISTO",
+    "artist": "MOBRICI",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ddacafc70cc6f35d9cccac53",
+    "spotifyUrl": "https://open.spotify.com/album/7pKecv42eDVOeFIr8E0tVi",
+    "playedAt": "2026-10-25T09:47:23.298Z"
+  },
+  {
+    "albumId": "72s8YL1M9J84p4oCyd4PaP",
+    "title": "Tante care cose e altri successi",
+    "artist": "Fulminacci",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ad9a20769e33f70d092f6840",
+    "spotifyUrl": "https://open.spotify.com/album/72s8YL1M9J84p4oCyd4PaP",
+    "playedAt": "2026-10-25T09:41:29.903Z"
+  },
+  {
+    "albumId": "6FlVsdTTCVd6VwVS1AW0Dp",
+    "title": "dettagli",
+    "artist": "okgiorgio",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ff05a96d61a9d9e25cf4feb3",
+    "spotifyUrl": "https://open.spotify.com/album/6FlVsdTTCVd6VwVS1AW0Dp",
+    "playedAt": "2026-10-25T09:34:50.535Z"
+  },
+  {
+    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
+    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
+    "artist": "faccianuvola",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
+    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
+    "playedAt": "2026-10-25T09:30:38.391Z"
+  },
+  {
     "albumId": "0CVCnkzMA5oMiAiwgaIY5k",
     "title": "FUORI MEN\u00d9",
     "artist": "Golden Years, Frah Quintale, nayt, prima stanza a destra",
@@ -46,6 +118,22 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273449c7755204112883cd49434",
     "spotifyUrl": "https://open.spotify.com/album/0x7zh2qOKeuXUBdfWT44tL",
     "playedAt": "2026-10-24T16:54:47.516Z"
+  },
+  {
+    "albumId": "43bI6dV1TRBpW7wuQbjSUn",
+    "title": "Ho Perso Di Vista Me",
+    "artist": "43.Nove, Brus DMC",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f54d76ad5cfeacd9f7c7c138",
+    "spotifyUrl": "https://open.spotify.com/album/43bI6dV1TRBpW7wuQbjSUn",
+    "playedAt": "2026-10-24T16:52:01.226Z"
+  },
+  {
+    "albumId": "5lzeimyJ2yLa7B6lz77VE0",
+    "title": "Istruzioni",
+    "artist": "Giuse The Lizia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f864faa85c50ba5a2add80c7",
+    "spotifyUrl": "https://open.spotify.com/album/5lzeimyJ2yLa7B6lz77VE0",
+    "playedAt": "2026-10-24T16:35:35.091Z"
   },
   {
     "albumId": "5gzluUMgS7XUXVToWRp4UO",
@@ -96,6 +184,30 @@
     "playedAt": "2026-10-24T12:40:10.542Z"
   },
   {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-10-24T12:37:05.002Z"
+  },
+  {
+    "albumId": "0CVCnkzMA5oMiAiwgaIY5k",
+    "title": "FUORI MEN\u00d9",
+    "artist": "Golden Years, SANO, Tutti Fenomeni",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27362390f04cdba88424d30b0dd",
+    "spotifyUrl": "https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k",
+    "playedAt": "2026-10-24T11:28:45.252Z"
+  },
+  {
+    "albumId": "72s8YL1M9J84p4oCyd4PaP",
+    "title": "Tante care cose e altri successi",
+    "artist": "Fulminacci",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ad9a20769e33f70d092f6840",
+    "spotifyUrl": "https://open.spotify.com/album/72s8YL1M9J84p4oCyd4PaP",
+    "playedAt": "2026-10-24T11:26:27.528Z"
+  },
+  {
     "albumId": "1yCeu9XvzhdOkH5GuZQRNo",
     "title": "A Casa Tutto Bene",
     "artist": "Brunori Sas",
@@ -128,52 +240,12 @@
     "playedAt": "2026-10-24T11:14:28.555Z"
   },
   {
-    "albumId": "43bI6dV1TRBpW7wuQbjSUn",
-    "title": "Ho Perso Di Vista Me",
-    "artist": "43.Nove, Brus DMC",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f54d76ad5cfeacd9f7c7c138",
-    "spotifyUrl": "https://open.spotify.com/album/43bI6dV1TRBpW7wuQbjSUn",
-    "playedAt": "2026-10-24T10:40:32.317Z"
-  },
-  {
-    "albumId": "0CVCnkzMA5oMiAiwgaIY5k",
-    "title": "FUORI MEN\u00d9",
-    "artist": "Golden Years, Frah Quintale, nayt, prima stanza a destra",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27362390f04cdba88424d30b0dd",
-    "spotifyUrl": "https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k",
-    "playedAt": "2026-10-24T10:37:15.315Z"
-  },
-  {
-    "albumId": "5lzeimyJ2yLa7B6lz77VE0",
-    "title": "Istruzioni",
-    "artist": "Giuse The Lizia",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f864faa85c50ba5a2add80c7",
-    "spotifyUrl": "https://open.spotify.com/album/5lzeimyJ2yLa7B6lz77VE0",
-    "playedAt": "2026-10-24T10:28:23.887Z"
-  },
-  {
-    "albumId": "72s8YL1M9J84p4oCyd4PaP",
-    "title": "Tante care cose e altri successi",
-    "artist": "Fulminacci, Willie Peyote",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ad9a20769e33f70d092f6840",
-    "spotifyUrl": "https://open.spotify.com/album/72s8YL1M9J84p4oCyd4PaP",
-    "playedAt": "2026-10-24T10:14:21.979Z"
-  },
-  {
     "albumId": "7qZ5XKi1L7ivSxcFFyEjBV",
     "title": "Il Mondo Gira",
     "artist": "Olly, Juli",
     "cover": "https://i.scdn.co/image/ab67616d0000b273a9e40bd192d83079cb8c385f",
     "spotifyUrl": "https://open.spotify.com/album/7qZ5XKi1L7ivSxcFFyEjBV",
     "playedAt": "2026-10-24T00:53:01.226Z"
-  },
-  {
-    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
-    "title": "SINCERO!",
-    "artist": "Rare\u0219",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
-    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
-    "playedAt": "2026-10-24T00:50:14.533Z"
   },
   {
     "albumId": "0hvT3yIEysuuvkK73vgdcW",
@@ -310,77 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
     "spotifyUrl": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu",
     "playedAt": "2026-10-23T08:46:39.143Z"
-  },
-  {
-    "albumId": "4sgYpkIASM1jVlNC8Wp9oF",
-    "title": "Paramore",
-    "artist": "Paramore",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273532033d0d90736f661c13d35",
-    "spotifyUrl": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF",
-    "playedAt": "2026-10-23T08:38:31.033Z"
-  },
-  {
-    "albumId": "3tyC8cXSXLDj6MtMceKh1c",
-    "title": "Superbattito",
-    "artist": "Gazzelle",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273388553ca5fa3fdaabb13d5be",
-    "spotifyUrl": "https://open.spotify.com/album/3tyC8cXSXLDj6MtMceKh1c",
-    "playedAt": "2026-10-23T08:34:54.525Z"
-  },
-  {
-    "albumId": "3k0gbDJ1p2nbqFNHeKVwi4",
-    "title": "The Greatest Hits",
-    "artist": "Ricky Martin",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a215d0780485abb2d384bab9",
-    "spotifyUrl": "https://open.spotify.com/album/3k0gbDJ1p2nbqFNHeKVwi4",
-    "playedAt": "2026-10-23T08:28:30.314Z"
-  },
-  {
-    "albumId": "2nkto6YNI4rUYTLqEwWJ3o",
-    "title": "Flower Boy",
-    "artist": "Tyler, The Creator, Kali Uchis",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3",
-    "spotifyUrl": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o",
-    "playedAt": "2026-10-23T08:15:43.511Z"
-  },
-  {
-    "albumId": "08SB1CgIS0yVIH7ZV99I6f",
-    "title": "TUTTA VITA (SEMPRE)",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736752cb3279906514dd04c8aa",
-    "spotifyUrl": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f",
-    "playedAt": "2026-10-23T08:12:42.618Z"
-  },
-  {
-    "albumId": "3RQQmkQEvNCY4prGKE6oc5",
-    "title": "Un Verano Sin Ti",
-    "artist": "Bad Bunny",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
-    "spotifyUrl": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5",
-    "playedAt": "2026-10-23T08:09:09.965Z"
-  },
-  {
-    "albumId": "5ugzj4AP2B0n1FlDAb25kZ",
-    "title": "Balorda nostalgia",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737f23d20acbff0de204e41aca",
-    "spotifyUrl": "https://open.spotify.com/album/5ugzj4AP2B0n1FlDAb25kZ",
-    "playedAt": "2026-10-23T08:03:41.685Z"
-  },
-  {
-    "albumId": "0lEwP61rmUmXbvskEQuTgM",
-    "title": "Polvere",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f7797c96ff488b17cd667122",
-    "spotifyUrl": "https://open.spotify.com/album/0lEwP61rmUmXbvskEQuTgM",
-    "playedAt": "2026-10-23T08:00:23.385Z"
-  },
-  {
-    "albumId": "4QpLnSupGsuYYJYYoj29Q7",
-    "title": "TUTTA VITA",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739a9754efa9799615cf6045e9",
-    "spotifyUrl": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7",
-    "playedAt": "2026-10-23T07:57:36.179Z"
   }
 ]
