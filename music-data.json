@@ -1,5 +1,53 @@
 [
   {
+    "albumId": "6pwuKxMUkNg673KETsXPUV",
+    "title": "KIDS SEE GHOSTS",
+    "artist": "KIDS SEE GHOSTS",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273013c00ee367dd85396f79c82",
+    "spotifyUrl": "https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV",
+    "playedAt": "2026-10-25T15:24:46.128Z"
+  },
+  {
+    "albumId": "3mH6qwIy9crq0I9YQbOuDf",
+    "title": "Blonde",
+    "artist": "Frank Ocean",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526",
+    "spotifyUrl": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf",
+    "playedAt": "2026-10-25T15:22:25.175Z"
+  },
+  {
+    "albumId": "0RffqgthNhj28TMkTUc4h3",
+    "title": "Who Dat Boy / 911",
+    "artist": "Tyler, The Creator, A$AP Rocky",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730f14a4f77129c75ae50809d4",
+    "spotifyUrl": "https://open.spotify.com/album/0RffqgthNhj28TMkTUc4h3",
+    "playedAt": "2026-10-25T15:18:15.802Z"
+  },
+  {
+    "albumId": "0IJcpy0eM4o63J43qij68g",
+    "title": "Ladies & Gentlemen",
+    "artist": "George Michael",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273813629baee66b2ec5f90ebee",
+    "spotifyUrl": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g",
+    "playedAt": "2026-10-25T15:14:50.296Z"
+  },
+  {
+    "albumId": "6zBVlFWATphRVpz1rxyWvF",
+    "title": "abbatteremo i motel e torneremo a far l\u2019amore in mezzo ai campi",
+    "artist": "Albe",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b0a4539126755b4796ba1f45",
+    "spotifyUrl": "https://open.spotify.com/album/6zBVlFWATphRVpz1rxyWvF",
+    "playedAt": "2026-10-25T15:11:37.408Z"
+  },
+  {
+    "albumId": "0idasMxjLcTfRitXmkvJ93",
+    "title": "CALCINACCI",
+    "artist": "Fulminacci, Franco126",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ff26d9e6888e0a1ab315aa6a",
+    "spotifyUrl": "https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93",
+    "playedAt": "2026-10-25T14:32:43.703Z"
+  },
+  {
     "albumId": "6vWS1rPwGcHIHPbDoaJXfZ",
     "title": "Tutti Tornano A Casa",
     "artist": "ARIETE, Fulminacci",
@@ -96,6 +144,22 @@
     "playedAt": "2026-10-25T00:03:11.169Z"
   },
   {
+    "albumId": "1yCeu9XvzhdOkH5GuZQRNo",
+    "title": "A Casa Tutto Bene",
+    "artist": "Brunori Sas",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738fa5929955ef6ac8a99499af",
+    "spotifyUrl": "https://open.spotify.com/album/1yCeu9XvzhdOkH5GuZQRNo",
+    "playedAt": "2026-10-24T20:35:51.537Z"
+  },
+  {
+    "albumId": "1LA6VsdQLEJ76u6V3egSmE",
+    "title": "Los Angeles",
+    "artist": "Giuse The Lizia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27361f48b8f644f919e229a1776",
+    "spotifyUrl": "https://open.spotify.com/album/1LA6VsdQLEJ76u6V3egSmE",
+    "playedAt": "2026-10-24T17:10:03.995Z"
+  },
+  {
     "albumId": "2clSnbXpdTnsv2Zj7V7tGp",
     "title": "Erica Cuore Ad Elica",
     "artist": "Giorgio Poi",
@@ -128,12 +192,36 @@
     "playedAt": "2026-10-24T16:52:01.226Z"
   },
   {
+    "albumId": "0CVCnkzMA5oMiAiwgaIY5k",
+    "title": "FUORI MEN\u00d9",
+    "artist": "Golden Years, Frah Quintale, nayt, prima stanza a destra",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27362390f04cdba88424d30b0dd",
+    "spotifyUrl": "https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k",
+    "playedAt": "2026-10-24T16:48:14.102Z"
+  },
+  {
+    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
+    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
+    "artist": "faccianuvola",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
+    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
+    "playedAt": "2026-10-24T16:40:03.632Z"
+  },
+  {
     "albumId": "5lzeimyJ2yLa7B6lz77VE0",
     "title": "Istruzioni",
     "artist": "Giuse The Lizia",
     "cover": "https://i.scdn.co/image/ab67616d0000b273f864faa85c50ba5a2add80c7",
     "spotifyUrl": "https://open.spotify.com/album/5lzeimyJ2yLa7B6lz77VE0",
     "playedAt": "2026-10-24T16:35:35.091Z"
+  },
+  {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-10-24T16:32:10.794Z"
   },
   {
     "albumId": "5gzluUMgS7XUXVToWRp4UO",
@@ -184,52 +272,12 @@
     "playedAt": "2026-10-24T12:40:10.542Z"
   },
   {
-    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
-    "title": "SINCERO!",
-    "artist": "Rare\u0219",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
-    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
-    "playedAt": "2026-10-24T12:37:05.002Z"
-  },
-  {
-    "albumId": "0CVCnkzMA5oMiAiwgaIY5k",
-    "title": "FUORI MEN\u00d9",
-    "artist": "Golden Years, SANO, Tutti Fenomeni",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27362390f04cdba88424d30b0dd",
-    "spotifyUrl": "https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k",
-    "playedAt": "2026-10-24T11:28:45.252Z"
-  },
-  {
     "albumId": "72s8YL1M9J84p4oCyd4PaP",
     "title": "Tante care cose e altri successi",
     "artist": "Fulminacci",
     "cover": "https://i.scdn.co/image/ab67616d0000b273ad9a20769e33f70d092f6840",
     "spotifyUrl": "https://open.spotify.com/album/72s8YL1M9J84p4oCyd4PaP",
     "playedAt": "2026-10-24T11:26:27.528Z"
-  },
-  {
-    "albumId": "1yCeu9XvzhdOkH5GuZQRNo",
-    "title": "A Casa Tutto Bene",
-    "artist": "Brunori Sas",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738fa5929955ef6ac8a99499af",
-    "spotifyUrl": "https://open.spotify.com/album/1yCeu9XvzhdOkH5GuZQRNo",
-    "playedAt": "2026-10-24T11:23:08.954Z"
-  },
-  {
-    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
-    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
-    "artist": "faccianuvola, Rare\u0219",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
-    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
-    "playedAt": "2026-10-24T11:20:26.552Z"
-  },
-  {
-    "albumId": "1LA6VsdQLEJ76u6V3egSmE",
-    "title": "Los Angeles",
-    "artist": "Giuse The Lizia",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27361f48b8f644f919e229a1776",
-    "spotifyUrl": "https://open.spotify.com/album/1LA6VsdQLEJ76u6V3egSmE",
-    "playedAt": "2026-10-24T11:17:15.607Z"
   },
   {
     "albumId": "5jYoJOTfWYtRP0R7YcUJiC",
@@ -334,53 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273192abd1075004794de146cc8",
     "spotifyUrl": "https://open.spotify.com/album/3RlN7KwIsVmJmWigc8XfJs",
     "playedAt": "2026-10-23T11:39:03.888Z"
-  },
-  {
-    "albumId": "4SZko61aMnmgvNhfhgTuD3",
-    "title": "Graduation",
-    "artist": "Kanye West",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-    "spotifyUrl": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3",
-    "playedAt": "2026-10-23T11:33:55.014Z"
-  },
-  {
-    "albumId": "5KsrpADyPgZQA4f67KmuGz",
-    "title": "INTERNET",
-    "artist": "Giuse The Lizia",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737e774a46632edec684142565",
-    "spotifyUrl": "https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz",
-    "playedAt": "2026-10-23T10:28:37.503Z"
-  },
-  {
-    "albumId": "4TWJJZmgYm6tE6PzqpluQ0",
-    "title": "Which One",
-    "artist": "Drake, Central Cee",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738028a7b8c9fce086d4a47ba7",
-    "spotifyUrl": "https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0",
-    "playedAt": "2026-10-23T10:08:59.346Z"
-  },
-  {
-    "albumId": "0hvT3yIEysuuvkK73vgdcW",
-    "title": "GNX",
-    "artist": "Kendrick Lamar",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e2a0a166493a2bde5480a420",
-    "spotifyUrl": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW",
-    "playedAt": "2026-10-23T09:03:59.958Z"
-  },
-  {
-    "albumId": "63MKT9hwmiMFFdFp5SdB1p",
-    "title": "Under The Mistletoe (Deluxe Edition)",
-    "artist": "Justin Bieber",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273af0aff7f601df9ed6d2d531d",
-    "spotifyUrl": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p",
-    "playedAt": "2026-10-23T08:52:35.857Z"
-  },
-  {
-    "albumId": "3T4tUhGYeRNVUGevb0wThu",
-    "title": "\u00f7 (Deluxe)",
-    "artist": "Ed Sheeran",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
-    "spotifyUrl": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu",
-    "playedAt": "2026-10-23T08:46:39.143Z"
   }
 ]
