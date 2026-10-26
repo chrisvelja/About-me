@@ -1,5 +1,93 @@
 [
   {
+    "albumId": "2ClZ9xWAYg1BH8zkR96dJo",
+    "title": "USB",
+    "artist": "Fred again.., Jamie T",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734018b70099d433d9c8aabb12",
+    "spotifyUrl": "https://open.spotify.com/album/2ClZ9xWAYg1BH8zkR96dJo",
+    "playedAt": "2026-10-26T16:31:12.372Z"
+  },
+  {
+    "albumId": "1wD2xMSjGRFSVX8zkFEuMo",
+    "title": "Victory Lap",
+    "artist": "Fred again.., Skepta, PlaqueBoyMax",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bf705b821b031cefe91d7b90",
+    "spotifyUrl": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo",
+    "playedAt": "2026-10-26T16:25:15.710Z"
+  },
+  {
+    "albumId": "4HZ3fF1dwSZLwztlLwoDYA",
+    "title": "9 months & 50 hours",
+    "artist": "LATIN MAFIA, Fred again..",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732fe1ee03a5bed6b4a2e73296",
+    "spotifyUrl": "https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA",
+    "playedAt": "2026-10-26T16:22:29.433Z"
+  },
+  {
+    "albumId": "2sIWM1FzNqLCccNwXuC4SA",
+    "title": "Boulevard of Broken Dreams",
+    "artist": "Green Day",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27397e3ca5aecb464f021c601d5",
+    "spotifyUrl": "https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA",
+    "playedAt": "2026-10-26T16:18:30.373Z"
+  },
+  {
+    "albumId": "7MjK7jYBy07G2GTCZgSzxd",
+    "title": "Resavoir",
+    "artist": "Resavoir",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739b604dbe4b0f45301e9fb1e7",
+    "spotifyUrl": "https://open.spotify.com/album/7MjK7jYBy07G2GTCZgSzxd",
+    "playedAt": "2026-10-26T16:13:39.773Z"
+  },
+  {
+    "albumId": "1C5fhhTePIQ3MVw1OZIGMc",
+    "title": "Spotify Singles",
+    "artist": "IDLES",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273006a658d76cc779dbe135aa0",
+    "spotifyUrl": "https://open.spotify.com/album/1C5fhhTePIQ3MVw1OZIGMc",
+    "playedAt": "2026-10-26T16:12:28.077Z"
+  },
+  {
+    "albumId": "0S0KGZnfBGSIssfF54WSJh",
+    "title": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+    "artist": "Billie Eilish",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
+    "spotifyUrl": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh",
+    "playedAt": "2026-10-26T16:09:54.313Z"
+  },
+  {
+    "albumId": "7gsWAHLeT0w7es6FofOXk1",
+    "title": "The Life Of Pablo",
+    "artist": "Kanye West",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
+    "spotifyUrl": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1",
+    "playedAt": "2026-10-26T16:06:37.710Z"
+  },
+  {
+    "albumId": "2LVDNOUUy2g8517ZEtQIcK",
+    "title": "(It Goes Like) Nanana [Edit]",
+    "artist": "Peggy Gou",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27388d71aadd009fe1a83df88f2",
+    "spotifyUrl": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK",
+    "playedAt": "2026-10-26T15:55:50.614Z"
+  },
+  {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-10-26T13:24:28.821Z"
+  },
+  {
+    "albumId": "1P21UjZvPPhykRVtsPyhCl",
+    "title": "STAR",
+    "artist": "\u5343\u8449\u96c4\u559c",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a71faa5704399942d9953ebe",
+    "spotifyUrl": "https://open.spotify.com/album/1P21UjZvPPhykRVtsPyhCl",
+    "playedAt": "2026-10-26T12:14:31.620Z"
+  },
+  {
     "albumId": "3T4tUhGYeRNVUGevb0wThu",
     "title": "\u00f7 (Deluxe)",
     "artist": "Ed Sheeran",
@@ -294,93 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b27388d71aadd009fe1a83df88f2",
     "spotifyUrl": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK",
     "playedAt": "2026-10-25T16:54:07.047Z"
-  },
-  {
-    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
-    "title": "SINCERO!",
-    "artist": "Rare\u0219",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
-    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
-    "playedAt": "2026-10-25T16:44:19.629Z"
-  },
-  {
-    "albumId": "1krJ5WnQuLKJhBK81PFVMW",
-    "title": "next to you",
-    "artist": "JVKE",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273de33c9c199cc39dc9eb9f61a",
-    "spotifyUrl": "https://open.spotify.com/album/1krJ5WnQuLKJhBK81PFVMW",
-    "playedAt": "2026-10-25T16:28:48.077Z"
-  },
-  {
-    "albumId": "7GoZNNb7Yl74fpk8Z6I2cv",
-    "title": "4:44",
-    "artist": "JA\u0178-Z",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737513c4956ea5552caf02eab6",
-    "spotifyUrl": "https://open.spotify.com/album/7GoZNNb7Yl74fpk8Z6I2cv",
-    "playedAt": "2026-10-25T16:11:16.967Z"
-  },
-  {
-    "albumId": "2QRedhP5RmKJiJ1i8VgDGR",
-    "title": "Whole Lotta Red",
-    "artist": "Playboi Carti",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb",
-    "spotifyUrl": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR",
-    "playedAt": "2026-10-25T16:06:31.966Z"
-  },
-  {
-    "albumId": "0lK38xzoGpG6oVzfi9rpmS",
-    "title": "nanoir",
-    "artist": "NANO",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c41a6c1c7eac45402ea90864",
-    "spotifyUrl": "https://open.spotify.com/album/0lK38xzoGpG6oVzfi9rpmS",
-    "playedAt": "2026-10-25T16:03:18.209Z"
-  },
-  {
-    "albumId": "7fRrTyKvE4Skh93v97gtcU",
-    "title": "dont smile at me",
-    "artist": "Billie Eilish",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795",
-    "spotifyUrl": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU",
-    "playedAt": "2026-10-25T15:58:32.435Z"
-  },
-  {
-    "albumId": "4KvzpS3WSxlafB0psUNwfV",
-    "title": "The Wisp Sings",
-    "artist": "Winter Aid",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f9434ede3c2203848fabbe14",
-    "spotifyUrl": "https://open.spotify.com/album/4KvzpS3WSxlafB0psUNwfV",
-    "playedAt": "2026-10-25T15:52:24.540Z"
-  },
-  {
-    "albumId": "0M0iJGLagLtI4LlooOiiNZ",
-    "title": "places to be",
-    "artist": "Fred again.., Anderson .Paak, CHIKA",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2735471ed900dd21834e5fc90c8",
-    "spotifyUrl": "https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ",
-    "playedAt": "2026-10-25T15:39:16.289Z"
-  },
-  {
-    "albumId": "43bI6dV1TRBpW7wuQbjSUn",
-    "title": "Ho Perso Di Vista Me",
-    "artist": "43.Nove, Brus DMC",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f54d76ad5cfeacd9f7c7c138",
-    "spotifyUrl": "https://open.spotify.com/album/43bI6dV1TRBpW7wuQbjSUn",
-    "playedAt": "2026-10-25T15:38:50.947Z"
-  },
-  {
-    "albumId": "2Ek1q2haOnxVqhvVKqMvJe",
-    "title": "ye",
-    "artist": "Kanye West",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
-    "spotifyUrl": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe",
-    "playedAt": "2026-10-25T15:35:29.034Z"
-  },
-  {
-    "albumId": "5K79FLRUCSysQnVESLcTdb",
-    "title": "DeB\u00cd TiRAR M\u00e1S FOToS",
-    "artist": "Bad Bunny",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-    "spotifyUrl": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb",
-    "playedAt": "2026-10-25T15:30:54.401Z"
   }
 ]
