@@ -1,5 +1,85 @@
 [
   {
+    "albumId": "7aJuG4TFXa2hmE4z1yxc3n",
+    "title": "HIT ME HARD AND SOFT",
+    "artist": "Billie Eilish",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+    "spotifyUrl": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n",
+    "playedAt": "2026-10-27T21:47:04.647Z"
+  },
+  {
+    "albumId": "3AafSrFIbJPH6BJHiJm1Cd",
+    "title": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+    "artist": "Billie Eilish",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e",
+    "spotifyUrl": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd",
+    "playedAt": "2026-10-27T21:43:33.749Z"
+  },
+  {
+    "albumId": "54HzLTohLottYBCmkjD41S",
+    "title": "INDI",
+    "artist": "Gazzelle",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737a79cc9950e69ca73c044f61",
+    "spotifyUrl": "https://open.spotify.com/album/54HzLTohLottYBCmkjD41S",
+    "playedAt": "2026-10-27T21:39:40.638Z"
+  },
+  {
+    "albumId": "6zBVlFWATphRVpz1rxyWvF",
+    "title": "abbatteremo i motel e torneremo a far l\u2019amore in mezzo ai campi",
+    "artist": "Albe",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b0a4539126755b4796ba1f45",
+    "spotifyUrl": "https://open.spotify.com/album/6zBVlFWATphRVpz1rxyWvF",
+    "playedAt": "2026-10-27T19:28:47.557Z"
+  },
+  {
+    "albumId": "5nQff1e9q2Tcsa4bEyWXMa",
+    "title": "1998",
+    "artist": "Coez",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27353bfae2747ebc6cc8ea0b5a3",
+    "spotifyUrl": "https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa",
+    "playedAt": "2026-10-27T19:25:54.317Z"
+  },
+  {
+    "albumId": "5PdqPLG4hUzuLAWUDFaZap",
+    "title": "Gira, il mondo gira",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734743343cec324c534a99ca39",
+    "spotifyUrl": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap",
+    "playedAt": "2026-10-27T19:22:54.462Z"
+  },
+  {
+    "albumId": "7qZ5XKi1L7ivSxcFFyEjBV",
+    "title": "Il Mondo Gira",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a9e40bd192d83079cb8c385f",
+    "spotifyUrl": "https://open.spotify.com/album/7qZ5XKi1L7ivSxcFFyEjBV",
+    "playedAt": "2026-10-27T19:20:17.893Z"
+  },
+  {
+    "albumId": "2ClZ9xWAYg1BH8zkR96dJo",
+    "title": "USB",
+    "artist": "Fred again.., BIA",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734018b70099d433d9c8aabb12",
+    "spotifyUrl": "https://open.spotify.com/album/2ClZ9xWAYg1BH8zkR96dJo",
+    "playedAt": "2026-10-27T19:15:51.250Z"
+  },
+  {
+    "albumId": "6o86bV7TAt5x4exc2qLDqC",
+    "title": "Actual Life (April 14 - December 17 2020)",
+    "artist": "Fred again..",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273723d4df900fd02eff83579d9",
+    "spotifyUrl": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC",
+    "playedAt": "2026-10-27T16:17:02.472Z"
+  },
+  {
+    "albumId": "3DQueEd1Ft9PHWgovDzPKh",
+    "title": "ten days",
+    "artist": "Fred again..",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739574df129a4a2f4fa4990286",
+    "spotifyUrl": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh",
+    "playedAt": "2026-10-27T15:11:15.894Z"
+  },
+  {
     "albumId": "04v8KIBvsyz6OTvSSrBhkI",
     "title": "SINCERO!",
     "artist": "Rare\u0219",
@@ -64,14 +144,6 @@
     "playedAt": "2026-10-27T11:53:57.479Z"
   },
   {
-    "albumId": "6o86bV7TAt5x4exc2qLDqC",
-    "title": "Actual Life (April 14 - December 17 2020)",
-    "artist": "Fred again..",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273723d4df900fd02eff83579d9",
-    "spotifyUrl": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC",
-    "playedAt": "2026-10-27T11:41:45.201Z"
-  },
-  {
     "albumId": "4HZ3fF1dwSZLwztlLwoDYA",
     "title": "9 months & 50 hours",
     "artist": "LATIN MAFIA, Fred again..",
@@ -134,22 +206,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b27353ab70a27d58af286ce9eb91",
     "spotifyUrl": "https://open.spotify.com/album/5tqjvPX88OX1OpVo1QGBYC",
     "playedAt": "2026-10-27T10:46:06.889Z"
-  },
-  {
-    "albumId": "3DQueEd1Ft9PHWgovDzPKh",
-    "title": "ten days",
-    "artist": "Fred again.., Jozzy",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739574df129a4a2f4fa4990286",
-    "spotifyUrl": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh",
-    "playedAt": "2026-10-27T10:43:13.684Z"
-  },
-  {
-    "albumId": "2ClZ9xWAYg1BH8zkR96dJo",
-    "title": "USB",
-    "artist": "Fred again.., Wallfacer",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734018b70099d433d9c8aabb12",
-    "spotifyUrl": "https://open.spotify.com/album/2ClZ9xWAYg1BH8zkR96dJo",
-    "playedAt": "2026-10-27T09:13:51.351Z"
   },
   {
     "albumId": "0JGOiO34nwfUdDrD612dOp",
@@ -326,61 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273795c9ba853f5a9f7a88b4e31",
     "spotifyUrl": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU",
     "playedAt": "2026-10-26T10:02:15.063Z"
-  },
-  {
-    "albumId": "0JxgRDaUcyxTpzuE56jL5V",
-    "title": "Extranjero",
-    "artist": "\u00cd\u00f1igo Quintero",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273734455be22e1df611e155861",
-    "spotifyUrl": "https://open.spotify.com/album/0JxgRDaUcyxTpzuE56jL5V",
-    "playedAt": "2026-10-26T09:59:00.651Z"
-  },
-  {
-    "albumId": "0hvT3yIEysuuvkK73vgdcW",
-    "title": "GNX",
-    "artist": "Kendrick Lamar, Lefty Gunplay",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e2a0a166493a2bde5480a420",
-    "spotifyUrl": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW",
-    "playedAt": "2026-10-26T09:56:27.263Z"
-  },
-  {
-    "albumId": "6Fr2rQkZ383FcMqFyT7yPr",
-    "title": "Purpose (Deluxe)",
-    "artist": "Justin Bieber",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de",
-    "spotifyUrl": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr",
-    "playedAt": "2026-10-26T09:52:46.127Z"
-  },
-  {
-    "albumId": "7fRrTyKvE4Skh93v97gtcU",
-    "title": "dont smile at me",
-    "artist": "Billie Eilish",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795",
-    "spotifyUrl": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU",
-    "playedAt": "2026-10-26T09:01:45.420Z"
-  },
-  {
-    "albumId": "20dY0uZi9SzfrcWYfiWGqH",
-    "title": "Play",
-    "artist": "Ed Sheeran",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b07c28bb3192bdfb585fb438",
-    "spotifyUrl": "https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH",
-    "playedAt": "2026-10-26T08:58:21.290Z"
-  },
-  {
-    "albumId": "7cmSC8Kb40PpwGCJIk6EDP",
-    "title": "Ser\u00e1 por ti",
-    "artist": "\u00cd\u00f1igo Quintero, Hey Kid",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732a44d998471ed5068803134f",
-    "spotifyUrl": "https://open.spotify.com/album/7cmSC8Kb40PpwGCJIk6EDP",
-    "playedAt": "2026-10-26T08:54:45.459Z"
-  },
-  {
-    "albumId": "0OSjXWneXbkt2iIIUgLXgH",
-    "title": "Last of a Dying Breed",
-    "artist": "Joji",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738145c47ad5a3036b7640cadb",
-    "spotifyUrl": "https://open.spotify.com/album/0OSjXWneXbkt2iIIUgLXgH",
-    "playedAt": "2026-10-26T08:49:57.870Z"
   }
 ]
