@@ -1,5 +1,13 @@
 [
   {
+    "albumId": "0JGOiO34nwfUdDrD612dOp",
+    "title": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e",
+    "spotifyUrl": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp",
+    "playedAt": "2026-10-27T06:53:46.712Z"
+  },
+  {
     "albumId": "3GIj6ZdQw2XLkMspCJVsG8",
     "title": "Sal rosa",
     "artist": "LATIN MAFIA",
@@ -374,13 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273a71faa5704399942d9953ebe",
     "spotifyUrl": "https://open.spotify.com/album/1P21UjZvPPhykRVtsPyhCl",
     "playedAt": "2026-10-25T17:57:14.319Z"
-  },
-  {
-    "albumId": "7gsWAHLeT0w7es6FofOXk1",
-    "title": "The Life Of Pablo",
-    "artist": "Kanye West",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
-    "spotifyUrl": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1",
-    "playedAt": "2026-10-25T17:54:41.319Z"
   }
 ]
