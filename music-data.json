@@ -1,5 +1,13 @@
 [
   {
+    "albumId": "3GIj6ZdQw2XLkMspCJVsG8",
+    "title": "Sal rosa",
+    "artist": "LATIN MAFIA",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e4d260b37299107b0b94dd36",
+    "spotifyUrl": "https://open.spotify.com/album/3GIj6ZdQw2XLkMspCJVsG8",
+    "playedAt": "2026-10-26T21:14:16.298Z"
+  },
+  {
     "albumId": "2ClZ9xWAYg1BH8zkR96dJo",
     "title": "USB",
     "artist": "Fred again.., Jamie T",
@@ -374,13 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
     "spotifyUrl": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1",
     "playedAt": "2026-10-25T17:54:41.319Z"
-  },
-  {
-    "albumId": "2LVDNOUUy2g8517ZEtQIcK",
-    "title": "(It Goes Like) Nanana [Edit]",
-    "artist": "Peggy Gou",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27388d71aadd009fe1a83df88f2",
-    "spotifyUrl": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK",
-    "playedAt": "2026-10-25T16:54:07.047Z"
   }
 ]
