@@ -1,5 +1,149 @@
 [
   {
+    "albumId": "2ClZ9xWAYg1BH8zkR96dJo",
+    "title": "USB",
+    "artist": "Fred again.., BIA",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734018b70099d433d9c8aabb12",
+    "spotifyUrl": "https://open.spotify.com/album/2ClZ9xWAYg1BH8zkR96dJo",
+    "playedAt": "2026-10-28T17:50:54.565Z"
+  },
+  {
+    "albumId": "5VdyJkLe3yvOs0l4xXbWp0",
+    "title": "17",
+    "artist": "XXXTENTACION",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273203c89bd4391468eea4cc3f5",
+    "spotifyUrl": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0",
+    "playedAt": "2026-10-28T17:34:07.610Z"
+  },
+  {
+    "albumId": "3pLdWdkj83EYfDN6H2N8MR",
+    "title": "Black Panther The Album Music From And Inspired By",
+    "artist": "Kendrick Lamar, SZA",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888",
+    "spotifyUrl": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR",
+    "playedAt": "2026-10-28T17:32:31.613Z"
+  },
+  {
+    "albumId": "7ahctQBwcSxDdP0fRAPo2p",
+    "title": "Flicker (Deluxe)",
+    "artist": "Niall Horan",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735bac234d5511248b248caf36",
+    "spotifyUrl": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p",
+    "playedAt": "2026-10-28T17:28:38.946Z"
+  },
+  {
+    "albumId": "1ttGpGzOEi6JDDOHO4qD1y",
+    "title": "In A Perfect World (Expanded Edition)",
+    "artist": "Kodaline",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733e42854096da9a3b1ca901c9",
+    "spotifyUrl": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y",
+    "playedAt": "2026-10-28T17:24:45.603Z"
+  },
+  {
+    "albumId": "0JGOiO34nwfUdDrD612dOp",
+    "title": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e",
+    "spotifyUrl": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp",
+    "playedAt": "2026-10-28T17:01:41.902Z"
+  },
+  {
+    "albumId": "0OTRd577BEHU8WNfrJ24aB",
+    "title": "Black Friday",
+    "artist": "Tom Odell",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731b0de2abcdc89c8dc76c917e",
+    "spotifyUrl": "https://open.spotify.com/album/0OTRd577BEHU8WNfrJ24aB",
+    "playedAt": "2026-10-28T16:49:03.824Z"
+  },
+  {
+    "albumId": "7mvXPtV4jvA1hp5Wx2FAJA",
+    "title": "I Barely Know Her",
+    "artist": "sombr",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734229702de91cb3d3a4383302",
+    "spotifyUrl": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA",
+    "playedAt": "2026-10-28T16:45:21.877Z"
+  },
+  {
+    "albumId": "61G7KL6rpj167r6H4CzS8C",
+    "title": "A Place We Knew",
+    "artist": "Dean Lewis",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a787f718fb485b66d6219247",
+    "spotifyUrl": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C",
+    "playedAt": "2026-10-28T16:42:02.312Z"
+  },
+  {
+    "albumId": "2nTZJADQTnOmXDJkbqX4fB",
+    "title": "You're All I Want",
+    "artist": "Cigarettes After Sex",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273963454e08e5e9def7e8cd204",
+    "spotifyUrl": "https://open.spotify.com/album/2nTZJADQTnOmXDJkbqX4fB",
+    "playedAt": "2026-10-28T16:08:56.437Z"
+  },
+  {
+    "albumId": "2B87zXm9bOWvAJdkJBTpzF",
+    "title": "Melodrama",
+    "artist": "Lorde",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336",
+    "spotifyUrl": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF",
+    "playedAt": "2026-10-28T16:04:31.505Z"
+  },
+  {
+    "albumId": "7DRvJhjucsH34zMXtEh0ER",
+    "title": "Not About Angels",
+    "artist": "Birdy",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a7a7f6236a9219ffc8e9054c",
+    "spotifyUrl": "https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER",
+    "playedAt": "2026-10-28T15:59:06.068Z"
+  },
+  {
+    "albumId": "4SkZTSXdPpzTbf6C0m1UKv",
+    "title": "Depression Cherry",
+    "artist": "Beach House",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d1430224d631eaa5954f13c9",
+    "spotifyUrl": "https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv",
+    "playedAt": "2026-10-28T15:55:56.109Z"
+  },
+  {
+    "albumId": "4iyJ8i3eKbez8JXDbsHIdZ",
+    "title": "Bored",
+    "artist": "Billie Eilish",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e0f2af91be409aad81bba98c",
+    "spotifyUrl": "https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ",
+    "playedAt": "2026-10-28T15:50:35.133Z"
+  },
+  {
+    "albumId": "2CMlkzFI2oDAy5MbyV7OV5",
+    "title": "Kid Krow",
+    "artist": "Conan Gray",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43",
+    "spotifyUrl": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5",
+    "playedAt": "2026-10-28T15:47:31.168Z"
+  },
+  {
+    "albumId": "69AaAkdktFGnk9POmHENkT",
+    "title": "this is what ____ feels like (Vol. 1-4)",
+    "artist": "JVKE",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c2504e80ba2f258697ab2954",
+    "spotifyUrl": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT",
+    "playedAt": "2026-10-28T15:24:40.744Z"
+  },
+  {
+    "albumId": "6U6yE35iYGweoUiFFjuBdC",
+    "title": "Where's My Love",
+    "artist": "SYML",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273dd4190a3114d1f2bde3c74f8",
+    "spotifyUrl": "https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC",
+    "playedAt": "2026-10-28T13:08:34.585Z"
+  },
+  {
+    "albumId": "1YPWxMpQEC8kcOuefgXbhj",
+    "title": "Guitar Songs",
+    "artist": "Billie Eilish",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318",
+    "spotifyUrl": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj",
+    "playedAt": "2026-10-28T12:58:45.740Z"
+  },
+  {
     "albumId": "6I5Pf71uQzQC0IcJOrh8Rz",
     "title": "Based On A True Story...",
     "artist": "New West",
@@ -178,10 +322,10 @@
   {
     "albumId": "3DQueEd1Ft9PHWgovDzPKh",
     "title": "ten days",
-    "artist": "Fred again..",
+    "artist": "Fred again.., Joy Anonymous",
     "cover": "https://i.scdn.co/image/ab67616d0000b2739574df129a4a2f4fa4990286",
     "spotifyUrl": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh",
-    "playedAt": "2026-10-27T15:11:15.894Z"
+    "playedAt": "2026-10-27T16:08:15.211Z"
   },
   {
     "albumId": "04v8KIBvsyz6OTvSSrBhkI",
@@ -238,149 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273efc91e3a25d962757f5b5ef9",
     "spotifyUrl": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK",
     "playedAt": "2026-10-27T11:57:45.673Z"
-  },
-  {
-    "albumId": "6CRw56mCdwUCZsQ92dFU51",
-    "title": "50 ballerinas",
-    "artist": "jigitz, okgiorgio, Tabi",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273988528c4d4e890a12301fe2f",
-    "spotifyUrl": "https://open.spotify.com/album/6CRw56mCdwUCZsQ92dFU51",
-    "playedAt": "2026-10-27T11:53:57.479Z"
-  },
-  {
-    "albumId": "4HZ3fF1dwSZLwztlLwoDYA",
-    "title": "9 months & 50 hours",
-    "artist": "LATIN MAFIA, Fred again..",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732fe1ee03a5bed6b4a2e73296",
-    "spotifyUrl": "https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA",
-    "playedAt": "2026-10-27T11:37:10.584Z"
-  },
-  {
-    "albumId": "5zs9KJ2YsEjRzafvTdYTsk",
-    "title": "Say My Name (Remix)",
-    "artist": "Morgan Seatree, Florence + The Machine",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27384673b6094ab58850c189e5d",
-    "spotifyUrl": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk",
-    "playedAt": "2026-10-27T11:08:48.057Z"
-  },
-  {
-    "albumId": "4G3baEMOnQ7bs0xV8Pgdov",
-    "title": "The Last Dance, Pt 2",
-    "artist": "Emmit Fenn",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27382894ba94fbd9d8e21016ba6",
-    "spotifyUrl": "https://open.spotify.com/album/4G3baEMOnQ7bs0xV8Pgdov",
-    "playedAt": "2026-10-27T11:05:59.556Z"
-  },
-  {
-    "albumId": "0y8L6fol774RjwdrNgDdHW",
-    "title": "Control (Disco Lines Remix)",
-    "artist": "Emmit Fenn",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2733347bfd84de9537c363cd950",
-    "spotifyUrl": "https://open.spotify.com/album/0y8L6fol774RjwdrNgDdHW",
-    "playedAt": "2026-10-27T11:02:45.431Z"
-  },
-  {
-    "albumId": "4XoiPhxyT8riRh4V2enQZP",
-    "title": "messy",
-    "artist": "\u0141aszewo",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273404e21b818749b70fefda91c",
-    "spotifyUrl": "https://open.spotify.com/album/4XoiPhxyT8riRh4V2enQZP",
-    "playedAt": "2026-10-27T10:56:13.506Z"
-  },
-  {
-    "albumId": "5q2iMctlDvEMYVIawF6Vop",
-    "title": "Actual Life 3 (January 1 - September 9 2022)",
-    "artist": "Fred again.., Delilah Montagu",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737f8859341a395010424f106b",
-    "spotifyUrl": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop",
-    "playedAt": "2026-10-27T10:52:45.079Z"
-  },
-  {
-    "albumId": "7tWP3OG5dWphctKg4NMACt",
-    "title": "Quest For Fire",
-    "artist": "Skrillex, Fred again.., Flowdan",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732a7e34a68952017d900c6bb8",
-    "spotifyUrl": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt",
-    "playedAt": "2026-10-27T10:48:33.958Z"
-  },
-  {
-    "albumId": "5tqjvPX88OX1OpVo1QGBYC",
-    "title": "Black Out Days (Stay Away)",
-    "artist": "Ian Asher, Phantogram",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27353ab70a27d58af286ce9eb91",
-    "spotifyUrl": "https://open.spotify.com/album/5tqjvPX88OX1OpVo1QGBYC",
-    "playedAt": "2026-10-27T10:46:06.889Z"
-  },
-  {
-    "albumId": "0JGOiO34nwfUdDrD612dOp",
-    "title": "Happier Than Ever",
-    "artist": "Billie Eilish",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e",
-    "spotifyUrl": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp",
-    "playedAt": "2026-10-27T06:53:46.712Z"
-  },
-  {
-    "albumId": "3GIj6ZdQw2XLkMspCJVsG8",
-    "title": "Sal rosa",
-    "artist": "LATIN MAFIA",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e4d260b37299107b0b94dd36",
-    "spotifyUrl": "https://open.spotify.com/album/3GIj6ZdQw2XLkMspCJVsG8",
-    "playedAt": "2026-10-26T21:14:16.298Z"
-  },
-  {
-    "albumId": "2ClZ9xWAYg1BH8zkR96dJo",
-    "title": "USB",
-    "artist": "Fred again.., BIA",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734018b70099d433d9c8aabb12",
-    "spotifyUrl": "https://open.spotify.com/album/2ClZ9xWAYg1BH8zkR96dJo",
-    "playedAt": "2026-10-26T17:10:01.226Z"
-  },
-  {
-    "albumId": "1wD2xMSjGRFSVX8zkFEuMo",
-    "title": "Victory Lap",
-    "artist": "Fred again.., Skepta, PlaqueBoyMax",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273bf705b821b031cefe91d7b90",
-    "spotifyUrl": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo",
-    "playedAt": "2026-10-26T16:25:15.710Z"
-  },
-  {
-    "albumId": "4HZ3fF1dwSZLwztlLwoDYA",
-    "title": "9 months & 50 hours",
-    "artist": "LATIN MAFIA, Fred again..",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732fe1ee03a5bed6b4a2e73296",
-    "spotifyUrl": "https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA",
-    "playedAt": "2026-10-26T16:22:29.433Z"
-  },
-  {
-    "albumId": "2sIWM1FzNqLCccNwXuC4SA",
-    "title": "Boulevard of Broken Dreams",
-    "artist": "Green Day",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27397e3ca5aecb464f021c601d5",
-    "spotifyUrl": "https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA",
-    "playedAt": "2026-10-26T16:18:30.373Z"
-  },
-  {
-    "albumId": "7MjK7jYBy07G2GTCZgSzxd",
-    "title": "Resavoir",
-    "artist": "Resavoir",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739b604dbe4b0f45301e9fb1e7",
-    "spotifyUrl": "https://open.spotify.com/album/7MjK7jYBy07G2GTCZgSzxd",
-    "playedAt": "2026-10-26T16:13:39.773Z"
-  },
-  {
-    "albumId": "1C5fhhTePIQ3MVw1OZIGMc",
-    "title": "Spotify Singles",
-    "artist": "IDLES",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273006a658d76cc779dbe135aa0",
-    "spotifyUrl": "https://open.spotify.com/album/1C5fhhTePIQ3MVw1OZIGMc",
-    "playedAt": "2026-10-26T16:12:28.077Z"
-  },
-  {
-    "albumId": "0S0KGZnfBGSIssfF54WSJh",
-    "title": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-    "artist": "Billie Eilish",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
-    "spotifyUrl": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh",
-    "playedAt": "2026-10-26T16:09:54.313Z"
   }
 ]
