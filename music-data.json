@@ -1,5 +1,13 @@
 [
   {
+    "albumId": "0cnd1tlGnbfScH1KWwgxan",
+    "title": "Viva La Vida or Death and All His Friends",
+    "artist": "Coldplay",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730102924a57d952089d6a5199",
+    "spotifyUrl": "https://open.spotify.com/album/0cnd1tlGnbfScH1KWwgxan",
+    "playedAt": "2026-10-27T21:54:29.782Z"
+  },
+  {
     "albumId": "7aJuG4TFXa2hmE4z1yxc3n",
     "title": "HIT ME HARD AND SOFT",
     "artist": "Billie Eilish",
@@ -374,13 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273a036e1724bc7f2bab15cfda8",
     "spotifyUrl": "https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp",
     "playedAt": "2026-10-26T10:07:30.819Z"
-  },
-  {
-    "albumId": "78FZXQkBGm2IOPrE9f64sU",
-    "title": "Poems, Prayers and Promises",
-    "artist": "John Denver",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273795c9ba853f5a9f7a88b4e31",
-    "spotifyUrl": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU",
-    "playedAt": "2026-10-26T10:02:15.063Z"
   }
 ]
