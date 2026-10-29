@@ -1,5 +1,13 @@
 [
   {
+    "albumId": "0cnd1tlGnbfScH1KWwgxan",
+    "title": "Viva La Vida or Death and All His Friends",
+    "artist": "Coldplay",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730102924a57d952089d6a5199",
+    "spotifyUrl": "https://open.spotify.com/album/0cnd1tlGnbfScH1KWwgxan",
+    "playedAt": "2026-10-29T20:03:32.308Z"
+  },
+  {
     "albumId": "6qsJoy77QuzwhKB8oOewhf",
     "title": "Fino a qui",
     "artist": "Dutch Nazari, Willie Peyote",
@@ -374,13 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2733e42854096da9a3b1ca901c9",
     "spotifyUrl": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y",
     "playedAt": "2026-10-28T17:24:45.603Z"
-  },
-  {
-    "albumId": "0JGOiO34nwfUdDrD612dOp",
-    "title": "Happier Than Ever",
-    "artist": "Billie Eilish",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e",
-    "spotifyUrl": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp",
-    "playedAt": "2026-10-28T17:01:41.902Z"
   }
 ]
