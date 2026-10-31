@@ -1,5 +1,13 @@
 [
   {
+    "albumId": "7tWP3OG5dWphctKg4NMACt",
+    "title": "Quest For Fire",
+    "artist": "Skrillex, Fred again.., Flowdan",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732a7e34a68952017d900c6bb8",
+    "spotifyUrl": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt",
+    "playedAt": "2026-10-31T10:19:09.390Z"
+  },
+  {
     "albumId": "7K3BWpksmH4L7BoqUdhZrL",
     "title": "adore u",
     "artist": "Fred again.., Obongjayar",
@@ -144,6 +152,14 @@
     "playedAt": "2026-10-30T19:45:30.407Z"
   },
   {
+    "albumId": "5HQ3q1jMLZVMJfFujK0zY9",
+    "title": "Vivi Per Sempre",
+    "artist": "Canova",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b89546012b5693a44807445c",
+    "spotifyUrl": "https://open.spotify.com/album/5HQ3q1jMLZVMJfFujK0zY9",
+    "playedAt": "2026-10-30T19:41:54.839Z"
+  },
+  {
     "albumId": "5CZNj3Q2W3mOnK4n71zq9C",
     "title": "MA IO SONO FUOCO",
     "artist": "Annalisa",
@@ -264,14 +280,6 @@
     "playedAt": "2026-10-30T13:19:29.799Z"
   },
   {
-    "albumId": "5HQ3q1jMLZVMJfFujK0zY9",
-    "title": "Vivi Per Sempre",
-    "artist": "Canova",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b89546012b5693a44807445c",
-    "spotifyUrl": "https://open.spotify.com/album/5HQ3q1jMLZVMJfFujK0zY9",
-    "playedAt": "2026-10-30T13:14:56.264Z"
-  },
-  {
     "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
     "title": "il dolce ricordo della nostra disperata giovent\u00f9",
     "artist": "faccianuvola",
@@ -374,13 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b27327eeaacf20c84422e80b6334",
     "spotifyUrl": "https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R",
     "playedAt": "2026-10-30T09:54:17.768Z"
-  },
-  {
-    "albumId": "20uJcpJbimpsyG7v9kL5Co",
-    "title": "trinket",
-    "artist": "tsubi club",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f1e30eb7b9ab00cb4666c6f1",
-    "spotifyUrl": "https://open.spotify.com/album/20uJcpJbimpsyG7v9kL5Co",
-    "playedAt": "2026-10-30T09:51:15.916Z"
   }
 ]
