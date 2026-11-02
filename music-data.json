@@ -1,5 +1,21 @@
 [
   {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-11-02T07:08:49.203Z"
+  },
+  {
+    "albumId": "0JUDefDYuQhk1fghSAWKvd",
+    "title": "Wind",
+    "artist": "prm., Paul Roggenbuck",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273abe20f59a183d65129cf911f",
+    "spotifyUrl": "https://open.spotify.com/album/0JUDefDYuQhk1fghSAWKvd",
+    "playedAt": "2026-11-02T07:04:52.521Z"
+  },
+  {
     "albumId": "7oxC0J3L5JiVHMZRU9qGPS",
     "title": "her (feat. ZVC)",
     "artist": "JVKE, ZVC",
@@ -366,21 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2737a7bb3f6985052cd97c15279",
     "spotifyUrl": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc",
     "playedAt": "2026-10-31T22:24:54.915Z"
-  },
-  {
-    "albumId": "01b5HiUXkbiFUV3ogYrg0I",
-    "title": "MOTINHA 2.0 (Mete Marcha) - Remix",
-    "artist": "DENNIS, Lu\u00edsa Sonza, Emilia",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c412daf1639796e009c61752",
-    "spotifyUrl": "https://open.spotify.com/album/01b5HiUXkbiFUV3ogYrg0I",
-    "playedAt": "2026-10-31T22:20:42.958Z"
-  },
-  {
-    "albumId": "7CjJb2mikwAWA1V6kewFBF",
-    "title": "X 100PRE",
-    "artist": "Bad Bunny, El Alfa",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273519266cd05491a5b5bc22d1e",
-    "spotifyUrl": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF",
-    "playedAt": "2026-10-31T22:18:44.357Z"
   }
 ]
