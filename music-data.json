@@ -1,5 +1,157 @@
 [
   {
+    "albumId": "5KsrpADyPgZQA4f67KmuGz",
+    "title": "INTERNET",
+    "artist": "Giuse The Lizia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737e774a46632edec684142565",
+    "spotifyUrl": "https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz",
+    "playedAt": "2026-11-02T17:25:05.641Z"
+  },
+  {
+    "albumId": "00ALxUXwprONphiPixCN0l",
+    "title": "Indaco",
+    "artist": "Drast",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732bd512f978b44158e9cd00b6",
+    "spotifyUrl": "https://open.spotify.com/album/00ALxUXwprONphiPixCN0l",
+    "playedAt": "2026-11-02T16:26:23.096Z"
+  },
+  {
+    "albumId": "3jqQFIXUakuDXdhFVvI7Ko",
+    "title": "NAKAMURA",
+    "artist": "Aya Nakamura",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27356feea19a0436ec52a9217c9",
+    "spotifyUrl": "https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko",
+    "playedAt": "2026-11-02T16:23:39.483Z"
+  },
+  {
+    "albumId": "1JjGR7DtSA3aRpG99KbhxJ",
+    "title": "A Boy Named Goo",
+    "artist": "The Goo Goo Dolls",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737db048b350136b3116ad02d4",
+    "spotifyUrl": "https://open.spotify.com/album/1JjGR7DtSA3aRpG99KbhxJ",
+    "playedAt": "2026-11-02T16:20:47.942Z"
+  },
+  {
+    "albumId": "375cUd86z58eqXN2yW3Do9",
+    "title": "A Quien Quiera Escuchar (Deluxe Edition)",
+    "artist": "Ricky Martin, Yotuel",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27388d450740b559cabdde15d35",
+    "spotifyUrl": "https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9",
+    "playedAt": "2026-11-02T16:16:17.449Z"
+  },
+  {
+    "albumId": "4xMNn5AFdmBIYiXRbt5YH4",
+    "title": "BORONDO",
+    "artist": "Be\u00e9le",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732feb67a486bcf117e7fb15b0",
+    "spotifyUrl": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4",
+    "playedAt": "2026-11-02T16:12:45.247Z"
+  },
+  {
+    "albumId": "7aDBFWp72Pz4NZEtVBANi9",
+    "title": "Butterfly",
+    "artist": "Mariah Carey, Krayzie Bone, Wish Bone",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27398ed501c6a838b2244ebaf75",
+    "spotifyUrl": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9",
+    "playedAt": "2026-11-02T16:10:06.651Z"
+  },
+  {
+    "albumId": "2yNaksHgeMQM9Quse463b5",
+    "title": "Is This It",
+    "artist": "The Strokes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
+    "spotifyUrl": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5",
+    "playedAt": "2026-11-02T13:02:29.731Z"
+  },
+  {
+    "albumId": "3GIj6ZdQw2XLkMspCJVsG8",
+    "title": "Sal rosa",
+    "artist": "LATIN MAFIA",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e4d260b37299107b0b94dd36",
+    "spotifyUrl": "https://open.spotify.com/album/3GIj6ZdQw2XLkMspCJVsG8",
+    "playedAt": "2026-11-02T12:59:00.834Z"
+  },
+  {
+    "albumId": "6zBVlFWATphRVpz1rxyWvF",
+    "title": "abbatteremo i motel e torneremo a far l\u2019amore in mezzo ai campi",
+    "artist": "Albe",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b0a4539126755b4796ba1f45",
+    "spotifyUrl": "https://open.spotify.com/album/6zBVlFWATphRVpz1rxyWvF",
+    "playedAt": "2026-11-02T12:50:49.092Z"
+  },
+  {
+    "albumId": "52E4RP7XDzalpIrOgSTgiQ",
+    "title": "Invincible",
+    "artist": "Michael Jackson",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75",
+    "spotifyUrl": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ",
+    "playedAt": "2026-11-02T12:47:56.683Z"
+  },
+  {
+    "albumId": "7oxC0J3L5JiVHMZRU9qGPS",
+    "title": "her (feat. ZVC)",
+    "artist": "JVKE, ZVC",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c5e3ef0da8cf3c1eebd422a2",
+    "spotifyUrl": "https://open.spotify.com/album/7oxC0J3L5JiVHMZRU9qGPS",
+    "playedAt": "2026-11-02T12:42:17.299Z"
+  },
+  {
+    "albumId": "1O8zecXhiPs2oEPXmcMnqL",
+    "title": "Time Is Running Out",
+    "artist": "Nothing Ends",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a6943d375eae3811f1771176",
+    "spotifyUrl": "https://open.spotify.com/album/1O8zecXhiPs2oEPXmcMnqL",
+    "playedAt": "2026-11-02T12:32:36.523Z"
+  },
+  {
+    "albumId": "4lnsaWcuoXUzDINVbyG9ak",
+    "title": "Back 2 Back",
+    "artist": "Skepta, Fred again..",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273addfa766fc060f7e4669976b",
+    "spotifyUrl": "https://open.spotify.com/album/4lnsaWcuoXUzDINVbyG9ak",
+    "playedAt": "2026-11-02T12:24:32.314Z"
+  },
+  {
+    "albumId": "5HQ3q1jMLZVMJfFujK0zY9",
+    "title": "Vivi Per Sempre",
+    "artist": "Canova",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b89546012b5693a44807445c",
+    "spotifyUrl": "https://open.spotify.com/album/5HQ3q1jMLZVMJfFujK0zY9",
+    "playedAt": "2026-11-02T12:18:43.967Z"
+  },
+  {
+    "albumId": "21IzWBMtUfaOOfFx8CiR6I",
+    "title": "@dannocean",
+    "artist": "Danny Ocean",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27383a5cf876497c823696748be",
+    "spotifyUrl": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I",
+    "playedAt": "2026-11-02T11:24:49.746Z"
+  },
+  {
+    "albumId": "42pGRNpFJumps5qcggM8Tj",
+    "title": "Figa De Guin\u00e9",
+    "artist": "Mari Froes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738d5589c8d434d3b97e7fea96",
+    "spotifyUrl": "https://open.spotify.com/album/42pGRNpFJumps5qcggM8Tj",
+    "playedAt": "2026-11-02T11:12:08.541Z"
+  },
+  {
+    "albumId": "43bI6dV1TRBpW7wuQbjSUn",
+    "title": "Ho Perso Di Vista Me",
+    "artist": "43.Nove, Brus DMC",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f54d76ad5cfeacd9f7c7c138",
+    "spotifyUrl": "https://open.spotify.com/album/43bI6dV1TRBpW7wuQbjSUn",
+    "playedAt": "2026-11-02T11:09:47.134Z"
+  },
+  {
+    "albumId": "6WaypAEqrcs1YmMLWJM3lM",
+    "title": "Santamaria",
+    "artist": "Canova",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27360dc1e5af314f8e3e0d7d0b2",
+    "spotifyUrl": "https://open.spotify.com/album/6WaypAEqrcs1YmMLWJM3lM",
+    "playedAt": "2026-11-02T11:06:25.840Z"
+  },
+  {
     "albumId": "04v8KIBvsyz6OTvSSrBhkI",
     "title": "SINCERO!",
     "artist": "Rare\u0219",
@@ -230,157 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b27328db364da3b1628f59bd2c2b",
     "spotifyUrl": "https://open.spotify.com/album/6XkaNjaOGB72apENkI4Osg",
     "playedAt": "2026-10-31T23:57:41.307Z"
-  },
-  {
-    "albumId": "3FetarGH4wWNT7cztV81Hn",
-    "title": "Fantasmi",
-    "artist": "Emilio Paranoico",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c013d1fef69b4e64da21b9f0",
-    "spotifyUrl": "https://open.spotify.com/album/3FetarGH4wWNT7cztV81Hn",
-    "playedAt": "2026-10-31T23:54:05.996Z"
-  },
-  {
-    "albumId": "4KakTQXezMez5owYFuGAF2",
-    "title": "VERA BADDIE",
-    "artist": "ANNA, Niky Savage",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273fb7329a6fb6154b1fa3704c7",
-    "spotifyUrl": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2",
-    "playedAt": "2026-10-31T23:43:32.625Z"
-  },
-  {
-    "albumId": "49gaz5rhWWgqCw61M9700v",
-    "title": "Chris Brown (Expanded Edition)",
-    "artist": "Chris Brown, Juelz Santana",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f9685817281327d5fecb244e",
-    "spotifyUrl": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v",
-    "playedAt": "2026-10-31T23:41:07.881Z"
-  },
-  {
-    "albumId": "3OALgjCs6Lqw41853v4wEQ",
-    "title": "One Of The Boys",
-    "artist": "Katy Perry",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2733f97d4244eff5852477d9ee0",
-    "spotifyUrl": "https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ",
-    "playedAt": "2026-10-31T23:39:20.281Z"
-  },
-  {
-    "albumId": "6U4hLkY2ITGsSQ9gekaEYt",
-    "title": "4 Minutes (feat. Justin Timberlake and Timbaland) [Remixes]",
-    "artist": "Madonna, Justin Timberlake, Timbaland",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e99de100cbe9873b7837dba3",
-    "spotifyUrl": "https://open.spotify.com/album/6U4hLkY2ITGsSQ9gekaEYt",
-    "playedAt": "2026-10-31T23:36:20.137Z"
-  },
-  {
-    "albumId": "6jbtHi5R0jMXoliU2OS0lo",
-    "title": "MOTOMAMI",
-    "artist": "ROSAL\u00cdA",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ac8367a27c0eb7195dc3a58d",
-    "spotifyUrl": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo",
-    "playedAt": "2026-10-31T23:29:18.121Z"
-  },
-  {
-    "albumId": "6tKu7fGPGQyKD1nbSMWTje",
-    "title": "Mu\u00e9velo",
-    "artist": "Kali Uchis",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731b548a459611daab1d6dc3b9",
-    "spotifyUrl": "https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje",
-    "playedAt": "2026-10-31T23:25:35.291Z"
-  },
-  {
-    "albumId": "4xMNn5AFdmBIYiXRbt5YH4",
-    "title": "BORONDO",
-    "artist": "Be\u00e9le",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732feb67a486bcf117e7fb15b0",
-    "spotifyUrl": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4",
-    "playedAt": "2026-10-31T23:23:27.400Z"
-  },
-  {
-    "albumId": "04Ymqu321W73XWuYreawjw",
-    "title": "Slow Wine Mixtape",
-    "artist": "Bad Gyal",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273bdb8d291b4b7a5feca2db8a7",
-    "spotifyUrl": "https://open.spotify.com/album/04Ymqu321W73XWuYreawjw",
-    "playedAt": "2026-10-31T23:20:48.833Z"
-  },
-  {
-    "albumId": "2ANVost0y2y52ema1E9xAZ",
-    "title": "Thriller",
-    "artist": "Michael Jackson",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
-    "spotifyUrl": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ",
-    "playedAt": "2026-10-31T23:16:40.829Z"
-  },
-  {
-    "albumId": "4GlriazgsYPXES2XYkb4gb",
-    "title": "SAGITARIO",
-    "artist": "El Alfa, El Cherry Scom, CJ",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2733242fdd0d5f5c1dfe49ce924",
-    "spotifyUrl": "https://open.spotify.com/album/4GlriazgsYPXES2XYkb4gb",
-    "playedAt": "2026-10-31T23:12:34.471Z"
-  },
-  {
-    "albumId": "3T4tUhGYeRNVUGevb0wThu",
-    "title": "\u00f7 (Deluxe)",
-    "artist": "Ed Sheeran",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
-    "spotifyUrl": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu",
-    "playedAt": "2026-10-31T23:06:23.504Z"
-  },
-  {
-    "albumId": "2cHhcN6iNLNXc7FByWBGi5",
-    "title": "Oral Fixation, Vol. 2 (Expanded Edition)",
-    "artist": "Shakira, Wyclef Jean",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27385432abc16fd92be0d435cb9",
-    "spotifyUrl": "https://open.spotify.com/album/2cHhcN6iNLNXc7FByWBGi5",
-    "playedAt": "2026-10-31T22:44:08.615Z"
-  },
-  {
-    "albumId": "2MFS6WG6jnPAgvJpV3PehR",
-    "title": "Carte Blanche",
-    "artist": "DJ Snake, Selena Gomez, Ozuna, Cardi B",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273caf82abb2338880577e472be",
-    "spotifyUrl": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR",
-    "playedAt": "2026-10-31T22:40:27.731Z"
-  },
-  {
-    "albumId": "4C4pswO5xUzT3S2pN94LNk",
-    "title": "4K",
-    "artist": "El Alfa, Darell, Noriel",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27334f87322d0e0b663ac8cb6d7",
-    "spotifyUrl": "https://open.spotify.com/album/4C4pswO5xUzT3S2pN94LNk",
-    "playedAt": "2026-10-31T22:36:54.703Z"
-  },
-  {
-    "albumId": "1otwHKoQ5KPaiekpYk4tWh",
-    "title": "Con Calma",
-    "artist": "Daddy Yankee, Snow",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273896ffcd42561c44fea2bae7b",
-    "spotifyUrl": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh",
-    "playedAt": "2026-10-31T22:33:32.671Z"
-  },
-  {
-    "albumId": "5As1VmPUMn4HIgYSbFD6l0",
-    "title": "Marianela (Que Pasa)",
-    "artist": "HUGEL, Merk & Kremont, Lirico En La Casa",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27397a70f02034d435e5f2a303b",
-    "spotifyUrl": "https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0",
-    "playedAt": "2026-10-31T22:30:18.926Z"
-  },
-  {
-    "albumId": "6iOVwgkzKOasyytipHAxIu",
-    "title": "Chu Chu Pamela",
-    "artist": "El Alfa",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738944ce2644cc2e19beca7dd5",
-    "spotifyUrl": "https://open.spotify.com/album/6iOVwgkzKOasyytipHAxIu",
-    "playedAt": "2026-10-31T22:27:52.641Z"
-  },
-  {
-    "albumId": "0uxvuY8Ek2ojzHrWTg2PDc",
-    "title": "TRANSLATION",
-    "artist": "Black Eyed Peas, Ozuna, J. Rey Soul",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737a7bb3f6985052cd97c15279",
-    "spotifyUrl": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc",
-    "playedAt": "2026-10-31T22:24:54.915Z"
   }
 ]
