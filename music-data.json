@@ -1,5 +1,21 @@
 [
   {
+    "albumId": "7oxC0J3L5JiVHMZRU9qGPS",
+    "title": "her (feat. ZVC)",
+    "artist": "JVKE, ZVC",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c5e3ef0da8cf3c1eebd422a2",
+    "spotifyUrl": "https://open.spotify.com/album/7oxC0J3L5JiVHMZRU9qGPS",
+    "playedAt": "2026-11-01T22:39:47.380Z"
+  },
+  {
+    "albumId": "6WaypAEqrcs1YmMLWJM3lM",
+    "title": "Santamaria",
+    "artist": "Canova",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27360dc1e5af314f8e3e0d7d0b2",
+    "spotifyUrl": "https://open.spotify.com/album/6WaypAEqrcs1YmMLWJM3lM",
+    "playedAt": "2026-11-01T22:32:01.523Z"
+  },
+  {
     "albumId": "72s8YL1M9J84p4oCyd4PaP",
     "title": "Tante care cose e altri successi",
     "artist": "Fulminacci",
@@ -366,21 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273519266cd05491a5b5bc22d1e",
     "spotifyUrl": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF",
     "playedAt": "2026-10-31T22:18:44.357Z"
-  },
-  {
-    "albumId": "5K79FLRUCSysQnVESLcTdb",
-    "title": "DeB\u00cd TiRAR M\u00e1S FOToS",
-    "artist": "Bad Bunny",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-    "spotifyUrl": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb",
-    "playedAt": "2026-10-31T22:11:08.666Z"
-  },
-  {
-    "albumId": "1wD2xMSjGRFSVX8zkFEuMo",
-    "title": "Victory Lap",
-    "artist": "Fred again.., Skepta, PlaqueBoyMax",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273bf705b821b031cefe91d7b90",
-    "spotifyUrl": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo",
-    "playedAt": "2026-10-31T22:07:20.117Z"
   }
 ]
