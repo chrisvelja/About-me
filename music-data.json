@@ -1,11 +1,251 @@
 [
   {
+    "albumId": "25xh26FmCXPFgnCXLvTS5Q",
+    "title": "Infinito +1",
+    "artist": "Fulminacci, Pinguini Tattici Nucleari",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735f57f9583b4b0f148cdfe274",
+    "spotifyUrl": "https://open.spotify.com/album/25xh26FmCXPFgnCXLvTS5Q",
+    "playedAt": "2026-11-03T20:40:20.381Z"
+  },
+  {
+    "albumId": "19zU4YKQ8Gdn8QYQvXumhO",
+    "title": "in all of my lonely nights",
+    "artist": "Henry Moodie",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273db94c82db2d786cd9e03a538",
+    "spotifyUrl": "https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO",
+    "playedAt": "2026-11-03T20:35:20.391Z"
+  },
+  {
+    "albumId": "3nmxVghAmY7ZKFL6QQWVdg",
+    "title": "Eri solo da incontrare",
+    "artist": "Alfa",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273762f0ebb926f8dabaab2b2cf",
+    "spotifyUrl": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg",
+    "playedAt": "2026-11-03T20:30:32.645Z"
+  },
+  {
+    "albumId": "6H9zFAmC8Qt8dsLDffeC6K",
+    "title": "Eri solo da incontrare",
+    "artist": "Alfa",
+    "cover": "https://i.scdn.co/image/ab6742d3000053b739c00a209724cbb4568f67cc",
+    "spotifyUrl": "https://open.spotify.com/album/6H9zFAmC8Qt8dsLDffeC6K",
+    "playedAt": "2026-11-03T20:27:34.312Z"
+  },
+  {
+    "albumId": "4NQBEzQomU36U3oaXTgKj4",
+    "title": "Sto bene al mare (feat. Sayf & Rkomi)",
+    "artist": "Marco Mengoni, Sayf, Rkomi",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730a686ef1c1ba224f317afbea",
+    "spotifyUrl": "https://open.spotify.com/album/4NQBEzQomU36U3oaXTgKj4",
+    "playedAt": "2026-11-03T20:27:17.979Z"
+  },
+  {
+    "albumId": "4aNjXVkVKGFfr2HRkVM302",
+    "title": "MATERIA (TERRA)",
+    "artist": "Marco Mengoni, Madame",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732c1950d7fdf0bbe6d6e4dd4f",
+    "spotifyUrl": "https://open.spotify.com/album/4aNjXVkVKGFfr2HRkVM302",
+    "playedAt": "2026-11-03T19:34:54.493Z"
+  },
+  {
+    "albumId": "4QpLnSupGsuYYJYYoj29Q7",
+    "title": "TUTTA VITA",
+    "artist": "Olly, Angelina Mango, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739a9754efa9799615cf6045e9",
+    "spotifyUrl": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7",
+    "playedAt": "2026-11-03T19:31:22.992Z"
+  },
+  {
+    "albumId": "50LwyAhGEJXyf8EZW3dIAa",
+    "title": "IL SOLE DENTRO",
+    "artist": "Mida",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27367d24894d838c39e21297e3b",
+    "spotifyUrl": "https://open.spotify.com/album/50LwyAhGEJXyf8EZW3dIAa",
+    "playedAt": "2026-11-03T19:27:49.632Z"
+  },
+  {
+    "albumId": "2iYLGQ5pypH737g75mx4yf",
+    "title": "Despedida",
+    "artist": "\u00cd\u00f1igo Quintero",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a29275e1c31205024a4cc4db",
+    "spotifyUrl": "https://open.spotify.com/album/2iYLGQ5pypH737g75mx4yf",
+    "playedAt": "2026-11-03T19:25:06.490Z"
+  },
+  {
+    "albumId": "08SB1CgIS0yVIH7ZV99I6f",
+    "title": "TUTTA VITA (SEMPRE)",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736752cb3279906514dd04c8aa",
+    "spotifyUrl": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f",
+    "playedAt": "2026-11-03T19:22:42.593Z"
+  },
+  {
+    "albumId": "6471E1sHbiORDuwJkNL3JG",
+    "title": "Le cose che non ho",
+    "artist": "Marco Mengoni",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732a31ce32202a546a9d6083d8",
+    "spotifyUrl": "https://open.spotify.com/album/6471E1sHbiORDuwJkNL3JG",
+    "playedAt": "2026-11-03T19:18:29.513Z"
+  },
+  {
+    "albumId": "1a22miqSMba4FbUk9w50v2",
+    "title": "#PRONTOACORRERE",
+    "artist": "Marco Mengoni",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b506d695eb24b13008dd603f",
+    "spotifyUrl": "https://open.spotify.com/album/1a22miqSMba4FbUk9w50v2",
+    "playedAt": "2026-11-03T19:11:48.520Z"
+  },
+  {
+    "albumId": "7fRrTyKvE4Skh93v97gtcU",
+    "title": "dont smile at me",
+    "artist": "Billie Eilish",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795",
+    "spotifyUrl": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU",
+    "playedAt": "2026-11-03T19:08:09.164Z"
+  },
+  {
+    "albumId": "2ClZ9xWAYg1BH8zkR96dJo",
+    "title": "USB",
+    "artist": "Fred again.., Baby Keem",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734018b70099d433d9c8aabb12",
+    "spotifyUrl": "https://open.spotify.com/album/2ClZ9xWAYg1BH8zkR96dJo",
+    "playedAt": "2026-11-03T16:33:29.299Z"
+  },
+  {
+    "albumId": "4HZ3fF1dwSZLwztlLwoDYA",
+    "title": "9 months & 50 hours",
+    "artist": "LATIN MAFIA, Fred again..",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732fe1ee03a5bed6b4a2e73296",
+    "spotifyUrl": "https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA",
+    "playedAt": "2026-11-03T16:29:46.012Z"
+  },
+  {
+    "albumId": "6o86bV7TAt5x4exc2qLDqC",
+    "title": "Actual Life (April 14 - December 17 2020)",
+    "artist": "Fred again.., The Blessed Madonna",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273723d4df900fd02eff83579d9",
+    "spotifyUrl": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC",
+    "playedAt": "2026-11-03T16:25:47.411Z"
+  },
+  {
+    "albumId": "0CkBYPmr1j7EEWSQMHDBLg",
+    "title": "Sexy Magic (from GTAVI: The Album)",
+    "artist": "CA7RIEL & Paco Amoroso, PinkPantheress, Fred again.., Etienne de Cr\u00e9cy , Grand Theft Auto VI",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273428173abda5ff463c0a8c27d",
+    "spotifyUrl": "https://open.spotify.com/album/0CkBYPmr1j7EEWSQMHDBLg",
+    "playedAt": "2026-11-03T16:21:01.516Z"
+  },
+  {
+    "albumId": "1wD2xMSjGRFSVX8zkFEuMo",
+    "title": "Victory Lap",
+    "artist": "Fred again.., Skepta, PlaqueBoyMax",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bf705b821b031cefe91d7b90",
+    "spotifyUrl": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo",
+    "playedAt": "2026-11-03T16:17:45.219Z"
+  },
+  {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-11-03T15:51:37.064Z"
+  },
+  {
+    "albumId": "2XV0MZMgCM4CKzhDiojZxj",
+    "title": "Funk Shui Project",
+    "artist": "Funk Shui Project, Willie Peyote, Sabrina Pallini",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738d302f1bf8dfa9cf417509e9",
+    "spotifyUrl": "https://open.spotify.com/album/2XV0MZMgCM4CKzhDiojZxj",
+    "playedAt": "2026-11-03T15:44:23.152Z"
+  },
+  {
+    "albumId": "3AztwxyKcHjKxWFLMzuP8D",
+    "title": "ERA SPAZIALE",
+    "artist": "Golden Years, Angelica",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c319cb8bb638003eed54738b",
+    "spotifyUrl": "https://open.spotify.com/album/3AztwxyKcHjKxWFLMzuP8D",
+    "playedAt": "2026-11-03T15:40:51.646Z"
+  },
+  {
+    "albumId": "5CGnFM04nKBlAWbSKDF38B",
+    "title": "MDMA",
+    "artist": "Giuse The Lizia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273855fa0297f55eb70ab581aa0",
+    "spotifyUrl": "https://open.spotify.com/album/5CGnFM04nKBlAWbSKDF38B",
+    "playedAt": "2026-11-03T15:35:09.840Z"
+  },
+  {
+    "albumId": "5s61oiZnikXG0eQ2PtgjBf",
+    "title": "Qualunque cosa sia",
+    "artist": "I Segreti",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273aaede16f9e70cf350cebc6df",
+    "spotifyUrl": "https://open.spotify.com/album/5s61oiZnikXG0eQ2PtgjBf",
+    "playedAt": "2026-11-03T15:31:30.846Z"
+  },
+  {
+    "albumId": "7E370P0OjfgC6BQ5iMbhWJ",
+    "title": "Principessa della ferraglia",
+    "artist": "Primogenito",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f1b1acfa17fbf927d6b5671c",
+    "spotifyUrl": "https://open.spotify.com/album/7E370P0OjfgC6BQ5iMbhWJ",
+    "playedAt": "2026-11-03T15:28:07.149Z"
+  },
+  {
+    "albumId": "5vU1aPRtYOS3wUkitPGbWV",
+    "title": "Avete ragione tutti",
+    "artist": "Canova",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734faf0f1c533513c1989413d6",
+    "spotifyUrl": "https://open.spotify.com/album/5vU1aPRtYOS3wUkitPGbWV",
+    "playedAt": "2026-11-03T15:25:09.987Z"
+  },
+  {
+    "albumId": "2HrTSVODjlbqkLQXvl5Ovw",
+    "title": "Conchiglie",
+    "artist": "Andrea Laszlo De Simone",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a7525546cbf7f7630faa6a7f",
+    "spotifyUrl": "https://open.spotify.com/album/2HrTSVODjlbqkLQXvl5Ovw",
+    "playedAt": "2026-11-03T15:21:47.444Z"
+  },
+  {
     "albumId": "43bI6dV1TRBpW7wuQbjSUn",
     "title": "Ho Perso Di Vista Me",
     "artist": "43.Nove, Brus DMC",
     "cover": "https://i.scdn.co/image/ab67616d0000b273f54d76ad5cfeacd9f7c7c138",
     "spotifyUrl": "https://open.spotify.com/album/43bI6dV1TRBpW7wuQbjSUn",
-    "playedAt": "2026-11-03T12:04:22.557Z"
+    "playedAt": "2026-11-03T15:14:04.521Z"
+  },
+  {
+    "albumId": "6FlVsdTTCVd6VwVS1AW0Dp",
+    "title": "dettagli",
+    "artist": "okgiorgio",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ff05a96d61a9d9e25cf4feb3",
+    "spotifyUrl": "https://open.spotify.com/album/6FlVsdTTCVd6VwVS1AW0Dp",
+    "playedAt": "2026-11-03T14:25:07.242Z"
+  },
+  {
+    "albumId": "2fEU0zMNnMwgvnayvExM5S",
+    "title": "WATERPROOF",
+    "artist": "ATARDE",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273cea226e2199ee2ac15e92c47",
+    "spotifyUrl": "https://open.spotify.com/album/2fEU0zMNnMwgvnayvExM5S",
+    "playedAt": "2026-11-03T14:20:55.083Z"
+  },
+  {
+    "albumId": "0idasMxjLcTfRitXmkvJ93",
+    "title": "CALCINACCI",
+    "artist": "Fulminacci",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ff26d9e6888e0a1ab315aa6a",
+    "spotifyUrl": "https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93",
+    "playedAt": "2026-11-03T14:17:54.127Z"
+  },
+  {
+    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
+    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
+    "artist": "faccianuvola",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
+    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
+    "playedAt": "2026-11-03T14:14:48.084Z"
   },
   {
     "albumId": "0gyxsQNxvZH5jHTWcuJ2xk",
@@ -14,46 +254,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273b7e0ecfc7117cec627506695",
     "spotifyUrl": "https://open.spotify.com/album/0gyxsQNxvZH5jHTWcuJ2xk",
     "playedAt": "2026-11-03T10:54:42.438Z"
-  },
-  {
-    "albumId": "6FlVsdTTCVd6VwVS1AW0Dp",
-    "title": "dettagli",
-    "artist": "okgiorgio",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ff05a96d61a9d9e25cf4feb3",
-    "spotifyUrl": "https://open.spotify.com/album/6FlVsdTTCVd6VwVS1AW0Dp",
-    "playedAt": "2026-11-03T10:40:57.892Z"
-  },
-  {
-    "albumId": "2fEU0zMNnMwgvnayvExM5S",
-    "title": "WATERPROOF",
-    "artist": "ATARDE",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273cea226e2199ee2ac15e92c47",
-    "spotifyUrl": "https://open.spotify.com/album/2fEU0zMNnMwgvnayvExM5S",
-    "playedAt": "2026-11-03T10:36:45.712Z"
-  },
-  {
-    "albumId": "0idasMxjLcTfRitXmkvJ93",
-    "title": "CALCINACCI",
-    "artist": "Fulminacci",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ff26d9e6888e0a1ab315aa6a",
-    "spotifyUrl": "https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93",
-    "playedAt": "2026-11-03T10:33:44.872Z"
-  },
-  {
-    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
-    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
-    "artist": "faccianuvola",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
-    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
-    "playedAt": "2026-11-03T10:30:38.701Z"
-  },
-  {
-    "albumId": "5CGnFM04nKBlAWbSKDF38B",
-    "title": "MDMA",
-    "artist": "Giuse The Lizia",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273855fa0297f55eb70ab581aa0",
-    "spotifyUrl": "https://open.spotify.com/album/5CGnFM04nKBlAWbSKDF38B",
-    "playedAt": "2026-11-03T10:27:12.022Z"
   },
   {
     "albumId": "0Y49dBI9R8M3mHxXfWaZo7",
@@ -70,14 +270,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b27397a5d9c94b41a30887732b11",
     "spotifyUrl": "https://open.spotify.com/album/26gipg6XsqSu6y4m1cZNji",
     "playedAt": "2026-11-03T10:21:12.055Z"
-  },
-  {
-    "albumId": "5vU1aPRtYOS3wUkitPGbWV",
-    "title": "Avete ragione tutti",
-    "artist": "Canova",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734faf0f1c533513c1989413d6",
-    "spotifyUrl": "https://open.spotify.com/album/5vU1aPRtYOS3wUkitPGbWV",
-    "playedAt": "2026-11-03T10:18:37.448Z"
   },
   {
     "albumId": "5gzluUMgS7XUXVToWRp4UO",
@@ -102,14 +294,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273ddacafc70cc6f35d9cccac53",
     "spotifyUrl": "https://open.spotify.com/album/7pKecv42eDVOeFIr8E0tVi",
     "playedAt": "2026-11-03T10:10:05.307Z"
-  },
-  {
-    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
-    "title": "SINCERO!",
-    "artist": "Rare\u0219",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
-    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
-    "playedAt": "2026-11-03T07:03:25.749Z"
   },
   {
     "albumId": "5KsrpADyPgZQA4f67KmuGz",
@@ -198,189 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273b0a4539126755b4796ba1f45",
     "spotifyUrl": "https://open.spotify.com/album/6zBVlFWATphRVpz1rxyWvF",
     "playedAt": "2026-11-02T15:53:42.051Z"
-  },
-  {
-    "albumId": "52E4RP7XDzalpIrOgSTgiQ",
-    "title": "Invincible",
-    "artist": "Michael Jackson",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75",
-    "spotifyUrl": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ",
-    "playedAt": "2026-11-02T15:50:49.658Z"
-  },
-  {
-    "albumId": "7oxC0J3L5JiVHMZRU9qGPS",
-    "title": "her (feat. ZVC)",
-    "artist": "JVKE, ZVC",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c5e3ef0da8cf3c1eebd422a2",
-    "spotifyUrl": "https://open.spotify.com/album/7oxC0J3L5JiVHMZRU9qGPS",
-    "playedAt": "2026-11-02T12:42:17.299Z"
-  },
-  {
-    "albumId": "1O8zecXhiPs2oEPXmcMnqL",
-    "title": "Time Is Running Out",
-    "artist": "Nothing Ends",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a6943d375eae3811f1771176",
-    "spotifyUrl": "https://open.spotify.com/album/1O8zecXhiPs2oEPXmcMnqL",
-    "playedAt": "2026-11-02T12:32:36.523Z"
-  },
-  {
-    "albumId": "4lnsaWcuoXUzDINVbyG9ak",
-    "title": "Back 2 Back",
-    "artist": "Skepta, Fred again..",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273addfa766fc060f7e4669976b",
-    "spotifyUrl": "https://open.spotify.com/album/4lnsaWcuoXUzDINVbyG9ak",
-    "playedAt": "2026-11-02T12:24:32.314Z"
-  },
-  {
-    "albumId": "5HQ3q1jMLZVMJfFujK0zY9",
-    "title": "Vivi Per Sempre",
-    "artist": "Canova",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b89546012b5693a44807445c",
-    "spotifyUrl": "https://open.spotify.com/album/5HQ3q1jMLZVMJfFujK0zY9",
-    "playedAt": "2026-11-02T12:18:43.967Z"
-  },
-  {
-    "albumId": "21IzWBMtUfaOOfFx8CiR6I",
-    "title": "@dannocean",
-    "artist": "Danny Ocean",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27383a5cf876497c823696748be",
-    "spotifyUrl": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I",
-    "playedAt": "2026-11-02T11:24:49.746Z"
-  },
-  {
-    "albumId": "42pGRNpFJumps5qcggM8Tj",
-    "title": "Figa De Guin\u00e9",
-    "artist": "Mari Froes",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738d5589c8d434d3b97e7fea96",
-    "spotifyUrl": "https://open.spotify.com/album/42pGRNpFJumps5qcggM8Tj",
-    "playedAt": "2026-11-02T11:12:08.541Z"
-  },
-  {
-    "albumId": "43bI6dV1TRBpW7wuQbjSUn",
-    "title": "Ho Perso Di Vista Me",
-    "artist": "43.Nove, Brus DMC",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f54d76ad5cfeacd9f7c7c138",
-    "spotifyUrl": "https://open.spotify.com/album/43bI6dV1TRBpW7wuQbjSUn",
-    "playedAt": "2026-11-02T11:09:47.134Z"
-  },
-  {
-    "albumId": "6WaypAEqrcs1YmMLWJM3lM",
-    "title": "Santamaria",
-    "artist": "Canova",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27360dc1e5af314f8e3e0d7d0b2",
-    "spotifyUrl": "https://open.spotify.com/album/6WaypAEqrcs1YmMLWJM3lM",
-    "playedAt": "2026-11-02T11:06:25.840Z"
-  },
-  {
-    "albumId": "0JUDefDYuQhk1fghSAWKvd",
-    "title": "Wind",
-    "artist": "prm., Paul Roggenbuck",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273abe20f59a183d65129cf911f",
-    "spotifyUrl": "https://open.spotify.com/album/0JUDefDYuQhk1fghSAWKvd",
-    "playedAt": "2026-11-02T07:04:52.521Z"
-  },
-  {
-    "albumId": "7oxC0J3L5JiVHMZRU9qGPS",
-    "title": "her (feat. ZVC)",
-    "artist": "JVKE, ZVC",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c5e3ef0da8cf3c1eebd422a2",
-    "spotifyUrl": "https://open.spotify.com/album/7oxC0J3L5JiVHMZRU9qGPS",
-    "playedAt": "2026-11-01T22:39:47.380Z"
-  },
-  {
-    "albumId": "6WaypAEqrcs1YmMLWJM3lM",
-    "title": "Santamaria",
-    "artist": "Canova",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27360dc1e5af314f8e3e0d7d0b2",
-    "spotifyUrl": "https://open.spotify.com/album/6WaypAEqrcs1YmMLWJM3lM",
-    "playedAt": "2026-11-01T22:32:01.523Z"
-  },
-  {
-    "albumId": "72s8YL1M9J84p4oCyd4PaP",
-    "title": "Tante care cose e altri successi",
-    "artist": "Fulminacci",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ad9a20769e33f70d092f6840",
-    "spotifyUrl": "https://open.spotify.com/album/72s8YL1M9J84p4oCyd4PaP",
-    "playedAt": "2026-11-01T10:18:04.466Z"
-  },
-  {
-    "albumId": "07cgnh1Gjj9zPbwPgNmXQL",
-    "title": "Il Primo Grande Disco Di Lumiero",
-    "artist": "Lumiero",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273fa4f7809c220eccd33cd9dce",
-    "spotifyUrl": "https://open.spotify.com/album/07cgnh1Gjj9zPbwPgNmXQL",
-    "playedAt": "2026-11-01T10:14:45.970Z"
-  },
-  {
-    "albumId": "45o0JtSekR90PAsU1X6cuS",
-    "title": "Fa Niente",
-    "artist": "Giorgio Poi",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273dcebec569629405fa8455f15",
-    "spotifyUrl": "https://open.spotify.com/album/45o0JtSekR90PAsU1X6cuS",
-    "playedAt": "2026-11-01T10:07:47.314Z"
-  },
-  {
-    "albumId": "7GrBztiTYeurqweiz70SfY",
-    "title": "Fantastico (con Giorgio Poi)",
-    "artist": "Golden Years, Drast, Giorgio Poi",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273dd68e031f5c25d6f1fae95d1",
-    "spotifyUrl": "https://open.spotify.com/album/7GrBztiTYeurqweiz70SfY",
-    "playedAt": "2026-11-01T10:02:33.516Z"
-  },
-  {
-    "albumId": "6FTbaxb6QghMZu27b3eFHV",
-    "title": "stare al mondo",
-    "artist": "Matteo Alieno",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2730ef357d0cca7677a7301e7c9",
-    "spotifyUrl": "https://open.spotify.com/album/6FTbaxb6QghMZu27b3eFHV",
-    "playedAt": "2026-11-01T10:00:19.313Z"
-  },
-  {
-    "albumId": "43bI6dV1TRBpW7wuQbjSUn",
-    "title": "Ho Perso Di Vista Me",
-    "artist": "43.Nove, Brus DMC",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f54d76ad5cfeacd9f7c7c138",
-    "spotifyUrl": "https://open.spotify.com/album/43bI6dV1TRBpW7wuQbjSUn",
-    "playedAt": "2026-11-01T09:57:10.916Z"
-  },
-  {
-    "albumId": "7qbzGRkW9CRRWGuOGA7Sq3",
-    "title": "IO NESSUNO",
-    "artist": "centomilacarie",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f15710574e8c00973b24cef2",
-    "spotifyUrl": "https://open.spotify.com/album/7qbzGRkW9CRRWGuOGA7Sq3",
-    "playedAt": "2026-11-01T09:49:49.238Z"
-  },
-  {
-    "albumId": "6vWS1rPwGcHIHPbDoaJXfZ",
-    "title": "Tutti Tornano A Casa",
-    "artist": "ARIETE",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e16ac989852f1cabce3e05ec",
-    "spotifyUrl": "https://open.spotify.com/album/6vWS1rPwGcHIHPbDoaJXfZ",
-    "playedAt": "2026-11-01T04:59:54.885Z"
-  },
-  {
-    "albumId": "2Aoaa2DRSBnFaACdmualPn",
-    "title": "ok",
-    "artist": "okgiorgio",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732cdbf1580217e07b3206eae2",
-    "spotifyUrl": "https://open.spotify.com/album/2Aoaa2DRSBnFaACdmualPn",
-    "playedAt": "2026-11-01T04:56:39.081Z"
-  },
-  {
-    "albumId": "5HQ3q1jMLZVMJfFujK0zY9",
-    "title": "Vivi Per Sempre",
-    "artist": "Canova",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b89546012b5693a44807445c",
-    "spotifyUrl": "https://open.spotify.com/album/5HQ3q1jMLZVMJfFujK0zY9",
-    "playedAt": "2026-11-01T04:54:34.151Z"
-  },
-  {
-    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
-    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
-    "artist": "faccianuvola",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
-    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
-    "playedAt": "2026-11-01T04:51:53.378Z"
   }
 ]
