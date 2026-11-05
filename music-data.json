@@ -1,5 +1,77 @@
 [
   {
+    "albumId": "6s84u2TUpR3wdUv4NgKA2j",
+    "title": "SOUR",
+    "artist": "Olivia Rodrigo",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+    "spotifyUrl": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j",
+    "playedAt": "2026-11-05T09:05:05.419Z"
+  },
+  {
+    "albumId": "6zBVlFWATphRVpz1rxyWvF",
+    "title": "abbatteremo i motel e torneremo a far l\u2019amore in mezzo ai campi",
+    "artist": "Albe",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b0a4539126755b4796ba1f45",
+    "spotifyUrl": "https://open.spotify.com/album/6zBVlFWATphRVpz1rxyWvF",
+    "playedAt": "2026-11-05T08:36:04.374Z"
+  },
+  {
+    "albumId": "7oxC0J3L5JiVHMZRU9qGPS",
+    "title": "her (feat. ZVC)",
+    "artist": "JVKE, ZVC",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c5e3ef0da8cf3c1eebd422a2",
+    "spotifyUrl": "https://open.spotify.com/album/7oxC0J3L5JiVHMZRU9qGPS",
+    "playedAt": "2026-11-05T08:33:08.578Z"
+  },
+  {
+    "albumId": "5HQ3q1jMLZVMJfFujK0zY9",
+    "title": "Vivi Per Sempre",
+    "artist": "Canova",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b89546012b5693a44807445c",
+    "spotifyUrl": "https://open.spotify.com/album/5HQ3q1jMLZVMJfFujK0zY9",
+    "playedAt": "2026-11-05T08:30:44.006Z"
+  },
+  {
+    "albumId": "43bI6dV1TRBpW7wuQbjSUn",
+    "title": "Ho Perso Di Vista Me",
+    "artist": "43.Nove, Brus DMC",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f54d76ad5cfeacd9f7c7c138",
+    "spotifyUrl": "https://open.spotify.com/album/43bI6dV1TRBpW7wuQbjSUn",
+    "playedAt": "2026-11-05T08:26:48.449Z"
+  },
+  {
+    "albumId": "1O8zecXhiPs2oEPXmcMnqL",
+    "title": "Time Is Running Out",
+    "artist": "Nothing Ends",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a6943d375eae3811f1771176",
+    "spotifyUrl": "https://open.spotify.com/album/1O8zecXhiPs2oEPXmcMnqL",
+    "playedAt": "2026-11-05T08:21:54.755Z"
+  },
+  {
+    "albumId": "6WaypAEqrcs1YmMLWJM3lM",
+    "title": "Santamaria",
+    "artist": "Canova",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27360dc1e5af314f8e3e0d7d0b2",
+    "spotifyUrl": "https://open.spotify.com/album/6WaypAEqrcs1YmMLWJM3lM",
+    "playedAt": "2026-11-05T02:18:35.749Z"
+  },
+  {
+    "albumId": "3nmxVghAmY7ZKFL6QQWVdg",
+    "title": "Eri solo da incontrare",
+    "artist": "Alfa",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273762f0ebb926f8dabaab2b2cf",
+    "spotifyUrl": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg",
+    "playedAt": "2026-11-05T02:14:40.391Z"
+  },
+  {
+    "albumId": "2ClZ9xWAYg1BH8zkR96dJo",
+    "title": "USB",
+    "artist": "Fred again.., Skepta, PlaqueBoyMax, Denzel Curry, Hanumankind, That Mexican OT, D Double E, LYNY",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734018b70099d433d9c8aabb12",
+    "spotifyUrl": "https://open.spotify.com/album/2ClZ9xWAYg1BH8zkR96dJo",
+    "playedAt": "2026-11-05T02:10:59.669Z"
+  },
+  {
     "albumId": "1WsIrA4LQIfAQyIu3QPZJ7",
     "title": "Smiling Through The Pain 2",
     "artist": "Swimming Paul, Alecc Crisostomo, D38",
@@ -56,12 +128,36 @@
     "playedAt": "2026-11-04T13:01:10.896Z"
   },
   {
+    "albumId": "3GIj6ZdQw2XLkMspCJVsG8",
+    "title": "Sal rosa",
+    "artist": "LATIN MAFIA",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e4d260b37299107b0b94dd36",
+    "spotifyUrl": "https://open.spotify.com/album/3GIj6ZdQw2XLkMspCJVsG8",
+    "playedAt": "2026-11-04T12:57:22.557Z"
+  },
+  {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-11-04T12:52:58.500Z"
+  },
+  {
+    "albumId": "6zBVlFWATphRVpz1rxyWvF",
+    "title": "abbatteremo i motel e torneremo a far l\u2019amore in mezzo ai campi",
+    "artist": "Albe",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b0a4539126755b4796ba1f45",
+    "spotifyUrl": "https://open.spotify.com/album/6zBVlFWATphRVpz1rxyWvF",
+    "playedAt": "2026-11-04T12:49:10.794Z"
+  },
+  {
     "albumId": "6WaypAEqrcs1YmMLWJM3lM",
     "title": "Santamaria",
     "artist": "Canova",
     "cover": "https://i.scdn.co/image/ab67616d0000b27360dc1e5af314f8e3e0d7d0b2",
     "spotifyUrl": "https://open.spotify.com/album/6WaypAEqrcs1YmMLWJM3lM",
-    "playedAt": "2026-11-04T11:18:10.815Z"
+    "playedAt": "2026-11-04T12:28:31.789Z"
   },
   {
     "albumId": "3nmxVghAmY7ZKFL6QQWVdg",
@@ -69,7 +165,47 @@
     "artist": "Alfa",
     "cover": "https://i.scdn.co/image/ab67616d0000b273762f0ebb926f8dabaab2b2cf",
     "spotifyUrl": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg",
-    "playedAt": "2026-11-04T11:03:26.168Z"
+    "playedAt": "2026-11-04T12:24:36.441Z"
+  },
+  {
+    "albumId": "52E4RP7XDzalpIrOgSTgiQ",
+    "title": "Invincible",
+    "artist": "Michael Jackson",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75",
+    "spotifyUrl": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ",
+    "playedAt": "2026-11-04T12:21:15.908Z"
+  },
+  {
+    "albumId": "7oxC0J3L5JiVHMZRU9qGPS",
+    "title": "her (feat. ZVC)",
+    "artist": "JVKE, ZVC",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c5e3ef0da8cf3c1eebd422a2",
+    "spotifyUrl": "https://open.spotify.com/album/7oxC0J3L5JiVHMZRU9qGPS",
+    "playedAt": "2026-11-04T12:15:36.455Z"
+  },
+  {
+    "albumId": "5HQ3q1jMLZVMJfFujK0zY9",
+    "title": "Vivi Per Sempre",
+    "artist": "Canova",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b89546012b5693a44807445c",
+    "spotifyUrl": "https://open.spotify.com/album/5HQ3q1jMLZVMJfFujK0zY9",
+    "playedAt": "2026-11-04T12:13:11.820Z"
+  },
+  {
+    "albumId": "43bI6dV1TRBpW7wuQbjSUn",
+    "title": "Ho Perso Di Vista Me",
+    "artist": "43.Nove, Brus DMC",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f54d76ad5cfeacd9f7c7c138",
+    "spotifyUrl": "https://open.spotify.com/album/43bI6dV1TRBpW7wuQbjSUn",
+    "playedAt": "2026-11-04T12:09:16.249Z"
+  },
+  {
+    "albumId": "1O8zecXhiPs2oEPXmcMnqL",
+    "title": "Time Is Running Out",
+    "artist": "Nothing Ends",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a6943d375eae3811f1771176",
+    "spotifyUrl": "https://open.spotify.com/album/1O8zecXhiPs2oEPXmcMnqL",
+    "playedAt": "2026-11-04T12:05:59.249Z"
   },
   {
     "albumId": "375cUd86z58eqXN2yW3Do9",
@@ -94,70 +230,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b27398ed501c6a838b2244ebaf75",
     "spotifyUrl": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9",
     "playedAt": "2026-11-04T10:31:05.333Z"
-  },
-  {
-    "albumId": "3GIj6ZdQw2XLkMspCJVsG8",
-    "title": "Sal rosa",
-    "artist": "LATIN MAFIA",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e4d260b37299107b0b94dd36",
-    "spotifyUrl": "https://open.spotify.com/album/3GIj6ZdQw2XLkMspCJVsG8",
-    "playedAt": "2026-11-04T10:26:13.244Z"
-  },
-  {
-    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
-    "title": "SINCERO!",
-    "artist": "Rare\u0219",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
-    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
-    "playedAt": "2026-11-04T10:21:49.218Z"
-  },
-  {
-    "albumId": "6zBVlFWATphRVpz1rxyWvF",
-    "title": "abbatteremo i motel e torneremo a far l\u2019amore in mezzo ai campi",
-    "artist": "Albe",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b0a4539126755b4796ba1f45",
-    "spotifyUrl": "https://open.spotify.com/album/6zBVlFWATphRVpz1rxyWvF",
-    "playedAt": "2026-11-04T10:18:01.546Z"
-  },
-  {
-    "albumId": "52E4RP7XDzalpIrOgSTgiQ",
-    "title": "Invincible",
-    "artist": "Michael Jackson",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75",
-    "spotifyUrl": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ",
-    "playedAt": "2026-11-04T10:15:09.143Z"
-  },
-  {
-    "albumId": "7oxC0J3L5JiVHMZRU9qGPS",
-    "title": "her (feat. ZVC)",
-    "artist": "JVKE, ZVC",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c5e3ef0da8cf3c1eebd422a2",
-    "spotifyUrl": "https://open.spotify.com/album/7oxC0J3L5JiVHMZRU9qGPS",
-    "playedAt": "2026-11-04T10:09:29.650Z"
-  },
-  {
-    "albumId": "5HQ3q1jMLZVMJfFujK0zY9",
-    "title": "Vivi Per Sempre",
-    "artist": "Canova",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b89546012b5693a44807445c",
-    "spotifyUrl": "https://open.spotify.com/album/5HQ3q1jMLZVMJfFujK0zY9",
-    "playedAt": "2026-11-04T10:07:05.045Z"
-  },
-  {
-    "albumId": "43bI6dV1TRBpW7wuQbjSUn",
-    "title": "Ho Perso Di Vista Me",
-    "artist": "43.Nove, Brus DMC",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f54d76ad5cfeacd9f7c7c138",
-    "spotifyUrl": "https://open.spotify.com/album/43bI6dV1TRBpW7wuQbjSUn",
-    "playedAt": "2026-11-04T10:03:09.546Z"
-  },
-  {
-    "albumId": "1O8zecXhiPs2oEPXmcMnqL",
-    "title": "Time Is Running Out",
-    "artist": "Nothing Ends",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a6943d375eae3811f1771176",
-    "spotifyUrl": "https://open.spotify.com/album/1O8zecXhiPs2oEPXmcMnqL",
-    "playedAt": "2026-11-04T09:59:52.559Z"
   },
   {
     "albumId": "1IM3GwptCGYjRkzCBolyFK",
@@ -310,77 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273005cd7d0ae87b081601f6cca",
     "spotifyUrl": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ",
     "playedAt": "2026-11-03T21:11:42.359Z"
-  },
-  {
-    "albumId": "6FM2zi33hm46NY9mk5jIV8",
-    "title": "Chapter One (Deluxe Version)",
-    "artist": "Ella Henderson",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27351892e4f1682f9a957be5194",
-    "spotifyUrl": "https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8",
-    "playedAt": "2026-11-03T21:08:20.866Z"
-  },
-  {
-    "albumId": "20HEHCknEVHTez1OI0MFiC",
-    "title": "The Epilogue (Deluxe)",
-    "artist": "Dean Lewis",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27362cdaa2e3cd529259e7fa848",
-    "spotifyUrl": "https://open.spotify.com/album/20HEHCknEVHTez1OI0MFiC",
-    "playedAt": "2026-11-03T21:05:31.634Z"
-  },
-  {
-    "albumId": "5waiE6DS2ntWF3Q0yekJUm",
-    "title": "This City",
-    "artist": "Sam Fischer",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27370e6c775adc0f71e6bef0a9b",
-    "spotifyUrl": "https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm",
-    "playedAt": "2026-11-03T21:02:32.439Z"
-  },
-  {
-    "albumId": "12yk8rImy0CJZivWbhrXiT",
-    "title": "Open Road",
-    "artist": "Jane Good, Brunette Drive, TOZZ",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737f1763693567c612356a7f9f",
-    "spotifyUrl": "https://open.spotify.com/album/12yk8rImy0CJZivWbhrXiT",
-    "playedAt": "2026-11-03T20:59:17.146Z"
-  },
-  {
-    "albumId": "1rLLyY5p6HXNl2lKzINWp5",
-    "title": "Lungs (Deluxe Version)",
-    "artist": "Florence + The Machine",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273003f81b1f4246362638e682d",
-    "spotifyUrl": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5",
-    "playedAt": "2026-11-03T20:56:58.593Z"
-  },
-  {
-    "albumId": "0HRZM9b4uRFYsuLUSsv9rG",
-    "title": "i don't wanna die young",
-    "artist": "Addict.",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a44f164ce98a9358c13382eb",
-    "spotifyUrl": "https://open.spotify.com/album/0HRZM9b4uRFYsuLUSsv9rG",
-    "playedAt": "2026-11-03T20:54:09.459Z"
-  },
-  {
-    "albumId": "5658aM19fA3JVwTK6eQX70",
-    "title": "Divinely Uninspired To A Hellish Extent",
-    "artist": "Lewis Capaldi",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2",
-    "spotifyUrl": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70",
-    "playedAt": "2026-11-03T20:51:38.778Z"
-  },
-  {
-    "albumId": "3cptxwPFf3Ioj7I3AVX3mp",
-    "title": "How Do I Say Goodbye",
-    "artist": "Dean Lewis",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273bfedccaca3c8425fdc0a7c73",
-    "spotifyUrl": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp",
-    "playedAt": "2026-11-03T20:48:36.110Z"
-  },
-  {
-    "albumId": "25xh26FmCXPFgnCXLvTS5Q",
-    "title": "Infinito +1",
-    "artist": "Fulminacci, Pinguini Tattici Nucleari",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2735f57f9583b4b0f148cdfe274",
-    "spotifyUrl": "https://open.spotify.com/album/25xh26FmCXPFgnCXLvTS5Q",
-    "playedAt": "2026-11-03T20:40:20.381Z"
   }
 ]
