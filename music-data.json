@@ -1,11 +1,59 @@
 [
   {
+    "albumId": "5p3gSxNiXeYlPlztVAUjB2",
+    "title": "All I Want (From \"High School Musical: The Musical: The Series\")",
+    "artist": "Olivia Rodrigo, Disney",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736d38bbfd2631c232763e3ddf",
+    "spotifyUrl": "https://open.spotify.com/album/5p3gSxNiXeYlPlztVAUjB2",
+    "playedAt": "2026-11-05T22:19:47.253Z"
+  },
+  {
+    "albumId": "6s84u2TUpR3wdUv4NgKA2j",
+    "title": "SOUR",
+    "artist": "Olivia Rodrigo",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+    "spotifyUrl": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j",
+    "playedAt": "2026-11-05T21:44:26.759Z"
+  },
+  {
+    "albumId": "2RRYaYHY7fIIdvFlvgb5vq",
+    "title": "american dream",
+    "artist": "21 Savage, Burna Boy, Metro Boomin",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731e146244cf70b7aab703c057",
+    "spotifyUrl": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq",
+    "playedAt": "2026-11-05T21:39:36.334Z"
+  },
+  {
+    "albumId": "0WqDLFy6UcjR9ygT9PrT22",
+    "title": "IO NON HO PAURA",
+    "artist": "Ernia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27359fbd220d580fbde3ff7af1c",
+    "spotifyUrl": "https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22",
+    "playedAt": "2026-11-05T21:32:15.856Z"
+  },
+  {
+    "albumId": "4gjJj6UCG1hitjAk1CdgDc",
+    "title": "Containers",
+    "artist": "Night Skinny, Rkomi, Ernia, Bresh",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738dd0855360fb4f0be2b9055c",
+    "spotifyUrl": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc",
+    "playedAt": "2026-11-05T20:56:52.552Z"
+  },
+  {
     "albumId": "3nmxVghAmY7ZKFL6QQWVdg",
     "title": "Eri solo da incontrare",
     "artist": "Alfa",
     "cover": "https://i.scdn.co/image/ab67616d0000b273762f0ebb926f8dabaab2b2cf",
     "spotifyUrl": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg",
     "playedAt": "2026-11-05T19:07:59.628Z"
+  },
+  {
+    "albumId": "6jKZplJpy21R5lHaYHHjmZ",
+    "title": "Narrated For You",
+    "artist": "Alec Benjamin",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370",
+    "spotifyUrl": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ",
+    "playedAt": "2026-11-05T18:59:09.692Z"
   },
   {
     "albumId": "7eed9MBclFPjjjvotfR2e9",
@@ -208,6 +256,30 @@
     "playedAt": "2026-11-05T17:33:56.255Z"
   },
   {
+    "albumId": "5658aM19fA3JVwTK6eQX70",
+    "title": "Divinely Uninspired To A Hellish Extent",
+    "artist": "Lewis Capaldi",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2",
+    "spotifyUrl": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70",
+    "playedAt": "2026-11-05T17:30:58.658Z"
+  },
+  {
+    "albumId": "4gCNyS7pidfK3rKWhB3JOY",
+    "title": "FOUR (Deluxe)",
+    "artist": "One Direction",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27334a29f220057810cce98e1b4",
+    "spotifyUrl": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY",
+    "playedAt": "2026-11-05T17:27:27.313Z"
+  },
+  {
+    "albumId": "69AaAkdktFGnk9POmHENkT",
+    "title": "this is what ____ feels like (Vol. 1-4)",
+    "artist": "JVKE",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c2504e80ba2f258697ab2954",
+    "spotifyUrl": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT",
+    "playedAt": "2026-11-05T17:23:38.632Z"
+  },
+  {
     "albumId": "18qJgKH8dyYe2RRp6TbnNY",
     "title": "you seem pretty sad for a girl so in love",
     "artist": "Olivia Rodrigo",
@@ -230,14 +302,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b27308862f843ea27f44f8e8cbd8",
     "spotifyUrl": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf",
     "playedAt": "2026-11-05T17:05:38.922Z"
-  },
-  {
-    "albumId": "6jKZplJpy21R5lHaYHHjmZ",
-    "title": "Narrated For You",
-    "artist": "Alec Benjamin",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370",
-    "spotifyUrl": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ",
-    "playedAt": "2026-11-05T17:01:27.420Z"
   },
   {
     "albumId": "6Fr2rQkZ383FcMqFyT7yPr",
@@ -264,22 +328,6 @@
     "playedAt": "2026-11-05T16:50:31.356Z"
   },
   {
-    "albumId": "4gCNyS7pidfK3rKWhB3JOY",
-    "title": "FOUR (Deluxe)",
-    "artist": "One Direction",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27334a29f220057810cce98e1b4",
-    "spotifyUrl": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY",
-    "playedAt": "2026-11-05T16:43:26.315Z"
-  },
-  {
-    "albumId": "69AaAkdktFGnk9POmHENkT",
-    "title": "this is what ____ feels like (Vol. 1-4)",
-    "artist": "JVKE",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c2504e80ba2f258697ab2954",
-    "spotifyUrl": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT",
-    "playedAt": "2026-11-05T16:39:39.210Z"
-  },
-  {
     "albumId": "1xJHno7SmdVtZAtXbdbDZp",
     "title": "GUTS",
     "artist": "Olivia Rodrigo",
@@ -302,14 +350,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521",
     "spotifyUrl": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq",
     "playedAt": "2026-11-05T16:27:58.145Z"
-  },
-  {
-    "albumId": "5658aM19fA3JVwTK6eQX70",
-    "title": "Divinely Uninspired To A Hellish Extent",
-    "artist": "Lewis Capaldi",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2",
-    "spotifyUrl": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70",
-    "playedAt": "2026-11-05T15:32:59.921Z"
   },
   {
     "albumId": "58ufpQsJ1DS5kq4hhzQDiI",
@@ -342,45 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b27324a1ac503b55e6eef9a7bb8c",
     "spotifyUrl": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj",
     "playedAt": "2026-11-05T15:13:42.520Z"
-  },
-  {
-    "albumId": "5p3gSxNiXeYlPlztVAUjB2",
-    "title": "All I Want (From \"High School Musical: The Musical: The Series\")",
-    "artist": "Olivia Rodrigo, Disney",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736d38bbfd2631c232763e3ddf",
-    "spotifyUrl": "https://open.spotify.com/album/5p3gSxNiXeYlPlztVAUjB2",
-    "playedAt": "2026-11-05T15:08:49.832Z"
-  },
-  {
-    "albumId": "6s84u2TUpR3wdUv4NgKA2j",
-    "title": "SOUR",
-    "artist": "Olivia Rodrigo",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
-    "spotifyUrl": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j",
-    "playedAt": "2026-11-05T15:05:52.001Z"
-  },
-  {
-    "albumId": "6zBVlFWATphRVpz1rxyWvF",
-    "title": "abbatteremo i motel e torneremo a far l\u2019amore in mezzo ai campi",
-    "artist": "Albe",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b0a4539126755b4796ba1f45",
-    "spotifyUrl": "https://open.spotify.com/album/6zBVlFWATphRVpz1rxyWvF",
-    "playedAt": "2026-11-05T08:36:04.374Z"
-  },
-  {
-    "albumId": "7oxC0J3L5JiVHMZRU9qGPS",
-    "title": "her (feat. ZVC)",
-    "artist": "JVKE, ZVC",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c5e3ef0da8cf3c1eebd422a2",
-    "spotifyUrl": "https://open.spotify.com/album/7oxC0J3L5JiVHMZRU9qGPS",
-    "playedAt": "2026-11-05T08:33:08.578Z"
-  },
-  {
-    "albumId": "5HQ3q1jMLZVMJfFujK0zY9",
-    "title": "Vivi Per Sempre",
-    "artist": "Canova",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b89546012b5693a44807445c",
-    "spotifyUrl": "https://open.spotify.com/album/5HQ3q1jMLZVMJfFujK0zY9",
-    "playedAt": "2026-11-05T08:30:44.006Z"
   }
 ]
