@@ -1,5 +1,37 @@
 [
   {
+    "albumId": "1wnpEMLi8e79iKcoPJrL78",
+    "title": "The Essential Bing Crosby",
+    "artist": "Bing Crosby",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27339ae8eb91ff80b9a1e9cdc44",
+    "spotifyUrl": "https://open.spotify.com/album/1wnpEMLi8e79iKcoPJrL78",
+    "playedAt": "2026-11-07T10:20:31.078Z"
+  },
+  {
+    "albumId": "7zFt7hLRPxemmlzVzg5uec",
+    "title": "Blu Celeste",
+    "artist": "BLANCO",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735880f9b11a2e6289f9db78d5",
+    "spotifyUrl": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec",
+    "playedAt": "2026-11-07T10:17:41.945Z"
+  },
+  {
+    "albumId": "3nmxVghAmY7ZKFL6QQWVdg",
+    "title": "Eri solo da incontrare",
+    "artist": "Alfa",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273762f0ebb926f8dabaab2b2cf",
+    "spotifyUrl": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg",
+    "playedAt": "2026-11-07T10:13:47.373Z"
+  },
+  {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-11-07T09:58:00.479Z"
+  },
+  {
     "albumId": "0dO2tsQmsZzsPnR9qDWTlP",
     "title": "Fly-day Chinatown",
     "artist": "Yasuha",
@@ -341,7 +373,7 @@
     "artist": "Olivia Rodrigo",
     "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
     "spotifyUrl": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j",
-    "playedAt": "2026-11-05T22:01:35.259Z"
+    "playedAt": "2026-11-05T22:16:49.365Z"
   },
   {
     "albumId": "2RRYaYHY7fIIdvFlvgb5vq",
@@ -350,37 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2731e146244cf70b7aab703c057",
     "spotifyUrl": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq",
     "playedAt": "2026-11-05T21:39:36.334Z"
-  },
-  {
-    "albumId": "0WqDLFy6UcjR9ygT9PrT22",
-    "title": "IO NON HO PAURA",
-    "artist": "Ernia",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27359fbd220d580fbde3ff7af1c",
-    "spotifyUrl": "https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22",
-    "playedAt": "2026-11-05T21:32:15.856Z"
-  },
-  {
-    "albumId": "4gjJj6UCG1hitjAk1CdgDc",
-    "title": "Containers",
-    "artist": "Night Skinny, Rkomi, Ernia, Bresh",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738dd0855360fb4f0be2b9055c",
-    "spotifyUrl": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc",
-    "playedAt": "2026-11-05T20:56:52.552Z"
-  },
-  {
-    "albumId": "3nmxVghAmY7ZKFL6QQWVdg",
-    "title": "Eri solo da incontrare",
-    "artist": "Alfa",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273762f0ebb926f8dabaab2b2cf",
-    "spotifyUrl": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg",
-    "playedAt": "2026-11-05T19:07:59.628Z"
-  },
-  {
-    "albumId": "6jKZplJpy21R5lHaYHHjmZ",
-    "title": "Narrated For You",
-    "artist": "Alec Benjamin",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370",
-    "spotifyUrl": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ",
-    "playedAt": "2026-11-05T18:59:09.692Z"
   }
 ]
