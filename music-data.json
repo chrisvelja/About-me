@@ -1,5 +1,13 @@
 [
   {
+    "albumId": "0dO2tsQmsZzsPnR9qDWTlP",
+    "title": "Fly-day Chinatown",
+    "artist": "Yasuha",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27368a5d2cd77f7abef0b964981",
+    "spotifyUrl": "https://open.spotify.com/album/0dO2tsQmsZzsPnR9qDWTlP",
+    "playedAt": "2026-11-06T19:09:50.352Z"
+  },
+  {
     "albumId": "3CvGbx2f7ZMoUZLz8ZjOQd",
     "title": "Alter Ego (with JT)",
     "artist": "Doechii, JT",
@@ -333,7 +341,7 @@
     "artist": "Olivia Rodrigo",
     "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
     "spotifyUrl": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j",
-    "playedAt": "2026-11-05T21:58:37.157Z"
+    "playedAt": "2026-11-05T22:01:35.259Z"
   },
   {
     "albumId": "2RRYaYHY7fIIdvFlvgb5vq",
@@ -374,13 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370",
     "spotifyUrl": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ",
     "playedAt": "2026-11-05T18:59:09.692Z"
-  },
-  {
-    "albumId": "7eed9MBclFPjjjvotfR2e9",
-    "title": "Nothing Happens",
-    "artist": "Wallows, Clairo",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731df393f4cf29c80c04456f77",
-    "spotifyUrl": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9",
-    "playedAt": "2026-11-05T18:55:30.329Z"
   }
 ]
