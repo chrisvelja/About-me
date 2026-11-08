@@ -1,5 +1,149 @@
 [
   {
+    "albumId": "6mmv0gwumlFGWDGJXF4yEv",
+    "title": "What A Wonderful World",
+    "artist": "Louis Armstrong",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273845a5660b804e5f3e821fbed",
+    "spotifyUrl": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv",
+    "playedAt": "2026-11-08T11:12:38.029Z"
+  },
+  {
+    "albumId": "54HzLTohLottYBCmkjD41S",
+    "title": "INDI",
+    "artist": "Gazzelle",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737a79cc9950e69ca73c044f61",
+    "spotifyUrl": "https://open.spotify.com/album/54HzLTohLottYBCmkjD41S",
+    "playedAt": "2026-11-08T11:10:18.234Z"
+  },
+  {
+    "albumId": "52E4RP7XDzalpIrOgSTgiQ",
+    "title": "Invincible",
+    "artist": "Michael Jackson",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75",
+    "spotifyUrl": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ",
+    "playedAt": "2026-11-08T11:06:53.429Z"
+  },
+  {
+    "albumId": "69AaAkdktFGnk9POmHENkT",
+    "title": "this is what ____ feels like (Vol. 1-4)",
+    "artist": "JVKE",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c2504e80ba2f258697ab2954",
+    "spotifyUrl": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT",
+    "playedAt": "2026-11-08T11:01:13.931Z"
+  },
+  {
+    "albumId": "3MJGcgbroIjiO90yi7RMhy",
+    "title": "Hello Miss Johnson",
+    "artist": "Jack Harlow",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731039ec791b25bf52050ef7fe",
+    "spotifyUrl": "https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy",
+    "playedAt": "2026-11-08T10:57:48.631Z"
+  },
+  {
+    "albumId": "7jwqS2kGoflCHxaMdgPn0x",
+    "title": "Non so chi ha creato il mondo ma so che era innamorato",
+    "artist": "Alfa",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730cb0b554ab60bdae9819e50e",
+    "spotifyUrl": "https://open.spotify.com/album/7jwqS2kGoflCHxaMdgPn0x",
+    "playedAt": "2026-11-08T10:55:03.336Z"
+  },
+  {
+    "albumId": "4QpLnSupGsuYYJYYoj29Q7",
+    "title": "TUTTA VITA",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739a9754efa9799615cf6045e9",
+    "spotifyUrl": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7",
+    "playedAt": "2026-11-08T10:48:47.326Z"
+  },
+  {
+    "albumId": "7vN82vd1Vq44fjlhjfvHJp",
+    "title": "Loud",
+    "artist": "Rihanna",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732ed326786e4c61c6b1dbf222",
+    "spotifyUrl": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp",
+    "playedAt": "2026-11-08T10:45:42.797Z"
+  },
+  {
+    "albumId": "2Ek1q2haOnxVqhvVKqMvJe",
+    "title": "ye",
+    "artist": "Kanye West",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2",
+    "spotifyUrl": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe",
+    "playedAt": "2026-11-08T10:41:38.732Z"
+  },
+  {
+    "albumId": "1PHYzL4Yq4W1GfRahD6W1H",
+    "title": "Everything So Far",
+    "artist": "Pinegrove",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273251adf76d00dcb1356e25b10",
+    "spotifyUrl": "https://open.spotify.com/album/1PHYzL4Yq4W1GfRahD6W1H",
+    "playedAt": "2026-11-08T10:37:04.126Z"
+  },
+  {
+    "albumId": "61G7KL6rpj167r6H4CzS8C",
+    "title": "A Place We Knew",
+    "artist": "Dean Lewis",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a787f718fb485b66d6219247",
+    "spotifyUrl": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C",
+    "playedAt": "2026-11-08T10:33:51.831Z"
+  },
+  {
+    "albumId": "7GCY1J01hcEpdgeY0vtSsN",
+    "title": "Always in Between (Deluxe)",
+    "artist": "Jess Glynne",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ccc3fe22675ab4d0281b4ef4",
+    "spotifyUrl": "https://open.spotify.com/album/7GCY1J01hcEpdgeY0vtSsN",
+    "playedAt": "2026-11-08T10:30:52.231Z"
+  },
+  {
+    "albumId": "5apkkoLPJJYZcghFfuNTF3",
+    "title": "BEFORE I FORGET",
+    "artist": "The Kid LAROI",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734ee3d2ae694b3b78125a5443",
+    "spotifyUrl": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3",
+    "playedAt": "2026-11-08T10:27:13.203Z"
+  },
+  {
+    "albumId": "6iqFb4EhmlHHjJGFcRgJmQ",
+    "title": "Staying Alive (Original Motion Picture Soundtrack)",
+    "artist": "Bee Gees",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27355fb38fda5321a8923911ff9",
+    "spotifyUrl": "https://open.spotify.com/album/6iqFb4EhmlHHjJGFcRgJmQ",
+    "playedAt": "2026-11-08T10:21:56.229Z"
+  },
+  {
+    "albumId": "0idasMxjLcTfRitXmkvJ93",
+    "title": "CALCINACCI",
+    "artist": "Fulminacci",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ff26d9e6888e0a1ab315aa6a",
+    "spotifyUrl": "https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93",
+    "playedAt": "2026-11-08T10:20:22.828Z"
+  },
+  {
+    "albumId": "6trNtQUgC8cgbWcqoMYkOR",
+    "title": "beerbongs & bentleys",
+    "artist": "Post Malone",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268",
+    "spotifyUrl": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR",
+    "playedAt": "2026-11-08T10:17:23.032Z"
+  },
+  {
+    "albumId": "621OhgnZJ7Pz8iUazct1In",
+    "title": "Cherry Bomb",
+    "artist": "Tyler, The Creator, Shane Powers",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e4bf0d3d9e0224a30ca5f665",
+    "spotifyUrl": "https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In",
+    "playedAt": "2026-11-08T10:13:58.132Z"
+  },
+  {
+    "albumId": "3nmxVghAmY7ZKFL6QQWVdg",
+    "title": "Eri solo da incontrare",
+    "artist": "Alfa",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273762f0ebb926f8dabaab2b2cf",
+    "spotifyUrl": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg",
+    "playedAt": "2026-11-08T10:11:17.632Z"
+  },
+  {
     "albumId": "1wnpEMLi8e79iKcoPJrL78",
     "title": "The Essential Bing Crosby",
     "artist": "Bing Crosby",
@@ -238,149 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273fc8633e22a7dba6aab817bff",
     "spotifyUrl": "https://open.spotify.com/album/6ijGiBcBfUwkoyHn5VUHU2",
     "playedAt": "2026-11-06T10:04:29.904Z"
-  },
-  {
-    "albumId": "1wD2xMSjGRFSVX8zkFEuMo",
-    "title": "Victory Lap",
-    "artist": "Fred again.., Skepta, PlaqueBoyMax",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273bf705b821b031cefe91d7b90",
-    "spotifyUrl": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo",
-    "playedAt": "2026-11-06T09:53:35.691Z"
-  },
-  {
-    "albumId": "3ZMpNkV6dz01h0U1WeiB8f",
-    "title": "Alone at Prom (Deluxe)",
-    "artist": "Tory Lanez",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736955df0de00aa19411cfddd7",
-    "spotifyUrl": "https://open.spotify.com/album/3ZMpNkV6dz01h0U1WeiB8f",
-    "playedAt": "2026-11-06T09:50:42.325Z"
-  },
-  {
-    "albumId": "0ptlfJfwGTy0Yvrk14JK1I",
-    "title": "If You're Reading This It's Too Late",
-    "artist": "Drake",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732090f4f6cc406e6d3c306733",
-    "spotifyUrl": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I",
-    "playedAt": "2026-11-06T09:47:33.907Z"
-  },
-  {
-    "albumId": "1xn54DMo2qIqBuMqHtUsFd",
-    "title": "x (Deluxe Edition)",
-    "artist": "Ed Sheeran",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27313b3e37318a0c247b550bccd",
-    "spotifyUrl": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd",
-    "playedAt": "2026-11-06T09:42:57.586Z"
-  },
-  {
-    "albumId": "40QTqOBBxCEIQlLNdSjFQB",
-    "title": "Wolf",
-    "artist": "Tyler, The Creator",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273913f492347e1585748450855",
-    "spotifyUrl": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB",
-    "playedAt": "2026-11-06T09:38:15.523Z"
-  },
-  {
-    "albumId": "64ZUYtdEVuy4OXk63R579s",
-    "title": "OBE",
-    "artist": "MACE, BLANCO, Salmo",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2730d02a40b925b640241e25913",
-    "spotifyUrl": "https://open.spotify.com/album/64ZUYtdEVuy4OXk63R579s",
-    "playedAt": "2026-11-06T09:30:38.032Z"
-  },
-  {
-    "albumId": "3tyC8cXSXLDj6MtMceKh1c",
-    "title": "Superbattito",
-    "artist": "Gazzelle",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273388553ca5fa3fdaabb13d5be",
-    "spotifyUrl": "https://open.spotify.com/album/3tyC8cXSXLDj6MtMceKh1c",
-    "playedAt": "2026-11-06T09:26:39.820Z"
-  },
-  {
-    "albumId": "4a0ynulSO09VjqN18vGkdY",
-    "title": "INSANO",
-    "artist": "Kid Cudi, Pharrell Williams, Travis Scott",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273bbf99eb282ff165289120b1e",
-    "spotifyUrl": "https://open.spotify.com/album/4a0ynulSO09VjqN18vGkdY",
-    "playedAt": "2026-11-06T09:23:20.220Z"
-  },
-  {
-    "albumId": "7gsWAHLeT0w7es6FofOXk1",
-    "title": "The Life Of Pablo",
-    "artist": "Kanye West",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
-    "spotifyUrl": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1",
-    "playedAt": "2026-11-06T09:19:21.683Z"
-  },
-  {
-    "albumId": "0Oq3mWfexhsjUh0aNNBB5u",
-    "title": "good kid, m.A.A.d city",
-    "artist": "Kendrick Lamar",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732cd55246d935a8a77cb4859e",
-    "spotifyUrl": "https://open.spotify.com/album/0Oq3mWfexhsjUh0aNNBB5u",
-    "playedAt": "2026-11-06T09:16:53.927Z"
-  },
-  {
-    "albumId": "08SB1CgIS0yVIH7ZV99I6f",
-    "title": "TUTTA VITA (SEMPRE)",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736752cb3279906514dd04c8aa",
-    "spotifyUrl": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f",
-    "playedAt": "2026-11-06T09:13:20.721Z"
-  },
-  {
-    "albumId": "3T4tUhGYeRNVUGevb0wThu",
-    "title": "\u00f7 (Deluxe)",
-    "artist": "Ed Sheeran",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
-    "spotifyUrl": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu",
-    "playedAt": "2026-11-06T08:49:50.991Z"
-  },
-  {
-    "albumId": "7zFt7hLRPxemmlzVzg5uec",
-    "title": "Blu Celeste",
-    "artist": "BLANCO",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2735880f9b11a2e6289f9db78d5",
-    "spotifyUrl": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec",
-    "playedAt": "2026-11-06T08:45:52.082Z"
-  },
-  {
-    "albumId": "4RVfbFT2GfDqhmaMT0ro75",
-    "title": "MATERIA (PRISMA)",
-    "artist": "Marco Mengoni",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27391543ddbf5df0343632b1254",
-    "spotifyUrl": "https://open.spotify.com/album/4RVfbFT2GfDqhmaMT0ro75",
-    "playedAt": "2026-11-06T08:43:15.539Z"
-  },
-  {
-    "albumId": "3nmxVghAmY7ZKFL6QQWVdg",
-    "title": "Eri solo da incontrare",
-    "artist": "Alfa",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273762f0ebb926f8dabaab2b2cf",
-    "spotifyUrl": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg",
-    "playedAt": "2026-11-06T07:46:43.560Z"
-  },
-  {
-    "albumId": "5p3gSxNiXeYlPlztVAUjB2",
-    "title": "All I Want (From \"High School Musical: The Musical: The Series\")",
-    "artist": "Olivia Rodrigo, Disney",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736d38bbfd2631c232763e3ddf",
-    "spotifyUrl": "https://open.spotify.com/album/5p3gSxNiXeYlPlztVAUjB2",
-    "playedAt": "2026-11-05T22:19:47.253Z"
-  },
-  {
-    "albumId": "6s84u2TUpR3wdUv4NgKA2j",
-    "title": "SOUR",
-    "artist": "Olivia Rodrigo",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
-    "spotifyUrl": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j",
-    "playedAt": "2026-11-05T22:16:49.365Z"
-  },
-  {
-    "albumId": "2RRYaYHY7fIIdvFlvgb5vq",
-    "title": "american dream",
-    "artist": "21 Savage, Burna Boy, Metro Boomin",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731e146244cf70b7aab703c057",
-    "spotifyUrl": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq",
-    "playedAt": "2026-11-05T21:39:36.334Z"
   }
 ]
