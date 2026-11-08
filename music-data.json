@@ -1,5 +1,125 @@
 [
   {
+    "albumId": "7mzC45R2k8PRHzE7lbrRBE",
+    "title": "Lettera Q",
+    "artist": "nayt",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a0c7ce4c5dff167542456733",
+    "spotifyUrl": "https://open.spotify.com/album/7mzC45R2k8PRHzE7lbrRBE",
+    "playedAt": "2026-11-08T17:18:41.437Z"
+  },
+  {
+    "albumId": "3fc97ZWLIMc1xawhxbKrh2",
+    "title": "East Atlanta Love Letter",
+    "artist": "6LACK, J. Cole",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e1530b42603367fdb2208d88",
+    "spotifyUrl": "https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2",
+    "playedAt": "2026-11-08T16:54:29.704Z"
+  },
+  {
+    "albumId": "61DmgohUTFoNxamryGKpkj",
+    "title": "not friends, not enemies",
+    "artist": "Isaac Levi",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ddad837528703cd6f0e8df52",
+    "spotifyUrl": "https://open.spotify.com/album/61DmgohUTFoNxamryGKpkj",
+    "playedAt": "2026-11-08T16:50:28.899Z"
+  },
+  {
+    "albumId": "11N2afr57Zc4Zz9ntU3w7Q",
+    "title": "La mia stanza (Deluxe)",
+    "artist": "NASKA",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735ca708eff0fca350fcac96d4",
+    "spotifyUrl": "https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q",
+    "playedAt": "2026-11-08T16:46:51.766Z"
+  },
+  {
+    "albumId": "4qZBW3f2Q8y0k1A84d4iAO",
+    "title": "My Dear Melancholy,",
+    "artist": "The Weeknd, Gesaffelstein",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731f6a2a40bb692936879db730",
+    "spotifyUrl": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO",
+    "playedAt": "2026-11-08T16:43:19.558Z"
+  },
+  {
+    "albumId": "5FWAviP7cXvH8iOVENSaNG",
+    "title": "2nd Time Around (Expanded Edition)",
+    "artist": "The Spinners",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732fbc810be2d06bd2ddb0321c",
+    "spotifyUrl": "https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG",
+    "playedAt": "2026-11-08T16:39:17.994Z"
+  },
+  {
+    "albumId": "3qDhZmw3QQKPBq8KASPzTm",
+    "title": "Bien Pedos",
+    "artist": "Xavi, Kapo",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d6265da3b18a63a4a4439fc4",
+    "spotifyUrl": "https://open.spotify.com/album/3qDhZmw3QQKPBq8KASPzTm",
+    "playedAt": "2026-11-08T16:36:07.494Z"
+  },
+  {
+    "albumId": "002MjQVkI2aHS733fGjj3S",
+    "title": "Old Phone",
+    "artist": "Ed Sheeran",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d9beb2ced8f79b262fc49bf6",
+    "spotifyUrl": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S",
+    "playedAt": "2026-11-08T16:33:39.481Z"
+  },
+  {
+    "albumId": "2QRedhP5RmKJiJ1i8VgDGR",
+    "title": "Whole Lotta Red",
+    "artist": "Playboi Carti",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb",
+    "spotifyUrl": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR",
+    "playedAt": "2026-11-08T16:29:57.157Z"
+  },
+  {
+    "albumId": "5V3Chnpno9oTI7JSPXKUf3",
+    "title": "Cherry Bomb + Instrumentals",
+    "artist": "Tyler, The Creator, Alice Smith, Leon Ware, Clem Creevy",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27337906edcfbfde42b203097f2",
+    "spotifyUrl": "https://open.spotify.com/album/5V3Chnpno9oTI7JSPXKUf3",
+    "playedAt": "2026-11-08T16:27:52.546Z"
+  },
+  {
+    "albumId": "30BFY5VHii4PyWqkTubUWX",
+    "title": "Dark Times",
+    "artist": "Vince Staples",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732129eda0ae3c8426c3d4dc7d",
+    "spotifyUrl": "https://open.spotify.com/album/30BFY5VHii4PyWqkTubUWX",
+    "playedAt": "2026-11-08T16:21:14.672Z"
+  },
+  {
+    "albumId": "5K79FLRUCSysQnVESLcTdb",
+    "title": "DeB\u00cd TiRAR M\u00e1S FOToS",
+    "artist": "Bad Bunny",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "spotifyUrl": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb",
+    "playedAt": "2026-11-08T16:00:15.765Z"
+  },
+  {
+    "albumId": "1OteY9OFTmoZ0vmZT89wPd",
+    "title": "ONE MORE TIME...",
+    "artist": "blink-182",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fdd7c0d398415f9df3420159",
+    "spotifyUrl": "https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd",
+    "playedAt": "2026-11-08T15:56:17.553Z"
+  },
+  {
+    "albumId": "0IJcpy0eM4o63J43qij68g",
+    "title": "Ladies & Gentlemen",
+    "artist": "George Michael",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273813629baee66b2ec5f90ebee",
+    "spotifyUrl": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g",
+    "playedAt": "2026-11-08T15:53:08.935Z"
+  },
+  {
+    "albumId": "4TJ9woMwun3MZfepZM1lA7",
+    "title": "PECCATO PER I TESTI (Acoustic Version)",
+    "artist": "TonyPitony",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736409076d9834fd5117cec3fc",
+    "spotifyUrl": "https://open.spotify.com/album/4TJ9woMwun3MZfepZM1lA7",
+    "playedAt": "2026-11-08T11:14:38.219Z"
+  },
+  {
     "albumId": "6mmv0gwumlFGWDGJXF4yEv",
     "title": "What A Wonderful World",
     "artist": "Louis Armstrong",
@@ -262,125 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2734494c44870e1de47d6461532",
     "spotifyUrl": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr",
     "playedAt": "2026-11-06T12:53:26.920Z"
-  },
-  {
-    "albumId": "28fyugoOJv31DDmp6wx2i7",
-    "title": "Somewhere Only We Know",
-    "artist": "rhianne",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273798a691a36284cd4f50f11a8",
-    "spotifyUrl": "https://open.spotify.com/album/28fyugoOJv31DDmp6wx2i7",
-    "playedAt": "2026-11-06T12:50:49.643Z"
-  },
-  {
-    "albumId": "6WaypAEqrcs1YmMLWJM3lM",
-    "title": "Santamaria",
-    "artist": "Canova",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27360dc1e5af314f8e3e0d7d0b2",
-    "spotifyUrl": "https://open.spotify.com/album/6WaypAEqrcs1YmMLWJM3lM",
-    "playedAt": "2026-11-06T12:47:44.817Z"
-  },
-  {
-    "albumId": "1XqWXTFczDFTgnCWZSV242",
-    "title": "Arc de Triomphe",
-    "artist": "Amin\u00e9",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27354a09c282dd69f5e092f268a",
-    "spotifyUrl": "https://open.spotify.com/album/1XqWXTFczDFTgnCWZSV242",
-    "playedAt": "2026-11-06T12:43:18.845Z"
-  },
-  {
-    "albumId": "61G7KL6rpj167r6H4CzS8C",
-    "title": "A Place We Knew",
-    "artist": "Dean Lewis",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a787f718fb485b66d6219247",
-    "spotifyUrl": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C",
-    "playedAt": "2026-11-06T12:40:31.672Z"
-  },
-  {
-    "albumId": "1y2OfMwyaRDmtbQNl0DnQa",
-    "title": "Fat Juicy & Wet",
-    "artist": "Sexyy Red, Bruno Mars",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ce0f267985620c859273b0ec",
-    "spotifyUrl": "https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa",
-    "playedAt": "2026-11-06T12:37:32.093Z"
-  },
-  {
-    "albumId": "4C6tr5dhwjMXTLkWL86Rqa",
-    "title": "Yeah Glo!",
-    "artist": "GloRilla",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731da67131f071aa3c7fe13f6e",
-    "spotifyUrl": "https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa",
-    "playedAt": "2026-11-06T12:35:10.576Z"
-  },
-  {
-    "albumId": "7jwqS2kGoflCHxaMdgPn0x",
-    "title": "Non so chi ha creato il mondo ma so che era innamorato",
-    "artist": "Alfa",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2730cb0b554ab60bdae9819e50e",
-    "spotifyUrl": "https://open.spotify.com/album/7jwqS2kGoflCHxaMdgPn0x",
-    "playedAt": "2026-11-06T12:32:47.339Z"
-  },
-  {
-    "albumId": "4fU1IAiidcbKjProAZuoLF",
-    "title": "this is what losing someone feels like",
-    "artist": "JVKE",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739a087af6a3bf8fa7d5db50e2",
-    "spotifyUrl": "https://open.spotify.com/album/4fU1IAiidcbKjProAZuoLF",
-    "playedAt": "2026-11-06T12:30:09.896Z"
-  },
-  {
-    "albumId": "1a22miqSMba4FbUk9w50v2",
-    "title": "#PRONTOACORRERE",
-    "artist": "Marco Mengoni",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b506d695eb24b13008dd603f",
-    "spotifyUrl": "https://open.spotify.com/album/1a22miqSMba4FbUk9w50v2",
-    "playedAt": "2026-11-06T12:10:45.116Z"
-  },
-  {
-    "albumId": "5f2LuFGKudyDDp9d93Qvvc",
-    "title": "Stanza Singola",
-    "artist": "Franco126",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27337298b42580e291499b23e3c",
-    "spotifyUrl": "https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc",
-    "playedAt": "2026-11-06T10:21:07.084Z"
-  },
-  {
-    "albumId": "7pKecv42eDVOeFIr8E0tVi",
-    "title": "GLI ANNI DI CRISTO",
-    "artist": "MOBRICI, Fulminacci",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ddacafc70cc6f35d9cccac53",
-    "spotifyUrl": "https://open.spotify.com/album/7pKecv42eDVOeFIr8E0tVi",
-    "playedAt": "2026-11-06T10:17:27.263Z"
-  },
-  {
-    "albumId": "4QpLnSupGsuYYJYYoj29Q7",
-    "title": "TUTTA VITA",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739a9754efa9799615cf6045e9",
-    "spotifyUrl": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7",
-    "playedAt": "2026-11-06T10:13:18.157Z"
-  },
-  {
-    "albumId": "5Co3CGD9lBQVNnn7q0px1g",
-    "title": "The Melodic Blue (Deluxe)",
-    "artist": "Baby Keem",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a97160f8731efb13153b358e",
-    "spotifyUrl": "https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g",
-    "playedAt": "2026-11-06T10:09:35.624Z"
-  },
-  {
-    "albumId": "5K79FLRUCSysQnVESLcTdb",
-    "title": "DeB\u00cd TiRAR M\u00e1S FOToS",
-    "artist": "Bad Bunny",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-    "spotifyUrl": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb",
-    "playedAt": "2026-11-06T10:08:03.409Z"
-  },
-  {
-    "albumId": "6ijGiBcBfUwkoyHn5VUHU2",
-    "title": "Overexposed Track By Track",
-    "artist": "Maroon 5",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273fc8633e22a7dba6aab817bff",
-    "spotifyUrl": "https://open.spotify.com/album/6ijGiBcBfUwkoyHn5VUHU2",
-    "playedAt": "2026-11-06T10:04:29.904Z"
   }
 ]
