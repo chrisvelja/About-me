@@ -1,5 +1,53 @@
 [
   {
+    "albumId": "1kTlYbs28MXw7hwO0NLYif",
+    "title": "Encore (Deluxe Version)",
+    "artist": "Eminem",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731bec21e57fff76db49e15a70",
+    "spotifyUrl": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif",
+    "playedAt": "2026-11-09T08:57:30.442Z"
+  },
+  {
+    "albumId": "3AMT9UFjR7mNvqyDjmjvWz",
+    "title": "Trouble (Discotheque) ['68 Comeback Special]",
+    "artist": "Elvis Presley",
+    "cover": "https://i.scdn.co/image/ab6742d3000053b7bf5195df46ab868fb717c9d2",
+    "spotifyUrl": "https://open.spotify.com/album/3AMT9UFjR7mNvqyDjmjvWz",
+    "playedAt": "2026-11-09T08:57:30.442Z"
+  },
+  {
+    "albumId": "6s84u2TUpR3wdUv4NgKA2j",
+    "title": "SOUR",
+    "artist": "Olivia Rodrigo",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+    "spotifyUrl": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j",
+    "playedAt": "2026-11-09T07:02:36.753Z"
+  },
+  {
+    "albumId": "4UMjBXcRqIgMZ1XumU2x5T",
+    "title": "Dizzy up the Girl",
+    "artist": "The Goo Goo Dolls",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca",
+    "spotifyUrl": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T",
+    "playedAt": "2026-11-09T06:54:39.697Z"
+  },
+  {
+    "albumId": "1P21UjZvPPhykRVtsPyhCl",
+    "title": "STAR",
+    "artist": "\u5343\u8449\u96c4\u559c",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a71faa5704399942d9953ebe",
+    "spotifyUrl": "https://open.spotify.com/album/1P21UjZvPPhykRVtsPyhCl",
+    "playedAt": "2026-11-09T06:47:29.227Z"
+  },
+  {
+    "albumId": "3nmxVghAmY7ZKFL6QQWVdg",
+    "title": "Eri solo da incontrare",
+    "artist": "Alfa",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273762f0ebb926f8dabaab2b2cf",
+    "spotifyUrl": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg",
+    "playedAt": "2026-11-09T06:37:01.459Z"
+  },
+  {
     "albumId": "7mzC45R2k8PRHzE7lbrRBE",
     "title": "Lettera Q",
     "artist": "nayt",
@@ -334,53 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273e4d260b37299107b0b94dd36",
     "spotifyUrl": "https://open.spotify.com/album/3GIj6ZdQw2XLkMspCJVsG8",
     "playedAt": "2026-11-06T13:25:09.147Z"
-  },
-  {
-    "albumId": "2GgT2TLwb9WzzYcUuspH5L",
-    "title": "QLOO*",
-    "artist": "Young Cister, Kreamly",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27313189b29e3f97c1e7442508e",
-    "spotifyUrl": "https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L",
-    "playedAt": "2026-11-06T13:06:14.020Z"
-  },
-  {
-    "albumId": "0qUDrYyMtmfxbyahiBokd1",
-    "title": "crush (demos)",
-    "artist": "Zeph",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f930aa879b11b0b9b57466bc",
-    "spotifyUrl": "https://open.spotify.com/album/0qUDrYyMtmfxbyahiBokd1",
-    "playedAt": "2026-11-06T13:03:47.047Z"
-  },
-  {
-    "albumId": "5dGWwsZ9iB2Xc3UKR0gif2",
-    "title": "Justice",
-    "artist": "Justin Bieber",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431",
-    "spotifyUrl": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2",
-    "playedAt": "2026-11-06T13:02:45.645Z"
-  },
-  {
-    "albumId": "537KlrTjt0nhZfi9Tr3U2N",
-    "title": "Natura Molta",
-    "artist": "Gio Evan",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c22e718ff61be5b01551334b",
-    "spotifyUrl": "https://open.spotify.com/album/537KlrTjt0nhZfi9Tr3U2N",
-    "playedAt": "2026-11-06T13:00:12.414Z"
-  },
-  {
-    "albumId": "4q6t2qUYy2bp5sqwXSXldc",
-    "title": "Honeycomb",
-    "artist": "Jitwam",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27351d457fc6d56caaa0dd29849",
-    "spotifyUrl": "https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc",
-    "playedAt": "2026-11-06T12:56:09.494Z"
-  },
-  {
-    "albumId": "3zbiiu3JTibw0esC7eoMXr",
-    "title": "MOTOMAMI +",
-    "artist": "ROSAL\u00cdA",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734494c44870e1de47d6461532",
-    "spotifyUrl": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr",
-    "playedAt": "2026-11-06T12:53:26.920Z"
   }
 ]
