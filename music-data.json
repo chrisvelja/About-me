@@ -1,5 +1,13 @@
 [
   {
+    "albumId": "6gJ8VKn5PAFcCIVaf3B2uE",
+    "title": "Nectar",
+    "artist": "Joji",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f733e50079838090eebc3fe4",
+    "spotifyUrl": "https://open.spotify.com/album/6gJ8VKn5PAFcCIVaf3B2uE",
+    "playedAt": "2026-11-09T22:56:42.245Z"
+  },
+  {
     "albumId": "1jzv3jwZbt8lYfEtMjiD1R",
     "title": "DON'T TAP THE GLASS",
     "artist": "Tyler, The Creator",
@@ -374,13 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2736409076d9834fd5117cec3fc",
     "spotifyUrl": "https://open.spotify.com/album/4TJ9woMwun3MZfepZM1lA7",
     "playedAt": "2026-11-08T11:14:38.219Z"
-  },
-  {
-    "albumId": "6mmv0gwumlFGWDGJXF4yEv",
-    "title": "What A Wonderful World",
-    "artist": "Louis Armstrong",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273845a5660b804e5f3e821fbed",
-    "spotifyUrl": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv",
-    "playedAt": "2026-11-08T11:12:38.029Z"
   }
 ]
