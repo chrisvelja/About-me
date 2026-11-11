@@ -1,5 +1,133 @@
 [
   {
+    "albumId": "2nkto6YNI4rUYTLqEwWJ3o",
+    "title": "Flower Boy",
+    "artist": "Tyler, The Creator, Frank Ocean, Steve Lacy",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3",
+    "spotifyUrl": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o",
+    "playedAt": "2026-11-11T11:16:00.607Z"
+  },
+  {
+    "albumId": "5wByaEbAmxIlQCDdicFJry",
+    "title": "M\u0100Y\u0100",
+    "artist": "MACE, Marco Mengoni, Frah Quintale, Gemitaiz",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ed46b10906511b1329ee66ab",
+    "spotifyUrl": "https://open.spotify.com/album/5wByaEbAmxIlQCDdicFJry",
+    "playedAt": "2026-11-11T11:11:44.404Z"
+  },
+  {
+    "albumId": "3r46DPIQeBQbjvjjV5mXGg",
+    "title": "The Melodic Blue",
+    "artist": "Baby Keem",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27335a8a0c8b82b525679eceda6",
+    "spotifyUrl": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg",
+    "playedAt": "2026-11-11T11:08:19.797Z"
+  },
+  {
+    "albumId": "2ePFIvZKMe8zefATp9ofFA",
+    "title": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+    "artist": "Daft Punk, Pharrell Williams, Nile Rodgers",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27319a88dd5c7118e87d7b1619e",
+    "spotifyUrl": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA",
+    "playedAt": "2026-11-11T11:03:48.563Z"
+  },
+  {
+    "albumId": "2RRYaYHY7fIIdvFlvgb5vq",
+    "title": "american dream",
+    "artist": "21 Savage, Travis Scott, Metro Boomin",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731e146244cf70b7aab703c057",
+    "spotifyUrl": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq",
+    "playedAt": "2026-11-11T10:59:40.499Z"
+  },
+  {
+    "albumId": "45ba6QAtNrdv6Ke4MFOKk9",
+    "title": "CALL ME IF YOU GET LOST",
+    "artist": "Tyler, The Creator, Teezo Touchdown",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273940aa635eea98719f6ca4ad9",
+    "spotifyUrl": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9",
+    "playedAt": "2026-11-11T10:50:54.844Z"
+  },
+  {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-11-11T10:47:04.709Z"
+  },
+  {
+    "albumId": "0SukGZiXMtmsZoxstkBtNR",
+    "title": "Aura",
+    "artist": "Ozuna, Manuel Turizo",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27366ab16a0f75d517304f18efd",
+    "spotifyUrl": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR",
+    "playedAt": "2026-11-11T10:40:18.042Z"
+  },
+  {
+    "albumId": "0dXN05tQ4StX1W0lwN95Q6",
+    "title": "OKRA",
+    "artist": "Tyler, The Creator",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733fc927515b0dfc30544e4129",
+    "spotifyUrl": "https://open.spotify.com/album/0dXN05tQ4StX1W0lwN95Q6",
+    "playedAt": "2026-11-11T10:37:21.415Z"
+  },
+  {
+    "albumId": "7qZ5XKi1L7ivSxcFFyEjBV",
+    "title": "Il Mondo Gira",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a9e40bd192d83079cb8c385f",
+    "spotifyUrl": "https://open.spotify.com/album/7qZ5XKi1L7ivSxcFFyEjBV",
+    "playedAt": "2026-11-11T10:34:49.848Z"
+  },
+  {
+    "albumId": "29nOS5yANYfHlGSBGkkfuW",
+    "title": "Agonia",
+    "artist": "chiello",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ec38726df2c0bb6015412929",
+    "spotifyUrl": "https://open.spotify.com/album/29nOS5yANYfHlGSBGkkfuW",
+    "playedAt": "2026-11-11T10:32:43.382Z"
+  },
+  {
+    "albumId": "19bQiwEKhXUBJWY6oV3KZk",
+    "title": "Madvillainy",
+    "artist": "Madvillain, Madlib, MF DOOM",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733e3bb917af94bd82074c5d47",
+    "spotifyUrl": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk",
+    "playedAt": "2026-11-11T10:29:18.004Z"
+  },
+  {
+    "albumId": "0Oq3mWfexhsjUh0aNNBB5u",
+    "title": "good kid, m.A.A.d city",
+    "artist": "Kendrick Lamar, Jay Rock",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732cd55246d935a8a77cb4859e",
+    "spotifyUrl": "https://open.spotify.com/album/0Oq3mWfexhsjUh0aNNBB5u",
+    "playedAt": "2026-11-11T10:27:41.983Z"
+  },
+  {
+    "albumId": "5dGWwsZ9iB2Xc3UKR0gif2",
+    "title": "Justice",
+    "artist": "Justin Bieber, benny blanco",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431",
+    "spotifyUrl": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2",
+    "playedAt": "2026-11-11T10:18:39.135Z"
+  },
+  {
+    "albumId": "3nmxVghAmY7ZKFL6QQWVdg",
+    "title": "Eri solo da incontrare",
+    "artist": "Alfa",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273762f0ebb926f8dabaab2b2cf",
+    "spotifyUrl": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg",
+    "playedAt": "2026-11-11T07:37:06.645Z"
+  },
+  {
+    "albumId": "6s84u2TUpR3wdUv4NgKA2j",
+    "title": "SOUR",
+    "artist": "Olivia Rodrigo",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+    "spotifyUrl": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j",
+    "playedAt": "2026-11-11T07:28:54.174Z"
+  },
+  {
     "albumId": "7p1fX8aUySrBdx4WSYspOu",
     "title": "Midnight Memories (Deluxe)",
     "artist": "One Direction",
@@ -128,6 +256,14 @@
     "playedAt": "2026-11-10T23:10:23.501Z"
   },
   {
+    "albumId": "58ufpQsJ1DS5kq4hhzQDiI",
+    "title": "Unorthodox Jukebox",
+    "artist": "Bruno Mars",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46",
+    "spotifyUrl": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI",
+    "playedAt": "2026-11-10T23:06:38.655Z"
+  },
+  {
     "albumId": "6s84u2TUpR3wdUv4NgKA2j",
     "title": "SOUR",
     "artist": "Olivia Rodrigo",
@@ -246,141 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
     "spotifyUrl": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1",
     "playedAt": "2026-11-10T18:46:35.247Z"
-  },
-  {
-    "albumId": "5K79FLRUCSysQnVESLcTdb",
-    "title": "DeB\u00cd TiRAR M\u00e1S FOToS",
-    "artist": "Bad Bunny, RaiNao",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-    "spotifyUrl": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb",
-    "playedAt": "2026-11-10T18:44:07.556Z"
-  },
-  {
-    "albumId": "4a0ynulSO09VjqN18vGkdY",
-    "title": "INSANO",
-    "artist": "Kid Cudi, A$AP Rocky",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273bbf99eb282ff165289120b1e",
-    "spotifyUrl": "https://open.spotify.com/album/4a0ynulSO09VjqN18vGkdY",
-    "playedAt": "2026-11-10T18:40:46.244Z"
-  },
-  {
-    "albumId": "45ba6QAtNrdv6Ke4MFOKk9",
-    "title": "CALL ME IF YOU GET LOST",
-    "artist": "Tyler, The Creator",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273940aa635eea98719f6ca4ad9",
-    "spotifyUrl": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9",
-    "playedAt": "2026-11-10T18:36:11.548Z"
-  },
-  {
-    "albumId": "2lrh7eGF5BhF70i5VPJ3Nu",
-    "title": "Kimbara",
-    "artist": "Barry Can't Swim",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2730ade2366138036037a83b1d6",
-    "spotifyUrl": "https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu",
-    "playedAt": "2026-11-10T18:33:44.558Z"
-  },
-  {
-    "albumId": "692R05mxz7V6eOFoj5PMlQ",
-    "title": "Atavista",
-    "artist": "Childish Gambino, Young Nudy",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2733343b68ee045867571b07c47",
-    "spotifyUrl": "https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ",
-    "playedAt": "2026-11-10T18:30:34.203Z"
-  },
-  {
-    "albumId": "58ufpQsJ1DS5kq4hhzQDiI",
-    "title": "Unorthodox Jukebox",
-    "artist": "Bruno Mars",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46",
-    "spotifyUrl": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI",
-    "playedAt": "2026-11-10T18:26:47.205Z"
-  },
-  {
-    "albumId": "0c1yNi1MuGlcNrCzU2kDVE",
-    "title": "Cage The Elephant",
-    "artist": "Cage The Elephant",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ce6b979ca98da4c27157dc17",
-    "spotifyUrl": "https://open.spotify.com/album/0c1yNi1MuGlcNrCzU2kDVE",
-    "playedAt": "2026-11-10T18:22:53.245Z"
-  },
-  {
-    "albumId": "621OhgnZJ7Pz8iUazct1In",
-    "title": "Cherry Bomb",
-    "artist": "Tyler, The Creator, Chaz Bundick, ScHoolboy Q",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e4bf0d3d9e0224a30ca5f665",
-    "spotifyUrl": "https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In",
-    "playedAt": "2026-11-10T18:19:57.236Z"
-  },
-  {
-    "albumId": "4kcXg1nme5PmpGe9Jqjd8n",
-    "title": "Devastante",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a149c47226c103bc6300b5a5",
-    "spotifyUrl": "https://open.spotify.com/album/4kcXg1nme5PmpGe9Jqjd8n",
-    "playedAt": "2026-11-10T18:18:47.604Z"
-  },
-  {
-    "albumId": "7mzC45R2k8PRHzE7lbrRBE",
-    "title": "Lettera Q",
-    "artist": "nayt",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a0c7ce4c5dff167542456733",
-    "spotifyUrl": "https://open.spotify.com/album/7mzC45R2k8PRHzE7lbrRBE",
-    "playedAt": "2026-11-10T18:15:37.014Z"
-  },
-  {
-    "albumId": "72qA6s4fjF8Y2VX1UDMfp2",
-    "title": "GEMINI",
-    "artist": "Macklemore, Skylar Grey",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732e94b668c60b06deb1c3a05c",
-    "spotifyUrl": "https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2",
-    "playedAt": "2026-11-10T18:13:16.517Z"
-  },
-  {
-    "albumId": "5vD5M5VW62LL78Ko8x0CVZ",
-    "title": "SWAG",
-    "artist": "Justin Bieber",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273d65c4773bc5061fd27facc5b",
-    "spotifyUrl": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ",
-    "playedAt": "2026-11-10T18:09:35.624Z"
-  },
-  {
-    "albumId": "3ALicRgy6brNAYjFQPOFli",
-    "title": "Spotify Singles",
-    "artist": "Judeline",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f73f0a2842264c14d2ba4d77",
-    "spotifyUrl": "https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli",
-    "playedAt": "2026-11-10T18:06:20.270Z"
-  },
-  {
-    "albumId": "1hfI7lik7Q3ENibeUxfsf3",
-    "title": "Lithonia",
-    "artist": "Childish Gambino",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273d7de548ffea5100ecbca59e8",
-    "spotifyUrl": "https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3",
-    "playedAt": "2026-11-10T18:03:48.616Z"
-  },
-  {
-    "albumId": "3k0gbDJ1p2nbqFNHeKVwi4",
-    "title": "The Greatest Hits",
-    "artist": "Ricky Martin",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a215d0780485abb2d384bab9",
-    "spotifyUrl": "https://open.spotify.com/album/3k0gbDJ1p2nbqFNHeKVwi4",
-    "playedAt": "2026-11-10T18:00:48.720Z"
-  },
-  {
-    "albumId": "7bR908SDBENoC7rqC0k4h4",
-    "title": "Luxury Disease",
-    "artist": "ONE OK ROCK",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27336669acb5f020d2f4be96ea3",
-    "spotifyUrl": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4",
-    "playedAt": "2026-11-10T17:54:34.527Z"
-  },
-  {
-    "albumId": "20r762YmB5HeofjMCiPMLv",
-    "title": "My Beautiful Dark Twisted Fantasy",
-    "artist": "Kanye West",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f",
-    "spotifyUrl": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv",
-    "playedAt": "2026-11-10T17:51:33.804Z"
   }
 ]
