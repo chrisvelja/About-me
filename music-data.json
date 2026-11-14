@@ -1,5 +1,61 @@
 [
   {
+    "albumId": "2jvTYHZayLQaa6ZPz5qqJe",
+    "title": "mood swings",
+    "artist": "Henry Moodie",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fbcb59071e40163ffc25b6f9",
+    "spotifyUrl": "https://open.spotify.com/album/2jvTYHZayLQaa6ZPz5qqJe",
+    "playedAt": "2026-11-14T19:13:42.494Z"
+  },
+  {
+    "albumId": "6TVfiWmo8KtflUAmkK9gGF",
+    "title": "25",
+    "artist": "Adele",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737b9888dc365b8f957c63df14",
+    "spotifyUrl": "https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF",
+    "playedAt": "2026-11-14T19:08:27.696Z"
+  },
+  {
+    "albumId": "1BV238qPvwqhXIpPbRxlJH",
+    "title": "Hallelujah",
+    "artist": "Damien Rice",
+    "cover": "https://i.scdn.co/image/ab6742d3000053b7f9e17de7987f01a55dd97e01",
+    "spotifyUrl": "https://open.spotify.com/album/1BV238qPvwqhXIpPbRxlJH",
+    "playedAt": "2026-11-14T19:00:22.944Z"
+  },
+  {
+    "albumId": "3hgkYhTNryeg7ZLEgPOKeh",
+    "title": "COCONUT PERFUME",
+    "artist": "Ray Laur\u00e9l",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273235e62bdb00df7a510784900",
+    "spotifyUrl": "https://open.spotify.com/album/3hgkYhTNryeg7ZLEgPOKeh",
+    "playedAt": "2026-11-14T19:00:22.944Z"
+  },
+  {
+    "albumId": "0SW0LplxFID1otCk4bhhHI",
+    "title": "Ehhthang Ehhthang",
+    "artist": "GloRilla, Megan Thee Stallion",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bd9951bb4c9813bc540bde1d",
+    "spotifyUrl": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI",
+    "playedAt": "2026-11-14T13:18:52.505Z"
+  },
+  {
+    "albumId": "0js12ciEGYY4tTcCLKgwwY",
+    "title": "Romantico Ma Muori",
+    "artist": "Pinguini Tattici Nucleari",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732a602241388eeffa2d92204c",
+    "spotifyUrl": "https://open.spotify.com/album/0js12ciEGYY4tTcCLKgwwY",
+    "playedAt": "2026-11-14T13:16:00.464Z"
+  },
+  {
+    "albumId": "18pzJc8GyrVQmunRXrY3ch",
+    "title": "to love in the 21st century",
+    "artist": "Lyn Lapid",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c6497369a38af8968e93168e",
+    "spotifyUrl": "https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch",
+    "playedAt": "2026-11-14T13:13:13.721Z"
+  },
+  {
     "albumId": "3xIGAElZCxV44QtMvXrPMa",
     "title": "Loser",
     "artist": "Tame Impala",
@@ -296,6 +352,14 @@
     "playedAt": "2026-11-13T22:52:47.328Z"
   },
   {
+    "albumId": "3nmxVghAmY7ZKFL6QQWVdg",
+    "title": "Eri solo da incontrare",
+    "artist": "Alfa",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273762f0ebb926f8dabaab2b2cf",
+    "spotifyUrl": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg",
+    "playedAt": "2026-11-13T22:49:38.398Z"
+  },
+  {
     "albumId": "5PyOMtVxqztMvIKsJLV8bW",
     "title": "The Rubberband Man / Now That We're Together",
     "artist": "The Spinners",
@@ -318,69 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2737a9bf5f82e32d33d4503fe7b",
     "spotifyUrl": "https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk",
     "playedAt": "2026-11-13T21:14:26.305Z"
-  },
-  {
-    "albumId": "6s84u2TUpR3wdUv4NgKA2j",
-    "title": "SOUR",
-    "artist": "Olivia Rodrigo",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
-    "spotifyUrl": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j",
-    "playedAt": "2026-11-13T21:10:24.109Z"
-  },
-  {
-    "albumId": "7cmSC8Kb40PpwGCJIk6EDP",
-    "title": "Ser\u00e1 por ti",
-    "artist": "\u00cd\u00f1igo Quintero, Hey Kid",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732a44d998471ed5068803134f",
-    "spotifyUrl": "https://open.spotify.com/album/7cmSC8Kb40PpwGCJIk6EDP",
-    "playedAt": "2026-11-13T20:29:11.402Z"
-  },
-  {
-    "albumId": "3nmxVghAmY7ZKFL6QQWVdg",
-    "title": "Eri solo da incontrare",
-    "artist": "Alfa",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273762f0ebb926f8dabaab2b2cf",
-    "spotifyUrl": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg",
-    "playedAt": "2026-11-13T20:25:49.200Z"
-  },
-  {
-    "albumId": "7bWwvvjlV9IWt12j1dr1W4",
-    "title": "\u0417\u0410\u0412\u041e\u0414",
-    "artist": "ZAPRAVKA",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a0c6dbc841f94adc04566f61",
-    "spotifyUrl": "https://open.spotify.com/album/7bWwvvjlV9IWt12j1dr1W4",
-    "playedAt": "2026-11-13T20:15:54.226Z"
-  },
-  {
-    "albumId": "1BubKJqf6Uc4fNae5kLJJ7",
-    "title": "What Could Possibly Go Wrong",
-    "artist": "Dominic Fike",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738c7e2ab6558632be78a244c2",
-    "spotifyUrl": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7",
-    "playedAt": "2026-11-13T20:13:50.724Z"
-  },
-  {
-    "albumId": "6zBVlFWATphRVpz1rxyWvF",
-    "title": "abbatteremo i motel e torneremo a far l\u2019amore in mezzo ai campi",
-    "artist": "Albe",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b0a4539126755b4796ba1f45",
-    "spotifyUrl": "https://open.spotify.com/album/6zBVlFWATphRVpz1rxyWvF",
-    "playedAt": "2026-11-13T20:11:43.196Z"
-  },
-  {
-    "albumId": "1wnpEMLi8e79iKcoPJrL78",
-    "title": "The Essential Bing Crosby",
-    "artist": "Bing Crosby",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27339ae8eb91ff80b9a1e9cdc44",
-    "spotifyUrl": "https://open.spotify.com/album/1wnpEMLi8e79iKcoPJrL78",
-    "playedAt": "2026-11-13T20:08:50.838Z"
-  },
-  {
-    "albumId": "5PdqPLG4hUzuLAWUDFaZap",
-    "title": "Gira, il mondo gira",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734743343cec324c534a99ca39",
-    "spotifyUrl": "https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap",
-    "playedAt": "2026-11-13T20:06:01.700Z"
   }
 ]
