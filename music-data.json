@@ -1,5 +1,69 @@
 [
   {
+    "albumId": "4KvzpS3WSxlafB0psUNwfV",
+    "title": "The Wisp Sings",
+    "artist": "Winter Aid",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f9434ede3c2203848fabbe14",
+    "spotifyUrl": "https://open.spotify.com/album/4KvzpS3WSxlafB0psUNwfV",
+    "playedAt": "2026-11-14T00:31:08.974Z"
+  },
+  {
+    "albumId": "7zFt7hLRPxemmlzVzg5uec",
+    "title": "Blu Celeste",
+    "artist": "BLANCO",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735880f9b11a2e6289f9db78d5",
+    "spotifyUrl": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec",
+    "playedAt": "2026-11-14T00:25:55.192Z"
+  },
+  {
+    "albumId": "3nmxVghAmY7ZKFL6QQWVdg",
+    "title": "Eri solo da incontrare",
+    "artist": "Alfa",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273762f0ebb926f8dabaab2b2cf",
+    "spotifyUrl": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg",
+    "playedAt": "2026-11-14T00:22:20.262Z"
+  },
+  {
+    "albumId": "44iFvVtFduw0s4bPAk5skP",
+    "title": "Innamorato",
+    "artist": "BLANCO",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d0a7dfc11235eb8a6fc8fbf0",
+    "spotifyUrl": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP",
+    "playedAt": "2026-11-13T22:52:47.328Z"
+  },
+  {
+    "albumId": "5PyOMtVxqztMvIKsJLV8bW",
+    "title": "The Rubberband Man / Now That We're Together",
+    "artist": "The Spinners",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27371babe239c18fc21b5e2f0f5",
+    "spotifyUrl": "https://open.spotify.com/album/5PyOMtVxqztMvIKsJLV8bW",
+    "playedAt": "2026-11-13T22:34:12.432Z"
+  },
+  {
+    "albumId": "5MW64UjnGUlf6WdBy1Okig",
+    "title": "Mike",
+    "artist": "Elvana Gjata, Ledri Vula, John Shahu",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a9047d99398ba5e6aebcc721",
+    "spotifyUrl": "https://open.spotify.com/album/5MW64UjnGUlf6WdBy1Okig",
+    "playedAt": "2026-11-13T21:17:50.011Z"
+  },
+  {
+    "albumId": "0Uv83rRhY5QvHKkQoULRKk",
+    "title": "Hozier",
+    "artist": "Hozier",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737a9bf5f82e32d33d4503fe7b",
+    "spotifyUrl": "https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk",
+    "playedAt": "2026-11-13T21:14:26.305Z"
+  },
+  {
+    "albumId": "6s84u2TUpR3wdUv4NgKA2j",
+    "title": "SOUR",
+    "artist": "Olivia Rodrigo",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+    "spotifyUrl": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j",
+    "playedAt": "2026-11-13T21:10:24.109Z"
+  },
+  {
     "albumId": "7cmSC8Kb40PpwGCJIk6EDP",
     "title": "Ser\u00e1 por ti",
     "artist": "\u00cd\u00f1igo Quintero, Hey Kid",
@@ -54,6 +118,14 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
     "spotifyUrl": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n",
     "playedAt": "2026-11-13T20:02:43.922Z"
+  },
+  {
+    "albumId": "3nmxVghAmY7ZKFL6QQWVdg",
+    "title": "Eri solo da incontrare",
+    "artist": "Alfa",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273762f0ebb926f8dabaab2b2cf",
+    "spotifyUrl": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg",
+    "playedAt": "2026-11-13T19:58:15.624Z"
   },
   {
     "albumId": "54Y471E7GNBSOXjZtqONId",
@@ -310,77 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2733f8b8a9c71b2bd2f3019940b",
     "spotifyUrl": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV",
     "playedAt": "2026-11-13T14:25:31.816Z"
-  },
-  {
-    "albumId": "1KFWgQTw3EMTQebaaepVBI",
-    "title": "Clancy",
-    "artist": "Twenty One Pilots",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273cc94dd4730132ccfbd617bf9",
-    "spotifyUrl": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI",
-    "playedAt": "2026-11-13T14:22:34.947Z"
-  },
-  {
-    "albumId": "31qVWUdRrlb8thMvts0yYL",
-    "title": "The Slow Rush",
-    "artist": "Tame Impala",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
-    "spotifyUrl": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL",
-    "playedAt": "2026-11-13T14:19:40.359Z"
-  },
-  {
-    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
-    "title": "SINCERO!",
-    "artist": "Rare\u0219, faccianuvola",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
-    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
-    "playedAt": "2026-11-13T14:15:42.101Z"
-  },
-  {
-    "albumId": "3nmxVghAmY7ZKFL6QQWVdg",
-    "title": "Eri solo da incontrare",
-    "artist": "Alfa",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273762f0ebb926f8dabaab2b2cf",
-    "spotifyUrl": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg",
-    "playedAt": "2026-11-13T14:12:30.813Z"
-  },
-  {
-    "albumId": "2ClZ9xWAYg1BH8zkR96dJo",
-    "title": "USB",
-    "artist": "Fred again.., Baby Keem",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734018b70099d433d9c8aabb12",
-    "spotifyUrl": "https://open.spotify.com/album/2ClZ9xWAYg1BH8zkR96dJo",
-    "playedAt": "2026-11-13T12:40:31.077Z"
-  },
-  {
-    "albumId": "7GzNHtb9w0K7sEjsKj8jmT",
-    "title": "flex fm (freddit) feat. Future, Lil Yachty, Playboi Carti",
-    "artist": "Joy Orbison, Lil Yachty, Future, Playboi Carti",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273eec105edd0a1345582ea275a",
-    "spotifyUrl": "https://open.spotify.com/album/7GzNHtb9w0K7sEjsKj8jmT",
-    "playedAt": "2026-11-13T12:21:02.980Z"
-  },
-  {
-    "albumId": "7x9gF8DtACwxkejv2xBndT",
-    "title": "Skepta .. Fred",
-    "artist": "Skepta, Fred again..",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273096a7117356251107f00c8d8",
-    "spotifyUrl": "https://open.spotify.com/album/7x9gF8DtACwxkejv2xBndT",
-    "playedAt": "2026-11-13T11:28:12.112Z"
-  },
-  {
-    "albumId": "1IM3GwptCGYjRkzCBolyFK",
-    "title": "How To Save A Life",
-    "artist": "The Fray",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27359b8b957f164ce660919f1f4",
-    "spotifyUrl": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK",
-    "playedAt": "2026-11-13T10:18:44.777Z"
-  },
-  {
-    "albumId": "1YPWxMpQEC8kcOuefgXbhj",
-    "title": "Guitar Songs",
-    "artist": "Billie Eilish",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318",
-    "spotifyUrl": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj",
-    "playedAt": "2026-11-13T10:14:21.770Z"
   }
 ]
