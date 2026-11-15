@@ -1,5 +1,197 @@
 [
   {
+    "albumId": "2CjWmmwJpBimhLj5LR1XGW",
+    "title": "Fidati di me",
+    "artist": "Mida, Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273844cd6083e39dc6ed080fd35",
+    "spotifyUrl": "https://open.spotify.com/album/2CjWmmwJpBimhLj5LR1XGW",
+    "playedAt": "2026-11-15T12:31:59.518Z"
+  },
+  {
+    "albumId": "40DTjrBkgfSD4pb1CnlCgl",
+    "title": "Ritmo",
+    "artist": "Raffa Fl",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c632710935419d8475d5c694",
+    "spotifyUrl": "https://open.spotify.com/album/40DTjrBkgfSD4pb1CnlCgl",
+    "playedAt": "2026-11-15T12:13:15.280Z"
+  },
+  {
+    "albumId": "3wBabo4pmzsYjALMSKY7Iq",
+    "title": "Illuminate (Deluxe)",
+    "artist": "Shawn Mendes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521",
+    "spotifyUrl": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq",
+    "playedAt": "2026-11-15T12:07:33.937Z"
+  },
+  {
+    "albumId": "2Auw0pTT6EcQdvHNimhLQI",
+    "title": "V",
+    "artist": "Maroon 5",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c",
+    "spotifyUrl": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI",
+    "playedAt": "2026-11-15T12:04:14.022Z"
+  },
+  {
+    "albumId": "4aUkFfFxRJxakxSsvuWtdO",
+    "title": "Milano",
+    "artist": "NASKA",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738503cf31279fb171137d23a9",
+    "spotifyUrl": "https://open.spotify.com/album/4aUkFfFxRJxakxSsvuWtdO",
+    "playedAt": "2026-11-15T12:01:03.564Z"
+  },
+  {
+    "albumId": "5dGWwsZ9iB2Xc3UKR0gif2",
+    "title": "Justice",
+    "artist": "Justin Bieber",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431",
+    "spotifyUrl": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2",
+    "playedAt": "2026-11-15T11:57:35.764Z"
+  },
+  {
+    "albumId": "1nrVofqDRs7cpWXJ49qTnP",
+    "title": "SOS",
+    "artist": "SZA",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c5276ed6cb0287df8d9be07f",
+    "spotifyUrl": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP",
+    "playedAt": "2026-11-15T11:54:58.835Z"
+  },
+  {
+    "albumId": "4sSMvLcF71IS3RfB4yP0PN",
+    "title": "Nightmares",
+    "artist": "Bresh, Pinguini Tattici Nucleari",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732f5657534d2d92a6375a6333",
+    "spotifyUrl": "https://open.spotify.com/album/4sSMvLcF71IS3RfB4yP0PN",
+    "playedAt": "2026-11-15T11:52:24.375Z"
+  },
+  {
+    "albumId": "2jvTYHZayLQaa6ZPz5qqJe",
+    "title": "mood swings",
+    "artist": "Henry Moodie",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fbcb59071e40163ffc25b6f9",
+    "spotifyUrl": "https://open.spotify.com/album/2jvTYHZayLQaa6ZPz5qqJe",
+    "playedAt": "2026-11-15T11:49:02.072Z"
+  },
+  {
+    "albumId": "7ivbFszr1TbVadj89BIy1y",
+    "title": "NEVER ENOUGH",
+    "artist": "Daniel Caesar",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737c68face1dc58127f3a7b1cc",
+    "spotifyUrl": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y",
+    "playedAt": "2026-11-15T11:46:50.935Z"
+  },
+  {
+    "albumId": "17R63Sb8OrPikc2R4mlpdC",
+    "title": "GIRLS",
+    "artist": "The Kid LAROI",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c8af7237bb25ad59488944c1",
+    "spotifyUrl": "https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC",
+    "playedAt": "2026-11-15T11:43:13.926Z"
+  },
+  {
+    "albumId": "29nOS5yANYfHlGSBGkkfuW",
+    "title": "Agonia",
+    "artist": "chiello",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ec38726df2c0bb6015412929",
+    "spotifyUrl": "https://open.spotify.com/album/29nOS5yANYfHlGSBGkkfuW",
+    "playedAt": "2026-11-15T11:40:40.475Z"
+  },
+  {
+    "albumId": "1uEHrNStg2h7UMMWHKzg43",
+    "title": "Let the Sun Talk",
+    "artist": "MAVI",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bf14eb708e1a7c495e61d919",
+    "spotifyUrl": "https://open.spotify.com/album/1uEHrNStg2h7UMMWHKzg43",
+    "playedAt": "2026-11-15T11:37:15.002Z"
+  },
+  {
+    "albumId": "4rJgzzfFHAVFhCSt2P4I3j",
+    "title": "Playboi Carti",
+    "artist": "Playboi Carti, A$AP Rocky",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+    "spotifyUrl": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j",
+    "playedAt": "2026-11-15T11:36:09.836Z"
+  },
+  {
+    "albumId": "3T4tUhGYeRNVUGevb0wThu",
+    "title": "\u00f7 (Deluxe)",
+    "artist": "Ed Sheeran",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
+    "spotifyUrl": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu",
+    "playedAt": "2026-11-15T11:34:03.235Z"
+  },
+  {
+    "albumId": "6y2wI0mDStpCnKGjdkFxQZ",
+    "title": "leavemealone (Nia Archives Remix)",
+    "artist": "Fred again.., Baby Keem, Nia Archives",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732fe2c705ba9005b5f6b48f13",
+    "spotifyUrl": "https://open.spotify.com/album/6y2wI0mDStpCnKGjdkFxQZ",
+    "playedAt": "2026-11-15T11:30:35.173Z"
+  },
+  {
+    "albumId": "4aNjXVkVKGFfr2HRkVM302",
+    "title": "MATERIA (TERRA)",
+    "artist": "Marco Mengoni, Madame",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732c1950d7fdf0bbe6d6e4dd4f",
+    "spotifyUrl": "https://open.spotify.com/album/4aNjXVkVKGFfr2HRkVM302",
+    "playedAt": "2026-11-15T11:27:35.240Z"
+  },
+  {
+    "albumId": "4DOsPwJtokv6HEifZ6t5j6",
+    "title": "VULTURES 1",
+    "artist": "\u00a5$, Kanye West, Ty Dolla $ign",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739c654f315df05ae7c6ec8980",
+    "spotifyUrl": "https://open.spotify.com/album/4DOsPwJtokv6HEifZ6t5j6",
+    "playedAt": "2026-11-15T11:06:17.788Z"
+  },
+  {
+    "albumId": "7gsWAHLeT0w7es6FofOXk1",
+    "title": "The Life Of Pablo",
+    "artist": "Kanye West",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
+    "spotifyUrl": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1",
+    "playedAt": "2026-11-15T11:03:02.589Z"
+  },
+  {
+    "albumId": "1r5J0N6Ep181K0i8YuTYgO",
+    "title": "The Script",
+    "artist": "The Script",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f33a9f529c12f79b116eb218",
+    "spotifyUrl": "https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO",
+    "playedAt": "2026-11-15T10:57:41.433Z"
+  },
+  {
+    "albumId": "1GG6U2SSJPHO6XsFiBzxYv",
+    "title": "CALL ME IF YOU GET LOST: The Estate Sale",
+    "artist": "Tyler, The Creator",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273aa95a399fd30fbb4f6f59fca",
+    "spotifyUrl": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv",
+    "playedAt": "2026-11-15T10:53:39.527Z"
+  },
+  {
+    "albumId": "3dmu97DsoFpSptXPtJEzCJ",
+    "title": "you're a star",
+    "artist": "Fred again.., Amyl and The Sniffers",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b987c04d9111770fd3f3b6cd",
+    "spotifyUrl": "https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ",
+    "playedAt": "2026-11-15T10:50:58.040Z"
+  },
+  {
+    "albumId": "3nmxVghAmY7ZKFL6QQWVdg",
+    "title": "Eri solo da incontrare",
+    "artist": "Alfa",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273762f0ebb926f8dabaab2b2cf",
+    "spotifyUrl": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg",
+    "playedAt": "2026-11-15T10:47:18.451Z"
+  },
+  {
+    "albumId": "4EUf4YyNjuXypWY6W5wEDm",
+    "title": "Globalization",
+    "artist": "Pitbull, John Ryan",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e6efeff81a318670a292090f",
+    "spotifyUrl": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm",
+    "playedAt": "2026-11-15T10:39:27.185Z"
+  },
+  {
     "albumId": "19bQiwEKhXUBJWY6oV3KZk",
     "title": "Madvillainy",
     "artist": "Madvillain, Madlib, MF DOOM, Viktor Vaughn",
@@ -14,6 +206,14 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526",
     "spotifyUrl": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf",
     "playedAt": "2026-11-14T21:44:25.984Z"
+  },
+  {
+    "albumId": "3nmxVghAmY7ZKFL6QQWVdg",
+    "title": "Eri solo da incontrare",
+    "artist": "Alfa",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273762f0ebb926f8dabaab2b2cf",
+    "spotifyUrl": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg",
+    "playedAt": "2026-11-14T21:40:16.383Z"
   },
   {
     "albumId": "43sxUsU622oLloqafw61vN",
@@ -182,205 +382,5 @@
     "cover": "https://i.scdn.co/image/ab6742d3000053b7f9e17de7987f01a55dd97e01",
     "spotifyUrl": "https://open.spotify.com/album/1BV238qPvwqhXIpPbRxlJH",
     "playedAt": "2026-11-14T19:00:22.944Z"
-  },
-  {
-    "albumId": "3hgkYhTNryeg7ZLEgPOKeh",
-    "title": "COCONUT PERFUME",
-    "artist": "Ray Laur\u00e9l",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273235e62bdb00df7a510784900",
-    "spotifyUrl": "https://open.spotify.com/album/3hgkYhTNryeg7ZLEgPOKeh",
-    "playedAt": "2026-11-14T19:00:22.944Z"
-  },
-  {
-    "albumId": "0SW0LplxFID1otCk4bhhHI",
-    "title": "Ehhthang Ehhthang",
-    "artist": "GloRilla, Megan Thee Stallion",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273bd9951bb4c9813bc540bde1d",
-    "spotifyUrl": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI",
-    "playedAt": "2026-11-14T13:18:52.505Z"
-  },
-  {
-    "albumId": "0js12ciEGYY4tTcCLKgwwY",
-    "title": "Romantico Ma Muori",
-    "artist": "Pinguini Tattici Nucleari",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732a602241388eeffa2d92204c",
-    "spotifyUrl": "https://open.spotify.com/album/0js12ciEGYY4tTcCLKgwwY",
-    "playedAt": "2026-11-14T13:16:00.464Z"
-  },
-  {
-    "albumId": "18pzJc8GyrVQmunRXrY3ch",
-    "title": "to love in the 21st century",
-    "artist": "Lyn Lapid",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c6497369a38af8968e93168e",
-    "spotifyUrl": "https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch",
-    "playedAt": "2026-11-14T13:13:13.721Z"
-  },
-  {
-    "albumId": "3T4tUhGYeRNVUGevb0wThu",
-    "title": "\u00f7 (Deluxe)",
-    "artist": "Ed Sheeran",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
-    "spotifyUrl": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu",
-    "playedAt": "2026-11-14T13:08:43.321Z"
-  },
-  {
-    "albumId": "3xIGAElZCxV44QtMvXrPMa",
-    "title": "Loser",
-    "artist": "Tame Impala",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e2aa48290b3cd1040be92345",
-    "spotifyUrl": "https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa",
-    "playedAt": "2026-11-14T10:45:49.807Z"
-  },
-  {
-    "albumId": "1AZSZ1CM8Xen3FmviWh1y7",
-    "title": "le stelle* il sole; l'arcobaleno))",
-    "artist": "faccianuvola",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273d79ddc472c2f25eb5abc4538",
-    "spotifyUrl": "https://open.spotify.com/album/1AZSZ1CM8Xen3FmviWh1y7",
-    "playedAt": "2026-11-14T10:42:06.224Z"
-  },
-  {
-    "albumId": "692R05mxz7V6eOFoj5PMlQ",
-    "title": "Atavista",
-    "artist": "Childish Gambino, Young Nudy",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2733343b68ee045867571b07c47",
-    "spotifyUrl": "https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ",
-    "playedAt": "2026-11-14T10:38:36.688Z"
-  },
-  {
-    "albumId": "2SUBknzxng0iqBpKT9vzns",
-    "title": "Cha Cha",
-    "artist": "Freddie Dredd",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27342ffc7773e7f4ea48e5606a8",
-    "spotifyUrl": "https://open.spotify.com/album/2SUBknzxng0iqBpKT9vzns",
-    "playedAt": "2026-11-14T10:34:49.583Z"
-  },
-  {
-    "albumId": "2G85hww2oXZs1fFAHAVKD9",
-    "title": "Chiasso",
-    "artist": "Random",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739af25c8a0c4457b614b3a6dc",
-    "spotifyUrl": "https://open.spotify.com/album/2G85hww2oXZs1fFAHAVKD9",
-    "playedAt": "2026-11-14T10:31:55.112Z"
-  },
-  {
-    "albumId": "41SHQw9IPneksBkEZkTTeR",
-    "title": "\u304b\u3051\u304c\u3048\u306e\u306a\u3044\u3082\u306e",
-    "artist": "MONO NO AWARE",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2735b2ee8013231a26176a60878",
-    "spotifyUrl": "https://open.spotify.com/album/41SHQw9IPneksBkEZkTTeR",
-    "playedAt": "2026-11-14T10:28:52.414Z"
-  },
-  {
-    "albumId": "7K3BWpksmH4L7BoqUdhZrL",
-    "title": "adore u",
-    "artist": "Fred again.., Obongjayar",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734479a11bdcb4f531702459a4",
-    "spotifyUrl": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL",
-    "playedAt": "2026-11-14T10:26:35.030Z"
-  },
-  {
-    "albumId": "2nkto6YNI4rUYTLqEwWJ3o",
-    "title": "Flower Boy",
-    "artist": "Tyler, The Creator",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3",
-    "spotifyUrl": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o",
-    "playedAt": "2026-11-14T10:22:53.773Z"
-  },
-  {
-    "albumId": "5UCY2oLiVjR3qIDLXVUYVu",
-    "title": "Call On Me",
-    "artist": "Daniel Caesar",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736e5c2094a0eeac16849b048a",
-    "spotifyUrl": "https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu",
-    "playedAt": "2026-11-14T10:19:08.380Z"
-  },
-  {
-    "albumId": "5B5PwF6k8dMRZKgYXXL1qw",
-    "title": "SoloSolo",
-    "artist": "Spacehippiez",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273612ef48de70c1b7b1d1896b7",
-    "spotifyUrl": "https://open.spotify.com/album/5B5PwF6k8dMRZKgYXXL1qw",
-    "playedAt": "2026-11-14T10:16:18.600Z"
-  },
-  {
-    "albumId": "7ycBtnsMtyVbbwTfJwRjSP",
-    "title": "To Pimp A Butterfly",
-    "artist": "Kendrick Lamar",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1",
-    "spotifyUrl": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP",
-    "playedAt": "2026-11-14T10:14:06.370Z"
-  },
-  {
-    "albumId": "7FETzceoX9bnUYYBSes3fp",
-    "title": "LOCURA",
-    "artist": "Lazza",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27374166d90c2588079c62a1175",
-    "spotifyUrl": "https://open.spotify.com/album/7FETzceoX9bnUYYBSes3fp",
-    "playedAt": "2026-11-14T10:10:11.141Z"
-  },
-  {
-    "albumId": "2MAslE3CpEJAIvLG8EW1Gh",
-    "title": "Questa domenica",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b2543a4312d07cffe4205d98",
-    "spotifyUrl": "https://open.spotify.com/album/2MAslE3CpEJAIvLG8EW1Gh",
-    "playedAt": "2026-11-14T10:07:01.438Z"
-  },
-  {
-    "albumId": "28fyugoOJv31DDmp6wx2i7",
-    "title": "Somewhere Only We Know",
-    "artist": "rhianne",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273798a691a36284cd4f50f11a8",
-    "spotifyUrl": "https://open.spotify.com/album/28fyugoOJv31DDmp6wx2i7",
-    "playedAt": "2026-11-14T10:03:24.844Z"
-  },
-  {
-    "albumId": "4GgojLZOPRu8MdUVmjNRSI",
-    "title": "High School Musical: The Musical: The Series (Original Soundtrack)",
-    "artist": "Olivia Rodrigo, Disney",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273103b7e52b6a1b74035385876",
-    "spotifyUrl": "https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI",
-    "playedAt": "2026-11-14T09:52:20.003Z"
-  },
-  {
-    "albumId": "0evzDJW1g4vJvq6hc027HI",
-    "title": "Atlantico",
-    "artist": "Marco Mengoni",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c670f7d99fd359a3d829e449",
-    "spotifyUrl": "https://open.spotify.com/album/0evzDJW1g4vJvq6hc027HI",
-    "playedAt": "2026-11-14T09:49:22.224Z"
-  },
-  {
-    "albumId": "3nmxVghAmY7ZKFL6QQWVdg",
-    "title": "Eri solo da incontrare",
-    "artist": "Alfa",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273762f0ebb926f8dabaab2b2cf",
-    "spotifyUrl": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg",
-    "playedAt": "2026-11-14T09:43:21.815Z"
-  },
-  {
-    "albumId": "7ivbFszr1TbVadj89BIy1y",
-    "title": "NEVER ENOUGH",
-    "artist": "Daniel Caesar",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737c68face1dc58127f3a7b1cc",
-    "spotifyUrl": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y",
-    "playedAt": "2026-11-14T09:05:50.576Z"
-  },
-  {
-    "albumId": "0WqDLFy6UcjR9ygT9PrT22",
-    "title": "IO NON HO PAURA",
-    "artist": "Ernia",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27359fbd220d580fbde3ff7af1c",
-    "spotifyUrl": "https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22",
-    "playedAt": "2026-11-14T09:02:48.943Z"
-  },
-  {
-    "albumId": "7ik4rjxOnmwnAWWzjj5ni3",
-    "title": "Everything All The Time",
-    "artist": "Band of Horses",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273024bdaecebd5e9d3b6a0949e",
-    "spotifyUrl": "https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3",
-    "playedAt": "2026-11-14T08:59:08.151Z"
   }
 ]
