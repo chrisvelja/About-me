@@ -1,11 +1,107 @@
 [
   {
+    "albumId": "1jxQ99vwL9ca4wEVJMjSY7",
+    "title": "The Notebook (Original Motion Picture Soundtrack)",
+    "artist": "Aaron Zigman",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27337f59d01737c1a5d6483f5ef",
+    "spotifyUrl": "https://open.spotify.com/album/1jxQ99vwL9ca4wEVJMjSY7",
+    "playedAt": "2026-11-16T15:42:09.831Z"
+  },
+  {
+    "albumId": "6a5ooTImBgwYbkDaQz1gkf",
+    "title": "How To Train Your Dragon (Deluxe Edition)",
+    "artist": "John Powell",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27331eeb313fb6fb6b175afd5fc",
+    "spotifyUrl": "https://open.spotify.com/album/6a5ooTImBgwYbkDaQz1gkf",
+    "playedAt": "2026-11-16T13:39:32.001Z"
+  },
+  {
+    "albumId": "3B61kSKTxlY36cYgzvf3cP",
+    "title": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
+    "artist": "Hans Zimmer",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27381f04c407e0ec68e3dea6b2c",
+    "spotifyUrl": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP",
+    "playedAt": "2026-11-16T13:37:35.400Z"
+  },
+  {
+    "albumId": "6PRPYATK5VvjZ2p911y6U0",
+    "title": "Le Fabuleux destin d'Am\u00e9lie Poulain (Bande originale du film)",
+    "artist": "Yann Tiersen",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731b7844a8c73c4d48f0bca1de",
+    "spotifyUrl": "https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0",
+    "playedAt": "2026-11-16T13:34:15.472Z"
+  },
+  {
+    "albumId": "5yN2LiMaA7nEXT35GW4hNu",
+    "title": "Up (Original Motion Picture Soundtrack)",
+    "artist": "Michael Giacchino",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27390ab02c84abe851ec8353506",
+    "spotifyUrl": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu",
+    "playedAt": "2026-11-16T13:31:54.239Z"
+  },
+  {
+    "albumId": "0VLWQ07ItWu50Pe7lWBw1K",
+    "title": "Buongiorno Principessa (From \"La vita \u00e8 bella\")",
+    "artist": "Nicola Piovani, Luigi Piovano, Archi di Santa Cecilia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273dcfdf4c75df257cd9845dc41",
+    "spotifyUrl": "https://open.spotify.com/album/0VLWQ07ItWu50Pe7lWBw1K",
+    "playedAt": "2026-11-16T13:29:40.581Z"
+  },
+  {
+    "albumId": "1N6p8qmf8PJgYQdktQQYYh",
+    "title": "First Love (The Original & the Very First Recording)",
+    "artist": "Yiruma",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734bdb66d1335f8571240e755f",
+    "spotifyUrl": "https://open.spotify.com/album/1N6p8qmf8PJgYQdktQQYYh",
+    "playedAt": "2026-11-16T13:23:45.836Z"
+  },
+  {
+    "albumId": "4Kw7yE7xBZdHrvkTswoQq4",
+    "title": "Love Actually (Original Motion Picture Score)",
+    "artist": "Craig Armstrong",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736daf77eef4db05f3e973fe53",
+    "spotifyUrl": "https://open.spotify.com/album/4Kw7yE7xBZdHrvkTswoQq4",
+    "playedAt": "2026-11-16T13:20:36.564Z"
+  },
+  {
+    "albumId": "1rTHmwhZwhhvivx3pdXXdo",
+    "title": "The Blue Notebooks (15 Years)",
+    "artist": "Max Richter, Louisa Fuller, Natalia Bonner, John Metcalfe, Philip Sheppard, Chris Worsey",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e2821b1458ab996fdf2c47ad",
+    "spotifyUrl": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo",
+    "playedAt": "2026-11-16T13:18:30.821Z"
+  },
+  {
+    "albumId": "0Ryad9M1b1MxSjgXdHCh1c",
+    "title": "Una Mattina",
+    "artist": "Ludovico Einaudi",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734ea8c5801bfdf5ac90719400",
+    "spotifyUrl": "https://open.spotify.com/album/0Ryad9M1b1MxSjgXdHCh1c",
+    "playedAt": "2026-11-16T13:12:18.572Z"
+  },
+  {
+    "albumId": "1O8zecXhiPs2oEPXmcMnqL",
+    "title": "Time Is Running Out",
+    "artist": "Nothing Ends",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a6943d375eae3811f1771176",
+    "spotifyUrl": "https://open.spotify.com/album/1O8zecXhiPs2oEPXmcMnqL",
+    "playedAt": "2026-11-16T11:28:29.761Z"
+  },
+  {
     "albumId": "3ADELRoZ4I8WLE7clLU7La",
     "title": "O",
     "artist": "Damien Rice",
     "cover": "https://i.scdn.co/image/ab67616d0000b273c0b805ad0350a581017bf74d",
     "spotifyUrl": "https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La",
     "playedAt": "2026-11-16T10:32:59.301Z"
+  },
+  {
+    "albumId": "3yAze8PaTdWwS8nc5LQHAc",
+    "title": "One Day (Motion Picture Soundtrack)",
+    "artist": "Rachel Portman",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b802a1c9e83a360d47ce55c4",
+    "spotifyUrl": "https://open.spotify.com/album/3yAze8PaTdWwS8nc5LQHAc",
+    "playedAt": "2026-11-16T10:21:35.686Z"
   },
   {
     "albumId": "6WaypAEqrcs1YmMLWJM3lM",
@@ -40,28 +136,20 @@
     "playedAt": "2026-11-16T10:02:51.380Z"
   },
   {
+    "albumId": "6Q2Udysxg0bNVYU7lWxLo3",
+    "title": "to love and to lose",
+    "artist": "Dylan",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27322f14f47106a59f5478f7a22",
+    "spotifyUrl": "https://open.spotify.com/album/6Q2Udysxg0bNVYU7lWxLo3",
+    "playedAt": "2026-11-16T09:45:22.032Z"
+  },
+  {
     "albumId": "0KRISRNZxTUJwz6501ASYG",
     "title": "Nothing Lasts Forever",
     "artist": "Dylan",
     "cover": "https://i.scdn.co/image/ab6742d3000053b7cc259e157e6e60f844d6875e",
     "spotifyUrl": "https://open.spotify.com/album/0KRISRNZxTUJwz6501ASYG",
     "playedAt": "2026-11-16T09:38:23.719Z"
-  },
-  {
-    "albumId": "6Q2Udysxg0bNVYU7lWxLo3",
-    "title": "to love and to lose",
-    "artist": "Dylan",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27322f14f47106a59f5478f7a22",
-    "spotifyUrl": "https://open.spotify.com/album/6Q2Udysxg0bNVYU7lWxLo3",
-    "playedAt": "2026-11-16T07:13:26.538Z"
-  },
-  {
-    "albumId": "3yAze8PaTdWwS8nc5LQHAc",
-    "title": "One Day (Motion Picture Soundtrack)",
-    "artist": "Rachel Portman",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b802a1c9e83a360d47ce55c4",
-    "spotifyUrl": "https://open.spotify.com/album/3yAze8PaTdWwS8nc5LQHAc",
-    "playedAt": "2026-11-16T01:03:32.829Z"
   },
   {
     "albumId": "3sDud6BapENewYxlL8VH8r",
@@ -294,93 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2733e3bb917af94bd82074c5d47",
     "spotifyUrl": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk",
     "playedAt": "2026-11-14T21:46:22.343Z"
-  },
-  {
-    "albumId": "3mH6qwIy9crq0I9YQbOuDf",
-    "title": "Blonde",
-    "artist": "Frank Ocean",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526",
-    "spotifyUrl": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf",
-    "playedAt": "2026-11-14T21:44:25.984Z"
-  },
-  {
-    "albumId": "3nmxVghAmY7ZKFL6QQWVdg",
-    "title": "Eri solo da incontrare",
-    "artist": "Alfa",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273762f0ebb926f8dabaab2b2cf",
-    "spotifyUrl": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg",
-    "playedAt": "2026-11-14T21:40:16.383Z"
-  },
-  {
-    "albumId": "43sxUsU622oLloqafw61vN",
-    "title": "Mujeriego",
-    "artist": "Ryan Castro",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273fe7da8627afe63f627b49a53",
-    "spotifyUrl": "https://open.spotify.com/album/43sxUsU622oLloqafw61vN",
-    "playedAt": "2026-11-14T21:34:50.369Z"
-  },
-  {
-    "albumId": "5zEFCJy9kAyD8rMbBESdYh",
-    "title": "Prince Royce",
-    "artist": "Prince Royce",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a484690118ec2c7a2e2ae124",
-    "spotifyUrl": "https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh",
-    "playedAt": "2026-11-14T21:32:27.244Z"
-  },
-  {
-    "albumId": "0IJcpy0eM4o63J43qij68g",
-    "title": "Ladies & Gentlemen",
-    "artist": "George Michael",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273813629baee66b2ec5f90ebee",
-    "spotifyUrl": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g",
-    "playedAt": "2026-11-14T21:28:43.597Z"
-  },
-  {
-    "albumId": "4SZko61aMnmgvNhfhgTuD3",
-    "title": "Graduation",
-    "artist": "Kanye West",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-    "spotifyUrl": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3",
-    "playedAt": "2026-11-14T21:25:30.717Z"
-  },
-  {
-    "albumId": "3tyC8cXSXLDj6MtMceKh1c",
-    "title": "Superbattito",
-    "artist": "Gazzelle",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273388553ca5fa3fdaabb13d5be",
-    "spotifyUrl": "https://open.spotify.com/album/3tyC8cXSXLDj6MtMceKh1c",
-    "playedAt": "2026-11-14T21:22:42.691Z"
-  },
-  {
-    "albumId": "3B61kSKTxlY36cYgzvf3cP",
-    "title": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
-    "artist": "Hans Zimmer",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27381f04c407e0ec68e3dea6b2c",
-    "spotifyUrl": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP",
-    "playedAt": "2026-11-14T21:18:31.090Z"
-  },
-  {
-    "albumId": "64nbgEEIcY4g1ElVLONJ0w",
-    "title": "Man On The Moon III: The Chosen",
-    "artist": "Kid Cudi",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736ff25c2481eeaf6e7284d461",
-    "spotifyUrl": "https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w",
-    "playedAt": "2026-11-14T21:17:01.674Z"
-  },
-  {
-    "albumId": "6svS1vGX5qyK9mhz8ijzxs",
-    "title": "Get Born (Deluxe Edition)",
-    "artist": "Jet",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27301fe3e94ab830a543d8f6a93",
-    "spotifyUrl": "https://open.spotify.com/album/6svS1vGX5qyK9mhz8ijzxs",
-    "playedAt": "2026-11-14T21:11:35.838Z"
-  },
-  {
-    "albumId": "52E4RP7XDzalpIrOgSTgiQ",
-    "title": "Invincible",
-    "artist": "Michael Jackson",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75",
-    "spotifyUrl": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ",
-    "playedAt": "2026-11-14T20:43:51.805Z"
   }
 ]
