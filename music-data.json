@@ -1,11 +1,67 @@
 [
   {
+    "albumId": "3ADELRoZ4I8WLE7clLU7La",
+    "title": "O",
+    "artist": "Damien Rice",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c0b805ad0350a581017bf74d",
+    "spotifyUrl": "https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La",
+    "playedAt": "2026-11-16T10:32:59.301Z"
+  },
+  {
+    "albumId": "6WaypAEqrcs1YmMLWJM3lM",
+    "title": "Santamaria",
+    "artist": "Canova",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27360dc1e5af314f8e3e0d7d0b2",
+    "spotifyUrl": "https://open.spotify.com/album/6WaypAEqrcs1YmMLWJM3lM",
+    "playedAt": "2026-11-16T10:12:35.898Z"
+  },
+  {
+    "albumId": "3nmxVghAmY7ZKFL6QQWVdg",
+    "title": "Eri solo da incontrare",
+    "artist": "Alfa",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273762f0ebb926f8dabaab2b2cf",
+    "spotifyUrl": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg",
+    "playedAt": "2026-11-16T10:08:40.494Z"
+  },
+  {
+    "albumId": "11dh7pT3FRrGkI3TXl0e4k",
+    "title": "Mainstream (Deluxe Edition)",
+    "artist": "Calcutta ",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738417b499a1b885a9300a91eb",
+    "spotifyUrl": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k",
+    "playedAt": "2026-11-16T10:05:41.193Z"
+  },
+  {
+    "albumId": "5dGWwsZ9iB2Xc3UKR0gif2",
+    "title": "Justice",
+    "artist": "Justin Bieber",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431",
+    "spotifyUrl": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2",
+    "playedAt": "2026-11-16T10:02:51.380Z"
+  },
+  {
+    "albumId": "0KRISRNZxTUJwz6501ASYG",
+    "title": "Nothing Lasts Forever",
+    "artist": "Dylan",
+    "cover": "https://i.scdn.co/image/ab6742d3000053b7cc259e157e6e60f844d6875e",
+    "spotifyUrl": "https://open.spotify.com/album/0KRISRNZxTUJwz6501ASYG",
+    "playedAt": "2026-11-16T09:38:23.719Z"
+  },
+  {
+    "albumId": "6Q2Udysxg0bNVYU7lWxLo3",
+    "title": "to love and to lose",
+    "artist": "Dylan",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27322f14f47106a59f5478f7a22",
+    "spotifyUrl": "https://open.spotify.com/album/6Q2Udysxg0bNVYU7lWxLo3",
+    "playedAt": "2026-11-16T07:13:26.538Z"
+  },
+  {
     "albumId": "3yAze8PaTdWwS8nc5LQHAc",
     "title": "One Day (Motion Picture Soundtrack)",
     "artist": "Rachel Portman",
     "cover": "https://i.scdn.co/image/ab67616d0000b273b802a1c9e83a360d47ce55c4",
     "spotifyUrl": "https://open.spotify.com/album/3yAze8PaTdWwS8nc5LQHAc",
-    "playedAt": "2026-11-16T00:03:37.384Z"
+    "playedAt": "2026-11-16T01:03:32.829Z"
   },
   {
     "albumId": "3sDud6BapENewYxlL8VH8r",
@@ -326,61 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75",
     "spotifyUrl": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ",
     "playedAt": "2026-11-14T20:43:51.805Z"
-  },
-  {
-    "albumId": "5MW64UjnGUlf6WdBy1Okig",
-    "title": "Mike",
-    "artist": "Elvana Gjata, Ledri Vula, John Shahu",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a9047d99398ba5e6aebcc721",
-    "spotifyUrl": "https://open.spotify.com/album/5MW64UjnGUlf6WdBy1Okig",
-    "playedAt": "2026-11-14T20:28:12.543Z"
-  },
-  {
-    "albumId": "3ixf929ty0cKT46gJ0sJ9Y",
-    "title": "PER SOLDI E PER AMORE",
-    "artist": "Ernia",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c1fc667f2f142100a44348e8",
-    "spotifyUrl": "https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y",
-    "playedAt": "2026-11-14T20:24:48.953Z"
-  },
-  {
-    "albumId": "0iphrOhDr7aZHLvklK2stp",
-    "title": "I Run",
-    "artist": "HAVEN., Kaitlin Aragon",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731d64e05ee2ce95ec19f47771",
-    "spotifyUrl": "https://open.spotify.com/album/0iphrOhDr7aZHLvklK2stp",
-    "playedAt": "2026-11-14T20:21:51.829Z"
-  },
-  {
-    "albumId": "32bR4LcEc1PvJEhaKoo4ZN",
-    "title": "euphoria",
-    "artist": "Kendrick Lamar",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273bdc727cfc07ddbabf925bb2f",
-    "spotifyUrl": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN",
-    "playedAt": "2026-11-14T20:19:41.783Z"
-  },
-  {
-    "albumId": "3wpFDAZw49DchQMUWfi0iY",
-    "title": "Acqua Salata",
-    "artist": "chiello",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b16de3b61a11237710302d33",
-    "spotifyUrl": "https://open.spotify.com/album/3wpFDAZw49DchQMUWfi0iY",
-    "playedAt": "2026-11-14T20:13:17.677Z"
-  },
-  {
-    "albumId": "08SB1CgIS0yVIH7ZV99I6f",
-    "title": "TUTTA VITA (SEMPRE)",
-    "artist": "Olly, Juli",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736752cb3279906514dd04c8aa",
-    "spotifyUrl": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f",
-    "playedAt": "2026-11-14T20:09:25.177Z"
-  },
-  {
-    "albumId": "5WulAOx9ilWy1h8UGZ1gkI",
-    "title": "Deadbeat",
-    "artist": "Tame Impala",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b",
-    "spotifyUrl": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI",
-    "playedAt": "2026-11-14T20:05:52.479Z"
   }
 ]
