@@ -1,5 +1,21 @@
 [
   {
+    "albumId": "6Q2Udysxg0bNVYU7lWxLo3",
+    "title": "to love and to lose",
+    "artist": "Dylan",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27322f14f47106a59f5478f7a22",
+    "spotifyUrl": "https://open.spotify.com/album/6Q2Udysxg0bNVYU7lWxLo3",
+    "playedAt": "2026-11-17T22:06:44.122Z"
+  },
+  {
+    "albumId": "6ofJrAZaaX0iWTXYXObUxE",
+    "title": "Thee Sacred Souls",
+    "artist": "Thee Sacred Souls",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
+    "spotifyUrl": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE",
+    "playedAt": "2026-11-17T19:51:56.448Z"
+  },
+  {
     "albumId": "3GIj6ZdQw2XLkMspCJVsG8",
     "title": "Sal rosa",
     "artist": "LATIN MAFIA",
@@ -366,21 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273a7e9645cbafced178e10f61c",
     "spotifyUrl": "https://open.spotify.com/album/6HLPVkJiFDO56WXMSX6Vcr",
     "playedAt": "2026-11-16T22:58:32.644Z"
-  },
-  {
-    "albumId": "0MuaUaCx8qQ9JSQTrNwZ0Y",
-    "title": "Anima E Ghiaccio",
-    "artist": "Colle Der Fomento",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738acacc6a57af4d88528793d3",
-    "spotifyUrl": "https://open.spotify.com/album/0MuaUaCx8qQ9JSQTrNwZ0Y",
-    "playedAt": "2026-11-16T21:41:51.960Z"
-  },
-  {
-    "albumId": "1jxQ99vwL9ca4wEVJMjSY7",
-    "title": "The Notebook (Original Motion Picture Soundtrack)",
-    "artist": "Aaron Zigman",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27337f59d01737c1a5d6483f5ef",
-    "spotifyUrl": "https://open.spotify.com/album/1jxQ99vwL9ca4wEVJMjSY7",
-    "playedAt": "2026-11-16T15:42:09.831Z"
   }
 ]
