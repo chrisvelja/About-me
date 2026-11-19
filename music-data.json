@@ -1,5 +1,69 @@
 [
   {
+    "albumId": "6Q2Udysxg0bNVYU7lWxLo3",
+    "title": "to love and to lose",
+    "artist": "Dylan",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27322f14f47106a59f5478f7a22",
+    "spotifyUrl": "https://open.spotify.com/album/6Q2Udysxg0bNVYU7lWxLo3",
+    "playedAt": "2026-11-19T01:52:02.726Z"
+  },
+  {
+    "albumId": "3yAze8PaTdWwS8nc5LQHAc",
+    "title": "One Day (Motion Picture Soundtrack)",
+    "artist": "Rachel Portman",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b802a1c9e83a360d47ce55c4",
+    "spotifyUrl": "https://open.spotify.com/album/3yAze8PaTdWwS8nc5LQHAc",
+    "playedAt": "2026-11-19T01:49:00.998Z"
+  },
+  {
+    "albumId": "19dM4Pt4jFNdXiwjQG3ZK8",
+    "title": "Fabiano detto Inoki",
+    "artist": "Inoki",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27336ca80280353e109885a04a6",
+    "spotifyUrl": "https://open.spotify.com/album/19dM4Pt4jFNdXiwjQG3ZK8",
+    "playedAt": "2026-11-19T01:42:10.097Z"
+  },
+  {
+    "albumId": "5dGWwsZ9iB2Xc3UKR0gif2",
+    "title": "Justice",
+    "artist": "Justin Bieber",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431",
+    "spotifyUrl": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2",
+    "playedAt": "2026-11-18T20:30:00.647Z"
+  },
+  {
+    "albumId": "4jI9SU1GmpIVhHMuYZuvX7",
+    "title": "The Fall-Off",
+    "artist": "J. Cole",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27380788f104c780412212e97e3",
+    "spotifyUrl": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7",
+    "playedAt": "2026-11-18T20:21:59.090Z"
+  },
+  {
+    "albumId": "7D2NdGvBHIavgLhmcwhluK",
+    "title": "Yeezus",
+    "artist": "Kanye West",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9",
+    "spotifyUrl": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK",
+    "playedAt": "2026-11-18T20:03:36.829Z"
+  },
+  {
+    "albumId": "4iqbFIdGOTzXeDtt9owjQn",
+    "title": "WE DON'T TRUST YOU",
+    "artist": "Future, Metro Boomin, Travis Scott, Playboi Carti",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273cec3fc072352b5f4f637d9fa",
+    "spotifyUrl": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn",
+    "playedAt": "2026-11-18T20:00:28.321Z"
+  },
+  {
+    "albumId": "54HzLTohLottYBCmkjD41S",
+    "title": "INDI",
+    "artist": "Gazzelle",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737a79cc9950e69ca73c044f61",
+    "spotifyUrl": "https://open.spotify.com/album/54HzLTohLottYBCmkjD41S",
+    "playedAt": "2026-11-18T19:56:39.545Z"
+  },
+  {
     "albumId": "3MJGcgbroIjiO90yi7RMhy",
     "title": "Hello Miss Johnson",
     "artist": "Jack Harlow",
@@ -192,6 +256,14 @@
     "playedAt": "2026-11-17T22:06:44.122Z"
   },
   {
+    "albumId": "3yAze8PaTdWwS8nc5LQHAc",
+    "title": "One Day (Motion Picture Soundtrack)",
+    "artist": "Rachel Portman",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b802a1c9e83a360d47ce55c4",
+    "spotifyUrl": "https://open.spotify.com/album/3yAze8PaTdWwS8nc5LQHAc",
+    "playedAt": "2026-11-17T20:00:57.649Z"
+  },
+  {
     "albumId": "6ofJrAZaaX0iWTXYXObUxE",
     "title": "Thee Sacred Souls",
     "artist": "Thee Sacred Souls",
@@ -288,14 +360,6 @@
     "playedAt": "2026-11-17T14:39:49.003Z"
   },
   {
-    "albumId": "3yAze8PaTdWwS8nc5LQHAc",
-    "title": "One Day (Motion Picture Soundtrack)",
-    "artist": "Rachel Portman",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b802a1c9e83a360d47ce55c4",
-    "spotifyUrl": "https://open.spotify.com/album/3yAze8PaTdWwS8nc5LQHAc",
-    "playedAt": "2026-11-17T14:32:35.231Z"
-  },
-  {
     "albumId": "0UMMIkurRUmkruZ3KGBLtG",
     "title": "2014 Forest Hills Drive",
     "artist": "J. Cole",
@@ -318,69 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b27336ca80280353e109885a04a6",
     "spotifyUrl": "https://open.spotify.com/album/19dM4Pt4jFNdXiwjQG3ZK8",
     "playedAt": "2026-11-17T11:06:40.116Z"
-  },
-  {
-    "albumId": "0MuaUaCx8qQ9JSQTrNwZ0Y",
-    "title": "Anima E Ghiaccio",
-    "artist": "Colle Der Fomento",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738acacc6a57af4d88528793d3",
-    "spotifyUrl": "https://open.spotify.com/album/0MuaUaCx8qQ9JSQTrNwZ0Y",
-    "playedAt": "2026-11-17T10:38:50.980Z"
-  },
-  {
-    "albumId": "0hvT3yIEysuuvkK73vgdcW",
-    "title": "GNX",
-    "artist": "Kendrick Lamar",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e2a0a166493a2bde5480a420",
-    "spotifyUrl": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW",
-    "playedAt": "2026-11-17T10:18:59.852Z"
-  },
-  {
-    "albumId": "002MjQVkI2aHS733fGjj3S",
-    "title": "Old Phone",
-    "artist": "Ed Sheeran",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273d9beb2ced8f79b262fc49bf6",
-    "spotifyUrl": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S",
-    "playedAt": "2026-11-17T10:16:21.312Z"
-  },
-  {
-    "albumId": "0dXN05tQ4StX1W0lwN95Q6",
-    "title": "OKRA",
-    "artist": "Tyler, The Creator",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2733fc927515b0dfc30544e4129",
-    "spotifyUrl": "https://open.spotify.com/album/0dXN05tQ4StX1W0lwN95Q6",
-    "playedAt": "2026-11-17T10:12:39.060Z"
-  },
-  {
-    "albumId": "5WulAOx9ilWy1h8UGZ1gkI",
-    "title": "Deadbeat",
-    "artist": "Tame Impala",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273208500450dcd0fd294d7bd3b",
-    "spotifyUrl": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI",
-    "playedAt": "2026-11-17T10:10:07.511Z"
-  },
-  {
-    "albumId": "6TzZF80LWC38ApGbKaUlpq",
-    "title": "golden hour (Cello Version)",
-    "artist": "JVKE",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273973a47dbe9e2065b900a4e25",
-    "spotifyUrl": "https://open.spotify.com/album/6TzZF80LWC38ApGbKaUlpq",
-    "playedAt": "2026-11-17T10:06:23.901Z"
-  },
-  {
-    "albumId": "7MjK7jYBy07G2GTCZgSzxd",
-    "title": "Resavoir",
-    "artist": "Resavoir",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739b604dbe4b0f45301e9fb1e7",
-    "spotifyUrl": "https://open.spotify.com/album/7MjK7jYBy07G2GTCZgSzxd",
-    "playedAt": "2026-11-17T10:02:53.647Z"
-  },
-  {
-    "albumId": "4s05NbwGgw5SO42AdsN5Oo",
-    "title": "Odisea",
-    "artist": "Ozuna",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b0a875d7f1bfe4ec4aaffa48",
-    "spotifyUrl": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo",
-    "playedAt": "2026-11-17T10:01:41.909Z"
   }
 ]
