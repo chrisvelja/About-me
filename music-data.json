@@ -1,5 +1,101 @@
 [
   {
+    "albumId": "6o86bV7TAt5x4exc2qLDqC",
+    "title": "Actual Life (April 14 - December 17 2020)",
+    "artist": "Fred again..",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273723d4df900fd02eff83579d9",
+    "spotifyUrl": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC",
+    "playedAt": "2026-11-19T11:03:11.748Z"
+  },
+  {
+    "albumId": "4HZ3fF1dwSZLwztlLwoDYA",
+    "title": "9 months & 50 hours",
+    "artist": "Fred again.., LATIN MAFIA",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732fe1ee03a5bed6b4a2e73296",
+    "spotifyUrl": "https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA",
+    "playedAt": "2026-11-19T10:59:55.147Z"
+  },
+  {
+    "albumId": "5q2iMctlDvEMYVIawF6Vop",
+    "title": "Actual Life 3 (January 1 - September 9 2022)",
+    "artist": "Fred again.., Clara Ward",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737f8859341a395010424f106b",
+    "spotifyUrl": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop",
+    "playedAt": "2026-11-19T10:57:09.363Z"
+  },
+  {
+    "albumId": "2MMcwowj39fvb0QvqmOCwg",
+    "title": "23 Seconds",
+    "artist": "Cobblestone Jazz",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27330bc371c62c05bbad7e8cb92",
+    "spotifyUrl": "https://open.spotify.com/album/2MMcwowj39fvb0QvqmOCwg",
+    "playedAt": "2026-11-19T10:22:01.903Z"
+  },
+  {
+    "albumId": "4YOCzAcyXt8J46FwCIyR4d",
+    "title": "Schillerkiez",
+    "artist": "Dj Honesty, Burnski",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27340f8f4294e30d74fd0f539eb",
+    "spotifyUrl": "https://open.spotify.com/album/4YOCzAcyXt8J46FwCIyR4d",
+    "playedAt": "2026-11-19T10:13:34.902Z"
+  },
+  {
+    "albumId": "0l7zF0wmKvo2smjzhOBzHh",
+    "title": "Poly",
+    "artist": "efdemin",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27331a952afbb56fb7c19c6f116",
+    "spotifyUrl": "https://open.spotify.com/album/0l7zF0wmKvo2smjzhOBzHh",
+    "playedAt": "2026-11-19T08:32:38.669Z"
+  },
+  {
+    "albumId": "3LfIlX10TsuDKTNPEIlcQn",
+    "title": "Dawning / Deadman Watches The Clock",
+    "artist": "Marcel Dettmann, Ben Klock",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27338fc53e5aed0dc474586f893",
+    "spotifyUrl": "https://open.spotify.com/album/3LfIlX10TsuDKTNPEIlcQn",
+    "playedAt": "2026-11-19T08:27:28.890Z"
+  },
+  {
+    "albumId": "51dAIhzjNFAnuZG63W2BYy",
+    "title": "Hoodmusic 3",
+    "artist": "Robert Hood",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e73f754ba7aa01485e448808",
+    "spotifyUrl": "https://open.spotify.com/album/51dAIhzjNFAnuZG63W2BYy",
+    "playedAt": "2026-11-19T08:19:57.599Z"
+  },
+  {
+    "albumId": "6ktnFjv12Pvze2s9lxEl7H",
+    "title": "District",
+    "artist": "Traumer",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733c7c93d95ea40f636304c497",
+    "spotifyUrl": "https://open.spotify.com/album/6ktnFjv12Pvze2s9lxEl7H",
+    "playedAt": "2026-11-19T08:12:19.091Z"
+  },
+  {
+    "albumId": "6nDabvimKikHWteZsybtEd",
+    "title": "Before One EP",
+    "artist": "Ben Klock",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739ee75b76e9b1bf498a71d26c",
+    "spotifyUrl": "https://open.spotify.com/album/6nDabvimKikHWteZsybtEd",
+    "playedAt": "2026-11-19T07:42:38.822Z"
+  },
+  {
+    "albumId": "7kTo32LJe7JOUiYnsATgLT",
+    "title": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
+    "artist": "Juan Atkins, Moritz Von Oswald, Borderland",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732d7a3b44bf9103a2e31d1720",
+    "spotifyUrl": "https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT",
+    "playedAt": "2026-11-19T07:36:14.338Z"
+  },
+  {
+    "albumId": "3ADELRoZ4I8WLE7clLU7La",
+    "title": "O",
+    "artist": "Damien Rice",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c0b805ad0350a581017bf74d",
+    "spotifyUrl": "https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La",
+    "playedAt": "2026-11-19T03:00:15.888Z"
+  },
+  {
     "albumId": "6Q2Udysxg0bNVYU7lWxLo3",
     "title": "to love and to lose",
     "artist": "Dylan",
@@ -38,6 +134,14 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b27380788f104c780412212e97e3",
     "spotifyUrl": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7",
     "playedAt": "2026-11-18T20:21:59.090Z"
+  },
+  {
+    "albumId": "3yAze8PaTdWwS8nc5LQHAc",
+    "title": "One Day (Motion Picture Soundtrack)",
+    "artist": "Rachel Portman",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b802a1c9e83a360d47ce55c4",
+    "spotifyUrl": "https://open.spotify.com/album/3yAze8PaTdWwS8nc5LQHAc",
+    "playedAt": "2026-11-18T20:17:23.391Z"
   },
   {
     "albumId": "7D2NdGvBHIavgLhmcwhluK",
@@ -240,14 +344,6 @@
     "playedAt": "2026-11-18T07:05:00.552Z"
   },
   {
-    "albumId": "3yAze8PaTdWwS8nc5LQHAc",
-    "title": "One Day (Motion Picture Soundtrack)",
-    "artist": "Rachel Portman",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b802a1c9e83a360d47ce55c4",
-    "spotifyUrl": "https://open.spotify.com/album/3yAze8PaTdWwS8nc5LQHAc",
-    "playedAt": "2026-11-18T07:01:58.648Z"
-  },
-  {
     "albumId": "6Q2Udysxg0bNVYU7lWxLo3",
     "title": "to love and to lose",
     "artist": "Dylan",
@@ -286,101 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2737939a6852198a8a2025bec5b",
     "spotifyUrl": "https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG",
     "playedAt": "2026-11-17T15:54:20.329Z"
-  },
-  {
-    "albumId": "2KrREEyHxkdFGYAd1DmMdS",
-    "title": "SWAG II",
-    "artist": "Justin Bieber",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a958d093e94944dd0e7258b2",
-    "spotifyUrl": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS",
-    "playedAt": "2026-11-17T15:50:44.023Z"
-  },
-  {
-    "albumId": "1CKeSCEj384RQmAUhcDUlw",
-    "title": "Solo",
-    "artist": "Ultimo",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e1bed516757471f1266dee07",
-    "spotifyUrl": "https://open.spotify.com/album/1CKeSCEj384RQmAUhcDUlw",
-    "playedAt": "2026-11-17T15:46:13.463Z"
-  },
-  {
-    "albumId": "3GU8BzFEAdFSRjc8jZkL3S",
-    "title": "La La Land (Original Motion Picture Soundtrack)",
-    "artist": "Ryan Gosling, Emma Stone",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2730bdf4dd39843ad48c5b66bc4",
-    "spotifyUrl": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S",
-    "playedAt": "2026-11-17T15:09:05.778Z"
-  },
-  {
-    "albumId": "5dGWwsZ9iB2Xc3UKR0gif2",
-    "title": "Justice",
-    "artist": "Justin Bieber, benny blanco",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431",
-    "spotifyUrl": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2",
-    "playedAt": "2026-11-17T15:05:05.219Z"
-  },
-  {
-    "albumId": "5zEFCJy9kAyD8rMbBESdYh",
-    "title": "Prince Royce",
-    "artist": "Prince Royce",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a484690118ec2c7a2e2ae124",
-    "spotifyUrl": "https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh",
-    "playedAt": "2026-11-17T15:00:13.739Z"
-  },
-  {
-    "albumId": "0JxgRDaUcyxTpzuE56jL5V",
-    "title": "Extranjero",
-    "artist": "\u00cd\u00f1igo Quintero",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273734455be22e1df611e155861",
-    "spotifyUrl": "https://open.spotify.com/album/0JxgRDaUcyxTpzuE56jL5V",
-    "playedAt": "2026-11-17T14:56:30.030Z"
-  },
-  {
-    "albumId": "1nUcm1FiMWkZ2u2xT3FvoD",
-    "title": "il dolce ricordo della nostra disperata giovent\u00f9",
-    "artist": "faccianuvola",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739ffaee98c4eaf0f3838ad887",
-    "spotifyUrl": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD",
-    "playedAt": "2026-11-17T14:51:26.804Z"
-  },
-  {
-    "albumId": "1jxQ99vwL9ca4wEVJMjSY7",
-    "title": "The Notebook (Original Motion Picture Soundtrack)",
-    "artist": "Aaron Zigman",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27337f59d01737c1a5d6483f5ef",
-    "spotifyUrl": "https://open.spotify.com/album/1jxQ99vwL9ca4wEVJMjSY7",
-    "playedAt": "2026-11-17T14:45:38.606Z"
-  },
-  {
-    "albumId": "6lIQ5tZM2fhJuAgeL5eQ7e",
-    "title": "Me Before You (Original Motion Picture Score)",
-    "artist": "Craig Armstrong",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2730419d50ffb89f698a1634622",
-    "spotifyUrl": "https://open.spotify.com/album/6lIQ5tZM2fhJuAgeL5eQ7e",
-    "playedAt": "2026-11-17T14:39:49.003Z"
-  },
-  {
-    "albumId": "0UMMIkurRUmkruZ3KGBLtG",
-    "title": "2014 Forest Hills Drive",
-    "artist": "J. Cole",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c6e0948bbb0681ff29cdbae8",
-    "spotifyUrl": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG",
-    "playedAt": "2026-11-17T14:28:10.149Z"
-  },
-  {
-    "albumId": "4Kw7yE7xBZdHrvkTswoQq4",
-    "title": "Love Actually (Original Motion Picture Score)",
-    "artist": "Craig Armstrong",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736daf77eef4db05f3e973fe53",
-    "spotifyUrl": "https://open.spotify.com/album/4Kw7yE7xBZdHrvkTswoQq4",
-    "playedAt": "2026-11-17T14:01:04.338Z"
-  },
-  {
-    "albumId": "19dM4Pt4jFNdXiwjQG3ZK8",
-    "title": "Fabiano detto Inoki",
-    "artist": "Inoki",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27336ca80280353e109885a04a6",
-    "spotifyUrl": "https://open.spotify.com/album/19dM4Pt4jFNdXiwjQG3ZK8",
-    "playedAt": "2026-11-17T11:06:40.116Z"
   }
 ]
