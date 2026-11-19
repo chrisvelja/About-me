@@ -1,5 +1,229 @@
 [
   {
+    "albumId": "0tdi4b0MZ7cMSLVxST3f14",
+    "title": "Ethereal",
+    "artist": "Txmy",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733ecfb69038cb68d0302099f3",
+    "spotifyUrl": "https://open.spotify.com/album/0tdi4b0MZ7cMSLVxST3f14",
+    "playedAt": "2026-11-19T19:39:13.017Z"
+  },
+  {
+    "albumId": "6RRhJJNaMpxg3SJfK69TII",
+    "title": "Just Breathe",
+    "artist": "Zucchero, Russell Crowe",
+    "cover": "https://i.scdn.co/image/ab6742d3000053b7f6f9eb493c2a5350a82f5259",
+    "spotifyUrl": "https://open.spotify.com/album/6RRhJJNaMpxg3SJfK69TII",
+    "playedAt": "2026-11-19T19:39:13.016Z"
+  },
+  {
+    "albumId": "7Jgwg8nxsehAXjIYYsdanE",
+    "title": "Lens Flare",
+    "artist": "Lloyd Vaan",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730b90136cf89eecf05ba81f9f",
+    "spotifyUrl": "https://open.spotify.com/album/7Jgwg8nxsehAXjIYYsdanE",
+    "playedAt": "2026-11-19T18:22:08.093Z"
+  },
+  {
+    "albumId": "7udCFvvaTpsOjlfEYOs5wj",
+    "title": "New Home",
+    "artist": "Austin Farwell",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f91538f39ac67b96c1d7f1bb",
+    "spotifyUrl": "https://open.spotify.com/album/7udCFvvaTpsOjlfEYOs5wj",
+    "playedAt": "2026-11-19T17:24:45.517Z"
+  },
+  {
+    "albumId": "1BIBBfQAvooDqfz1ylt2Nh",
+    "title": "Sparks (Instrumental)",
+    "artist": "Evan Jacobson",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732018830415219ddf8a57475e",
+    "spotifyUrl": "https://open.spotify.com/album/1BIBBfQAvooDqfz1ylt2Nh",
+    "playedAt": "2026-11-19T17:22:38.658Z"
+  },
+  {
+    "albumId": "2ORaKTfy58D3YQKyO1F75Y",
+    "title": "Little Life",
+    "artist": "Robert Gromotka",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736edae9524369f667f7705f7f",
+    "spotifyUrl": "https://open.spotify.com/album/2ORaKTfy58D3YQKyO1F75Y",
+    "playedAt": "2026-11-19T17:20:11.794Z"
+  },
+  {
+    "albumId": "36azJR65BLNOng9MkKAtxE",
+    "title": "Glimpse of Us",
+    "artist": "Joji",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f3f7d2ea2ad435b57d6697df",
+    "spotifyUrl": "https://open.spotify.com/album/36azJR65BLNOng9MkKAtxE",
+    "playedAt": "2026-11-19T16:32:41.949Z"
+  },
+  {
+    "albumId": "3GU8BzFEAdFSRjc8jZkL3S",
+    "title": "La La Land (Original Motion Picture Soundtrack)",
+    "artist": "Justin Hurwitz",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730bdf4dd39843ad48c5b66bc4",
+    "spotifyUrl": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S",
+    "playedAt": "2026-11-19T16:25:21.847Z"
+  },
+  {
+    "albumId": "424VbV36QwCVDqvv8nERO4",
+    "title": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
+    "artist": "\u00e7\u2026\u00a7\u00e4\u00ba\u2022\u00e9 \u2020\u00e6\u201d\u00bf",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735f572e568e655f60778f7b45",
+    "spotifyUrl": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4",
+    "playedAt": "2026-11-19T16:15:12.166Z"
+  },
+  {
+    "albumId": "7kZvHM83uaWWdoGUR8EFXP",
+    "title": "Jamie Duffy",
+    "artist": "Jamie Duffy",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273104f5846b7d971601bd8df8e",
+    "spotifyUrl": "https://open.spotify.com/album/7kZvHM83uaWWdoGUR8EFXP",
+    "playedAt": "2026-11-19T16:12:45.768Z"
+  },
+  {
+    "albumId": "6zrI2IEaUzCJxzNtrtUaN2",
+    "title": "Every living breathing moment",
+    "artist": "Gabriel Piano",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739b5c3315c6e83677e3e7957b",
+    "spotifyUrl": "https://open.spotify.com/album/6zrI2IEaUzCJxzNtrtUaN2",
+    "playedAt": "2026-11-19T16:09:32.669Z"
+  },
+  {
+    "albumId": "0yMK2X6A0ll8nZsJyvWDMh",
+    "title": "Illegal Medley",
+    "artist": "Andy Morris",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fea20f7c10c2f55b8d8d8822",
+    "spotifyUrl": "https://open.spotify.com/album/0yMK2X6A0ll8nZsJyvWDMh",
+    "playedAt": "2026-11-19T16:00:38.034Z"
+  },
+  {
+    "albumId": "2uEMIxWZXqUoGdHtTD7Tom",
+    "title": "CHAINSAW MAN THE MOVIE: REZE ARC original soundtrack -summer's end-",
+    "artist": "kensuke ushio",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735bf8b362e97fdbfbb8ea4685",
+    "spotifyUrl": "https://open.spotify.com/album/2uEMIxWZXqUoGdHtTD7Tom",
+    "playedAt": "2026-11-19T15:57:11.949Z"
+  },
+  {
+    "albumId": "6HLPVkJiFDO56WXMSX6Vcr",
+    "title": "Fly",
+    "artist": "Zucchero",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a7e9645cbafced178e10f61c",
+    "spotifyUrl": "https://open.spotify.com/album/6HLPVkJiFDO56WXMSX6Vcr",
+    "playedAt": "2026-11-19T15:38:01.300Z"
+  },
+  {
+    "albumId": "19dM4Pt4jFNdXiwjQG3ZK8",
+    "title": "Fabiano detto Inoki",
+    "artist": "Inoki",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27336ca80280353e109885a04a6",
+    "spotifyUrl": "https://open.spotify.com/album/19dM4Pt4jFNdXiwjQG3ZK8",
+    "playedAt": "2026-11-19T15:34:21.598Z"
+  },
+  {
+    "albumId": "6mVEU0cBrcGxhlE55d96H3",
+    "title": "Day Without Yesterday / Six O Six",
+    "artist": "Peggy Gou",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e2bc595409da8d8689b19f9b",
+    "spotifyUrl": "https://open.spotify.com/album/6mVEU0cBrcGxhlE55d96H3",
+    "playedAt": "2026-11-19T15:23:41.267Z"
+  },
+  {
+    "albumId": "5wKpkXfZE8R4jQzlszOplp",
+    "title": "Art of War (Pt. II) EP",
+    "artist": "Peggy Gou",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27304404b27c4d7af48d912c0b3",
+    "spotifyUrl": "https://open.spotify.com/album/5wKpkXfZE8R4jQzlszOplp",
+    "playedAt": "2026-11-19T15:18:01.318Z"
+  },
+  {
+    "albumId": "4jLAzkokPOXLjGMLaLhryc",
+    "title": "1+1=11",
+    "artist": "Peggy Gou",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27329e6bc4461bea38b991a9b35",
+    "spotifyUrl": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc",
+    "playedAt": "2026-11-19T15:11:33.766Z"
+  },
+  {
+    "albumId": "5yN2LiMaA7nEXT35GW4hNu",
+    "title": "Up (Original Motion Picture Soundtrack)",
+    "artist": "Michael Giacchino",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27390ab02c84abe851ec8353506",
+    "spotifyUrl": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu",
+    "playedAt": "2026-11-19T14:08:52.656Z"
+  },
+  {
+    "albumId": "1jxQ99vwL9ca4wEVJMjSY7",
+    "title": "The Notebook (Original Motion Picture Soundtrack)",
+    "artist": "Aaron Zigman",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27337f59d01737c1a5d6483f5ef",
+    "spotifyUrl": "https://open.spotify.com/album/1jxQ99vwL9ca4wEVJMjSY7",
+    "playedAt": "2026-11-19T14:05:22.556Z"
+  },
+  {
+    "albumId": "4Kw7yE7xBZdHrvkTswoQq4",
+    "title": "Love Actually (Original Motion Picture Score)",
+    "artist": "Craig Armstrong",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736daf77eef4db05f3e973fe53",
+    "spotifyUrl": "https://open.spotify.com/album/4Kw7yE7xBZdHrvkTswoQq4",
+    "playedAt": "2026-11-19T13:47:53.867Z"
+  },
+  {
+    "albumId": "3yAze8PaTdWwS8nc5LQHAc",
+    "title": "One Day (Motion Picture Soundtrack)",
+    "artist": "Rachel Portman",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b802a1c9e83a360d47ce55c4",
+    "spotifyUrl": "https://open.spotify.com/album/3yAze8PaTdWwS8nc5LQHAc",
+    "playedAt": "2026-11-19T13:46:40.030Z"
+  },
+  {
+    "albumId": "6d0LelwtKFd0F0ZfImWWDz",
+    "title": "Pearl Harbor - Original Motion Picture Soundtrack",
+    "artist": "Hans Zimmer",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273088f10626ed0592f4a4a9b72",
+    "spotifyUrl": "https://open.spotify.com/album/6d0LelwtKFd0F0ZfImWWDz",
+    "playedAt": "2026-11-19T13:36:46.797Z"
+  },
+  {
+    "albumId": "2kJpuz9FOqX5riMjGwihhY",
+    "title": "Finding Nemo (Original Motion Picture Soundtrack)",
+    "artist": "Thomas Newman",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d2446570a048376ec2e720f4",
+    "spotifyUrl": "https://open.spotify.com/album/2kJpuz9FOqX5riMjGwihhY",
+    "playedAt": "2026-11-19T13:22:53.756Z"
+  },
+  {
+    "albumId": "1cQHbrCsJXugmk5Ki8Ub0B",
+    "title": "A Monster Calls (Original Motion Picture Soundtrack)",
+    "artist": "Fernando Vel\u00e1zquez",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27386b39bf7c075feb9dc6c5fdd",
+    "spotifyUrl": "https://open.spotify.com/album/1cQHbrCsJXugmk5Ki8Ub0B",
+    "playedAt": "2026-11-19T13:17:15.403Z"
+  },
+  {
+    "albumId": "4DtoVqfGAjvNcRIiwQzLbU",
+    "title": "Plus d'\u00e9motions",
+    "artist": "Justin Hurwitz, Gautier Capu\u00e7on, Adrien Perruchon, Orchestre de chambre de Paris",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273475b881a3c43b4074ff7823c",
+    "spotifyUrl": "https://open.spotify.com/album/4DtoVqfGAjvNcRIiwQzLbU",
+    "playedAt": "2026-11-19T13:15:39.704Z"
+  },
+  {
+    "albumId": "5pV86WRRdbyIdK3YkS7rOI",
+    "title": "Pride and Prejudice - OST",
+    "artist": "Dario Marianelli, Jean-Yves Thibaudet",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a3e3d57bdadd06f26ea04e62",
+    "spotifyUrl": "https://open.spotify.com/album/5pV86WRRdbyIdK3YkS7rOI",
+    "playedAt": "2026-11-19T13:12:58.060Z"
+  },
+  {
+    "albumId": "3poSiae7zv8nzgPjYKQrFq",
+    "title": "Hachi: A Dog's Tale (Original Motion Picture Soundtrack)",
+    "artist": "Jan A.P. Kaczmarek",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fbcad4251572b967786293a0",
+    "spotifyUrl": "https://open.spotify.com/album/3poSiae7zv8nzgPjYKQrFq",
+    "playedAt": "2026-11-19T13:07:34.696Z"
+  },
+  {
     "albumId": "6o86bV7TAt5x4exc2qLDqC",
     "title": "Actual Life (April 14 - December 17 2020)",
     "artist": "Fred again..",
@@ -104,22 +328,6 @@
     "playedAt": "2026-11-19T01:52:02.726Z"
   },
   {
-    "albumId": "3yAze8PaTdWwS8nc5LQHAc",
-    "title": "One Day (Motion Picture Soundtrack)",
-    "artist": "Rachel Portman",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b802a1c9e83a360d47ce55c4",
-    "spotifyUrl": "https://open.spotify.com/album/3yAze8PaTdWwS8nc5LQHAc",
-    "playedAt": "2026-11-19T01:49:00.998Z"
-  },
-  {
-    "albumId": "19dM4Pt4jFNdXiwjQG3ZK8",
-    "title": "Fabiano detto Inoki",
-    "artist": "Inoki",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27336ca80280353e109885a04a6",
-    "spotifyUrl": "https://open.spotify.com/album/19dM4Pt4jFNdXiwjQG3ZK8",
-    "playedAt": "2026-11-19T01:42:10.097Z"
-  },
-  {
     "albumId": "5dGWwsZ9iB2Xc3UKR0gif2",
     "title": "Justice",
     "artist": "Justin Bieber",
@@ -174,213 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2731039ec791b25bf52050ef7fe",
     "spotifyUrl": "https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy",
     "playedAt": "2026-11-18T19:53:14.676Z"
-  },
-  {
-    "albumId": "5Nwsra93UQYJ6xxcjcE10x",
-    "title": "Nine Track Mind",
-    "artist": "Charlie Puth, Selena Gomez",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273633a2d775747bccfbcb17a45",
-    "spotifyUrl": "https://open.spotify.com/album/5Nwsra93UQYJ6xxcjcE10x",
-    "playedAt": "2026-11-18T19:50:29.439Z"
-  },
-  {
-    "albumId": "4vUClKTFaDWnsHE8rK52GY",
-    "title": "All That We Needed",
-    "artist": "Plain White T's",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273beae6e69d6505fd379ef3081",
-    "spotifyUrl": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY",
-    "playedAt": "2026-11-18T19:46:49.801Z"
-  },
-  {
-    "albumId": "5L5evi5tJPh8WaEFAQp7Tp",
-    "title": "The Highlights",
-    "artist": "The Weeknd",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27312a76d1b13ef07188f7dfbc9",
-    "spotifyUrl": "https://open.spotify.com/album/5L5evi5tJPh8WaEFAQp7Tp",
-    "playedAt": "2026-11-18T19:42:56.871Z"
-  },
-  {
-    "albumId": "2rhNQbqRNxiNQkDXTffe1V",
-    "title": "Beatopia",
-    "artist": "beabadoobee",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
-    "spotifyUrl": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V",
-    "playedAt": "2026-11-18T19:38:18.549Z"
-  },
-  {
-    "albumId": "5q2iMctlDvEMYVIawF6Vop",
-    "title": "Actual Life 3 (January 1 - September 9 2022)",
-    "artist": "Fred again.., Clara Ward",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737f8859341a395010424f106b",
-    "spotifyUrl": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop",
-    "playedAt": "2026-11-18T19:35:20.506Z"
-  },
-  {
-    "albumId": "19dM4Pt4jFNdXiwjQG3ZK8",
-    "title": "Fabiano detto Inoki",
-    "artist": "Inoki",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27336ca80280353e109885a04a6",
-    "spotifyUrl": "https://open.spotify.com/album/19dM4Pt4jFNdXiwjQG3ZK8",
-    "playedAt": "2026-11-18T19:30:41.677Z"
-  },
-  {
-    "albumId": "0UMMIkurRUmkruZ3KGBLtG",
-    "title": "2014 Forest Hills Drive",
-    "artist": "J. Cole",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c6e0948bbb0681ff29cdbae8",
-    "spotifyUrl": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG",
-    "playedAt": "2026-11-18T18:50:06.498Z"
-  },
-  {
-    "albumId": "53b1lFTsC7lV3pieOFYZ9i",
-    "title": "Edge of Desire",
-    "artist": "Jonas Blue, Malive",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273d62a34460f9106ee437bb0b5",
-    "spotifyUrl": "https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i",
-    "playedAt": "2026-11-18T16:57:22.905Z"
-  },
-  {
-    "albumId": "6qROZKGlX13YQlWjo5kYGu",
-    "title": "ON THE MOVE",
-    "artist": "PAWSA",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27342efcb350187ec8ca48ff440",
-    "spotifyUrl": "https://open.spotify.com/album/6qROZKGlX13YQlWjo5kYGu",
-    "playedAt": "2026-11-18T16:55:07.504Z"
-  },
-  {
-    "albumId": "2HuUkTJoTN5xgvG2oqLsts",
-    "title": "Withness",
-    "artist": "ANOTR, 54 Ultra",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b9ae89f9af550218834c07d7",
-    "spotifyUrl": "https://open.spotify.com/album/2HuUkTJoTN5xgvG2oqLsts",
-    "playedAt": "2026-11-18T16:51:42.256Z"
-  },
-  {
-    "albumId": "0lL98VdijOX8PAeg6sl8MZ",
-    "title": "Actin' Tough",
-    "artist": "Dean Turnley",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732154f30ee0dfa2de4b3d00d4",
-    "spotifyUrl": "https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ",
-    "playedAt": "2026-11-18T16:48:30.633Z"
-  },
-  {
-    "albumId": "3RtP3xUa4QW0VB4H18k0wV",
-    "title": "XTC",
-    "artist": "Cloonee, Jocelyn Enriquez",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2733339e2124753fa04946eb547",
-    "spotifyUrl": "https://open.spotify.com/album/3RtP3xUa4QW0VB4H18k0wV",
-    "playedAt": "2026-11-18T16:45:22.849Z"
-  },
-  {
-    "albumId": "7lPvo4py6cKMEjE7Bk5raJ",
-    "title": "Free Your Mind",
-    "artist": "Prospa, Cloonee, Sybil",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273769df37ccc6cc044169ea2f7",
-    "spotifyUrl": "https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ",
-    "playedAt": "2026-11-18T16:42:19.423Z"
-  },
-  {
-    "albumId": "46NWiHTOxSLHBGJIT6J73N",
-    "title": "On 2nite",
-    "artist": "Silva Bumpa",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273df5399677b85e9f581bb9833",
-    "spotifyUrl": "https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N",
-    "playedAt": "2026-11-18T16:38:57.241Z"
-  },
-  {
-    "albumId": "26hpMQzEN8ozoQEMythwP0",
-    "title": "House FC",
-    "artist": "TeeDee",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27340b8be1e8a680f9415171628",
-    "spotifyUrl": "https://open.spotify.com/album/26hpMQzEN8ozoQEMythwP0",
-    "playedAt": "2026-11-18T16:24:58.374Z"
-  },
-  {
-    "albumId": "6HLPVkJiFDO56WXMSX6Vcr",
-    "title": "Fly",
-    "artist": "Zucchero",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a7e9645cbafced178e10f61c",
-    "spotifyUrl": "https://open.spotify.com/album/6HLPVkJiFDO56WXMSX6Vcr",
-    "playedAt": "2026-11-18T16:10:26.480Z"
-  },
-  {
-    "albumId": "1a5idDFSq90ej8CzQC7YDc",
-    "title": "Blame My Ex",
-    "artist": "The Beaches",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b031aad441b2c4eb2efadf7c",
-    "spotifyUrl": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc",
-    "playedAt": "2026-11-18T16:04:39.781Z"
-  },
-  {
-    "albumId": "4e2JypnmzOIXz1I18bZA1a",
-    "title": "you don't exist yet",
-    "artist": "Savanna Leigh",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2733c0ba84a776677b1fb78a1cd",
-    "spotifyUrl": "https://open.spotify.com/album/4e2JypnmzOIXz1I18bZA1a",
-    "playedAt": "2026-11-18T16:01:16.784Z"
-  },
-  {
-    "albumId": "4THWniSbWSlVrQbV37XhGQ",
-    "title": "Headlights",
-    "artist": "In Color",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731877c851703786488c223dc8",
-    "spotifyUrl": "https://open.spotify.com/album/4THWniSbWSlVrQbV37XhGQ",
-    "playedAt": "2026-11-18T10:18:57.751Z"
-  },
-  {
-    "albumId": "7y1RwreSQAXU6e8MYLo6F9",
-    "title": "The Holiday (Original Motion Picture Soundtrack)",
-    "artist": "Hans Zimmer",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738f76a293d5c935617d505358",
-    "spotifyUrl": "https://open.spotify.com/album/7y1RwreSQAXU6e8MYLo6F9",
-    "playedAt": "2026-11-18T10:10:27.058Z"
-  },
-  {
-    "albumId": "6Q2Udysxg0bNVYU7lWxLo3",
-    "title": "to love and to lose",
-    "artist": "Dylan",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27322f14f47106a59f5478f7a22",
-    "spotifyUrl": "https://open.spotify.com/album/6Q2Udysxg0bNVYU7lWxLo3",
-    "playedAt": "2026-11-18T07:05:00.552Z"
-  },
-  {
-    "albumId": "6Q2Udysxg0bNVYU7lWxLo3",
-    "title": "to love and to lose",
-    "artist": "Dylan",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27322f14f47106a59f5478f7a22",
-    "spotifyUrl": "https://open.spotify.com/album/6Q2Udysxg0bNVYU7lWxLo3",
-    "playedAt": "2026-11-17T22:06:44.122Z"
-  },
-  {
-    "albumId": "3yAze8PaTdWwS8nc5LQHAc",
-    "title": "One Day (Motion Picture Soundtrack)",
-    "artist": "Rachel Portman",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b802a1c9e83a360d47ce55c4",
-    "spotifyUrl": "https://open.spotify.com/album/3yAze8PaTdWwS8nc5LQHAc",
-    "playedAt": "2026-11-17T20:00:57.649Z"
-  },
-  {
-    "albumId": "6ofJrAZaaX0iWTXYXObUxE",
-    "title": "Thee Sacred Souls",
-    "artist": "Thee Sacred Souls",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
-    "spotifyUrl": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE",
-    "playedAt": "2026-11-17T19:51:56.448Z"
-  },
-  {
-    "albumId": "3GIj6ZdQw2XLkMspCJVsG8",
-    "title": "Sal rosa",
-    "artist": "LATIN MAFIA",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e4d260b37299107b0b94dd36",
-    "spotifyUrl": "https://open.spotify.com/album/3GIj6ZdQw2XLkMspCJVsG8",
-    "playedAt": "2026-11-17T16:00:45.185Z"
-  },
-  {
-    "albumId": "5gvYcdf39vRCCPGBuh72VG",
-    "title": "G",
-    "artist": "Giorgia, BLANCO",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737939a6852198a8a2025bec5b",
-    "spotifyUrl": "https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG",
-    "playedAt": "2026-11-17T15:54:20.329Z"
   }
 ]
