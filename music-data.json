@@ -1,5 +1,61 @@
 [
   {
+    "albumId": "7ivbFszr1TbVadj89BIy1y",
+    "title": "NEVER ENOUGH",
+    "artist": "Daniel Caesar",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737c68face1dc58127f3a7b1cc",
+    "spotifyUrl": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y",
+    "playedAt": "2026-11-20T18:25:39.585Z"
+  },
+  {
+    "albumId": "4RVfbFT2GfDqhmaMT0ro75",
+    "title": "MATERIA (PRISMA)",
+    "artist": "Marco Mengoni",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27391543ddbf5df0343632b1254",
+    "spotifyUrl": "https://open.spotify.com/album/4RVfbFT2GfDqhmaMT0ro75",
+    "playedAt": "2026-11-20T18:23:05.938Z"
+  },
+  {
+    "albumId": "3T4tUhGYeRNVUGevb0wThu",
+    "title": "\u00f7 (Deluxe)",
+    "artist": "Ed Sheeran",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
+    "spotifyUrl": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu",
+    "playedAt": "2026-11-20T18:18:41.096Z"
+  },
+  {
+    "albumId": "19dM4Pt4jFNdXiwjQG3ZK8",
+    "title": "Fabiano detto Inoki",
+    "artist": "Inoki",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27336ca80280353e109885a04a6",
+    "spotifyUrl": "https://open.spotify.com/album/19dM4Pt4jFNdXiwjQG3ZK8",
+    "playedAt": "2026-11-20T18:05:09.415Z"
+  },
+  {
+    "albumId": "0MuaUaCx8qQ9JSQTrNwZ0Y",
+    "title": "Anima E Ghiaccio",
+    "artist": "Colle Der Fomento",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738acacc6a57af4d88528793d3",
+    "spotifyUrl": "https://open.spotify.com/album/0MuaUaCx8qQ9JSQTrNwZ0Y",
+    "playedAt": "2026-11-20T17:07:50.359Z"
+  },
+  {
+    "albumId": "0yMK2X6A0ll8nZsJyvWDMh",
+    "title": "Illegal Medley",
+    "artist": "Andy Morris",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fea20f7c10c2f55b8d8d8822",
+    "spotifyUrl": "https://open.spotify.com/album/0yMK2X6A0ll8nZsJyvWDMh",
+    "playedAt": "2026-11-20T17:03:31.009Z"
+  },
+  {
+    "albumId": "3yAze8PaTdWwS8nc5LQHAc",
+    "title": "One Day (Motion Picture Soundtrack)",
+    "artist": "Rachel Portman",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b802a1c9e83a360d47ce55c4",
+    "spotifyUrl": "https://open.spotify.com/album/3yAze8PaTdWwS8nc5LQHAc",
+    "playedAt": "2026-11-20T16:59:46.681Z"
+  },
+  {
     "albumId": "0eEZX45VOaWms7TTjVn7dQ",
     "title": "Fantastic Beasts and Where to Find Them (Original Motion Picture Soundtrack)",
     "artist": "James Newton Howard",
@@ -224,6 +280,22 @@
     "playedAt": "2026-11-19T23:56:49.242Z"
   },
   {
+    "albumId": "1jxQ99vwL9ca4wEVJMjSY7",
+    "title": "The Notebook (Original Motion Picture Soundtrack)",
+    "artist": "Aaron Zigman",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27337f59d01737c1a5d6483f5ef",
+    "spotifyUrl": "https://open.spotify.com/album/1jxQ99vwL9ca4wEVJMjSY7",
+    "playedAt": "2026-11-19T23:54:35.925Z"
+  },
+  {
+    "albumId": "4Kw7yE7xBZdHrvkTswoQq4",
+    "title": "Love Actually (Original Motion Picture Score)",
+    "artist": "Craig Armstrong",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736daf77eef4db05f3e973fe53",
+    "spotifyUrl": "https://open.spotify.com/album/4Kw7yE7xBZdHrvkTswoQq4",
+    "playedAt": "2026-11-19T23:49:28.726Z"
+  },
+  {
     "albumId": "5pV86WRRdbyIdK3YkS7rOI",
     "title": "Pride and Prejudice - OST",
     "artist": "Dario Marianelli, English Chamber Orchestra, Benjamin Wallfisch",
@@ -272,6 +344,14 @@
     "playedAt": "2026-11-19T23:31:15.182Z"
   },
   {
+    "albumId": "3yAze8PaTdWwS8nc5LQHAc",
+    "title": "One Day (Motion Picture Soundtrack)",
+    "artist": "Rachel Portman",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b802a1c9e83a360d47ce55c4",
+    "spotifyUrl": "https://open.spotify.com/album/3yAze8PaTdWwS8nc5LQHAc",
+    "playedAt": "2026-11-19T23:29:36.161Z"
+  },
+  {
     "albumId": "5yN2LiMaA7nEXT35GW4hNu",
     "title": "Up (Original Motion Picture Soundtrack)",
     "artist": "Michael Giacchino",
@@ -288,30 +368,6 @@
     "playedAt": "2026-11-19T23:25:23.282Z"
   },
   {
-    "albumId": "1jxQ99vwL9ca4wEVJMjSY7",
-    "title": "The Notebook (Original Motion Picture Soundtrack)",
-    "artist": "Aaron Zigman",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27337f59d01737c1a5d6483f5ef",
-    "spotifyUrl": "https://open.spotify.com/album/1jxQ99vwL9ca4wEVJMjSY7",
-    "playedAt": "2026-11-19T23:23:55.582Z"
-  },
-  {
-    "albumId": "4Kw7yE7xBZdHrvkTswoQq4",
-    "title": "Love Actually (Original Motion Picture Score)",
-    "artist": "Craig Armstrong",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736daf77eef4db05f3e973fe53",
-    "spotifyUrl": "https://open.spotify.com/album/4Kw7yE7xBZdHrvkTswoQq4",
-    "playedAt": "2026-11-19T23:21:05.684Z"
-  },
-  {
-    "albumId": "3yAze8PaTdWwS8nc5LQHAc",
-    "title": "One Day (Motion Picture Soundtrack)",
-    "artist": "Rachel Portman",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b802a1c9e83a360d47ce55c4",
-    "spotifyUrl": "https://open.spotify.com/album/3yAze8PaTdWwS8nc5LQHAc",
-    "playedAt": "2026-11-19T23:19:57.684Z"
-  },
-  {
     "albumId": "424VbV36QwCVDqvv8nERO4",
     "title": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
     "artist": "\u00e7\u2026\u00a7\u00e4\u00ba\u2022\u00e9 \u2020\u00e6\u201d\u00bf",
@@ -326,61 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2735bf8b362e97fdbfbb8ea4685",
     "spotifyUrl": "https://open.spotify.com/album/2uEMIxWZXqUoGdHtTD7Tom",
     "playedAt": "2026-11-19T22:48:59.473Z"
-  },
-  {
-    "albumId": "0tdi4b0MZ7cMSLVxST3f14",
-    "title": "Ethereal",
-    "artist": "Txmy",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2733ecfb69038cb68d0302099f3",
-    "spotifyUrl": "https://open.spotify.com/album/0tdi4b0MZ7cMSLVxST3f14",
-    "playedAt": "2026-11-19T19:39:13.017Z"
-  },
-  {
-    "albumId": "6RRhJJNaMpxg3SJfK69TII",
-    "title": "Just Breathe",
-    "artist": "Zucchero, Russell Crowe",
-    "cover": "https://i.scdn.co/image/ab6742d3000053b7f6f9eb493c2a5350a82f5259",
-    "spotifyUrl": "https://open.spotify.com/album/6RRhJJNaMpxg3SJfK69TII",
-    "playedAt": "2026-11-19T19:39:13.016Z"
-  },
-  {
-    "albumId": "7Jgwg8nxsehAXjIYYsdanE",
-    "title": "Lens Flare",
-    "artist": "Lloyd Vaan",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2730b90136cf89eecf05ba81f9f",
-    "spotifyUrl": "https://open.spotify.com/album/7Jgwg8nxsehAXjIYYsdanE",
-    "playedAt": "2026-11-19T18:22:08.093Z"
-  },
-  {
-    "albumId": "7udCFvvaTpsOjlfEYOs5wj",
-    "title": "New Home",
-    "artist": "Austin Farwell",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f91538f39ac67b96c1d7f1bb",
-    "spotifyUrl": "https://open.spotify.com/album/7udCFvvaTpsOjlfEYOs5wj",
-    "playedAt": "2026-11-19T17:24:45.517Z"
-  },
-  {
-    "albumId": "1BIBBfQAvooDqfz1ylt2Nh",
-    "title": "Sparks (Instrumental)",
-    "artist": "Evan Jacobson",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732018830415219ddf8a57475e",
-    "spotifyUrl": "https://open.spotify.com/album/1BIBBfQAvooDqfz1ylt2Nh",
-    "playedAt": "2026-11-19T17:22:38.658Z"
-  },
-  {
-    "albumId": "2ORaKTfy58D3YQKyO1F75Y",
-    "title": "Little Life",
-    "artist": "Robert Gromotka",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736edae9524369f667f7705f7f",
-    "spotifyUrl": "https://open.spotify.com/album/2ORaKTfy58D3YQKyO1F75Y",
-    "playedAt": "2026-11-19T17:20:11.794Z"
-  },
-  {
-    "albumId": "36azJR65BLNOng9MkKAtxE",
-    "title": "Glimpse of Us",
-    "artist": "Joji",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f3f7d2ea2ad435b57d6697df",
-    "spotifyUrl": "https://open.spotify.com/album/36azJR65BLNOng9MkKAtxE",
-    "playedAt": "2026-11-19T16:32:41.949Z"
   }
 ]
