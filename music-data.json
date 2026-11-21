@@ -1,5 +1,45 @@
 [
   {
+    "albumId": "7vF23xibM5eNthq9HnkIcc",
+    "title": "5to Aniversario",
+    "artist": "Oro Solido",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730c3233a50822fcf773bd6dd3",
+    "spotifyUrl": "https://open.spotify.com/album/7vF23xibM5eNthq9HnkIcc",
+    "playedAt": "2026-11-21T01:38:17.675Z"
+  },
+  {
+    "albumId": "5wByaEbAmxIlQCDdicFJry",
+    "title": "M\u0100Y\u0100",
+    "artist": "MACE, centomilacarie, Salmo",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ed46b10906511b1329ee66ab",
+    "spotifyUrl": "https://open.spotify.com/album/5wByaEbAmxIlQCDdicFJry",
+    "playedAt": "2026-11-21T00:54:34.893Z"
+  },
+  {
+    "albumId": "0yMK2X6A0ll8nZsJyvWDMh",
+    "title": "Illegal Medley",
+    "artist": "Andy Morris",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fea20f7c10c2f55b8d8d8822",
+    "spotifyUrl": "https://open.spotify.com/album/0yMK2X6A0ll8nZsJyvWDMh",
+    "playedAt": "2026-11-21T00:50:55.612Z"
+  },
+  {
+    "albumId": "0eFHYz8NmK75zSplL5qlfM",
+    "title": "The Resistance",
+    "artist": "Muse",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b6d4566db0d12894a1a3b7a2",
+    "spotifyUrl": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM",
+    "playedAt": "2026-11-20T22:07:28.683Z"
+  },
+  {
+    "albumId": "2Eq6RyxCm7qEAF2YLOxa4s",
+    "title": "Absolution",
+    "artist": "Muse",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734d4c8b5bcdf1114d19f2f546",
+    "spotifyUrl": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s",
+    "playedAt": "2026-11-20T21:13:22.256Z"
+  },
+  {
     "albumId": "7ivbFszr1TbVadj89BIy1y",
     "title": "NEVER ENOUGH",
     "artist": "Daniel Caesar",
@@ -342,45 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273c4636d33993e7e56e69c8034",
     "spotifyUrl": "https://open.spotify.com/album/73YA428yr1quWSDEVuJXe5",
     "playedAt": "2026-11-19T23:31:15.182Z"
-  },
-  {
-    "albumId": "3yAze8PaTdWwS8nc5LQHAc",
-    "title": "One Day (Motion Picture Soundtrack)",
-    "artist": "Rachel Portman",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b802a1c9e83a360d47ce55c4",
-    "spotifyUrl": "https://open.spotify.com/album/3yAze8PaTdWwS8nc5LQHAc",
-    "playedAt": "2026-11-19T23:29:36.161Z"
-  },
-  {
-    "albumId": "5yN2LiMaA7nEXT35GW4hNu",
-    "title": "Up (Original Motion Picture Soundtrack)",
-    "artist": "Michael Giacchino",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27390ab02c84abe851ec8353506",
-    "spotifyUrl": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu",
-    "playedAt": "2026-11-19T23:27:36.875Z"
-  },
-  {
-    "albumId": "3GU8BzFEAdFSRjc8jZkL3S",
-    "title": "La La Land (Original Motion Picture Soundtrack)",
-    "artist": "Justin Hurwitz",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2730bdf4dd39843ad48c5b66bc4",
-    "spotifyUrl": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S",
-    "playedAt": "2026-11-19T23:25:23.282Z"
-  },
-  {
-    "albumId": "424VbV36QwCVDqvv8nERO4",
-    "title": "Jujutsu Kaisen Hidden Inventory/Premature Death - Original Soundtrack",
-    "artist": "\u00e7\u2026\u00a7\u00e4\u00ba\u2022\u00e9 \u2020\u00e6\u201d\u00bf",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2735f572e568e655f60778f7b45",
-    "spotifyUrl": "https://open.spotify.com/album/424VbV36QwCVDqvv8nERO4",
-    "playedAt": "2026-11-19T23:11:27.531Z"
-  },
-  {
-    "albumId": "2uEMIxWZXqUoGdHtTD7Tom",
-    "title": "CHAINSAW MAN THE MOVIE: REZE ARC original soundtrack -summer's end-",
-    "artist": "kensuke ushio",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2735bf8b362e97fdbfbb8ea4685",
-    "spotifyUrl": "https://open.spotify.com/album/2uEMIxWZXqUoGdHtTD7Tom",
-    "playedAt": "2026-11-19T22:48:59.473Z"
   }
 ]
