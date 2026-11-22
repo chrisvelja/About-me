@@ -1,5 +1,117 @@
 [
   {
+    "albumId": "5KsrpADyPgZQA4f67KmuGz",
+    "title": "INTERNET",
+    "artist": "Giuse The Lizia",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737e774a46632edec684142565",
+    "spotifyUrl": "https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz",
+    "playedAt": "2026-11-22T18:43:46.474Z"
+  },
+  {
+    "albumId": "4Uk3RkkDCBBY1jv9UAY2mk",
+    "title": "Finestra",
+    "artist": "43.Nove, Oh Baro",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734c6bf838a1e3851b79cf2909",
+    "spotifyUrl": "https://open.spotify.com/album/4Uk3RkkDCBBY1jv9UAY2mk",
+    "playedAt": "2026-11-22T18:40:38.173Z"
+  },
+  {
+    "albumId": "5vU1aPRtYOS3wUkitPGbWV",
+    "title": "Avete ragione tutti",
+    "artist": "Canova",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734faf0f1c533513c1989413d6",
+    "spotifyUrl": "https://open.spotify.com/album/5vU1aPRtYOS3wUkitPGbWV",
+    "playedAt": "2026-11-22T18:37:19.563Z"
+  },
+  {
+    "albumId": "2m33e1OEmG910lKRklRVxg",
+    "title": "s.martino",
+    "artist": "Drast",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e42e41508231a318992294f5",
+    "spotifyUrl": "https://open.spotify.com/album/2m33e1OEmG910lKRklRVxg",
+    "playedAt": "2026-11-22T18:33:28.276Z"
+  },
+  {
+    "albumId": "5hh1odXn1r2tBlDlFxQHfh",
+    "title": "Scudetto",
+    "artist": "Galeffi",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273259cff90282d8850e723415a",
+    "spotifyUrl": "https://open.spotify.com/album/5hh1odXn1r2tBlDlFxQHfh",
+    "playedAt": "2026-11-22T18:31:01.369Z"
+  },
+  {
+    "albumId": "2M7u83RMx2Ik19hRljAxbw",
+    "title": "MILLENNIUM BUG",
+    "artist": "PSICOLOGI, ARIETE",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b89f63c32fe6043a5e884ef4",
+    "spotifyUrl": "https://open.spotify.com/album/2M7u83RMx2Ik19hRljAxbw",
+    "playedAt": "2026-11-22T17:52:09.801Z"
+  },
+  {
+    "albumId": "4wHhG6HrDfmZGUQFezaWKn",
+    "title": "MILLENNIUM BUG",
+    "artist": "PSICOLOGI",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f04811becd540840ea73f952",
+    "spotifyUrl": "https://open.spotify.com/album/4wHhG6HrDfmZGUQFezaWKn",
+    "playedAt": "2026-11-22T17:49:03.375Z"
+  },
+  {
+    "albumId": "4yIRhOu3cXwjCCLsdvMCAe",
+    "title": "TRAUMA",
+    "artist": "PSICOLOGI",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27307cc0817eec051cfed4fc67e",
+    "spotifyUrl": "https://open.spotify.com/album/4yIRhOu3cXwjCCLsdvMCAe",
+    "playedAt": "2026-11-22T17:46:15.170Z"
+  },
+  {
+    "albumId": "4HZ3fF1dwSZLwztlLwoDYA",
+    "title": "9 months & 50 hours",
+    "artist": "Fred again.., LATIN MAFIA",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732fe1ee03a5bed6b4a2e73296",
+    "spotifyUrl": "https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA",
+    "playedAt": "2026-11-22T15:48:24.070Z"
+  },
+  {
+    "albumId": "1xn54DMo2qIqBuMqHtUsFd",
+    "title": "x (Deluxe Edition)",
+    "artist": "Ed Sheeran",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27313b3e37318a0c247b550bccd",
+    "spotifyUrl": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd",
+    "playedAt": "2026-11-22T11:43:04.186Z"
+  },
+  {
+    "albumId": "6s84u2TUpR3wdUv4NgKA2j",
+    "title": "SOUR",
+    "artist": "Olivia Rodrigo",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+    "spotifyUrl": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j",
+    "playedAt": "2026-11-22T11:38:22.111Z"
+  },
+  {
+    "albumId": "4m8XN9CKqve1ExYBnNu5kt",
+    "title": "Tell Me It's Real (Expanded Edition)",
+    "artist": "Seafret",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e11e851e3e7e9b09f2fe79be",
+    "spotifyUrl": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt",
+    "playedAt": "2026-11-22T11:35:12.600Z"
+  },
+  {
+    "albumId": "36azJR65BLNOng9MkKAtxE",
+    "title": "Glimpse of Us",
+    "artist": "Joji",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f3f7d2ea2ad435b57d6697df",
+    "spotifyUrl": "https://open.spotify.com/album/36azJR65BLNOng9MkKAtxE",
+    "playedAt": "2026-11-22T11:31:10.014Z"
+  },
+  {
+    "albumId": "7D2NdGvBHIavgLhmcwhluK",
+    "title": "Yeezus",
+    "artist": "Kanye West",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9",
+    "spotifyUrl": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK",
+    "playedAt": "2026-11-22T11:27:07.280Z"
+  },
+  {
     "albumId": "00ALxUXwprONphiPixCN0l",
     "title": "Indaco",
     "artist": "Drast",
@@ -88,6 +200,62 @@
     "playedAt": "2026-11-22T02:12:26.174Z"
   },
   {
+    "albumId": "7oxC0J3L5JiVHMZRU9qGPS",
+    "title": "her (feat. ZVC)",
+    "artist": "JVKE, ZVC",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c5e3ef0da8cf3c1eebd422a2",
+    "spotifyUrl": "https://open.spotify.com/album/7oxC0J3L5JiVHMZRU9qGPS",
+    "playedAt": "2026-11-22T02:06:46.744Z"
+  },
+  {
+    "albumId": "5HQ3q1jMLZVMJfFujK0zY9",
+    "title": "Vivi Per Sempre",
+    "artist": "Canova",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b89546012b5693a44807445c",
+    "spotifyUrl": "https://open.spotify.com/album/5HQ3q1jMLZVMJfFujK0zY9",
+    "playedAt": "2026-11-22T02:04:22.078Z"
+  },
+  {
+    "albumId": "43bI6dV1TRBpW7wuQbjSUn",
+    "title": "Ho Perso Di Vista Me",
+    "artist": "43.Nove, Brus DMC",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f54d76ad5cfeacd9f7c7c138",
+    "spotifyUrl": "https://open.spotify.com/album/43bI6dV1TRBpW7wuQbjSUn",
+    "playedAt": "2026-11-22T02:00:26.580Z"
+  },
+  {
+    "albumId": "1O8zecXhiPs2oEPXmcMnqL",
+    "title": "Time Is Running Out",
+    "artist": "Nothing Ends",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a6943d375eae3811f1771176",
+    "spotifyUrl": "https://open.spotify.com/album/1O8zecXhiPs2oEPXmcMnqL",
+    "playedAt": "2026-11-22T01:57:09.580Z"
+  },
+  {
+    "albumId": "6WaypAEqrcs1YmMLWJM3lM",
+    "title": "Santamaria",
+    "artist": "Canova",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27360dc1e5af314f8e3e0d7d0b2",
+    "spotifyUrl": "https://open.spotify.com/album/6WaypAEqrcs1YmMLWJM3lM",
+    "playedAt": "2026-11-22T01:54:39.475Z"
+  },
+  {
+    "albumId": "3nmxVghAmY7ZKFL6QQWVdg",
+    "title": "Eri solo da incontrare",
+    "artist": "Alfa",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273762f0ebb926f8dabaab2b2cf",
+    "spotifyUrl": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg",
+    "playedAt": "2026-11-22T01:50:44.078Z"
+  },
+  {
+    "albumId": "11dh7pT3FRrGkI3TXl0e4k",
+    "title": "Mainstream (Deluxe Edition)",
+    "artist": "Calcutta ",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738417b499a1b885a9300a91eb",
+    "spotifyUrl": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k",
+    "playedAt": "2026-11-22T01:47:44.775Z"
+  },
+  {
     "albumId": "3yAze8PaTdWwS8nc5LQHAc",
     "title": "One Day (Motion Picture Soundtrack)",
     "artist": "Rachel Portman",
@@ -118,62 +286,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273fea20f7c10c2f55b8d8d8822",
     "spotifyUrl": "https://open.spotify.com/album/0yMK2X6A0ll8nZsJyvWDMh",
     "playedAt": "2026-11-22T01:18:55.435Z"
-  },
-  {
-    "albumId": "7oxC0J3L5JiVHMZRU9qGPS",
-    "title": "her (feat. ZVC)",
-    "artist": "JVKE, ZVC",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c5e3ef0da8cf3c1eebd422a2",
-    "spotifyUrl": "https://open.spotify.com/album/7oxC0J3L5JiVHMZRU9qGPS",
-    "playedAt": "2026-11-22T01:12:29.334Z"
-  },
-  {
-    "albumId": "5HQ3q1jMLZVMJfFujK0zY9",
-    "title": "Vivi Per Sempre",
-    "artist": "Canova",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b89546012b5693a44807445c",
-    "spotifyUrl": "https://open.spotify.com/album/5HQ3q1jMLZVMJfFujK0zY9",
-    "playedAt": "2026-11-22T01:10:04.675Z"
-  },
-  {
-    "albumId": "43bI6dV1TRBpW7wuQbjSUn",
-    "title": "Ho Perso Di Vista Me",
-    "artist": "43.Nove, Brus DMC",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f54d76ad5cfeacd9f7c7c138",
-    "spotifyUrl": "https://open.spotify.com/album/43bI6dV1TRBpW7wuQbjSUn",
-    "playedAt": "2026-11-22T01:06:09.199Z"
-  },
-  {
-    "albumId": "1O8zecXhiPs2oEPXmcMnqL",
-    "title": "Time Is Running Out",
-    "artist": "Nothing Ends",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a6943d375eae3811f1771176",
-    "spotifyUrl": "https://open.spotify.com/album/1O8zecXhiPs2oEPXmcMnqL",
-    "playedAt": "2026-11-22T01:02:52.216Z"
-  },
-  {
-    "albumId": "6WaypAEqrcs1YmMLWJM3lM",
-    "title": "Santamaria",
-    "artist": "Canova",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27360dc1e5af314f8e3e0d7d0b2",
-    "spotifyUrl": "https://open.spotify.com/album/6WaypAEqrcs1YmMLWJM3lM",
-    "playedAt": "2026-11-22T01:00:22.101Z"
-  },
-  {
-    "albumId": "3nmxVghAmY7ZKFL6QQWVdg",
-    "title": "Eri solo da incontrare",
-    "artist": "Alfa",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273762f0ebb926f8dabaab2b2cf",
-    "spotifyUrl": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg",
-    "playedAt": "2026-11-22T00:56:26.697Z"
-  },
-  {
-    "albumId": "11dh7pT3FRrGkI3TXl0e4k",
-    "title": "Mainstream (Deluxe Edition)",
-    "artist": "Calcutta ",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738417b499a1b885a9300a91eb",
-    "spotifyUrl": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k",
-    "playedAt": "2026-11-22T00:53:27.335Z"
   },
   {
     "albumId": "5dGWwsZ9iB2Xc3UKR0gif2",
@@ -270,117 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273f91538f39ac67b96c1d7f1bb",
     "spotifyUrl": "https://open.spotify.com/album/7udCFvvaTpsOjlfEYOs5wj",
     "playedAt": "2026-11-21T17:13:28.255Z"
-  },
-  {
-    "albumId": "0SnbH0yWT365RIV0kt0oWl",
-    "title": "Chilldish",
-    "artist": "\u65f6\u7a7a\u50a8\u84c4\u7f50",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736d3a1f1d6b4ab560c0986e32",
-    "spotifyUrl": "https://open.spotify.com/album/0SnbH0yWT365RIV0kt0oWl",
-    "playedAt": "2026-11-21T17:10:10.427Z"
-  },
-  {
-    "albumId": "2rQhyhPfdPh9I1sPb9oMyB",
-    "title": "City Of Stars (From La La Land Soundtrack)",
-    "artist": "Ryan Gosling, Emma Stone",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273996d684d91fc08b6ec715dbb",
-    "spotifyUrl": "https://open.spotify.com/album/2rQhyhPfdPh9I1sPb9oMyB",
-    "playedAt": "2026-11-21T17:06:18.346Z"
-  },
-  {
-    "albumId": "1oMUAeEeA32eaJOhrlbM1a",
-    "title": "Preludes, Book 1 - Streams",
-    "artist": "Yehezkel Raz",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27379a6feffee4d1f96bc176d9c",
-    "spotifyUrl": "https://open.spotify.com/album/1oMUAeEeA32eaJOhrlbM1a",
-    "playedAt": "2026-11-21T17:03:48.114Z"
-  },
-  {
-    "albumId": "3uJ6D2WOPdjwJ0SrsH9EiG",
-    "title": "In A Time Lapse",
-    "artist": "Ludovico Einaudi, Daniel Hope, I Virtuosi Italiani",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736c8ef0538e04f2e28380dcc5",
-    "spotifyUrl": "https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG",
-    "playedAt": "2026-11-21T17:02:36.061Z"
-  },
-  {
-    "albumId": "5jOpFwjQCKfFmN871rXIlB",
-    "title": "The Night We Met (Raining)",
-    "artist": "noel.smt",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27336ed431a79c18211032af6bf",
-    "spotifyUrl": "https://open.spotify.com/album/5jOpFwjQCKfFmN871rXIlB",
-    "playedAt": "2026-11-21T15:42:07.374Z"
-  },
-  {
-    "albumId": "2ltTLvxs3258j0gTNCIfhI",
-    "title": "Starry Dream (uptempo)",
-    "artist": "A. Blomqvist",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27331d846c129b506e3c1a229c7",
-    "spotifyUrl": "https://open.spotify.com/album/2ltTLvxs3258j0gTNCIfhI",
-    "playedAt": "2026-11-21T15:39:20.233Z"
-  },
-  {
-    "albumId": "2mcVUSP3fSMBETwbCjzH54",
-    "title": "Love Waltz",
-    "artist": "Emilio Piano, Robert Gromotka",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273774e87b643ac2e9eafdc9339",
-    "spotifyUrl": "https://open.spotify.com/album/2mcVUSP3fSMBETwbCjzH54",
-    "playedAt": "2026-11-21T15:37:55.243Z"
-  },
-  {
-    "albumId": "2fGk07vMx9pzoKEhZvfz59",
-    "title": "Droplets",
-    "artist": "Murray Ashdown",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27367db148a0f04701b1a9e437d",
-    "spotifyUrl": "https://open.spotify.com/album/2fGk07vMx9pzoKEhZvfz59",
-    "playedAt": "2026-11-21T15:36:24.794Z"
-  },
-  {
-    "albumId": "5vrMCJusqS0v9H1VyBn0LD",
-    "title": "Interstellar X Experience (Live Piano)",
-    "artist": "Andy Morris",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273572a26e3135169a5fd34824b",
-    "spotifyUrl": "https://open.spotify.com/album/5vrMCJusqS0v9H1VyBn0LD",
-    "playedAt": "2026-11-21T15:33:33.163Z"
-  },
-  {
-    "albumId": "06VnaBdlG8XhUTxWwjJ0bh",
-    "title": "Intimacy Vol. 2",
-    "artist": "Andrea Vanzo",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b61569d50b5abddd4acf5579",
-    "spotifyUrl": "https://open.spotify.com/album/06VnaBdlG8XhUTxWwjJ0bh",
-    "playedAt": "2026-11-21T15:31:52.040Z"
-  },
-  {
-    "albumId": "46uniqUMEiUFcl5AHrzr8R",
-    "title": "rumination",
-    "artist": "BAANDIT!",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273db56c78280da772907bd2b1c",
-    "spotifyUrl": "https://open.spotify.com/album/46uniqUMEiUFcl5AHrzr8R",
-    "playedAt": "2026-11-21T15:29:35.467Z"
-  },
-  {
-    "albumId": "62EscmVK1hKxHaYkkfk69v",
-    "title": "when I look at you..",
-    "artist": "Helder Boutens",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e810e0a0466b20dee2e7bfdc",
-    "spotifyUrl": "https://open.spotify.com/album/62EscmVK1hKxHaYkkfk69v",
-    "playedAt": "2026-11-21T15:27:38.269Z"
-  },
-  {
-    "albumId": "7mqfUZoBa1mDDs3Nfr2S8r",
-    "title": "Le Festin (Piano Version)",
-    "artist": "Pianaura",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738d750289756aef7d57f577d4",
-    "spotifyUrl": "https://open.spotify.com/album/7mqfUZoBa1mDDs3Nfr2S8r",
-    "playedAt": "2026-11-21T15:25:56.063Z"
-  },
-  {
-    "albumId": "2JvTA0GNyZpzmHCCa8fvgb",
-    "title": "Little Moments",
-    "artist": "Rein\u00far Selson, himood",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f68d051868bdb6ec5c00acd3",
-    "spotifyUrl": "https://open.spotify.com/album/2JvTA0GNyZpzmHCCa8fvgb",
-    "playedAt": "2026-11-21T15:23:44.068Z"
   }
 ]
