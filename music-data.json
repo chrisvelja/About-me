@@ -1,5 +1,173 @@
 [
   {
+    "albumId": "00ALxUXwprONphiPixCN0l",
+    "title": "Indaco",
+    "artist": "Drast",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732bd512f978b44158e9cd00b6",
+    "spotifyUrl": "https://open.spotify.com/album/00ALxUXwprONphiPixCN0l",
+    "playedAt": "2026-11-22T02:47:59.513Z"
+  },
+  {
+    "albumId": "3jqQFIXUakuDXdhFVvI7Ko",
+    "title": "NAKAMURA",
+    "artist": "Aya Nakamura",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27356feea19a0436ec52a9217c9",
+    "spotifyUrl": "https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko",
+    "playedAt": "2026-11-22T02:45:16.068Z"
+  },
+  {
+    "albumId": "1JjGR7DtSA3aRpG99KbhxJ",
+    "title": "A Boy Named Goo",
+    "artist": "The Goo Goo Dolls",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737db048b350136b3116ad02d4",
+    "spotifyUrl": "https://open.spotify.com/album/1JjGR7DtSA3aRpG99KbhxJ",
+    "playedAt": "2026-11-22T02:42:24.370Z"
+  },
+  {
+    "albumId": "375cUd86z58eqXN2yW3Do9",
+    "title": "A Quien Quiera Escuchar (Deluxe Edition)",
+    "artist": "Ricky Martin, Yotuel",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27388d450740b559cabdde15d35",
+    "spotifyUrl": "https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9",
+    "playedAt": "2026-11-22T02:37:53.868Z"
+  },
+  {
+    "albumId": "4xMNn5AFdmBIYiXRbt5YH4",
+    "title": "BORONDO",
+    "artist": "Be\u00e9le",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732feb67a486bcf117e7fb15b0",
+    "spotifyUrl": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4",
+    "playedAt": "2026-11-22T02:34:21.667Z"
+  },
+  {
+    "albumId": "7aDBFWp72Pz4NZEtVBANi9",
+    "title": "Butterfly",
+    "artist": "Mariah Carey, Krayzie Bone, Wish Bone",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27398ed501c6a838b2244ebaf75",
+    "spotifyUrl": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9",
+    "playedAt": "2026-11-22T02:31:43.231Z"
+  },
+  {
+    "albumId": "2yNaksHgeMQM9Quse463b5",
+    "title": "Is This It",
+    "artist": "The Strokes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
+    "spotifyUrl": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5",
+    "playedAt": "2026-11-22T02:26:59.146Z"
+  },
+  {
+    "albumId": "3GIj6ZdQw2XLkMspCJVsG8",
+    "title": "Sal rosa",
+    "artist": "LATIN MAFIA",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e4d260b37299107b0b94dd36",
+    "spotifyUrl": "https://open.spotify.com/album/3GIj6ZdQw2XLkMspCJVsG8",
+    "playedAt": "2026-11-22T02:23:30.273Z"
+  },
+  {
+    "albumId": "04v8KIBvsyz6OTvSSrBhkI",
+    "title": "SINCERO!",
+    "artist": "Rare\u0219",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
+    "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
+    "playedAt": "2026-11-22T02:19:06.173Z"
+  },
+  {
+    "albumId": "6zBVlFWATphRVpz1rxyWvF",
+    "title": "abbatteremo i motel e torneremo a far l\u2019amore in mezzo ai campi",
+    "artist": "Albe",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b0a4539126755b4796ba1f45",
+    "spotifyUrl": "https://open.spotify.com/album/6zBVlFWATphRVpz1rxyWvF",
+    "playedAt": "2026-11-22T02:15:18.575Z"
+  },
+  {
+    "albumId": "52E4RP7XDzalpIrOgSTgiQ",
+    "title": "Invincible",
+    "artist": "Michael Jackson",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75",
+    "spotifyUrl": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ",
+    "playedAt": "2026-11-22T02:12:26.174Z"
+  },
+  {
+    "albumId": "3yAze8PaTdWwS8nc5LQHAc",
+    "title": "One Day (Motion Picture Soundtrack)",
+    "artist": "Rachel Portman",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b802a1c9e83a360d47ce55c4",
+    "spotifyUrl": "https://open.spotify.com/album/3yAze8PaTdWwS8nc5LQHAc",
+    "playedAt": "2026-11-22T01:34:03.698Z"
+  },
+  {
+    "albumId": "6HLPVkJiFDO56WXMSX6Vcr",
+    "title": "Fly",
+    "artist": "Zucchero",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a7e9645cbafced178e10f61c",
+    "spotifyUrl": "https://open.spotify.com/album/6HLPVkJiFDO56WXMSX6Vcr",
+    "playedAt": "2026-11-22T01:30:18.967Z"
+  },
+  {
+    "albumId": "0MuaUaCx8qQ9JSQTrNwZ0Y",
+    "title": "Anima E Ghiaccio",
+    "artist": "Colle Der Fomento",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738acacc6a57af4d88528793d3",
+    "spotifyUrl": "https://open.spotify.com/album/0MuaUaCx8qQ9JSQTrNwZ0Y",
+    "playedAt": "2026-11-22T01:23:14.848Z"
+  },
+  {
+    "albumId": "0yMK2X6A0ll8nZsJyvWDMh",
+    "title": "Illegal Medley",
+    "artist": "Andy Morris",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fea20f7c10c2f55b8d8d8822",
+    "spotifyUrl": "https://open.spotify.com/album/0yMK2X6A0ll8nZsJyvWDMh",
+    "playedAt": "2026-11-22T01:18:55.435Z"
+  },
+  {
+    "albumId": "7oxC0J3L5JiVHMZRU9qGPS",
+    "title": "her (feat. ZVC)",
+    "artist": "JVKE, ZVC",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c5e3ef0da8cf3c1eebd422a2",
+    "spotifyUrl": "https://open.spotify.com/album/7oxC0J3L5JiVHMZRU9qGPS",
+    "playedAt": "2026-11-22T01:12:29.334Z"
+  },
+  {
+    "albumId": "5HQ3q1jMLZVMJfFujK0zY9",
+    "title": "Vivi Per Sempre",
+    "artist": "Canova",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b89546012b5693a44807445c",
+    "spotifyUrl": "https://open.spotify.com/album/5HQ3q1jMLZVMJfFujK0zY9",
+    "playedAt": "2026-11-22T01:10:04.675Z"
+  },
+  {
+    "albumId": "43bI6dV1TRBpW7wuQbjSUn",
+    "title": "Ho Perso Di Vista Me",
+    "artist": "43.Nove, Brus DMC",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f54d76ad5cfeacd9f7c7c138",
+    "spotifyUrl": "https://open.spotify.com/album/43bI6dV1TRBpW7wuQbjSUn",
+    "playedAt": "2026-11-22T01:06:09.199Z"
+  },
+  {
+    "albumId": "1O8zecXhiPs2oEPXmcMnqL",
+    "title": "Time Is Running Out",
+    "artist": "Nothing Ends",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a6943d375eae3811f1771176",
+    "spotifyUrl": "https://open.spotify.com/album/1O8zecXhiPs2oEPXmcMnqL",
+    "playedAt": "2026-11-22T01:02:52.216Z"
+  },
+  {
+    "albumId": "6WaypAEqrcs1YmMLWJM3lM",
+    "title": "Santamaria",
+    "artist": "Canova",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27360dc1e5af314f8e3e0d7d0b2",
+    "spotifyUrl": "https://open.spotify.com/album/6WaypAEqrcs1YmMLWJM3lM",
+    "playedAt": "2026-11-22T01:00:22.101Z"
+  },
+  {
+    "albumId": "3nmxVghAmY7ZKFL6QQWVdg",
+    "title": "Eri solo da incontrare",
+    "artist": "Alfa",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273762f0ebb926f8dabaab2b2cf",
+    "spotifyUrl": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg",
+    "playedAt": "2026-11-22T00:56:26.697Z"
+  },
+  {
     "albumId": "11dh7pT3FRrGkI3TXl0e4k",
     "title": "Mainstream (Deluxe Edition)",
     "artist": "Calcutta ",
@@ -88,6 +256,14 @@
     "playedAt": "2026-11-21T20:55:45.917Z"
   },
   {
+    "albumId": "3GU8BzFEAdFSRjc8jZkL3S",
+    "title": "La La Land (Original Motion Picture Soundtrack)",
+    "artist": "Justin Hurwitz",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730bdf4dd39843ad48c5b66bc4",
+    "spotifyUrl": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S",
+    "playedAt": "2026-11-21T19:42:20.524Z"
+  },
+  {
     "albumId": "7udCFvvaTpsOjlfEYOs5wj",
     "title": "New Home",
     "artist": "Austin Farwell",
@@ -126,14 +302,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2736c8ef0538e04f2e28380dcc5",
     "spotifyUrl": "https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG",
     "playedAt": "2026-11-21T17:02:36.061Z"
-  },
-  {
-    "albumId": "3GU8BzFEAdFSRjc8jZkL3S",
-    "title": "La La Land (Original Motion Picture Soundtrack)",
-    "artist": "Justin Hurwitz",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2730bdf4dd39843ad48c5b66bc4",
-    "spotifyUrl": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S",
-    "playedAt": "2026-11-21T15:45:47.083Z"
   },
   {
     "albumId": "5jOpFwjQCKfFmN871rXIlB",
@@ -214,173 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273f68d051868bdb6ec5c00acd3",
     "spotifyUrl": "https://open.spotify.com/album/2JvTA0GNyZpzmHCCa8fvgb",
     "playedAt": "2026-11-21T15:23:44.068Z"
-  },
-  {
-    "albumId": "3XY1i2XJ6oNqgjpvF4NzpE",
-    "title": "Love",
-    "artist": "Johann Debussy",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273397852c22f4defa6d188b670",
-    "spotifyUrl": "https://open.spotify.com/album/3XY1i2XJ6oNqgjpvF4NzpE",
-    "playedAt": "2026-11-21T15:21:44.068Z"
-  },
-  {
-    "albumId": "2Tcmzg25E4cCtfOaGLGuwS",
-    "title": "Glimpse of Us X La La Land",
-    "artist": "Andy Morris",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c5a80b3de50e0117b261fcb9",
-    "spotifyUrl": "https://open.spotify.com/album/2Tcmzg25E4cCtfOaGLGuwS",
-    "playedAt": "2026-11-21T15:18:29.182Z"
-  },
-  {
-    "albumId": "3JzQK4ckx3SLypyuXNlPeJ",
-    "title": "Reverberation",
-    "artist": "Ty's Music",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737c6be1ee7560c7de86dd0ba7",
-    "spotifyUrl": "https://open.spotify.com/album/3JzQK4ckx3SLypyuXNlPeJ",
-    "playedAt": "2026-11-21T15:14:25.078Z"
-  },
-  {
-    "albumId": "1yG3AHduwnG2Cq23GDG9NS",
-    "title": "Spring is Coming",
-    "artist": "Morunas",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734f48c22574e7a02e74173a91",
-    "spotifyUrl": "https://open.spotify.com/album/1yG3AHduwnG2Cq23GDG9NS",
-    "playedAt": "2026-11-21T15:12:48.880Z"
-  },
-  {
-    "albumId": "39OqBoA7B602RiHEKbRsJp",
-    "title": "Married Life (from \"Up\")",
-    "artist": "Jacob's Piano",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734c12002c8a7cf5ef49bd8d1a",
-    "spotifyUrl": "https://open.spotify.com/album/39OqBoA7B602RiHEKbRsJp",
-    "playedAt": "2026-11-21T15:10:46.681Z"
-  },
-  {
-    "albumId": "7lioTvTCimzn5FxaZ1gv4y",
-    "title": "Mending",
-    "artist": "\u65f6\u7a7a\u50a8\u84c4\u7f50",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737055e14a0f98fc736a2c75f1",
-    "spotifyUrl": "https://open.spotify.com/album/7lioTvTCimzn5FxaZ1gv4y",
-    "playedAt": "2026-11-21T15:07:59.540Z"
-  },
-  {
-    "albumId": "4rqA5uyMEcP559zt04IjSe",
-    "title": "Dreamland",
-    "artist": "Robert Gromotka",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27388e74975b6b1b4417aad38e0",
-    "spotifyUrl": "https://open.spotify.com/album/4rqA5uyMEcP559zt04IjSe",
-    "playedAt": "2026-11-21T15:06:13.079Z"
-  },
-  {
-    "albumId": "0jtW0fJKbj6b0dkn8nfWr1",
-    "title": "Married Life (Slowed)",
-    "artist": "Micha Philipp",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273dc95483ea9752661ef7caec6",
-    "spotifyUrl": "https://open.spotify.com/album/0jtW0fJKbj6b0dkn8nfWr1",
-    "playedAt": "2026-11-21T15:04:00.892Z"
-  },
-  {
-    "albumId": "2jmuqzHPaeUumQ8OaGJ2bG",
-    "title": "Golden Hour (Piano Instrumental)",
-    "artist": "Andy Morris",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a70e30294a2676bec1ca0ac7",
-    "spotifyUrl": "https://open.spotify.com/album/2jmuqzHPaeUumQ8OaGJ2bG",
-    "playedAt": "2026-11-21T15:02:07.888Z"
-  },
-  {
-    "albumId": "5c7fPel6XcJpiaMOg11aFS",
-    "title": "Je te laisserai des mots (Piano)",
-    "artist": "noel.smt",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273d5865711ee9abeb9960e797c",
-    "spotifyUrl": "https://open.spotify.com/album/5c7fPel6XcJpiaMOg11aFS",
-    "playedAt": "2026-11-21T14:59:33.365Z"
-  },
-  {
-    "albumId": "69Q4fFALGxmiDaubbg7D2v",
-    "title": "Describe what she was like",
-    "artist": "2Klercs",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736bdffbff3093e9325e34fd51",
-    "spotifyUrl": "https://open.spotify.com/album/69Q4fFALGxmiDaubbg7D2v",
-    "playedAt": "2026-11-21T14:57:30.490Z"
-  },
-  {
-    "albumId": "6k1xOgh9kZird5j4VNkPBd",
-    "title": "Lights Are On (Instrumental)",
-    "artist": "Edith Whiskers",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27349f70a853013632d07743d9f",
-    "spotifyUrl": "https://open.spotify.com/album/6k1xOgh9kZird5j4VNkPBd",
-    "playedAt": "2026-11-21T14:24:23.210Z"
-  },
-  {
-    "albumId": "2pYRpCUgXxc2QXHetQAfqF",
-    "title": "Married Life",
-    "artist": "Ty's Music",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732b7ea40822e09aeebb511b18",
-    "spotifyUrl": "https://open.spotify.com/album/2pYRpCUgXxc2QXHetQAfqF",
-    "playedAt": "2026-11-21T13:59:08.644Z"
-  },
-  {
-    "albumId": "2ZBF2879pyAm2fyihwbn6m",
-    "title": "Married Life (Piano Version)",
-    "artist": "Pianovus",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ba6a2991d32bc134381c6184",
-    "spotifyUrl": "https://open.spotify.com/album/2ZBF2879pyAm2fyihwbn6m",
-    "playedAt": "2026-11-21T13:57:42.474Z"
-  },
-  {
-    "albumId": "3Bb2nwKln7t7jzDoUzvIMY",
-    "title": "Interstellar on Piano",
-    "artist": "Andy Morris",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731539e0369d073d4cfb0c5b5c",
-    "spotifyUrl": "https://open.spotify.com/album/3Bb2nwKln7t7jzDoUzvIMY",
-    "playedAt": "2026-11-21T13:56:20.464Z"
-  },
-  {
-    "albumId": "1VczEbCVFcQ5Nt5IGfdiFw",
-    "title": "love story",
-    "artist": "Helder Boutens",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732c89e9f3702502203a9ce82e",
-    "spotifyUrl": "https://open.spotify.com/album/1VczEbCVFcQ5Nt5IGfdiFw",
-    "playedAt": "2026-11-21T13:54:01.462Z"
-  },
-  {
-    "albumId": "2ORaKTfy58D3YQKyO1F75Y",
-    "title": "Little Life",
-    "artist": "Robert Gromotka",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736edae9524369f667f7705f7f",
-    "spotifyUrl": "https://open.spotify.com/album/2ORaKTfy58D3YQKyO1F75Y",
-    "playedAt": "2026-11-21T13:52:26.048Z"
-  },
-  {
-    "albumId": "5xanWwdOuylgs9EppKHnjs",
-    "title": "La La Land Piano Suite",
-    "artist": "Magnus Baumgartl",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273fe30e8b6dc4e5c3d694a2c67",
-    "spotifyUrl": "https://open.spotify.com/album/5xanWwdOuylgs9EppKHnjs",
-    "playedAt": "2026-11-21T13:49:56.651Z"
-  },
-  {
-    "albumId": "5eiWGRiGM4JCg9gyWTF57t",
-    "title": "Je te laisserai des mots (Piano Version)",
-    "artist": "Micha Philipp",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27376a5367faca5516c1da63075",
-    "spotifyUrl": "https://open.spotify.com/album/5eiWGRiGM4JCg9gyWTF57t",
-    "playedAt": "2026-11-21T13:42:47.417Z"
-  },
-  {
-    "albumId": "3ffwWEt6RRJYrIlbgUpwRP",
-    "title": "DtMF (piano version)",
-    "artist": "Lil Baby Grand",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27361837311b38daa9f728d21fc",
-    "spotifyUrl": "https://open.spotify.com/album/3ffwWEt6RRJYrIlbgUpwRP",
-    "playedAt": "2026-11-21T13:40:14.397Z"
-  },
-  {
-    "albumId": "2rz2F5pHJWojjWZaKMgL3M",
-    "title": "Bose x NME: C23",
-    "artist": "JVKE",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c4e8eb74dff5489f88d75077",
-    "spotifyUrl": "https://open.spotify.com/album/2rz2F5pHJWojjWZaKMgL3M",
-    "playedAt": "2026-11-21T13:37:57.471Z"
   }
 ]
