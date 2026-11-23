@@ -1,5 +1,37 @@
 [
   {
+    "albumId": "3GU8BzFEAdFSRjc8jZkL3S",
+    "title": "La La Land (Original Motion Picture Soundtrack)",
+    "artist": "Justin Hurwitz",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730bdf4dd39843ad48c5b66bc4",
+    "spotifyUrl": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S",
+    "playedAt": "2026-11-23T11:17:34.154Z"
+  },
+  {
+    "albumId": "12dibv9fIuUC7IvMdSMgJY",
+    "title": "Mia & Sebastian\u2019s Theme (10th Anniversary Version)",
+    "artist": "Justin Hurwitz",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733ff93a6f5b3e17b80c89e13a",
+    "spotifyUrl": "https://open.spotify.com/album/12dibv9fIuUC7IvMdSMgJY",
+    "playedAt": "2026-11-23T10:47:42.311Z"
+  },
+  {
+    "albumId": "6tUj8nIuyAasA7UrUOPpz0",
+    "title": "Chainsaw Man: Reze Arc Piano Collection",
+    "artist": "The Dreamer Piano",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735d03a3c538d03127723486e1",
+    "spotifyUrl": "https://open.spotify.com/album/6tUj8nIuyAasA7UrUOPpz0",
+    "playedAt": "2026-11-23T07:20:46.082Z"
+  },
+  {
+    "albumId": "2uEMIxWZXqUoGdHtTD7Tom",
+    "title": "CHAINSAW MAN THE MOVIE: REZE ARC original soundtrack -summer's end-",
+    "artist": "kensuke ushio",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735bf8b362e97fdbfbb8ea4685",
+    "spotifyUrl": "https://open.spotify.com/album/2uEMIxWZXqUoGdHtTD7Tom",
+    "playedAt": "2026-11-23T07:12:24.191Z"
+  },
+  {
     "albumId": "5KsrpADyPgZQA4f67KmuGz",
     "title": "INTERNET",
     "artist": "Giuse The Lizia",
@@ -350,37 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273288ea84859ef6ae63e278e57",
     "spotifyUrl": "https://open.spotify.com/album/2Ryftm5vGO3KZruZ3DyFPj",
     "playedAt": "2026-11-21T21:02:38.498Z"
-  },
-  {
-    "albumId": "0yMK2X6A0ll8nZsJyvWDMh",
-    "title": "Illegal Medley",
-    "artist": "Andy Morris",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273fea20f7c10c2f55b8d8d8822",
-    "spotifyUrl": "https://open.spotify.com/album/0yMK2X6A0ll8nZsJyvWDMh",
-    "playedAt": "2026-11-21T21:01:20.349Z"
-  },
-  {
-    "albumId": "3IV030jTX064wAMxBB4xuW",
-    "title": "Tutto a puttane",
-    "artist": "Bresh",
-    "cover": "https://i.scdn.co/image/ab6742d3000053b749f600f951fd02dd06445080",
-    "spotifyUrl": "https://open.spotify.com/album/3IV030jTX064wAMxBB4xuW",
-    "playedAt": "2026-11-21T20:55:45.917Z"
-  },
-  {
-    "albumId": "3GU8BzFEAdFSRjc8jZkL3S",
-    "title": "La La Land (Original Motion Picture Soundtrack)",
-    "artist": "Justin Hurwitz",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2730bdf4dd39843ad48c5b66bc4",
-    "spotifyUrl": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S",
-    "playedAt": "2026-11-21T19:42:20.524Z"
-  },
-  {
-    "albumId": "7udCFvvaTpsOjlfEYOs5wj",
-    "title": "New Home",
-    "artist": "Austin Farwell",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f91538f39ac67b96c1d7f1bb",
-    "spotifyUrl": "https://open.spotify.com/album/7udCFvvaTpsOjlfEYOs5wj",
-    "playedAt": "2026-11-21T17:13:28.255Z"
   }
 ]
