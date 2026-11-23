@@ -1,11 +1,179 @@
 [
   {
+    "albumId": "2TRV3QngI7thvdTGbjo65J",
+    "title": "Graveyard",
+    "artist": "Lucy Blue",
+    "cover": "https://i.scdn.co/image/ab6742d3000053b7edeef31f149b83a66736fc3f",
+    "spotifyUrl": "https://open.spotify.com/album/2TRV3QngI7thvdTGbjo65J",
+    "playedAt": "2026-11-23T22:15:05.624Z"
+  },
+  {
+    "albumId": "7fRrTyKvE4Skh93v97gtcU",
+    "title": "dont smile at me",
+    "artist": "Billie Eilish",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795",
+    "spotifyUrl": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU",
+    "playedAt": "2026-11-23T21:47:10.722Z"
+  },
+  {
+    "albumId": "1iyEom0qQiZ4NneGNuwhnW",
+    "title": "Pictures of Mountains",
+    "artist": "Cody Fry",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27333cd2e093667b29a2f11d0f5",
+    "spotifyUrl": "https://open.spotify.com/album/1iyEom0qQiZ4NneGNuwhnW",
+    "playedAt": "2026-11-23T17:15:20.282Z"
+  },
+  {
+    "albumId": "766a5fKJYFy9ii4Kz2bQy9",
+    "title": "Spirited Away Soundtrack",
+    "artist": "Joe Hisaishi",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fd220b07117400ccbc85ed96",
+    "spotifyUrl": "https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9",
+    "playedAt": "2026-11-23T17:03:41.934Z"
+  },
+  {
+    "albumId": "5gEbcmOBaa2q8Tr670bFR7",
+    "title": "Piano Stories Best '88-'08",
+    "artist": "Joe Hisaishi",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273060033347b2f252119f700bc",
+    "spotifyUrl": "https://open.spotify.com/album/5gEbcmOBaa2q8Tr670bFR7",
+    "playedAt": "2026-11-23T15:39:51.256Z"
+  },
+  {
+    "albumId": "7nMexBA71PdwPnfqS5Yji5",
+    "title": "Coco (Original Motion Picture Soundtrack)",
+    "artist": "Gael Garcia Bernal, Gabriella Flores, Libertad Garc\u00eda Fonzi",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731f062b7159e8f230120512bf",
+    "spotifyUrl": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5",
+    "playedAt": "2026-11-23T15:27:27.991Z"
+  },
+  {
+    "albumId": "7I6d6PkjEJE50fnxhCwQ8M",
+    "title": "Bad Contestant",
+    "artist": "Matt Maltese",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730180c5f180f4d69298a02543",
+    "spotifyUrl": "https://open.spotify.com/album/7I6d6PkjEJE50fnxhCwQ8M",
+    "playedAt": "2026-11-23T15:26:17.685Z"
+  },
+  {
+    "albumId": "1v33wXqwYm3A0cv7iiZw9m",
+    "title": "La La Land (The Piano Medley): Mia & Sebastian's Theme / Another Day of Sun / City of Stars",
+    "artist": "Costantino Carrara",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bfa4299c57fe6f74730d6f5d",
+    "spotifyUrl": "https://open.spotify.com/album/1v33wXqwYm3A0cv7iiZw9m",
+    "playedAt": "2026-11-23T15:22:38.517Z"
+  },
+  {
+    "albumId": "3fzjXU2SSKero9gVMcPivX",
+    "title": "The Shepherd's Dog",
+    "artist": "Iron & Wine",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273816243514f01ac30d0932622",
+    "spotifyUrl": "https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX",
+    "playedAt": "2026-11-23T15:18:13.010Z"
+  },
+  {
     "albumId": "3GU8BzFEAdFSRjc8jZkL3S",
     "title": "La La Land (Original Motion Picture Soundtrack)",
     "artist": "Justin Hurwitz",
     "cover": "https://i.scdn.co/image/ab67616d0000b2730bdf4dd39843ad48c5b66bc4",
     "spotifyUrl": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S",
-    "playedAt": "2026-11-23T11:17:34.154Z"
+    "playedAt": "2026-11-23T15:10:41.223Z"
+  },
+  {
+    "albumId": "0PT5m6hwPRrpBwIHVnvbFX",
+    "title": "Help! (Remastered 2009)",
+    "artist": "The Beatles",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa",
+    "spotifyUrl": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX",
+    "playedAt": "2026-11-23T15:00:57.579Z"
+  },
+  {
+    "albumId": "02VRifrsiTM73hPGjXduRQ",
+    "title": "The Theory of Everything (Original Motion Picture Soundtrack)",
+    "artist": "J\u00f3hann J\u00f3hannsson",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27335f29c49f7e47f24df12eeb9",
+    "spotifyUrl": "https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ",
+    "playedAt": "2026-11-23T14:58:51.483Z"
+  },
+  {
+    "albumId": "5xBSLM0TdY49Uqe5XDf971",
+    "title": "Rio: Music From The Motion Picture",
+    "artist": "Jamie Foxx",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f25b998db684f31e5b700a53",
+    "spotifyUrl": "https://open.spotify.com/album/5xBSLM0TdY49Uqe5XDf971",
+    "playedAt": "2026-11-23T14:57:08.391Z"
+  },
+  {
+    "albumId": "18mso9k7h5CuhwZjeJDaoW",
+    "title": "In the Wind",
+    "artist": "Million Eyes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734a9c3e5ff022dbad1e549465",
+    "spotifyUrl": "https://open.spotify.com/album/18mso9k7h5CuhwZjeJDaoW",
+    "playedAt": "2026-11-23T14:22:56.669Z"
+  },
+  {
+    "albumId": "1sNK9vLvzIo626GznCEsBN",
+    "title": "Inside Out (Original Motion Picture Soundtrack)",
+    "artist": "Michael Giacchino",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e14e94354488d0b825ce716c",
+    "spotifyUrl": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN",
+    "playedAt": "2026-11-23T14:18:37.824Z"
+  },
+  {
+    "albumId": "3yAze8PaTdWwS8nc5LQHAc",
+    "title": "One Day (Motion Picture Soundtrack)",
+    "artist": "Rachel Portman",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b802a1c9e83a360d47ce55c4",
+    "spotifyUrl": "https://open.spotify.com/album/3yAze8PaTdWwS8nc5LQHAc",
+    "playedAt": "2026-11-23T14:17:09.104Z"
+  },
+  {
+    "albumId": "6a5ooTImBgwYbkDaQz1gkf",
+    "title": "How To Train Your Dragon (Deluxe Edition)",
+    "artist": "John Powell",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27331eeb313fb6fb6b175afd5fc",
+    "spotifyUrl": "https://open.spotify.com/album/6a5ooTImBgwYbkDaQz1gkf",
+    "playedAt": "2026-11-23T14:15:09.906Z"
+  },
+  {
+    "albumId": "7ayBZIe1FHkNv0T5xFCX6F",
+    "title": "The Greatest Showman (Original Motion Picture Soundtrack)",
+    "artist": "Loren Allred",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273128057b40732c042c86de1dd",
+    "spotifyUrl": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F",
+    "playedAt": "2026-11-23T14:13:13.271Z"
+  },
+  {
+    "albumId": "7Dr08Oi3zxdCzmFulSXSs2",
+    "title": "Ratatouille (Original Motion Picture Soundtrack)",
+    "artist": "Camille, Michael Giacchino",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273da96ceef85aba33d1e68b773",
+    "spotifyUrl": "https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2",
+    "playedAt": "2026-11-23T14:09:45.053Z"
+  },
+  {
+    "albumId": "0nQJa9mRvan1HnkwbYuxAN",
+    "title": "La La Land (Original Motion Picture Score)",
+    "artist": "Justin Hurwitz",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739387dbc2b28a455d6995d1ff",
+    "spotifyUrl": "https://open.spotify.com/album/0nQJa9mRvan1HnkwbYuxAN",
+    "playedAt": "2026-11-23T14:06:53.706Z"
+  },
+  {
+    "albumId": "0dZaHQ0OJlIyVrEuvnXmS9",
+    "title": "You Don't Mess Around With Jim",
+    "artist": "Jim Croce",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735b7a6cabbcb9fe150966563c",
+    "spotifyUrl": "https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9",
+    "playedAt": "2026-11-23T14:05:43.262Z"
+  },
+  {
+    "albumId": "4Bz2SosHKpUoQknNNOfrwI",
+    "title": "Clair de Lune",
+    "artist": "Johann Debussy",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c21a36e9f0e28c8c60eb502a",
+    "spotifyUrl": "https://open.spotify.com/album/4Bz2SosHKpUoQknNNOfrwI",
+    "playedAt": "2026-11-23T14:03:14.192Z"
   },
   {
     "albumId": "12dibv9fIuUC7IvMdSMgJY",
@@ -214,173 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273a934941a7276c5b72375b88e",
     "spotifyUrl": "https://open.spotify.com/album/04v8KIBvsyz6OTvSSrBhkI",
     "playedAt": "2026-11-22T02:19:06.173Z"
-  },
-  {
-    "albumId": "6zBVlFWATphRVpz1rxyWvF",
-    "title": "abbatteremo i motel e torneremo a far l\u2019amore in mezzo ai campi",
-    "artist": "Albe",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b0a4539126755b4796ba1f45",
-    "spotifyUrl": "https://open.spotify.com/album/6zBVlFWATphRVpz1rxyWvF",
-    "playedAt": "2026-11-22T02:15:18.575Z"
-  },
-  {
-    "albumId": "52E4RP7XDzalpIrOgSTgiQ",
-    "title": "Invincible",
-    "artist": "Michael Jackson",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75",
-    "spotifyUrl": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ",
-    "playedAt": "2026-11-22T02:12:26.174Z"
-  },
-  {
-    "albumId": "7oxC0J3L5JiVHMZRU9qGPS",
-    "title": "her (feat. ZVC)",
-    "artist": "JVKE, ZVC",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c5e3ef0da8cf3c1eebd422a2",
-    "spotifyUrl": "https://open.spotify.com/album/7oxC0J3L5JiVHMZRU9qGPS",
-    "playedAt": "2026-11-22T02:06:46.744Z"
-  },
-  {
-    "albumId": "5HQ3q1jMLZVMJfFujK0zY9",
-    "title": "Vivi Per Sempre",
-    "artist": "Canova",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b89546012b5693a44807445c",
-    "spotifyUrl": "https://open.spotify.com/album/5HQ3q1jMLZVMJfFujK0zY9",
-    "playedAt": "2026-11-22T02:04:22.078Z"
-  },
-  {
-    "albumId": "43bI6dV1TRBpW7wuQbjSUn",
-    "title": "Ho Perso Di Vista Me",
-    "artist": "43.Nove, Brus DMC",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f54d76ad5cfeacd9f7c7c138",
-    "spotifyUrl": "https://open.spotify.com/album/43bI6dV1TRBpW7wuQbjSUn",
-    "playedAt": "2026-11-22T02:00:26.580Z"
-  },
-  {
-    "albumId": "1O8zecXhiPs2oEPXmcMnqL",
-    "title": "Time Is Running Out",
-    "artist": "Nothing Ends",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a6943d375eae3811f1771176",
-    "spotifyUrl": "https://open.spotify.com/album/1O8zecXhiPs2oEPXmcMnqL",
-    "playedAt": "2026-11-22T01:57:09.580Z"
-  },
-  {
-    "albumId": "6WaypAEqrcs1YmMLWJM3lM",
-    "title": "Santamaria",
-    "artist": "Canova",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27360dc1e5af314f8e3e0d7d0b2",
-    "spotifyUrl": "https://open.spotify.com/album/6WaypAEqrcs1YmMLWJM3lM",
-    "playedAt": "2026-11-22T01:54:39.475Z"
-  },
-  {
-    "albumId": "3nmxVghAmY7ZKFL6QQWVdg",
-    "title": "Eri solo da incontrare",
-    "artist": "Alfa",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273762f0ebb926f8dabaab2b2cf",
-    "spotifyUrl": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg",
-    "playedAt": "2026-11-22T01:50:44.078Z"
-  },
-  {
-    "albumId": "11dh7pT3FRrGkI3TXl0e4k",
-    "title": "Mainstream (Deluxe Edition)",
-    "artist": "Calcutta ",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738417b499a1b885a9300a91eb",
-    "spotifyUrl": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k",
-    "playedAt": "2026-11-22T01:47:44.775Z"
-  },
-  {
-    "albumId": "3yAze8PaTdWwS8nc5LQHAc",
-    "title": "One Day (Motion Picture Soundtrack)",
-    "artist": "Rachel Portman",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b802a1c9e83a360d47ce55c4",
-    "spotifyUrl": "https://open.spotify.com/album/3yAze8PaTdWwS8nc5LQHAc",
-    "playedAt": "2026-11-22T01:34:03.698Z"
-  },
-  {
-    "albumId": "6HLPVkJiFDO56WXMSX6Vcr",
-    "title": "Fly",
-    "artist": "Zucchero",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a7e9645cbafced178e10f61c",
-    "spotifyUrl": "https://open.spotify.com/album/6HLPVkJiFDO56WXMSX6Vcr",
-    "playedAt": "2026-11-22T01:30:18.967Z"
-  },
-  {
-    "albumId": "0MuaUaCx8qQ9JSQTrNwZ0Y",
-    "title": "Anima E Ghiaccio",
-    "artist": "Colle Der Fomento",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738acacc6a57af4d88528793d3",
-    "spotifyUrl": "https://open.spotify.com/album/0MuaUaCx8qQ9JSQTrNwZ0Y",
-    "playedAt": "2026-11-22T01:23:14.848Z"
-  },
-  {
-    "albumId": "0yMK2X6A0ll8nZsJyvWDMh",
-    "title": "Illegal Medley",
-    "artist": "Andy Morris",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273fea20f7c10c2f55b8d8d8822",
-    "spotifyUrl": "https://open.spotify.com/album/0yMK2X6A0ll8nZsJyvWDMh",
-    "playedAt": "2026-11-22T01:18:55.435Z"
-  },
-  {
-    "albumId": "5dGWwsZ9iB2Xc3UKR0gif2",
-    "title": "Justice",
-    "artist": "Justin Bieber",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431",
-    "spotifyUrl": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2",
-    "playedAt": "2026-11-22T00:50:37.605Z"
-  },
-  {
-    "albumId": "3ADELRoZ4I8WLE7clLU7La",
-    "title": "O",
-    "artist": "Damien Rice",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c0b805ad0350a581017bf74d",
-    "spotifyUrl": "https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La",
-    "playedAt": "2026-11-22T00:48:00.535Z"
-  },
-  {
-    "albumId": "6Q2Udysxg0bNVYU7lWxLo3",
-    "title": "to love and to lose",
-    "artist": "Dylan",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27322f14f47106a59f5478f7a22",
-    "spotifyUrl": "https://open.spotify.com/album/6Q2Udysxg0bNVYU7lWxLo3",
-    "playedAt": "2026-11-22T00:39:37.025Z"
-  },
-  {
-    "albumId": "36azJR65BLNOng9MkKAtxE",
-    "title": "Glimpse of Us",
-    "artist": "Joji",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f3f7d2ea2ad435b57d6697df",
-    "spotifyUrl": "https://open.spotify.com/album/36azJR65BLNOng9MkKAtxE",
-    "playedAt": "2026-11-21T21:33:47.286Z"
-  },
-  {
-    "albumId": "00vaYz3EnJLyUtYmWsFXXH",
-    "title": "Every Living Breathing Moment (Original Motion Picture Soundtrack)",
-    "artist": "Grant Steller",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27316231ac6053734fa72167fc4",
-    "spotifyUrl": "https://open.spotify.com/album/00vaYz3EnJLyUtYmWsFXXH",
-    "playedAt": "2026-11-21T21:22:51.033Z"
-  },
-  {
-    "albumId": "63mhNGE2RR3GATpOgQvHKi",
-    "title": "Beyond the Screen - Film Works on Piano",
-    "artist": "Rachel Portman",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27329eb57fca31ad2fd6b4a9bd5",
-    "spotifyUrl": "https://open.spotify.com/album/63mhNGE2RR3GATpOgQvHKi",
-    "playedAt": "2026-11-21T21:12:10.829Z"
-  },
-  {
-    "albumId": "3yAze8PaTdWwS8nc5LQHAc",
-    "title": "One Day (Motion Picture Soundtrack)",
-    "artist": "Rachel Portman",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b802a1c9e83a360d47ce55c4",
-    "spotifyUrl": "https://open.spotify.com/album/3yAze8PaTdWwS8nc5LQHAc",
-    "playedAt": "2026-11-21T21:08:16.640Z"
-  },
-  {
-    "albumId": "2Ryftm5vGO3KZruZ3DyFPj",
-    "title": "Beanie (Piano Violin Duet)",
-    "artist": "Andy Morris, Rob Landes",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273288ea84859ef6ae63e278e57",
-    "spotifyUrl": "https://open.spotify.com/album/2Ryftm5vGO3KZruZ3DyFPj",
-    "playedAt": "2026-11-21T21:02:38.498Z"
   }
 ]
