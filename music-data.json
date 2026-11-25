@@ -1,5 +1,117 @@
 [
   {
+    "albumId": "6U6yE35iYGweoUiFFjuBdC",
+    "title": "Where's My Love",
+    "artist": "SYML, Lily Kershaw",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273dd4190a3114d1f2bde3c74f8",
+    "spotifyUrl": "https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC",
+    "playedAt": "2026-11-25T16:32:11.219Z"
+  },
+  {
+    "albumId": "4ATptoqxvrMd9GTdkMFxTc",
+    "title": "La Vie En Rose",
+    "artist": "Emily Watts",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bdce087e4b5e05368c4bf48c",
+    "spotifyUrl": "https://open.spotify.com/album/4ATptoqxvrMd9GTdkMFxTc",
+    "playedAt": "2026-11-25T16:28:02.885Z"
+  },
+  {
+    "albumId": "520cw77nErtAHoFid6sIaM",
+    "title": "Samba Percussion Live In Concert",
+    "artist": "Abacaxi",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735c27a56ad208f27425eb0880",
+    "spotifyUrl": "https://open.spotify.com/album/520cw77nErtAHoFid6sIaM",
+    "playedAt": "2026-11-25T16:12:06.564Z"
+  },
+  {
+    "albumId": "5wyqTS5nKQmcrZhBoK7bFn",
+    "title": "Best of the Charts 2011",
+    "artist": "Fiesta Brasil",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a64309ad877cbcd717df63e5",
+    "spotifyUrl": "https://open.spotify.com/album/5wyqTS5nKQmcrZhBoK7bFn",
+    "playedAt": "2026-11-25T16:06:52.274Z"
+  },
+  {
+    "albumId": "5g2c6qwjWOjCPLmCYxAGSk",
+    "title": "Do Rio",
+    "artist": "Bellini, Mendoza",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735ddc0e59ce921d2397a7fe22",
+    "spotifyUrl": "https://open.spotify.com/album/5g2c6qwjWOjCPLmCYxAGSk",
+    "playedAt": "2026-11-25T12:56:52.910Z"
+  },
+  {
+    "albumId": "0Lku5Y0I5aGcRSgeo2mOJm",
+    "title": "Lambada - Les originaux No. 1 de l'\u00e9t\u00e9 (Original 1989)",
+    "artist": "Kaoma",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27370a92681f8aff88714cb0296",
+    "spotifyUrl": "https://open.spotify.com/album/0Lku5Y0I5aGcRSgeo2mOJm",
+    "playedAt": "2026-11-25T12:08:34.621Z"
+  },
+  {
+    "albumId": "6cwfMBhOiJaTsJGKk3x0X5",
+    "title": "Bundelele",
+    "artist": "Awilo Longomba",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27371fbdcb3a9a429a244ed743e",
+    "spotifyUrl": "https://open.spotify.com/album/6cwfMBhOiJaTsJGKk3x0X5",
+    "playedAt": "2026-11-25T12:02:29.716Z"
+  },
+  {
+    "albumId": "5xBSLM0TdY49Uqe5XDf971",
+    "title": "Rio: Music From The Motion Picture",
+    "artist": "S\u00e9rgio Mendes, Gracinha Leporace",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f25b998db684f31e5b700a53",
+    "spotifyUrl": "https://open.spotify.com/album/5xBSLM0TdY49Uqe5XDf971",
+    "playedAt": "2026-11-25T11:03:05.384Z"
+  },
+  {
+    "albumId": "2vghjN167vQauxiWDUqtJO",
+    "title": "Rio 2 (Original Motion Picture Soundtrack)",
+    "artist": "John Powell, Jos\u00e9 Serebrier",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e410bf592eab46899f489edc",
+    "spotifyUrl": "https://open.spotify.com/album/2vghjN167vQauxiWDUqtJO",
+    "playedAt": "2026-11-25T11:00:20.659Z"
+  },
+  {
+    "albumId": "4sK8GPt2WqA4ZZyMKsEbsa",
+    "title": "Festival",
+    "artist": "Bellini",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273687aa76f563ed38419e3aa1a",
+    "spotifyUrl": "https://open.spotify.com/album/4sK8GPt2WqA4ZZyMKsEbsa",
+    "playedAt": "2026-11-25T10:59:17.609Z"
+  },
+  {
+    "albumId": "06nSQsDNTe1NNBeJvsC28n",
+    "title": "The Thing",
+    "artist": "Drumz",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273783c579c973b85571caa89f4",
+    "spotifyUrl": "https://open.spotify.com/album/06nSQsDNTe1NNBeJvsC28n",
+    "playedAt": "2026-11-25T10:10:29.390Z"
+  },
+  {
+    "albumId": "09HBh8LHnAjxwMPWmIWgDb",
+    "title": "Brasileiro",
+    "artist": "S\u00e9rgio Mendes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b415fc6505fe00219d017df4",
+    "spotifyUrl": "https://open.spotify.com/album/09HBh8LHnAjxwMPWmIWgDb",
+    "playedAt": "2026-11-25T09:34:14.311Z"
+  },
+  {
+    "albumId": "7qPBQAVq0CscTtNmCTIzYE",
+    "title": "MHD",
+    "artist": "MHD",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c3490d16a931cb5f265715bf",
+    "spotifyUrl": "https://open.spotify.com/album/7qPBQAVq0CscTtNmCTIzYE",
+    "playedAt": "2026-11-25T07:13:15.153Z"
+  },
+  {
+    "albumId": "7dg4laFCDLBu0Oi2uWyafE",
+    "title": "Voil\u00e0",
+    "artist": "Barbara Pravi",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fa511f0d07b9aa8bdab3abe3",
+    "spotifyUrl": "https://open.spotify.com/album/7dg4laFCDLBu0Oi2uWyafE",
+    "playedAt": "2026-11-25T07:03:11.550Z"
+  },
+  {
     "albumId": "5sSWPJSdGAY7wVcVoJqF5L",
     "title": "sings \u30b8\u30d6\u30ea \u30ea\u30cb\u30e5\u30fc\u30a2\u30eb \u30d4\u30a2\u30ce \u30d0\u30fc\u30b8\u30e7\u30f3",
     "artist": "Sumi Shimamoto",
@@ -54,6 +166,14 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2734e310116bc229828e9cf98ad",
     "spotifyUrl": "https://open.spotify.com/album/60UEy6JtLkDu6YYxwj13lr",
     "playedAt": "2026-11-25T02:26:32.216Z"
+  },
+  {
+    "albumId": "38G8GhPunzg9S6xCa7Eupb",
+    "title": "Kajillionaire (Original Motion Picture Soundtrack)",
+    "artist": "Emile Mosseri",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f767e857c810420216edcf11",
+    "spotifyUrl": "https://open.spotify.com/album/38G8GhPunzg9S6xCa7Eupb",
+    "playedAt": "2026-11-25T02:24:37.313Z"
   },
   {
     "albumId": "6SbQbmv6BKWXphvPcf0dSN",
@@ -232,14 +352,6 @@
     "playedAt": "2026-11-25T01:21:28.623Z"
   },
   {
-    "albumId": "38G8GhPunzg9S6xCa7Eupb",
-    "title": "Kajillionaire (Original Motion Picture Soundtrack)",
-    "artist": "Emile Mosseri",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f767e857c810420216edcf11",
-    "spotifyUrl": "https://open.spotify.com/album/38G8GhPunzg9S6xCa7Eupb",
-    "playedAt": "2026-11-25T01:19:39.068Z"
-  },
-  {
     "albumId": "7r1GwIFvK2MyZyuxVVS19S",
     "title": "Piano Solos from How to Train Your Dragon: The Hidden World",
     "artist": "John Powell, Batu Sener",
@@ -270,117 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273a73aeb6a5e6f24c844d01f29",
     "spotifyUrl": "https://open.spotify.com/album/39LWVcWN0HG7SF27UiuW9b",
     "playedAt": "2026-11-25T01:12:51.093Z"
-  },
-  {
-    "albumId": "0FOgUfITLFpQxfUuVNLTUe",
-    "title": "Floating in Reverie",
-    "artist": "Moayad Aljabal",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2730db614ceff52133107b4cc41",
-    "spotifyUrl": "https://open.spotify.com/album/0FOgUfITLFpQxfUuVNLTUe",
-    "playedAt": "2026-11-25T01:10:59.037Z"
-  },
-  {
-    "albumId": "0kWyfRFutfkmWC836WH9iZ",
-    "title": "Passacaglia (Piano Version)",
-    "artist": "Pianovus",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273defe75f55f8844712a209405",
-    "spotifyUrl": "https://open.spotify.com/album/0kWyfRFutfkmWC836WH9iZ",
-    "playedAt": "2026-11-25T01:09:12.505Z"
-  },
-  {
-    "albumId": "3GU8BzFEAdFSRjc8jZkL3S",
-    "title": "La La Land (Original Motion Picture Soundtrack)",
-    "artist": "Justin Hurwitz",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2730bdf4dd39843ad48c5b66bc4",
-    "spotifyUrl": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S",
-    "playedAt": "2026-11-25T01:06:37.022Z"
-  },
-  {
-    "albumId": "09ww15R7oT63k6JbD9Gzg9",
-    "title": "Voil\u00e0",
-    "artist": "Emilio Piano, Lucie",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731e66f73980b8313090a89c6f",
-    "spotifyUrl": "https://open.spotify.com/album/09ww15R7oT63k6JbD9Gzg9",
-    "playedAt": "2026-11-25T00:43:53.929Z"
-  },
-  {
-    "albumId": "7dg4laFCDLBu0Oi2uWyafE",
-    "title": "Voil\u00e0",
-    "artist": "Barbara Pravi",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273fa511f0d07b9aa8bdab3abe3",
-    "spotifyUrl": "https://open.spotify.com/album/7dg4laFCDLBu0Oi2uWyafE",
-    "playedAt": "2026-11-25T00:41:27.455Z"
-  },
-  {
-    "albumId": "6s84u2TUpR3wdUv4NgKA2j",
-    "title": "SOUR",
-    "artist": "Olivia Rodrigo",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
-    "spotifyUrl": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j",
-    "playedAt": "2026-11-25T00:38:00.575Z"
-  },
-  {
-    "albumId": "69hZG44NjrIXTNISb9FAFi",
-    "title": "Maison",
-    "artist": "Emilio Piano, Lucie",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c5e3f87c2c0e8006c815a99a",
-    "spotifyUrl": "https://open.spotify.com/album/69hZG44NjrIXTNISb9FAFi",
-    "playedAt": "2026-11-24T23:46:23.077Z"
-  },
-  {
-    "albumId": "7dg4laFCDLBu0Oi2uWyafE",
-    "title": "Voil\u00e0",
-    "artist": "Barbara Pravi",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273fa511f0d07b9aa8bdab3abe3",
-    "spotifyUrl": "https://open.spotify.com/album/7dg4laFCDLBu0Oi2uWyafE",
-    "playedAt": "2026-11-24T23:42:23.193Z"
-  },
-  {
-    "albumId": "3i5Qw5hFvhY9Zms1gPVVkW",
-    "title": "Nocturnal Animals (Original Motion Picture Soundtrack)",
-    "artist": "Abel Korzeniowski",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c2decdb0e3ad934ad512abdd",
-    "spotifyUrl": "https://open.spotify.com/album/3i5Qw5hFvhY9Zms1gPVVkW",
-    "playedAt": "2026-11-24T20:58:38.500Z"
-  },
-  {
-    "albumId": "5b1HuHbpxKSfnjmuHFhFVW",
-    "title": "The Personal History of David Copperfield (Original Motion Picture Soundtrack)",
-    "artist": "Christopher Willis",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273bc0ad0d6f8b25af2186740b4",
-    "spotifyUrl": "https://open.spotify.com/album/5b1HuHbpxKSfnjmuHFhFVW",
-    "playedAt": "2026-11-24T20:58:31.818Z"
-  },
-  {
-    "albumId": "3ranx9K841nh0oQVLBUblR",
-    "title": "The Piano Framed",
-    "artist": "George Fenton, Simon Chamberlain",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a948c36a20c006ed9a9faaca",
-    "spotifyUrl": "https://open.spotify.com/album/3ranx9K841nh0oQVLBUblR",
-    "playedAt": "2026-11-24T20:55:33.539Z"
-  },
-  {
-    "albumId": "2FJY314nNd5ffvqzrvceB6",
-    "title": "The Cider House Rules (Original Score)",
-    "artist": "Rachel Portman, John Lenehan, David Snell",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b7cbca5dfb49fe9fd661e645",
-    "spotifyUrl": "https://open.spotify.com/album/2FJY314nNd5ffvqzrvceB6",
-    "playedAt": "2026-11-24T20:52:15.218Z"
-  },
-  {
-    "albumId": "6lIQ5tZM2fhJuAgeL5eQ7e",
-    "title": "Me Before You (Original Motion Picture Score)",
-    "artist": "Craig Armstrong",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2730419d50ffb89f698a1634622",
-    "spotifyUrl": "https://open.spotify.com/album/6lIQ5tZM2fhJuAgeL5eQ7e",
-    "playedAt": "2026-11-24T20:50:04.438Z"
-  },
-  {
-    "albumId": "0S0KGZnfBGSIssfF54WSJh",
-    "title": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-    "artist": "Billie Eilish",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
-    "spotifyUrl": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh",
-    "playedAt": "2026-11-24T19:53:45.616Z"
   }
 ]
