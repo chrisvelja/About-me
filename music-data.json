@@ -1,5 +1,45 @@
 [
   {
+    "albumId": "7M1SPtLsl3NDuEN3atMUqw",
+    "title": "Autumn",
+    "artist": "Austin Farwell",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730af2e99ec0fa4ded6193f317",
+    "spotifyUrl": "https://open.spotify.com/album/7M1SPtLsl3NDuEN3atMUqw",
+    "playedAt": "2026-11-26T01:17:33.034Z"
+  },
+  {
+    "albumId": "0yMK2X6A0ll8nZsJyvWDMh",
+    "title": "Illegal Medley",
+    "artist": "Andy Morris",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fea20f7c10c2f55b8d8d8822",
+    "spotifyUrl": "https://open.spotify.com/album/0yMK2X6A0ll8nZsJyvWDMh",
+    "playedAt": "2026-11-26T01:15:07.030Z"
+  },
+  {
+    "albumId": "1ihmMSAGskk24nxkCOdLZX",
+    "title": "J'ai fait une compilation",
+    "artist": "Vulax",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737f36cd706d9426482e527b3a",
+    "spotifyUrl": "https://open.spotify.com/album/1ihmMSAGskk24nxkCOdLZX",
+    "playedAt": "2026-11-26T01:11:40.928Z"
+  },
+  {
+    "albumId": "3GU8BzFEAdFSRjc8jZkL3S",
+    "title": "La La Land (Original Motion Picture Soundtrack)",
+    "artist": "Justin Hurwitz",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730bdf4dd39843ad48c5b66bc4",
+    "spotifyUrl": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S",
+    "playedAt": "2026-11-26T01:09:30.954Z"
+  },
+  {
+    "albumId": "2csFa6zpizG4hDUqQgj95C",
+    "title": "Stand Up (From Harriet)",
+    "artist": "Cynthia Erivo",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f8ba08c8d763767d8186d5b7",
+    "spotifyUrl": "https://open.spotify.com/album/2csFa6zpizG4hDUqQgj95C",
+    "playedAt": "2026-11-25T20:07:45.696Z"
+  },
+  {
     "albumId": "6U6yE35iYGweoUiFFjuBdC",
     "title": "Where's My Love",
     "artist": "SYML, Lily Kershaw",
@@ -342,45 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2739c0cd552367afe38478459fd",
     "spotifyUrl": "https://open.spotify.com/album/4nqe9qSQDJfpoQ8WSDkv5r",
     "playedAt": "2026-11-25T01:24:24.658Z"
-  },
-  {
-    "albumId": "02VRifrsiTM73hPGjXduRQ",
-    "title": "The Theory of Everything (Original Motion Picture Soundtrack)",
-    "artist": "J\u00f3hann J\u00f3hannsson",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27335f29c49f7e47f24df12eeb9",
-    "spotifyUrl": "https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ",
-    "playedAt": "2026-11-25T01:21:28.623Z"
-  },
-  {
-    "albumId": "7r1GwIFvK2MyZyuxVVS19S",
-    "title": "Piano Solos from How to Train Your Dragon: The Hidden World",
-    "artist": "John Powell, Batu Sener",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ab28171b7b65e38aecd72c6a",
-    "spotifyUrl": "https://open.spotify.com/album/7r1GwIFvK2MyZyuxVVS19S",
-    "playedAt": "2026-11-25T01:17:33.291Z"
-  },
-  {
-    "albumId": "11OLFE7iUv6uQIVvF0CyhU",
-    "title": "Je te laisserai de mots",
-    "artist": "fedo DJ, ciaffa",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ebbe7481f2f9e9f9b6c06a7c",
-    "spotifyUrl": "https://open.spotify.com/album/11OLFE7iUv6uQIVvF0CyhU",
-    "playedAt": "2026-11-25T01:16:22.646Z"
-  },
-  {
-    "albumId": "7bdoUFrSiKrZ91d9xpfPqm",
-    "title": "Mia & Sebastian's Theme x Je Te Laisserai Des Mots",
-    "artist": "dceya",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27337bdbbb0e32af000bedde808",
-    "spotifyUrl": "https://open.spotify.com/album/7bdoUFrSiKrZ91d9xpfPqm",
-    "playedAt": "2026-11-25T01:14:17.117Z"
-  },
-  {
-    "albumId": "39LWVcWN0HG7SF27UiuW9b",
-    "title": "Fragments Found",
-    "artist": "Fabrizio Paterlini",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a73aeb6a5e6f24c844d01f29",
-    "spotifyUrl": "https://open.spotify.com/album/39LWVcWN0HG7SF27UiuW9b",
-    "playedAt": "2026-11-25T01:12:51.093Z"
   }
 ]
