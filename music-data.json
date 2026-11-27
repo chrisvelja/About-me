@@ -1,5 +1,53 @@
 [
   {
+    "albumId": "7oxC0J3L5JiVHMZRU9qGPS",
+    "title": "her (feat. ZVC)",
+    "artist": "JVKE, ZVC",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c5e3ef0da8cf3c1eebd422a2",
+    "spotifyUrl": "https://open.spotify.com/album/7oxC0J3L5JiVHMZRU9qGPS",
+    "playedAt": "2026-11-26T21:13:05.314Z"
+  },
+  {
+    "albumId": "5HQ3q1jMLZVMJfFujK0zY9",
+    "title": "Vivi Per Sempre",
+    "artist": "Canova",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b89546012b5693a44807445c",
+    "spotifyUrl": "https://open.spotify.com/album/5HQ3q1jMLZVMJfFujK0zY9",
+    "playedAt": "2026-11-26T21:10:40.596Z"
+  },
+  {
+    "albumId": "43bI6dV1TRBpW7wuQbjSUn",
+    "title": "Ho Perso Di Vista Me",
+    "artist": "43.Nove, Brus DMC",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f54d76ad5cfeacd9f7c7c138",
+    "spotifyUrl": "https://open.spotify.com/album/43bI6dV1TRBpW7wuQbjSUn",
+    "playedAt": "2026-11-26T21:06:45.156Z"
+  },
+  {
+    "albumId": "1O8zecXhiPs2oEPXmcMnqL",
+    "title": "Time Is Running Out",
+    "artist": "Nothing Ends",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a6943d375eae3811f1771176",
+    "spotifyUrl": "https://open.spotify.com/album/1O8zecXhiPs2oEPXmcMnqL",
+    "playedAt": "2026-11-26T21:03:28.177Z"
+  },
+  {
+    "albumId": "6WaypAEqrcs1YmMLWJM3lM",
+    "title": "Santamaria",
+    "artist": "Canova",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27360dc1e5af314f8e3e0d7d0b2",
+    "spotifyUrl": "https://open.spotify.com/album/6WaypAEqrcs1YmMLWJM3lM",
+    "playedAt": "2026-11-26T21:00:58.003Z"
+  },
+  {
+    "albumId": "3nmxVghAmY7ZKFL6QQWVdg",
+    "title": "Eri solo da incontrare",
+    "artist": "Alfa",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273762f0ebb926f8dabaab2b2cf",
+    "spotifyUrl": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg",
+    "playedAt": "2026-11-26T20:57:02.710Z"
+  },
+  {
     "albumId": "1WBZyULtlANBKed7Zf9cDP",
     "title": "Greatest Hits",
     "artist": "2Pac, Outlawz",
@@ -144,6 +192,22 @@
     "playedAt": "2026-11-26T09:46:00.641Z"
   },
   {
+    "albumId": "1jxQ99vwL9ca4wEVJMjSY7",
+    "title": "The Notebook (Original Motion Picture Soundtrack)",
+    "artist": "Aaron Zigman",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27337f59d01737c1a5d6483f5ef",
+    "spotifyUrl": "https://open.spotify.com/album/1jxQ99vwL9ca4wEVJMjSY7",
+    "playedAt": "2026-11-26T09:40:57.430Z"
+  },
+  {
+    "albumId": "4ZIW3ma2l44g1HhiyxNagv",
+    "title": "Persuasion (Soundtrack from the Netflix Film)",
+    "artist": "Stuart Earl",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d62ae1ab3d346b3c2f093fb1",
+    "spotifyUrl": "https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv",
+    "playedAt": "2026-11-26T09:35:17.824Z"
+  },
+  {
     "albumId": "3WsKQ06VJYFnl5msx295V9",
     "title": "Normal People (Original Score from the Television Series)",
     "artist": "Stephen Rennicks",
@@ -206,22 +270,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2736daf77eef4db05f3e973fe53",
     "spotifyUrl": "https://open.spotify.com/album/4Kw7yE7xBZdHrvkTswoQq4",
     "playedAt": "2026-11-26T09:08:01.330Z"
-  },
-  {
-    "albumId": "1jxQ99vwL9ca4wEVJMjSY7",
-    "title": "The Notebook (Original Motion Picture Soundtrack)",
-    "artist": "Aaron Zigman",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27337f59d01737c1a5d6483f5ef",
-    "spotifyUrl": "https://open.spotify.com/album/1jxQ99vwL9ca4wEVJMjSY7",
-    "playedAt": "2026-11-26T09:02:27.627Z"
-  },
-  {
-    "albumId": "4ZIW3ma2l44g1HhiyxNagv",
-    "title": "Persuasion (Soundtrack from the Netflix Film)",
-    "artist": "Stuart Earl",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273d62ae1ab3d346b3c2f093fb1",
-    "spotifyUrl": "https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv",
-    "playedAt": "2026-11-26T08:57:56.486Z"
   },
   {
     "albumId": "1a3bPxqE3iUwRI3Wevzu8I",
@@ -334,53 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2730bdf4dd39843ad48c5b66bc4",
     "spotifyUrl": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S",
     "playedAt": "2026-11-26T01:09:30.954Z"
-  },
-  {
-    "albumId": "2csFa6zpizG4hDUqQgj95C",
-    "title": "Stand Up (From Harriet)",
-    "artist": "Cynthia Erivo",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f8ba08c8d763767d8186d5b7",
-    "spotifyUrl": "https://open.spotify.com/album/2csFa6zpizG4hDUqQgj95C",
-    "playedAt": "2026-11-25T20:07:45.696Z"
-  },
-  {
-    "albumId": "6U6yE35iYGweoUiFFjuBdC",
-    "title": "Where's My Love",
-    "artist": "SYML, Lily Kershaw",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273dd4190a3114d1f2bde3c74f8",
-    "spotifyUrl": "https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC",
-    "playedAt": "2026-11-25T16:32:11.219Z"
-  },
-  {
-    "albumId": "4ATptoqxvrMd9GTdkMFxTc",
-    "title": "La Vie En Rose",
-    "artist": "Emily Watts",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273bdce087e4b5e05368c4bf48c",
-    "spotifyUrl": "https://open.spotify.com/album/4ATptoqxvrMd9GTdkMFxTc",
-    "playedAt": "2026-11-25T16:28:02.885Z"
-  },
-  {
-    "albumId": "7dg4laFCDLBu0Oi2uWyafE",
-    "title": "Voil\u00e0",
-    "artist": "Barbara Pravi",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273fa511f0d07b9aa8bdab3abe3",
-    "spotifyUrl": "https://open.spotify.com/album/7dg4laFCDLBu0Oi2uWyafE",
-    "playedAt": "2026-11-25T16:21:11.388Z"
-  },
-  {
-    "albumId": "520cw77nErtAHoFid6sIaM",
-    "title": "Samba Percussion Live In Concert",
-    "artist": "Abacaxi",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2735c27a56ad208f27425eb0880",
-    "spotifyUrl": "https://open.spotify.com/album/520cw77nErtAHoFid6sIaM",
-    "playedAt": "2026-11-25T16:12:06.564Z"
-  },
-  {
-    "albumId": "5wyqTS5nKQmcrZhBoK7bFn",
-    "title": "Best of the Charts 2011",
-    "artist": "Fiesta Brasil",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a64309ad877cbcd717df63e5",
-    "spotifyUrl": "https://open.spotify.com/album/5wyqTS5nKQmcrZhBoK7bFn",
-    "playedAt": "2026-11-25T16:06:52.274Z"
   }
 ]
