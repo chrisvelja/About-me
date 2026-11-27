@@ -1,5 +1,109 @@
 [
   {
+    "albumId": "6Fr2rQkZ383FcMqFyT7yPr",
+    "title": "Purpose (Deluxe)",
+    "artist": "Justin Bieber",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de",
+    "spotifyUrl": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr",
+    "playedAt": "2026-11-27T12:35:54.213Z"
+  },
+  {
+    "albumId": "1WBZyULtlANBKed7Zf9cDP",
+    "title": "Greatest Hits",
+    "artist": "2Pac, Outlawz",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d81a092eb373ded457d94eec",
+    "spotifyUrl": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP",
+    "playedAt": "2026-11-27T12:31:39.483Z"
+  },
+  {
+    "albumId": "6rzMufuu8sLkIizM4q9c7J",
+    "title": "LONG.LIVE.A$AP (Deluxe Version)",
+    "artist": "A$AP Rocky, Drake, 2 Chainz, Kendrick Lamar",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732ae92030b51fb8135d694af9",
+    "spotifyUrl": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J",
+    "playedAt": "2026-11-27T11:24:04.203Z"
+  },
+  {
+    "albumId": "3AlyvIIMZyT5LjWFeK5LSl",
+    "title": "Sundress",
+    "artist": "A$AP Rocky",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731ae967e4a02c7a39eb3c189b",
+    "spotifyUrl": "https://open.spotify.com/album/3AlyvIIMZyT5LjWFeK5LSl",
+    "playedAt": "2026-11-27T11:20:09.829Z"
+  },
+  {
+    "albumId": "0NBTBo1qrg554sAj79nEqD",
+    "title": "Mura Masa",
+    "artist": "Mura Masa, A$AP Rocky",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736818aa231aa543cf87e1374a",
+    "spotifyUrl": "https://open.spotify.com/album/0NBTBo1qrg554sAj79nEqD",
+    "playedAt": "2026-11-27T11:13:07.670Z"
+  },
+  {
+    "albumId": "7cHvY650WYCDZ6b50fVfkZ",
+    "title": "Hai fatto bene",
+    "artist": "Olly, Juli",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736eb690a8df60d1ec30ddbbed",
+    "spotifyUrl": "https://open.spotify.com/album/7cHvY650WYCDZ6b50fVfkZ",
+    "playedAt": "2026-11-27T11:09:54.980Z"
+  },
+  {
+    "albumId": "4BmvCSV4ZqsnyAcQQQnv0S",
+    "title": "Hustle Mixtape Vol. 2",
+    "artist": "Capo Plaza",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27361e1eb765192dae01672b56a",
+    "spotifyUrl": "https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S",
+    "playedAt": "2026-11-27T10:58:09.199Z"
+  },
+  {
+    "albumId": "4SZko61aMnmgvNhfhgTuD3",
+    "title": "Graduation",
+    "artist": "Kanye West, Chris Martin",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+    "spotifyUrl": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3",
+    "playedAt": "2026-11-27T10:54:33.139Z"
+  },
+  {
+    "albumId": "3lY0O6t9fUM6KzMMJJxuL5",
+    "title": "Banzai (Lato arancio)",
+    "artist": "Frah Quintale",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273df705f44b5ce6c720d9815b1",
+    "spotifyUrl": "https://open.spotify.com/album/3lY0O6t9fUM6KzMMJJxuL5",
+    "playedAt": "2026-11-27T08:45:14.688Z"
+  },
+  {
+    "albumId": "05KkTlwyI1nwyfIkp5BEqA",
+    "title": "HO SBAGLIATO ANCORA",
+    "artist": "chiello",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e9b07bf25c7603d02f761040",
+    "spotifyUrl": "https://open.spotify.com/album/05KkTlwyI1nwyfIkp5BEqA",
+    "playedAt": "2026-11-27T08:42:07.459Z"
+  },
+  {
+    "albumId": "7dg4laFCDLBu0Oi2uWyafE",
+    "title": "Voil\u00e0",
+    "artist": "Barbara Pravi",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fa511f0d07b9aa8bdab3abe3",
+    "spotifyUrl": "https://open.spotify.com/album/7dg4laFCDLBu0Oi2uWyafE",
+    "playedAt": "2026-11-27T08:33:30.631Z"
+  },
+  {
+    "albumId": "5zatWqIoVTwT3HzHvf1olD",
+    "title": "SANGHA",
+    "artist": "MACE, centomilacarie, Gianna Nannini",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c83a00a622e6d3f74e6a7955",
+    "spotifyUrl": "https://open.spotify.com/album/5zatWqIoVTwT3HzHvf1olD",
+    "playedAt": "2026-11-27T07:34:08.355Z"
+  },
+  {
+    "albumId": "52E4RP7XDzalpIrOgSTgiQ",
+    "title": "Invincible",
+    "artist": "Michael Jackson",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75",
+    "spotifyUrl": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ",
+    "playedAt": "2026-11-27T07:09:19.490Z"
+  },
+  {
     "albumId": "7oxC0J3L5JiVHMZRU9qGPS",
     "title": "her (feat. ZVC)",
     "artist": "JVKE, ZVC",
@@ -48,6 +152,46 @@
     "playedAt": "2026-11-26T20:57:02.710Z"
   },
   {
+    "albumId": "11dh7pT3FRrGkI3TXl0e4k",
+    "title": "Mainstream (Deluxe Edition)",
+    "artist": "Calcutta ",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738417b499a1b885a9300a91eb",
+    "spotifyUrl": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k",
+    "playedAt": "2026-11-26T20:54:03.369Z"
+  },
+  {
+    "albumId": "5dGWwsZ9iB2Xc3UKR0gif2",
+    "title": "Justice",
+    "artist": "Justin Bieber",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431",
+    "spotifyUrl": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2",
+    "playedAt": "2026-11-26T20:51:13.463Z"
+  },
+  {
+    "albumId": "3ADELRoZ4I8WLE7clLU7La",
+    "title": "O",
+    "artist": "Damien Rice",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c0b805ad0350a581017bf74d",
+    "spotifyUrl": "https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La",
+    "playedAt": "2026-11-26T20:48:36.476Z"
+  },
+  {
+    "albumId": "6Q2Udysxg0bNVYU7lWxLo3",
+    "title": "to love and to lose",
+    "artist": "Dylan",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27322f14f47106a59f5478f7a22",
+    "spotifyUrl": "https://open.spotify.com/album/6Q2Udysxg0bNVYU7lWxLo3",
+    "playedAt": "2026-11-26T20:43:23.989Z"
+  },
+  {
+    "albumId": "7dg4laFCDLBu0Oi2uWyafE",
+    "title": "Voil\u00e0",
+    "artist": "Barbara Pravi",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fa511f0d07b9aa8bdab3abe3",
+    "spotifyUrl": "https://open.spotify.com/album/7dg4laFCDLBu0Oi2uWyafE",
+    "playedAt": "2026-11-26T20:32:57.642Z"
+  },
+  {
     "albumId": "1WBZyULtlANBKed7Zf9cDP",
     "title": "Greatest Hits",
     "artist": "2Pac, Outlawz",
@@ -86,38 +230,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2737f6f6c9e4b492a3d7e910d82",
     "spotifyUrl": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll",
     "playedAt": "2026-11-26T12:30:42.224Z"
-  },
-  {
-    "albumId": "11dh7pT3FRrGkI3TXl0e4k",
-    "title": "Mainstream (Deluxe Edition)",
-    "artist": "Calcutta ",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738417b499a1b885a9300a91eb",
-    "spotifyUrl": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k",
-    "playedAt": "2026-11-26T12:23:45.999Z"
-  },
-  {
-    "albumId": "5dGWwsZ9iB2Xc3UKR0gif2",
-    "title": "Justice",
-    "artist": "Justin Bieber",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431",
-    "spotifyUrl": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2",
-    "playedAt": "2026-11-26T12:20:56.255Z"
-  },
-  {
-    "albumId": "3ADELRoZ4I8WLE7clLU7La",
-    "title": "O",
-    "artist": "Damien Rice",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c0b805ad0350a581017bf74d",
-    "spotifyUrl": "https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La",
-    "playedAt": "2026-11-26T12:18:19.273Z"
-  },
-  {
-    "albumId": "6Q2Udysxg0bNVYU7lWxLo3",
-    "title": "to love and to lose",
-    "artist": "Dylan",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27322f14f47106a59f5478f7a22",
-    "spotifyUrl": "https://open.spotify.com/album/6Q2Udysxg0bNVYU7lWxLo3",
-    "playedAt": "2026-11-26T12:13:06.691Z"
   },
   {
     "albumId": "3yAze8PaTdWwS8nc5LQHAc",
@@ -166,14 +278,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2734d4c8b5bcdf1114d19f2f546",
     "spotifyUrl": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s",
     "playedAt": "2026-11-26T10:50:56.147Z"
-  },
-  {
-    "albumId": "7dg4laFCDLBu0Oi2uWyafE",
-    "title": "Voil\u00e0",
-    "artist": "Barbara Pravi",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273fa511f0d07b9aa8bdab3abe3",
-    "spotifyUrl": "https://open.spotify.com/album/7dg4laFCDLBu0Oi2uWyafE",
-    "playedAt": "2026-11-26T10:36:15.949Z"
   },
   {
     "albumId": "63mhNGE2RR3GATpOgQvHKi",
@@ -278,109 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b2735242a26d9455f8c14a2b6ac9",
     "spotifyUrl": "https://open.spotify.com/album/1a3bPxqE3iUwRI3Wevzu8I",
     "playedAt": "2026-11-26T08:56:16.837Z"
-  },
-  {
-    "albumId": "1xacmDkSJr9e32LulfPuF9",
-    "title": "Meet Joe Black",
-    "artist": "Thomas Newman",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f0dbb14f8889f2d82e7d27ee",
-    "spotifyUrl": "https://open.spotify.com/album/1xacmDkSJr9e32LulfPuF9",
-    "playedAt": "2026-11-26T08:54:14.329Z"
-  },
-  {
-    "albumId": "1RHPDIiqVdvY2zIyWJF9IH",
-    "title": "The Bridges Of Madison County Original Sound Track",
-    "artist": "Lennie Niehaus, Clint Eastwood",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c8dd604978f6f757b71c1f81",
-    "spotifyUrl": "https://open.spotify.com/album/1RHPDIiqVdvY2zIyWJF9IH",
-    "playedAt": "2026-11-26T08:52:21.598Z"
-  },
-  {
-    "albumId": "02VRifrsiTM73hPGjXduRQ",
-    "title": "The Theory of Everything (Original Motion Picture Soundtrack)",
-    "artist": "J\u00f3hann J\u00f3hannsson",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27335f29c49f7e47f24df12eeb9",
-    "spotifyUrl": "https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ",
-    "playedAt": "2026-11-26T08:44:23.851Z"
-  },
-  {
-    "albumId": "5GSdUC9xT8nv0NG7gXV8No",
-    "title": "About Time",
-    "artist": "Nick Laird-Clowes",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27321d2f32ee49927dd948f5a7a",
-    "spotifyUrl": "https://open.spotify.com/album/5GSdUC9xT8nv0NG7gXV8No",
-    "playedAt": "2026-11-26T08:39:17.518Z"
-  },
-  {
-    "albumId": "56tMZpaMFVGHVANtEIJl17",
-    "title": "Lo Imposible (Original Motion Picture Soundtrack)",
-    "artist": "Fernando Vel\u00e1zquez",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27321788d98c759e501a7debf45",
-    "spotifyUrl": "https://open.spotify.com/album/56tMZpaMFVGHVANtEIJl17",
-    "playedAt": "2026-11-26T08:35:18.157Z"
-  },
-  {
-    "albumId": "7unO1Rhkr8bhZaE3y0QRU3",
-    "title": "Op. 1: Multiverse",
-    "artist": "Hikaru Shirosu",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a9db42531698f416ab06e157",
-    "spotifyUrl": "https://open.spotify.com/album/7unO1Rhkr8bhZaE3y0QRU3",
-    "playedAt": "2026-11-26T07:40:37.291Z"
-  },
-  {
-    "albumId": "2uEMIxWZXqUoGdHtTD7Tom",
-    "title": "CHAINSAW MAN THE MOVIE: REZE ARC original soundtrack -summer's end-",
-    "artist": "kensuke ushio",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2735bf8b362e97fdbfbb8ea4685",
-    "spotifyUrl": "https://open.spotify.com/album/2uEMIxWZXqUoGdHtTD7Tom",
-    "playedAt": "2026-11-26T07:38:00.744Z"
-  },
-  {
-    "albumId": "0fJDCdcog8975mFnYSCKZT",
-    "title": "If Beale Street Could Talk (Original Motion Picture Score)",
-    "artist": "Nicholas Britell",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273d8be3798399b637599dcab05",
-    "spotifyUrl": "https://open.spotify.com/album/0fJDCdcog8975mFnYSCKZT",
-    "playedAt": "2026-11-26T07:33:54.792Z"
-  },
-  {
-    "albumId": "1oMUAeEeA32eaJOhrlbM1a",
-    "title": "Preludes, Book 1 - Streams",
-    "artist": "Yehezkel Raz",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27379a6feffee4d1f96bc176d9c",
-    "spotifyUrl": "https://open.spotify.com/album/1oMUAeEeA32eaJOhrlbM1a",
-    "playedAt": "2026-11-26T07:30:58.529Z"
-  },
-  {
-    "albumId": "1DNIKipCzMe5lmtph82LGj",
-    "title": "The Andy Warhol Diaries (Soundtrack from the Netflix Series)",
-    "artist": "Brad Oberhofer, Oberhofer",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737a4d8a5b8e0cbd971b208b17",
-    "spotifyUrl": "https://open.spotify.com/album/1DNIKipCzMe5lmtph82LGj",
-    "playedAt": "2026-11-26T07:29:07.133Z"
-  },
-  {
-    "albumId": "7M1SPtLsl3NDuEN3atMUqw",
-    "title": "Autumn",
-    "artist": "Austin Farwell",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2730af2e99ec0fa4ded6193f317",
-    "spotifyUrl": "https://open.spotify.com/album/7M1SPtLsl3NDuEN3atMUqw",
-    "playedAt": "2026-11-26T01:17:33.034Z"
-  },
-  {
-    "albumId": "1ihmMSAGskk24nxkCOdLZX",
-    "title": "J'ai fait une compilation",
-    "artist": "Vulax",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737f36cd706d9426482e527b3a",
-    "spotifyUrl": "https://open.spotify.com/album/1ihmMSAGskk24nxkCOdLZX",
-    "playedAt": "2026-11-26T01:11:40.928Z"
-  },
-  {
-    "albumId": "3GU8BzFEAdFSRjc8jZkL3S",
-    "title": "La La Land (Original Motion Picture Soundtrack)",
-    "artist": "Justin Hurwitz",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2730bdf4dd39843ad48c5b66bc4",
-    "spotifyUrl": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S",
-    "playedAt": "2026-11-26T01:09:30.954Z"
   }
 ]
