@@ -1,5 +1,37 @@
 [
   {
+    "albumId": "780e5rUfJBSlrsjMHjhtzg",
+    "title": "SIENNA SPIRO - Spotify Live Room",
+    "artist": "SIENNA SPIRO",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27346c19035ad425a5f2648ec62",
+    "spotifyUrl": "https://open.spotify.com/album/780e5rUfJBSlrsjMHjhtzg",
+    "playedAt": "2026-11-28T01:46:50.748Z"
+  },
+  {
+    "albumId": "50yFYgKdwJANZ5O9MIbMkg",
+    "title": "Tha Carter V",
+    "artist": "Lil Wayne, Sampha",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bb1138165ad4ec2306f4e886",
+    "spotifyUrl": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg",
+    "playedAt": "2026-11-28T01:43:42.819Z"
+  },
+  {
+    "albumId": "7dg4laFCDLBu0Oi2uWyafE",
+    "title": "Voil\u00e0",
+    "artist": "Barbara Pravi",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fa511f0d07b9aa8bdab3abe3",
+    "spotifyUrl": "https://open.spotify.com/album/7dg4laFCDLBu0Oi2uWyafE",
+    "playedAt": "2026-11-28T01:25:57.648Z"
+  },
+  {
+    "albumId": "41SHQw9IPneksBkEZkTTeR",
+    "title": "\u304b\u3051\u304c\u3048\u306e\u306a\u3044\u3082\u306e",
+    "artist": "MONO NO AWARE",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735b2ee8013231a26176a60878",
+    "spotifyUrl": "https://open.spotify.com/album/41SHQw9IPneksBkEZkTTeR",
+    "playedAt": "2026-11-28T01:11:04.789Z"
+  },
+  {
     "albumId": "3igoyhwEfFPEIqdvU3eXlU",
     "title": "Loved by You",
     "artist": "KIRBY",
@@ -272,6 +304,14 @@
     "playedAt": "2026-11-27T11:09:54.980Z"
   },
   {
+    "albumId": "05KkTlwyI1nwyfIkp5BEqA",
+    "title": "HO SBAGLIATO ANCORA",
+    "artist": "chiello",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e9b07bf25c7603d02f761040",
+    "spotifyUrl": "https://open.spotify.com/album/05KkTlwyI1nwyfIkp5BEqA",
+    "playedAt": "2026-11-27T11:04:02.305Z"
+  },
+  {
     "albumId": "4BmvCSV4ZqsnyAcQQQnv0S",
     "title": "Hustle Mixtape Vol. 2",
     "artist": "Capo Plaza",
@@ -294,14 +334,6 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273df705f44b5ce6c720d9815b1",
     "spotifyUrl": "https://open.spotify.com/album/3lY0O6t9fUM6KzMMJJxuL5",
     "playedAt": "2026-11-27T08:45:14.688Z"
-  },
-  {
-    "albumId": "05KkTlwyI1nwyfIkp5BEqA",
-    "title": "HO SBAGLIATO ANCORA",
-    "artist": "chiello",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e9b07bf25c7603d02f761040",
-    "spotifyUrl": "https://open.spotify.com/album/05KkTlwyI1nwyfIkp5BEqA",
-    "playedAt": "2026-11-27T08:42:07.459Z"
   },
   {
     "albumId": "7dg4laFCDLBu0Oi2uWyafE",
@@ -350,37 +382,5 @@
     "cover": "https://i.scdn.co/image/ab67616d0000b273f54d76ad5cfeacd9f7c7c138",
     "spotifyUrl": "https://open.spotify.com/album/43bI6dV1TRBpW7wuQbjSUn",
     "playedAt": "2026-11-26T21:06:45.156Z"
-  },
-  {
-    "albumId": "1O8zecXhiPs2oEPXmcMnqL",
-    "title": "Time Is Running Out",
-    "artist": "Nothing Ends",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a6943d375eae3811f1771176",
-    "spotifyUrl": "https://open.spotify.com/album/1O8zecXhiPs2oEPXmcMnqL",
-    "playedAt": "2026-11-26T21:03:28.177Z"
-  },
-  {
-    "albumId": "6WaypAEqrcs1YmMLWJM3lM",
-    "title": "Santamaria",
-    "artist": "Canova",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27360dc1e5af314f8e3e0d7d0b2",
-    "spotifyUrl": "https://open.spotify.com/album/6WaypAEqrcs1YmMLWJM3lM",
-    "playedAt": "2026-11-26T21:00:58.003Z"
-  },
-  {
-    "albumId": "3nmxVghAmY7ZKFL6QQWVdg",
-    "title": "Eri solo da incontrare",
-    "artist": "Alfa",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273762f0ebb926f8dabaab2b2cf",
-    "spotifyUrl": "https://open.spotify.com/album/3nmxVghAmY7ZKFL6QQWVdg",
-    "playedAt": "2026-11-26T20:57:02.710Z"
-  },
-  {
-    "albumId": "11dh7pT3FRrGkI3TXl0e4k",
-    "title": "Mainstream (Deluxe Edition)",
-    "artist": "Calcutta ",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738417b499a1b885a9300a91eb",
-    "spotifyUrl": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k",
-    "playedAt": "2026-11-26T20:54:03.369Z"
   }
 ]
